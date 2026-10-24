@@ -1,7 +1,9 @@
-import { readdirSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { expect, test } from "vite-plus/test";
+import { review } from "../scripts/check.ts";
 import { shortestDecimal } from "../scripts/decimal.ts";
+import { readFoods } from "../scripts/records.ts";
 import type { Food } from "../src/food.ts";
 import * as bls from "../src/index.ts";
 
@@ -34,4 +36,11 @@ test("values are their shortest plain decimal or null, a mark only on a null", (
     }
     for (const key of Object.keys(marks)) expect(per100g[key as keyof typeof per100g]).toBeNull();
   }
+});
+
+test("the maintained data has no issue beyond the listed open contradictions", () => {
+  const open = JSON.parse(
+    readFileSync(join(import.meta.dirname, "../data/open-issues.json"), "utf8"),
+  );
+  expect(review(readFoods(join(import.meta.dirname, "../data/foods")), open).errors).toEqual([]);
 });

@@ -29,6 +29,8 @@ in section 11 are not reopened without him.
   `src/sources.ts`) with its entry id, or a lab report; never estimated.
 - `vp run import:bls` seeded `data/foods` from the BLS ZIP once. It is a tool for us and only writes
   files that do not exist; it never overwrites maintained data.
+- `data/open-issues.json` lists the known contradictions (a part above its whole). The check fails on a
+  new one and on a resolved one still listed (SPEC 8).
 - `vp run generate` renders the ignored `src/foods/` from `data/foods`; run it after a fresh clone and
   before `vp check`. Never edit `src/foods/` by hand.
 - Flo's private research notes are never referenced in the repo.

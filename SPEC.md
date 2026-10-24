@@ -181,14 +181,27 @@ CI and before packing; the same data gives byte-identical files. Formatter and l
 `src/foods/`; the tests check it. Sources are registered in `src/sources.ts`, shipped as
 `@thereforejs/bls/sources`.
 
-The build is to print a report of everything it did not take over unchanged. Cleaned artefacts are
-silent. Listed:
+### Checks
 
-- every mark (`<LOD`, `<LOQ`, `TR`) in a shipped nutrient;
-- every food nutrition would refuse: a part above its whole (saturates, mono-, polyunsaturates above
-  fat; sugars, starch, polyols above carbohydrate), a value above 100 g. Measured 2026-10-24: saturates
-  above fat 42 times, mono-unsaturates 33, polyunsaturates 42 (Kochbanane roh: 0.116 saturates in
-  0.07 fat); sugars, starch and polyols never exceed carbohydrate. What ships is open (question 4).
+`scripts/check.ts` checks every file of `data/foods` (`vp run generate` refuses to generate on any
+error, and the tests run the same check):
+
+- shape: an identifier as code, a German and an English name, exactly nutrition's 13 keys, decimal
+  text or `null`, at least one source;
+- values: the shortest plain decimal, never negative; a mark only next to a `null`, and only a mark of
+  the BLS documentation 4.4;
+- sources: every nutrient from exactly one entry, every entry with its id and a source registered in
+  `src/sources.ts`, every registered source under an open license (`LICENSES`);
+- contradictions, which nutrition refuses: a part above its whole (saturates, mono-, polyunsaturates
+  above fat; sugars, starch, polyols above carbohydrate) and any value above 100 g.
+
+Contradictions that are known and not yet resolved are listed in `data/open-issues.json`. A new one
+fails the check, and so does a listed one that is resolved but still listed, so the list only ever
+shrinks on purpose. Seeded 2026-10-24 with the BLS 4.0: 117 contradictions in 52 foods (saturates
+above fat 42, mono-unsaturates 33, polyunsaturates 42; Kochbanane roh 0.116 saturates in 0.07 fat),
+none in carbohydrate, no value above 100 g.
+
+`vp run generate` reports the number of marks (309) and of foods with open contradictions (52).
 
 ---
 
@@ -247,7 +260,8 @@ silent. Listed:
    publishing. Building is fine without it.
 2. ~~Names per language~~: decided 2026-10-24, both names on every food (section 5).
 3. ~~`<LOD`, `<LOQ`, `TR`~~: decided 2026-10-24, `null` with the mark next to it (section 4).
-4. **A part above its whole** (section 8): fix, `null`, or keep and let nutrition refuse.
+4. ~~A part above its whole~~: decided 2026-10-24, listed in `data/open-issues.json` and resolved from
+   other open sources (section 8).
 5. **Water (WATER):** not needed by nutrition; ship it or not.
 6. ~~Group entry names~~: decided 2026-10-24, one entry with an export per food (sections 5, 6).
 7. ~~License statement~~: decided 2026-10-24, `"license": "MIT AND CC-BY-4.0"`, both named in the README.

@@ -31,6 +31,10 @@ const food = byCode[code]; // undefined for an unknown code
 
 Values are grams per 100 g as exact decimal text; `null` means the BLS has no value, never 0.
 
+A few foods carry values that contradict each other in the source, such as saturated fatty acids
+above the fat. They ship unchanged and are listed in [`data/open-issues.json`](./data/open-issues.json);
+`@thereforejs/nutrition` refuses them until they are resolved.
+
 ## Source
 
 Max Rubner-Institut (2025): Bundeslebensmittelschlüssel (BLS), Version 4.0 - Deutsche
