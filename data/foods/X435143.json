@@ -1,0 +1,44 @@
+{
+  "code": "X435143",
+  "name": {
+    "de": "Käseklößchen",
+    "en": "Small cheese dumplings"
+  },
+  "per100g": {
+    "fat": "26.4",
+    "saturates": "16.21",
+    "monounsaturates": "6.36",
+    "polyunsaturates": "0.96",
+    "carbohydrate": "15.32",
+    "sugars": "0.277",
+    "starch": "15.04",
+    "polyols": "0",
+    "fibre": "1.22",
+    "protein": "17.37",
+    "sodium": "0.457",
+    "alcohol": "0",
+    "organicAcids": "0.226"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X435143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

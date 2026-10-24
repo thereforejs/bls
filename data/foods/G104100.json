@@ -1,0 +1,44 @@
+{
+  "code": "G104100",
+  "name": {
+    "de": "Feldsalat/Rapunzel, roh",
+    "en": "Lamb's lettuce raw"
+  },
+  "per100g": {
+    "fat": "0.36",
+    "saturates": "0.017",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.175",
+    "carbohydrate": "0.808",
+    "sugars": "0.8",
+    "starch": "0.008",
+    "polyols": null,
+    "fibre": "1.8",
+    "protein": "1.9",
+    "sodium": "0.01006",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G104100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

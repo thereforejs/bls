@@ -1,0 +1,44 @@
+{
+  "code": "X422253",
+  "name": {
+    "de": "Hühnerbrühe mit Eierteigwaren",
+    "en": "Chicken stock with egg pasta"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.016",
+    "carbohydrate": "2.64",
+    "sugars": "0.07",
+    "starch": "2.566",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "1",
+    "sodium": "0.354",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X422253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y444123",
+  "name": {
+    "de": "Lammragout mit Karotten",
+    "en": "Lamb ragout with carrots"
+  },
+  "per100g": {
+    "fat": "11.2",
+    "saturates": "3.8",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "1.42",
+    "carbohydrate": "4.31",
+    "sugars": "1.95",
+    "starch": "2.36",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "11.09",
+    "sodium": "0.266",
+    "alcohol": "0",
+    "organicAcids": "0.124"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y444123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

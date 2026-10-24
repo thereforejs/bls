@@ -1,0 +1,44 @@
+{
+  "code": "H154000",
+  "name": {
+    "de": "Kokosmilch/Kokosnussmilch",
+    "en": "Coconut milk"
+  },
+  "per100g": {
+    "fat": "21.9",
+    "saturates": "19.104",
+    "monounsaturates": "1.338",
+    "polyunsaturates": "0.408",
+    "carbohydrate": "2.1",
+    "sugars": "2.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "4.9979",
+    "protein": "2.774",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H154000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

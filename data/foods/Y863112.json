@@ -1,0 +1,44 @@
+{
+  "code": "Y863112",
+  "name": {
+    "de": "Apfelmus mit Süßstoff",
+    "en": "Apple sauce with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.435",
+    "saturates": "0.175",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.212",
+    "carbohydrate": "10.1",
+    "sugars": "9.118",
+    "starch": "0.521",
+    "polyols": "0.5",
+    "fibre": "1.978",
+    "protein": "0.369",
+    "sodium": "0.004",
+    "alcohol": "0.005",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y863112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

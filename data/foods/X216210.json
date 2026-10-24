@@ -1,0 +1,44 @@
+{
+  "code": "X216210",
+  "name": {
+    "de": "Kopfsalat mit Radieschen und Essigmarinade",
+    "en": "Lettuce with small red radishes and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "12.34",
+    "saturates": "0.9",
+    "monounsaturates": "7.01",
+    "polyunsaturates": "3.4",
+    "carbohydrate": "1.6",
+    "sugars": "1.5",
+    "starch": "0.02",
+    "polyols": "0.03",
+    "fibre": "1.1",
+    "protein": "1.02",
+    "sodium": "0.113",
+    "alcohol": "0.008",
+    "organicAcids": "0.79"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X216210",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

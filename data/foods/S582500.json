@@ -1,0 +1,46 @@
+{
+  "code": "S582500",
+  "name": {
+    "de": "Milchschokoladen-Riegel gefüllt mit Candycreme/mit Candycreme und Karamell",
+    "en": "Milk chocolate bar filled with soft nougat/with soft nougat and caramel"
+  },
+  "per100g": {
+    "fat": "17.05",
+    "saturates": "9.351",
+    "monounsaturates": "6.114",
+    "polyunsaturates": "0.6706",
+    "carbohydrate": "68.7",
+    "sugars": "60.82",
+    "starch": "7.88",
+    "polyols": "0",
+    "fibre": "0.82",
+    "protein": "3.72",
+    "sodium": "0.1885",
+    "alcohol": null,
+    "organicAcids": "0.285"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S582500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

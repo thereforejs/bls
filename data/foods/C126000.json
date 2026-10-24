@@ -1,0 +1,44 @@
+{
+  "code": "C126000",
+  "name": {
+    "de": "Roggen Grieß",
+    "en": "Rye semolina"
+  },
+  "per100g": {
+    "fat": "0.92",
+    "saturates": "0.1",
+    "monounsaturates": "0.13",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "65.17",
+    "sugars": "1.107",
+    "starch": "64.06",
+    "polyols": "0",
+    "fibre": "11.88",
+    "protein": "7.54",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C126000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

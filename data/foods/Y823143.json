@@ -1,0 +1,44 @@
+{
+  "code": "Y823143",
+  "name": {
+    "de": "Haferflockenauflauf mit Kakao",
+    "en": "Oat flakes casserole with cocoa"
+  },
+  "per100g": {
+    "fat": "9.31",
+    "saturates": "4.7",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "0.96",
+    "carbohydrate": "14.4",
+    "sugars": "7.55",
+    "starch": "6.9",
+    "polyols": "0",
+    "fibre": "1.728",
+    "protein": "6.1",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0.042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y823143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D623500",
+  "name": {
+    "de": "Käsewaffeln salzig (Rührmasse)",
+    "en": "Cheese waffles salted (cake batter)"
+  },
+  "per100g": {
+    "fat": "35.96",
+    "saturates": "21.53",
+    "monounsaturates": "8.33",
+    "polyunsaturates": "1.44",
+    "carbohydrate": "27.5",
+    "sugars": "0.472",
+    "starch": "27",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "10.7",
+    "sodium": "0.126",
+    "alcohol": "0",
+    "organicAcids": "0.049"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D623500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

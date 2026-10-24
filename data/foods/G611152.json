@@ -1,0 +1,44 @@
+{
+  "code": "G611152",
+  "name": {
+    "de": "Kohlrübe/Steckrübe, gedünstet",
+    "en": "Swede stewed"
+  },
+  "per100g": {
+    "fat": "0.157",
+    "saturates": "0.022",
+    "monounsaturates": "0.0041",
+    "polyunsaturates": "0.095",
+    "carbohydrate": "2.26",
+    "sugars": "1.362",
+    "starch": "0.676",
+    "polyols": "0.22",
+    "fibre": "2.843",
+    "protein": "1.225",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.423"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G611152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

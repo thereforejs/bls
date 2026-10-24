@@ -1,0 +1,44 @@
+{
+  "code": "X914133",
+  "name": {
+    "de": "Pizza Salame (mit Tomatensauce, Mozzarella, Salami, Oliven, Peperoni)",
+    "en": "Pizza salame (with tomato sauce, mozzarellea, salami, olives, peperoni)"
+  },
+  "per100g": {
+    "fat": "16",
+    "saturates": "5.22",
+    "monounsaturates": "7.05",
+    "polyunsaturates": "2.61",
+    "carbohydrate": "16",
+    "sugars": "1.4",
+    "starch": "15",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "9.6",
+    "sodium": "0.407",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X914133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

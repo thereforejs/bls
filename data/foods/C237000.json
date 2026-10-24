@@ -1,0 +1,44 @@
+{
+  "code": "C237000",
+  "name": {
+    "de": "Dinkel Kleie",
+    "en": "Spelt bran"
+  },
+  "per100g": {
+    "fat": "5.88",
+    "saturates": "0.683",
+    "monounsaturates": "1.27",
+    "polyunsaturates": "2.76",
+    "carbohydrate": "18.24",
+    "sugars": "2.58956",
+    "starch": "15.65",
+    "polyols": "0",
+    "fibre": "38.14",
+    "protein": "17.06",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C237000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

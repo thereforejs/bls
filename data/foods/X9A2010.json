@@ -1,0 +1,44 @@
+{
+  "code": "X9A2010",
+  "name": {
+    "de": "Hirsebrei ungesüßt, mit Milch 3,5 % Fett",
+    "en": "Millet porridge unsweetened, with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "4.18",
+    "saturates": "2.37",
+    "monounsaturates": "0.93",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "17.82",
+    "sugars": "4.2",
+    "starch": "13.62",
+    "polyols": "0",
+    "fibre": "0.67",
+    "protein": "6",
+    "sodium": "0.0451",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A2010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

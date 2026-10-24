@@ -1,0 +1,44 @@
+{
+  "code": "X702612",
+  "name": {
+    "de": "Vollkorn-Eier-Frischteigwaren mit gedünstetem Kaisergemüse",
+    "en": "Fresh wholemeal egg pasta with stewed mixed vegetables"
+  },
+  "per100g": {
+    "fat": "2.9",
+    "saturates": "0.4",
+    "monounsaturates": "1.28",
+    "polyunsaturates": "0.77",
+    "carbohydrate": "11.47",
+    "sugars": "1.53",
+    "starch": "9.58",
+    "polyols": "0.36",
+    "fibre": "3.1",
+    "protein": "4.19",
+    "sodium": "0.122",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X702612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B275700",
+  "name": {
+    "de": "Roggenmischbrot mit Kümmel",
+    "en": "Rye-wheat bread (> 50 % and < 90 % rye) with caraway seeds"
+  },
+  "per100g": {
+    "fat": "0.75",
+    "saturates": "0.09",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "43",
+    "sugars": "0.7049",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "7.19",
+    "protein": "6.53",
+    "sodium": "0.493",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B275700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

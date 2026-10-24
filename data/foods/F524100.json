@@ -1,0 +1,44 @@
+{
+  "code": "F524100",
+  "name": {
+    "de": "Cherimoya roh",
+    "en": "Cherimoya raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "15.89",
+    "sugars": "13.89",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "1.54",
+    "sodium": "0.008",
+    "alcohol": "0.15",
+    "organicAcids": "0.569"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F524100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

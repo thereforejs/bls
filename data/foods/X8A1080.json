@@ -1,0 +1,44 @@
+{
+  "code": "X8A1080",
+  "name": {
+    "de": "Spargelrisotto",
+    "en": "Asparagus risotto"
+  },
+  "per100g": {
+    "fat": "2.7",
+    "saturates": "0.3",
+    "monounsaturates": "1.47",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "18",
+    "sugars": "2.05",
+    "starch": "15.9",
+    "polyols": "0.03",
+    "fibre": "1.1",
+    "protein": "2.57",
+    "sodium": "0.114",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X8A1080",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

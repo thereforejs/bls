@@ -1,0 +1,44 @@
+{
+  "code": "X330563",
+  "name": {
+    "de": "Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "7.7",
+    "saturates": "1.9",
+    "monounsaturates": "3.6",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "5.34",
+    "sugars": "0.302",
+    "starch": "5.04",
+    "polyols": "0",
+    "fibre": "0.38",
+    "protein": "1.24",
+    "sodium": "0.277",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X330563",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

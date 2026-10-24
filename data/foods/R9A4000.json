@@ -1,0 +1,44 @@
+{
+  "code": "R9A4000",
+  "name": {
+    "de": "Mokkabuttercreme gestreckt, für Gebäck/Torten",
+    "en": "Mocha butter cream, egg-free, light, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "25.7",
+    "saturates": "16.4",
+    "monounsaturates": "5.5",
+    "polyunsaturates": "0.523",
+    "carbohydrate": "15.1",
+    "sugars": "11.74",
+    "starch": "3.4",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "2.7",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y141223",
+  "name": {
+    "de": "Rinderrahmgulasch",
+    "en": "Beef goulash with cream"
+  },
+  "per100g": {
+    "fat": "15.66",
+    "saturates": "5.88",
+    "monounsaturates": "6.26",
+    "polyunsaturates": "1.63",
+    "carbohydrate": "1.5",
+    "sugars": "1.5",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "15.89",
+    "sodium": "0.209",
+    "alcohol": "0",
+    "organicAcids": "0.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y141223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

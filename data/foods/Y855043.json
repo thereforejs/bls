@@ -1,0 +1,44 @@
+{
+  "code": "Y855043",
+  "name": {
+    "de": "Rote Grütze aus Fruchtsaft",
+    "en": "Red fruit jelly of fruit juice"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.027",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.052",
+    "carbohydrate": "14.49",
+    "sugars": "8.55",
+    "starch": "5.934",
+    "polyols": "0.003",
+    "fibre": "0.3",
+    "protein": "1.021",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "2.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y855043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

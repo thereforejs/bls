@@ -1,0 +1,44 @@
+{
+  "code": "X643153",
+  "name": {
+    "de": "Tomatenkartoffeln gedünstet",
+    "en": "Potatoes with tomatoes stewed"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "0.3",
+    "monounsaturates": "2.37",
+    "polyunsaturates": "1.15",
+    "carbohydrate": "12.98",
+    "sugars": "2.4",
+    "starch": "10.58",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "1.76",
+    "sodium": "0.147",
+    "alcohol": "0",
+    "organicAcids": "0.169"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X643153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

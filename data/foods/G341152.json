@@ -1,0 +1,44 @@
+{
+  "code": "G341152",
+  "name": {
+    "de": "Rotkohl gedünstet",
+    "en": "Red cabbage stewed"
+  },
+  "per100g": {
+    "fat": "0.171",
+    "saturates": "0.0318",
+    "monounsaturates": "0.0063",
+    "polyunsaturates": "0.092",
+    "carbohydrate": "3.555",
+    "sugars": "3.486",
+    "starch": "0.069",
+    "polyols": null,
+    "fibre": "2.4",
+    "protein": "1.489",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.167"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G341152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "F130100",
+  "name": {
+    "de": "Birne roh",
+    "en": "Pear raw"
+  },
+  "per100g": {
+    "fat": "0.29",
+    "saturates": "0.0388",
+    "monounsaturates": "0.0646",
+    "polyunsaturates": "0.127",
+    "carbohydrate": "13.16",
+    "sugars": "10.08",
+    "starch": null,
+    "polyols": "3.08",
+    "fibre": "2.8",
+    "protein": "0.3",
+    "sodium": "0.000778",
+    "alcohol": "0.019",
+    "organicAcids": "0.31"
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F130100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

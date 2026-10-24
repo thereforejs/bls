@@ -1,0 +1,44 @@
+{
+  "code": "H320100",
+  "name": {
+    "de": "Pinienkern",
+    "en": "Pine nut"
+  },
+  "per100g": {
+    "fat": "61.9",
+    "saturates": "4.34",
+    "monounsaturates": "15.666",
+    "polyunsaturates": "25.668",
+    "carbohydrate": "6.2",
+    "sugars": "4",
+    "starch": "2.2",
+    "polyols": "0",
+    "fibre": "6.4",
+    "protein": "16.4",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H320100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

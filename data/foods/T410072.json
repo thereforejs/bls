@@ -1,0 +1,44 @@
+{
+  "code": "T410072",
+  "name": {
+    "de": "Lachs gegrillt",
+    "en": "Salmon grilled"
+  },
+  "per100g": {
+    "fat": "12.649",
+    "saturates": "2.707",
+    "monounsaturates": "4.014",
+    "polyunsaturates": "3.91",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.944",
+    "sodium": "0.0375",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T410072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U543172",
+  "name": {
+    "de": "Schwein Schnitzel (Nuss) gegrillt",
+    "en": "Pork schnitzel (thick flank) grilled"
+  },
+  "per100g": {
+    "fat": "3.05",
+    "saturates": "0.92",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.24",
+    "sodium": "0.066",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U543172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

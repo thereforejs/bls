@@ -1,0 +1,44 @@
+{
+  "code": "S241600",
+  "name": {
+    "de": "Speiseeis Vanille, überzogen mit Schokolade und Mandeln",
+    "en": "Vanilla ice cream, covered with chocolate and almonds"
+  },
+  "per100g": {
+    "fat": "20.1",
+    "saturates": "11.2",
+    "monounsaturates": "6.35",
+    "polyunsaturates": "1.19",
+    "carbohydrate": "30.07",
+    "sugars": "27.01",
+    "starch": "3.06",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "4.9",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0.354"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

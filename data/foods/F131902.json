@@ -1,0 +1,44 @@
+{
+  "code": "F131902",
+  "name": {
+    "de": "Birne ungesüßt, Konserve, abgetropft",
+    "en": "Pear unsweetened, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.303",
+    "saturates": "0.0405",
+    "monounsaturates": "0.0675",
+    "polyunsaturates": "0.132",
+    "carbohydrate": "7.01",
+    "sugars": "5.37",
+    "starch": "0",
+    "polyols": "1.64",
+    "fibre": "2.6",
+    "protein": "0.301",
+    "sodium": "0.0019",
+    "alcohol": "0.006",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F131902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

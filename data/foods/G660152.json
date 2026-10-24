@@ -1,0 +1,44 @@
+{
+  "code": "G660152",
+  "name": {
+    "de": "Knollensellerie gedünstet",
+    "en": "Celeriac stewed"
+  },
+  "per100g": {
+    "fat": "0.297",
+    "saturates": "0.06",
+    "monounsaturates": "0.012",
+    "polyunsaturates": "0.156",
+    "carbohydrate": "2.5",
+    "sugars": "1.901",
+    "starch": "0.396",
+    "polyols": "0.2",
+    "fibre": "3.8",
+    "protein": "1.396",
+    "sodium": "0.069",
+    "alcohol": "0",
+    "organicAcids": "0.389"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G660152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

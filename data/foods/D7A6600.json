@@ -1,0 +1,44 @@
+{
+  "code": "D7A6600",
+  "name": {
+    "de": "Quarkbällchen (Hefeteig) frittiert",
+    "en": "Quark balls (yeast dough) deep-fried"
+  },
+  "per100g": {
+    "fat": "17.5",
+    "saturates": "8.8",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "49.7",
+    "sugars": "24.4",
+    "starch": "25.2",
+    "polyols": "0.117",
+    "fibre": "2.9",
+    "protein": "10.8",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0.914"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A6600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

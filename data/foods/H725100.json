@@ -1,0 +1,44 @@
+{
+  "code": "H725100",
+  "name": {
+    "de": "Linse reif",
+    "en": "Lentil mature"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.24",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "44.8",
+    "sugars": "1.3",
+    "starch": "43.5",
+    "polyols": null,
+    "fibre": "17.6",
+    "protein": "23.357",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H725100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

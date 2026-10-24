@@ -1,0 +1,44 @@
+{
+  "code": "G530132",
+  "name": {
+    "de": "Okra gekocht",
+    "en": "Okra boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2",
+    "sugars": "1.4",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "3.1",
+    "protein": "1.8",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G530132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

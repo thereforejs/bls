@@ -1,0 +1,44 @@
+{
+  "code": "M2A7200",
+  "name": {
+    "de": "Milchmischgetränk 1,5 % Fett, mit Kaffee, gesüßt",
+    "en": "Milk drink 1.5 % fat, with coffee, sweetened"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.7",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.009",
+    "carbohydrate": "7.9",
+    "sugars": "7.84",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.203",
+    "protein": "2.85",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.063"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2A7200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

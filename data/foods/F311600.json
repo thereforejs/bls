@@ -1,0 +1,44 @@
+{
+  "code": "F311600",
+  "name": {
+    "de": "Traubensaft rot",
+    "en": "Grape red juice"
+  },
+  "per100g": {
+    "fat": "0.08",
+    "saturates": "0.018",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.041",
+    "carbohydrate": "15.75",
+    "sugars": "15.75",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "0.54",
+    "sodium": "0.0037962",
+    "alcohol": null,
+    "organicAcids": "1.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F311600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

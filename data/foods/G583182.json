@@ -1,0 +1,44 @@
+{
+  "code": "G583182",
+  "name": {
+    "de": "Chayote gebraten ohne Fett (Pfanne)",
+    "en": "Chayote fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.169",
+    "saturates": "0.043",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.082",
+    "carbohydrate": "9.86",
+    "sugars": "8.66",
+    "starch": "1.186",
+    "polyols": "0.014",
+    "fibre": "5.814",
+    "protein": "1.32",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G583182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

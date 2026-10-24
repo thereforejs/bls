@@ -1,0 +1,44 @@
+{
+  "code": "F211100",
+  "name": {
+    "de": "Süßkirsche roh",
+    "en": "Sweet cherry raw"
+  },
+  "per100g": {
+    "fat": "0.31",
+    "saturates": "0.07",
+    "monounsaturates": "0.084",
+    "polyunsaturates": "0.093",
+    "carbohydrate": "15.33",
+    "sugars": "13.66",
+    "starch": "0",
+    "polyols": "1.67",
+    "fibre": "1.9",
+    "protein": "0.9",
+    "sodium": "0.000236",
+    "alcohol": null,
+    "organicAcids": "0.559"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F211100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y997043",
+  "name": {
+    "de": "Eiskaffee",
+    "en": "Iced coffee"
+  },
+  "per100g": {
+    "fat": "8.6",
+    "saturates": "4.4",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "7.5",
+    "sugars": "7.3",
+    "starch": "0.2",
+    "polyols": "0",
+    "fibre": "0.219",
+    "protein": "1.9",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.043"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y997043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

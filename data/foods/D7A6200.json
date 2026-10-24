@@ -1,0 +1,44 @@
+{
+  "code": "D7A6200",
+  "name": {
+    "de": "Berliner/Pfannkuchen/Krapfen (Hefeteig) frittiert, gefüllt mit Konfitüre",
+    "en": "\"Berliner\" doughnut (yeast dough) deep-fried, filled with jam"
+  },
+  "per100g": {
+    "fat": "13.7",
+    "saturates": "6.9",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "44",
+    "sugars": "15.6",
+    "starch": "28.4",
+    "polyols": "0.006",
+    "fibre": "2.4",
+    "protein": "6.2",
+    "sodium": "0.158",
+    "alcohol": "0",
+    "organicAcids": "0.182"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A6200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

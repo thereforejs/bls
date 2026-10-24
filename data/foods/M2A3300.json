@@ -1,0 +1,44 @@
+{
+  "code": "M2A3300",
+  "name": {
+    "de": "Joghurt mild, max. 3,8 % Fett, mit Fruchtzubereitung, gesüßt, laktosefrei",
+    "en": "Yogurt mild, max. 3.8 % fat, with fruit preparation, sweetened, lactose-free"
+  },
+  "per100g": {
+    "fat": "2.96",
+    "saturates": "1.9",
+    "monounsaturates": "0.77",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "13.2",
+    "sugars": "12.3",
+    "starch": "0.79",
+    "polyols": "0.08",
+    "fibre": "1.15",
+    "protein": "3.01",
+    "sodium": "0.0416",
+    "alcohol": "0",
+    "organicAcids": "1.101"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2A3300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

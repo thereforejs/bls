@@ -1,0 +1,44 @@
+{
+  "code": "G106100",
+  "name": {
+    "de": "Radicchio roh",
+    "en": "Radicchio/red Italian chicory, raw"
+  },
+  "per100g": {
+    "fat": "0.25",
+    "saturates": "0.058",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.6",
+    "sugars": "1.6",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "1.4",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G106100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

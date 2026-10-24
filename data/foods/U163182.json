@@ -1,0 +1,44 @@
+{
+  "code": "U163182",
+  "name": {
+    "de": "Rind Roulade (Oberschale) gebraten ohne Fett (Pfanne)",
+    "en": "Beef meat for olives (topside/top round) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "6.216",
+    "saturates": "2.826",
+    "monounsaturates": "2.919",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.889",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U163182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

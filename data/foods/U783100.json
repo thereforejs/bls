@@ -1,0 +1,44 @@
+{
+  "code": "U783100",
+  "name": {
+    "de": "Schaf Kochfleisch (Brust, fett) roh",
+    "en": "Sheep meat for boiling (breast, fat) raw"
+  },
+  "per100g": {
+    "fat": "37",
+    "saturates": "16.8",
+    "monounsaturates": "14.5",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U783100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

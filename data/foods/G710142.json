@@ -1,0 +1,44 @@
+{
+  "code": "G710142",
+  "name": {
+    "de": "Bohne grün, geschmort ohne Fett",
+    "en": "Bean green, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.27",
+    "saturates": "0.08",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "3.9",
+    "sugars": "2.58",
+    "starch": "1",
+    "polyols": "0.31",
+    "fibre": "2.148",
+    "protein": "2.518",
+    "sodium": "0.00223",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G710142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

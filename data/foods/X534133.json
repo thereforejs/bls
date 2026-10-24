@@ -1,0 +1,44 @@
+{
+  "code": "X534133",
+  "name": {
+    "de": "Grünkohl gedünstet, mit westfälischer Mettwurst",
+    "en": "Curly kale stewed, with Westphalian mettwurst sausage"
+  },
+  "per100g": {
+    "fat": "10.64",
+    "saturates": "3.02",
+    "monounsaturates": "4.88",
+    "polyunsaturates": "1.81",
+    "carbohydrate": "2.7",
+    "sugars": "1.45",
+    "starch": "1.2",
+    "polyols": "0.09",
+    "fibre": "4.2",
+    "protein": "6.56",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.114"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X534133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U020142",
+  "name": {
+    "de": "Schwein Hackfleisch, geschmort ohne Fett",
+    "en": "Pork mince, braised without fat"
+  },
+  "per100g": {
+    "fat": "31.36",
+    "saturates": "10.471",
+    "monounsaturates": "11.893",
+    "polyunsaturates": "3.479",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.71",
+    "sodium": "0.0527",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U020142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G950900",
+  "name": {
+    "de": "Vegetarisches Gulasch, Konserve",
+    "en": "Vegetarian goulash, canned"
+  },
+  "per100g": {
+    "fat": "6.4",
+    "saturates": "2.21",
+    "monounsaturates": "2.45",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "8",
+    "sugars": "4.3",
+    "starch": "4",
+    "polyols": "0.02",
+    "fibre": "2.5",
+    "protein": "9.5",
+    "sodium": "0.391",
+    "alcohol": "0",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G950900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

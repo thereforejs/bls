@@ -1,0 +1,44 @@
+{
+  "code": "S570300",
+  "name": {
+    "de": "Bitterschokolade mit Haselnüssen",
+    "en": "Dark chocolate with hazelnuts"
+  },
+  "per100g": {
+    "fat": "45.98",
+    "saturates": "21.06",
+    "monounsaturates": "20.89",
+    "polyunsaturates": "2.36",
+    "carbohydrate": "27.7",
+    "sugars": "24.7",
+    "starch": "3",
+    "polyols": "0",
+    "fibre": "9.6",
+    "protein": "10.53",
+    "sodium": "0.0064",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S570300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D0A2100",
+  "name": {
+    "de": "Schoko-Mandelbiskuitboden",
+    "en": "Chocolate-almond sponge cake base"
+  },
+  "per100g": {
+    "fat": "20.314",
+    "saturates": "2.7",
+    "monounsaturates": "11.7",
+    "polyunsaturates": "4.2",
+    "carbohydrate": "35.6",
+    "sugars": "35.281",
+    "starch": "0.3",
+    "polyols": "0",
+    "fibre": "3.8",
+    "protein": "13.934",
+    "sodium": "0.108",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D0A2100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "E612100",
+  "name": {
+    "de": "Eierteigwaren glutenfrei, roh",
+    "en": "Egg pasta gluten-free, raw"
+  },
+  "per100g": {
+    "fat": "3.599",
+    "saturates": "0.874",
+    "monounsaturates": "1.323",
+    "polyunsaturates": "0.827",
+    "carbohydrate": "74.7",
+    "sugars": "0.47",
+    "starch": "74.2",
+    "polyols": "0",
+    "fibre": "3.004",
+    "protein": "8.06",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E612100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

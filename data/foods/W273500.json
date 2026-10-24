@@ -1,0 +1,44 @@
+{
+  "code": "W273500",
+  "name": {
+    "de": "Schinkenroulade",
+    "en": "Ham roulade sausage"
+  },
+  "per100g": {
+    "fat": "12.21",
+    "saturates": "4.48",
+    "monounsaturates": "4.21",
+    "polyunsaturates": "1.47",
+    "carbohydrate": "0.08",
+    "sugars": "0.03",
+    "starch": "0.05",
+    "polyols": "0",
+    "fibre": "0.08",
+    "protein": "15.75",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W273500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X3A3010",
+  "name": {
+    "de": "Tomatensauce aus frischen Tomaten mit Aubergine, Zucchini und Paprika",
+    "en": "Tomato sauce of fresh tomatoes with aubergine, courgette and sweet pepper"
+  },
+  "per100g": {
+    "fat": "8.7",
+    "saturates": "0.7",
+    "monounsaturates": "4.91",
+    "polyunsaturates": "2.38",
+    "carbohydrate": "4",
+    "sugars": "4",
+    "starch": "0",
+    "polyols": "0.02",
+    "fibre": "1.5",
+    "protein": "1",
+    "sodium": "0.159",
+    "alcohol": "0",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M524562",
+  "name": {
+    "de": "Halloumi Grillkäse, gebacken",
+    "en": "Halloumi cheese baked"
+  },
+  "per100g": {
+    "fat": "26.38",
+    "saturates": "15.56",
+    "monounsaturates": "5.39",
+    "polyunsaturates": "0.88",
+    "carbohydrate": "0.1",
+    "sugars": "0",
+    "starch": "0.1",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "22.59",
+    "sodium": "0.6595",
+    "alcohol": "0",
+    "organicAcids": "1.166"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M524562",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

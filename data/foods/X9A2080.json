@@ -1,0 +1,44 @@
+{
+  "code": "X9A2080",
+  "name": {
+    "de": "Porridge gesüßt, mit Sojadrink",
+    "en": "Porridge sweetened, with soya drink"
+  },
+  "per100g": {
+    "fat": "2.38",
+    "saturates": "0.418",
+    "monounsaturates": "0.709",
+    "polyunsaturates": "1.122",
+    "carbohydrate": "13.3",
+    "sugars": "2.9",
+    "starch": "10.4",
+    "polyols": "0",
+    "fibre": "3.5",
+    "protein": "5.32",
+    "sodium": "0.032",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A2080",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

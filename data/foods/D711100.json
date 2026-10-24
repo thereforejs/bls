@@ -1,0 +1,44 @@
+{
+  "code": "D711100",
+  "name": {
+    "de": "Orangenbiskuitplätzchen",
+    "en": "Orange sponge biscuits"
+  },
+  "per100g": {
+    "fat": "2.22",
+    "saturates": "0.58",
+    "monounsaturates": "0.79",
+    "polyunsaturates": "0.41",
+    "carbohydrate": "69.9",
+    "sugars": "43.6",
+    "starch": "26.27",
+    "polyols": "0",
+    "fibre": "1.25",
+    "protein": "5.24",
+    "sodium": "0.052",
+    "alcohol": "0.001",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D711100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X446153",
+  "name": {
+    "de": "Karottensuppe",
+    "en": "Carrot soup"
+  },
+  "per100g": {
+    "fat": "1.9",
+    "saturates": "0.3",
+    "monounsaturates": "0.98",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "3.03",
+    "sugars": "1.63",
+    "starch": "1.4",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "0.67",
+    "sodium": "0.245",
+    "alcohol": "0",
+    "organicAcids": "0.067"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X446153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

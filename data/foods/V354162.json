@@ -1,0 +1,44 @@
+{
+  "code": "V354162",
+  "name": {
+    "de": "Wachtel Fleisch, ohne Haut, gebraten ohne Fett (Ofen)",
+    "en": "Quail meat, without skin, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "4.53",
+    "saturates": "1.3",
+    "monounsaturates": null,
+    "polyunsaturates": "0.03",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "34.4",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V354162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

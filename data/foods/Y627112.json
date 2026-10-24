@@ -1,0 +1,44 @@
+{
+  "code": "Y627112",
+  "name": {
+    "de": "Sushi mit Lachs",
+    "en": "Sushi with salmon"
+  },
+  "per100g": {
+    "fat": "3.19",
+    "saturates": "0.66",
+    "monounsaturates": "1.02",
+    "polyunsaturates": "0.99",
+    "carbohydrate": "16.4",
+    "sugars": "0.38",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "7.3",
+    "sodium": "0.06",
+    "alcohol": "0.001",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y627112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T512182",
+  "name": {
+    "de": "Schleie gebraten ohne Fett (Pfanne)",
+    "en": "Tench fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.832",
+    "saturates": "0.236",
+    "monounsaturates": "0.357",
+    "polyunsaturates": "0.164",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.019",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T512182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

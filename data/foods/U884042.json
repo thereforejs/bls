@@ -1,0 +1,44 @@
+{
+  "code": "U884042",
+  "name": {
+    "de": "Schaf Keule, mager, mariniert, geschmort ohne Fett",
+    "en": "Sheep leg, lean, marinated, braised without fat"
+  },
+  "per100g": {
+    "fat": "4.43",
+    "saturates": "2",
+    "monounsaturates": "1.5",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "0.48",
+    "sugars": "0.48",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.31",
+    "protein": "30.7",
+    "sodium": "0.358",
+    "alcohol": "0",
+    "organicAcids": "0.077"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U884042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

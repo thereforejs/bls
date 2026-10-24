@@ -1,0 +1,44 @@
+{
+  "code": "X470043",
+  "name": {
+    "de": "Vanille-Milchsuppe mit Ei, gebunden mit Stärke",
+    "en": "Vanilla-milk soup with egg, thickened with starch"
+  },
+  "per100g": {
+    "fat": "4.85",
+    "saturates": "2.7",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "9.73",
+    "sugars": "7.66",
+    "starch": "2.072",
+    "polyols": "0",
+    "fibre": "0.019",
+    "protein": "5",
+    "sodium": "0.061",
+    "alcohol": "0",
+    "organicAcids": "0.065"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X470043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

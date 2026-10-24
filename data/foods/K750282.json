@@ -1,0 +1,44 @@
+{
+  "code": "K750282",
+  "name": {
+    "de": "Mischpilze tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Mixed mushrooms deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.083",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "4.44",
+    "sugars": "2",
+    "starch": "0",
+    "polyols": "2.44",
+    "fibre": "10.46",
+    "protein": "7.2",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K750282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

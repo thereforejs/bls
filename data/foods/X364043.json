@@ -1,0 +1,44 @@
+{
+  "code": "X364043",
+  "name": {
+    "de": "Johannisbeersauce einfach, aus Fruchtsaft",
+    "en": "Red currant sauce (of fruit juice)"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.026",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.049",
+    "carbohydrate": "16.96",
+    "sugars": "16.22",
+    "starch": "0.737",
+    "polyols": "0.003",
+    "fibre": "0.3",
+    "protein": "0.992",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "2.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X364043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

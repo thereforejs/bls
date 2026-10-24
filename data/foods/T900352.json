@@ -1,0 +1,44 @@
+{
+  "code": "T900352",
+  "name": {
+    "de": "Meeresfrüchtemischung gedünstet",
+    "en": "Shellfish (frutti di mare) stewed"
+  },
+  "per100g": {
+    "fat": "1.42",
+    "saturates": "0.39",
+    "monounsaturates": "0.244",
+    "polyunsaturates": "0.45",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "11.417",
+    "sodium": "0.246",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T900352",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

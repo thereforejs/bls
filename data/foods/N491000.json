@@ -1,0 +1,44 @@
+{
+  "code": "N491000",
+  "name": {
+    "de": "Kaffee (Getränk) halb und halb, mit Milch 3,5 % Fett",
+    "en": "Coffee (infusion) half and half, with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "1.74",
+    "saturates": "1.105",
+    "monounsaturates": "0.387",
+    "polyunsaturates": "0.035",
+    "carbohydrate": "2.01",
+    "sugars": "2.01",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.15712",
+    "protein": "1.84",
+    "sodium": "0.0194",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N491000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

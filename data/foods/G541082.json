@@ -1,0 +1,44 @@
+{
+  "code": "G541082",
+  "name": {
+    "de": "Gemüsepaprika grün, gebraten ohne Fett (Pfanne)",
+    "en": "Sweet pepper green, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.407",
+    "saturates": "0.103",
+    "monounsaturates": "0.007",
+    "polyunsaturates": "0.172",
+    "carbohydrate": "11.67",
+    "sugars": "11.04",
+    "starch": "0",
+    "polyols": "0.63",
+    "fibre": "3.4",
+    "protein": "1.831",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G541082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

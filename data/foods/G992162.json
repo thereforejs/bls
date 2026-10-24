@@ -1,0 +1,44 @@
+{
+  "code": "G992162",
+  "name": {
+    "de": "Gemüsemischung Erbsen-Karotten, gebacken",
+    "en": "Mixed vegetables peas and carrots, baked"
+  },
+  "per100g": {
+    "fat": "0.518",
+    "saturates": "0.113",
+    "monounsaturates": "0.082",
+    "polyunsaturates": "0.219",
+    "carbohydrate": "11.045",
+    "sugars": "4.514",
+    "starch": "6.531",
+    "polyols": "0",
+    "fibre": "4.7",
+    "protein": "4",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.415"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G992162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

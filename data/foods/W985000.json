@@ -1,0 +1,44 @@
+{
+  "code": "W985000",
+  "name": {
+    "de": "Fleischsalat mit Salatmayonnaise und Gurke",
+    "en": "Bologna salad with salad mayonnaise and gherkin"
+  },
+  "per100g": {
+    "fat": "27.35",
+    "saturates": "4.32",
+    "monounsaturates": "13.9",
+    "polyunsaturates": "6.1",
+    "carbohydrate": "6.18",
+    "sugars": "4.78",
+    "starch": "1.4",
+    "polyols": "0.004",
+    "fibre": "0.3",
+    "protein": "4.2",
+    "sodium": "0.6",
+    "alcohol": "0.01",
+    "organicAcids": "0.57"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W985000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

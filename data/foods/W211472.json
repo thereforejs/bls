@@ -1,0 +1,44 @@
+{
+  "code": "W211472",
+  "name": {
+    "de": "Berner Würstchen gegrillt",
+    "en": "Berner small sausage (with bacon and cheese) grilled"
+  },
+  "per100g": {
+    "fat": "25.75",
+    "saturates": "10.48",
+    "monounsaturates": "9.05",
+    "polyunsaturates": "2.5",
+    "carbohydrate": "0.17",
+    "sugars": "0.114",
+    "starch": "0.06",
+    "polyols": "0",
+    "fibre": "0.03",
+    "protein": "15.7",
+    "sodium": "1",
+    "alcohol": "0",
+    "organicAcids": "0.079"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W211472",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U886162",
+  "name": {
+    "de": "Hammel Keule, gebraten ohne Fett (Ofen)",
+    "en": "Mutton leg, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "20.282",
+    "saturates": "9.251",
+    "monounsaturates": "7.977",
+    "polyunsaturates": "0.723",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.085",
+    "sodium": "0.093",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U886162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

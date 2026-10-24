@@ -1,0 +1,44 @@
+{
+  "code": "G640142",
+  "name": {
+    "de": "Pastinake geschmort ohne Fett",
+    "en": "Parsnip braised without fat"
+  },
+  "per100g": {
+    "fat": "0.513",
+    "saturates": "0.077",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.304",
+    "carbohydrate": "11.7",
+    "sugars": "3.687",
+    "starch": "8",
+    "polyols": null,
+    "fibre": "2.566",
+    "protein": "3.2056",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G640142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

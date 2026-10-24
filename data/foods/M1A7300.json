@@ -1,0 +1,44 @@
+{
+  "code": "M1A7300",
+  "name": {
+    "de": "H-Vollmilch 3,5 % Fett, laktosefrei, ultrahocherhitzt",
+    "en": "Whole milk, 3.5 % fat, lactose-free, ultra-heated"
+  },
+  "per100g": {
+    "fat": "3.49",
+    "saturates": "2.39",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "4.59",
+    "sugars": "4.59",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.18",
+    "sodium": "0.0358",
+    "alcohol": "0",
+    "organicAcids": "0.209"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M1A7300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X081243",
+  "name": {
+    "de": "Toast mit Spargel, Lachsschinken und Käse, gebacken",
+    "en": "Toast with asparagus, ham and cheese, baked"
+  },
+  "per100g": {
+    "fat": "13.71",
+    "saturates": "8.4",
+    "monounsaturates": "3.28",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "7.67",
+    "sugars": "1.5",
+    "starch": "6.142",
+    "polyols": "0.03",
+    "fibre": "1.068",
+    "protein": "11",
+    "sodium": "0.451",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X081243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

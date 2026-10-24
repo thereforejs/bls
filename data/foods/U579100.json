@@ -1,0 +1,44 @@
+{
+  "code": "U579100",
+  "name": {
+    "de": "Schwein Schwartenbraten (Krustenbraten) roh",
+    "en": "Pork meat for roasting (silverside) raw"
+  },
+  "per100g": {
+    "fat": "15.79",
+    "saturates": "5.14",
+    "monounsaturates": "6.55",
+    "polyunsaturates": "1.55",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.9",
+    "sodium": "0.0574",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U579100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

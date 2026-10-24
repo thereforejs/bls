@@ -1,0 +1,44 @@
+{
+  "code": "D3A3000",
+  "name": {
+    "de": "Erdbeer-Sahnecremetorte (Wasserbiskuit)",
+    "en": "Strawberry-cream torte (water sponge cake)"
+  },
+  "per100g": {
+    "fat": "22",
+    "saturates": "12.21",
+    "monounsaturates": "5.46",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "18.5",
+    "sugars": "7.7",
+    "starch": "10.8",
+    "polyols": "0.013",
+    "fibre": "1.2",
+    "protein": "3.8",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0.289"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D3A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

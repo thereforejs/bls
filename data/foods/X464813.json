@@ -1,0 +1,44 @@
+{
+  "code": "X464813",
+  "name": {
+    "de": "Erbsensuppe mit Gemüsebrühe, Gemüse, Mettwürstchen und Schweinebauch",
+    "en": "Pea soup with vegetable stock, vegetables, small Mettwurst sausages and pork belly"
+  },
+  "per100g": {
+    "fat": "7.2",
+    "saturates": "2.3",
+    "monounsaturates": "3.04",
+    "polyunsaturates": "0.99",
+    "carbohydrate": "5",
+    "sugars": "1.1",
+    "starch": "4",
+    "polyols": "0.01",
+    "fibre": "2.7",
+    "protein": "6.37",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X464813",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

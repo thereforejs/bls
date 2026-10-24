@@ -1,0 +1,44 @@
+{
+  "code": "F602100",
+  "name": {
+    "de": "Limette roh",
+    "en": "Lime raw"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "1.9",
+    "sugars": "1.9",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.29",
+    "protein": "0.5",
+    "sodium": "0.0022",
+    "alcohol": "0.021",
+    "organicAcids": "4.78"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F602100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

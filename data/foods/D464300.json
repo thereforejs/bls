@@ -1,0 +1,44 @@
+{
+  "code": "D464300",
+  "name": {
+    "de": "Mandelkranz (Hefeteig)",
+    "en": "Almond ring cake (yeast dough)"
+  },
+  "per100g": {
+    "fat": "11.6",
+    "saturates": "4.1",
+    "monounsaturates": "4.79",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "47",
+    "sugars": "19.44",
+    "starch": "28",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "9.2",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D464300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

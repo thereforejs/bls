@@ -1,0 +1,44 @@
+{
+  "code": "T822400",
+  "name": {
+    "de": "Heringsfilet in Meerrettichcreme, Konserve",
+    "en": "Herring fillet in horseradish cream, canned"
+  },
+  "per100g": {
+    "fat": "12.62",
+    "saturates": "2.22",
+    "monounsaturates": "5.68",
+    "polyunsaturates": "3.43",
+    "carbohydrate": "3.58",
+    "sugars": "1.99",
+    "starch": "1.59",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "9.9",
+    "sodium": "0.335",
+    "alcohol": "0.002",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T822400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X462413",
+  "name": {
+    "de": "Bayerischer Gemüsetopf mit Weißkraut",
+    "en": "Bavarian vegetable stew with white cabbage"
+  },
+  "per100g": {
+    "fat": "2",
+    "saturates": "0.2",
+    "monounsaturates": "1.06",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "7.55",
+    "sugars": "3.3",
+    "starch": "4.186",
+    "polyols": "0.06",
+    "fibre": "2.1",
+    "protein": "1.28",
+    "sodium": "0.096",
+    "alcohol": "0",
+    "organicAcids": "0.151"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X462413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

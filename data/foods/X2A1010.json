@@ -1,0 +1,44 @@
+{
+  "code": "X2A1010",
+  "name": {
+    "de": "Chinakohlsalat mit Joghurtmarinade",
+    "en": "Chinese white cabbage with yogurt marinade"
+  },
+  "per100g": {
+    "fat": "1.45",
+    "saturates": "0.33",
+    "monounsaturates": "0.61",
+    "polyunsaturates": "0.28",
+    "carbohydrate": "1.96",
+    "sugars": "1.83",
+    "starch": "0.01",
+    "polyols": "0.12",
+    "fibre": "1.5",
+    "protein": "2",
+    "sodium": "0.062",
+    "alcohol": "0.002",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X2A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

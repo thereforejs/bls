@@ -1,0 +1,44 @@
+{
+  "code": "U672272",
+  "name": {
+    "de": "Schwein Vordereisbein/Vorderhaxe, tiefgefroren, gegrillt",
+    "en": "Pork foreshank (hock) deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "15.16",
+    "saturates": "4.803",
+    "monounsaturates": "6.77",
+    "polyunsaturates": "1.3161",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.82",
+    "sodium": "0.1222",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U672272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

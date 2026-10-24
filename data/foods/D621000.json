@@ -1,0 +1,44 @@
+{
+  "code": "D621000",
+  "name": {
+    "de": "Waffeln, einfache (Rührmasse)",
+    "en": "Waffles (cake batter)"
+  },
+  "per100g": {
+    "fat": "24.83",
+    "saturates": "14.69",
+    "monounsaturates": "5.8",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "49.8",
+    "sugars": "24.14",
+    "starch": "25.7",
+    "polyols": "0",
+    "fibre": "1.61",
+    "protein": "8.19",
+    "sodium": "0.148",
+    "alcohol": "0",
+    "organicAcids": "0.031"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D621000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

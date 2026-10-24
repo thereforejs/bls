@@ -1,0 +1,44 @@
+{
+  "code": "X469460",
+  "name": {
+    "de": "Gazpacho (Spanische Gemüsesuppe)",
+    "en": "\"Gazpacho\" (cold Spanish vegetable soup)"
+  },
+  "per100g": {
+    "fat": "5.7",
+    "saturates": "0.8",
+    "monounsaturates": "4",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "6",
+    "sugars": "3.2",
+    "starch": "3",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "1.5",
+    "sodium": "0.142",
+    "alcohol": "0.004",
+    "organicAcids": "1.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469460",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D612000",
+  "name": {
+    "de": "Schokokekse glutenfrei",
+    "en": "Chocolate biscuits gluten-free"
+  },
+  "per100g": {
+    "fat": "22.87",
+    "saturates": "14.07",
+    "monounsaturates": "5.51",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "62.4",
+    "sugars": "20.6",
+    "starch": "41.8",
+    "polyols": "0",
+    "fibre": "3.5",
+    "protein": "5.21",
+    "sodium": "0.156",
+    "alcohol": "0",
+    "organicAcids": "0.0179"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D612000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

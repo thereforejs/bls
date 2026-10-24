@@ -1,0 +1,44 @@
+{
+  "code": "X940112",
+  "name": {
+    "de": "Mehlschmarren (süddeutsche Mehlspeise) gebraten",
+    "en": "\"Mehlschmarren\" fried (thick flour pancake cut into pieces)"
+  },
+  "per100g": {
+    "fat": "11.04",
+    "saturates": "1.91",
+    "monounsaturates": "4.81",
+    "polyunsaturates": "2.25",
+    "carbohydrate": "29.92",
+    "sugars": "4.05",
+    "starch": "25.87",
+    "polyols": "0",
+    "fibre": "1.92",
+    "protein": "7.78",
+    "sodium": "0.055",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X940112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

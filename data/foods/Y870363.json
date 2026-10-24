@@ -1,0 +1,44 @@
+{
+  "code": "Y870363",
+  "name": {
+    "de": "Schokoladencreme abgeschlagen (mit Gelatine) mit Rum",
+    "en": "Chocolate cream (with gelatine) with rum"
+  },
+  "per100g": {
+    "fat": "16.4",
+    "saturates": "8.55",
+    "monounsaturates": "4.68",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "17.7",
+    "sugars": "17.4",
+    "starch": "0.301",
+    "polyols": "0",
+    "fibre": "0.82",
+    "protein": "5.5",
+    "sodium": "0.037",
+    "alcohol": "0.7",
+    "organicAcids": "0.075"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y870363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

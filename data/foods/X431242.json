@@ -1,0 +1,44 @@
+{
+  "code": "X431242",
+  "name": {
+    "de": "Eierstich, Suppeneinlage",
+    "en": "Custard royale (diced egg custard) as soup garnish"
+  },
+  "per100g": {
+    "fat": "6.86",
+    "saturates": "2.858",
+    "monounsaturates": "2.169",
+    "polyunsaturates": "0.702",
+    "carbohydrate": "2.1",
+    "sugars": "2.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "7.75",
+    "sodium": "0.238",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X431242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

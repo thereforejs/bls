@@ -1,0 +1,44 @@
+{
+  "code": "X548812",
+  "name": {
+    "de": "Zwiebelringe im Backteig (mit Bier) frittiert",
+    "en": "Onion rings in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "13.12",
+    "saturates": "1.33",
+    "monounsaturates": "7.05",
+    "polyunsaturates": "3.41",
+    "carbohydrate": "20.18",
+    "sugars": "4.48",
+    "starch": "15.7",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "5.1",
+    "sodium": "0.099",
+    "alcohol": "0.221",
+    "organicAcids": "0.182"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X548812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

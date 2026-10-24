@@ -1,0 +1,44 @@
+{
+  "code": "X329263",
+  "name": {
+    "de": "Weißwein-Sahnesauce von heller/weißer Grundsauce, mit Lachs",
+    "en": "White wine-cream sauce from white basic sauce with salmon"
+  },
+  "per100g": {
+    "fat": "10.9",
+    "saturates": "4.9",
+    "monounsaturates": "3.11",
+    "polyunsaturates": "1",
+    "carbohydrate": "2.6",
+    "sugars": "1.4",
+    "starch": "1.2",
+    "polyols": "0.01",
+    "fibre": "0.5",
+    "protein": "4.2",
+    "sodium": "0.234",
+    "alcohol": "0.32",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X329263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

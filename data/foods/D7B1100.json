@@ -1,0 +1,44 @@
+{
+  "code": "D7B1100",
+  "name": {
+    "de": "Buttergebäck kakaohaltig (Mürbeteig)",
+    "en": "Butter biscuits containing cocoa (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "27.08",
+    "saturates": "16.49",
+    "monounsaturates": "7.02",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "54",
+    "sugars": "21.72",
+    "starch": "32.3",
+    "polyols": "0",
+    "fibre": "3.65",
+    "protein": "7.42",
+    "sodium": "0.078",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

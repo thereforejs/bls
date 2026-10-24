@@ -1,0 +1,44 @@
+{
+  "code": "F302400",
+  "name": {
+    "de": "Himbeere getrocknet",
+    "en": "Raspberry dried"
+  },
+  "per100g": {
+    "fat": "2.103",
+    "saturates": "0.0708",
+    "monounsaturates": "0.21",
+    "polyunsaturates": "1.367",
+    "carbohydrate": "36.2",
+    "sugars": "36.2",
+    "starch": "0",
+    "polyols": "0.021",
+    "fibre": "32.9",
+    "protein": "7",
+    "sodium": "0.0035",
+    "alcohol": "0",
+    "organicAcids": "14.86"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F302400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

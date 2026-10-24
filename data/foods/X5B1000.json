@@ -1,0 +1,44 @@
+{
+  "code": "X5B1000",
+  "name": {
+    "de": "Gemüse-Kartoffel-Fisch-Brei, mit Karotte und Lachs (ohne Salz, geeignet für Beikost)",
+    "en": "Vegetable-potato-fish purree, with carrots and salmon (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "5.876",
+    "saturates": "0.67",
+    "monounsaturates": "2.94",
+    "polyunsaturates": "1.63",
+    "carbohydrate": "7.576",
+    "sugars": "3.819",
+    "starch": "3.661",
+    "polyols": "0.096",
+    "fibre": "1.6",
+    "protein": "3.32",
+    "sodium": "0.016",
+    "alcohol": "0.003",
+    "organicAcids": "0.255"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5B1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

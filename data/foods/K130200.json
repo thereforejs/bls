@@ -1,0 +1,44 @@
+{
+  "code": "K130200",
+  "name": {
+    "de": "Pommes frites tiefgefroren",
+    "en": "Potato chips/french fries, deep-frozen"
+  },
+  "per100g": {
+    "fat": "3.22",
+    "saturates": "0.283",
+    "monounsaturates": "2.009",
+    "polyunsaturates": "0.789",
+    "carbohydrate": "20.17",
+    "sugars": "0.17",
+    "starch": "20",
+    "polyols": "0",
+    "fibre": "2.29",
+    "protein": "2.23",
+    "sodium": "0.0216",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K130200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

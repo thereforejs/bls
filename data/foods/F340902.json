@@ -1,0 +1,44 @@
+{
+  "code": "F340902",
+  "name": {
+    "de": "Erdbeere ungesüßt, Konserve, abgetropft",
+    "en": "Strawberry unsweetened, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.0157",
+    "monounsaturates": "0.0314",
+    "polyunsaturates": "0.118",
+    "carbohydrate": "1.511",
+    "sugars": "1.495",
+    "starch": "0",
+    "polyols": "0.016",
+    "fibre": "0.9",
+    "protein": "0.394",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.271"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F340902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

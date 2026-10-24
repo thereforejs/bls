@@ -1,0 +1,44 @@
+{
+  "code": "C353182",
+  "name": {
+    "de": "Wildreis gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Wild rice boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.371",
+    "saturates": "0.062",
+    "monounsaturates": "0.059",
+    "polyunsaturates": "0.214",
+    "carbohydrate": "30.17",
+    "sugars": "0.3",
+    "starch": "29.867",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "5.398",
+    "sodium": "0.00201",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C353182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

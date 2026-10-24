@@ -1,0 +1,44 @@
+{
+  "code": "X744163",
+  "name": {
+    "de": "Eierteigwaren mit Muschelsauce",
+    "en": "Egg pasta with mussel sauce"
+  },
+  "per100g": {
+    "fat": "2.875",
+    "saturates": "0.5",
+    "monounsaturates": "1.36",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "15.7",
+    "sugars": "1",
+    "starch": "14.743",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "5.7",
+    "sodium": "0.222",
+    "alcohol": "0",
+    "organicAcids": "0.052"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X744163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

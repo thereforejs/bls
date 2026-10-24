@@ -1,0 +1,44 @@
+{
+  "code": "C221100",
+  "name": {
+    "de": "Roggen Vollkornschrot",
+    "en": "Rye coarse meal"
+  },
+  "per100g": {
+    "fat": "1.35",
+    "saturates": "0.25",
+    "monounsaturates": "0.38",
+    "polyunsaturates": "0.65",
+    "carbohydrate": "56.47",
+    "sugars": "1.424",
+    "starch": "55.05",
+    "polyols": "0",
+    "fibre": "19.1",
+    "protein": "8.43",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C221100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y373622",
+  "name": {
+    "de": "Pfälzer Leberknödel (Schwein) gegart",
+    "en": "Palatine pork liver dumplings cooked"
+  },
+  "per100g": {
+    "fat": "11.23",
+    "saturates": "2.86",
+    "monounsaturates": "4.76",
+    "polyunsaturates": "1.79",
+    "carbohydrate": "10.92",
+    "sugars": "1.24",
+    "starch": "9.68",
+    "polyols": "0.002",
+    "fibre": "1",
+    "protein": "16.69",
+    "sodium": "0.301",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y373622",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

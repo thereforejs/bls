@@ -1,0 +1,44 @@
+{
+  "code": "X465363",
+  "name": {
+    "de": "Tomaten-Eintopf mit Speck, dicken Bohnen und Suppengemüse",
+    "en": "Tomato stew with bacon, broad beans and vegetables"
+  },
+  "per100g": {
+    "fat": "3.5",
+    "saturates": "1.2",
+    "monounsaturates": "1.265",
+    "polyunsaturates": "0.336",
+    "carbohydrate": "5.4",
+    "sugars": "2.1",
+    "starch": "2.9",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "4",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.151"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X465363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

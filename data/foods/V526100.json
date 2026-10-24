@@ -1,0 +1,44 @@
+{
+  "code": "V526100",
+  "name": {
+    "de": "Hammel Hirn, roh",
+    "en": "Mutton brain, raw"
+  },
+  "per100g": {
+    "fat": "9.1",
+    "saturates": "2.302",
+    "monounsaturates": "0.127",
+    "polyunsaturates": "0.658",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.9",
+    "sodium": "0.112",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V526100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

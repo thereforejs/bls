@@ -1,0 +1,44 @@
+{
+  "code": "D9B1200",
+  "name": {
+    "de": "Kekse/Plätzchen (Vollkornmürbeteig) mit Nougatfüllung",
+    "en": "Wholemeal biscuits (shortcrust pastry) with nougat filling"
+  },
+  "per100g": {
+    "fat": "26.1",
+    "saturates": "14.8",
+    "monounsaturates": "7.2",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "59",
+    "sugars": "34.7",
+    "starch": "24.3",
+    "polyols": "0",
+    "fibre": "5.21",
+    "protein": "6.3",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9B1200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

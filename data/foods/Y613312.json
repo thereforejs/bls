@@ -1,0 +1,44 @@
+{
+  "code": "Y613312",
+  "name": {
+    "de": "Makrele gedünstet, pikante Art",
+    "en": "Mackerel stewed, savory style"
+  },
+  "per100g": {
+    "fat": "14.1",
+    "saturates": "5.55",
+    "monounsaturates": "4.455",
+    "polyunsaturates": "2.26",
+    "carbohydrate": "0.9",
+    "sugars": "0.9",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "18.2",
+    "sodium": "0.156",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y613312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M712500",
+  "name": {
+    "de": "Schichtkäse mind. 40 % Fett i. Tr.",
+    "en": "Layered cheese min. 40 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "11.3",
+    "saturates": "6.117",
+    "monounsaturates": "2.886",
+    "polyunsaturates": "0.295",
+    "carbohydrate": "3.2",
+    "sugars": "3.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.8",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.86"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M712500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

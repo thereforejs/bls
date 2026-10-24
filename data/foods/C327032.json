@@ -1,0 +1,44 @@
+{
+  "code": "C327032",
+  "name": {
+    "de": "Buchweizen Grütze, gekocht",
+    "en": "Buckwheat groats, boiled"
+  },
+  "per100g": {
+    "fat": "0.431",
+    "saturates": "0.066",
+    "monounsaturates": "0.151",
+    "polyunsaturates": "0.146",
+    "carbohydrate": "16.99",
+    "sugars": "0.097",
+    "starch": "16.89",
+    "polyols": "0",
+    "fibre": "1.54",
+    "protein": "3.62",
+    "sodium": "0",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C327032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

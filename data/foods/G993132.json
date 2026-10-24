@@ -1,0 +1,44 @@
+{
+  "code": "G993132",
+  "name": {
+    "de": "Gemüsemischung mexikanische Art, gekocht",
+    "en": "Mixed vegetables Mexican style, boiled"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.059",
+    "monounsaturates": "0.035",
+    "polyunsaturates": "0.112",
+    "carbohydrate": "7.7",
+    "sugars": "3.4",
+    "starch": "3.9",
+    "polyols": "0.09",
+    "fibre": "4.5",
+    "protein": "3.3",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G993132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

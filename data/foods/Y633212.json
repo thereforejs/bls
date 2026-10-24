@@ -1,0 +1,44 @@
+{
+  "code": "Y633212",
+  "name": {
+    "de": "Seezungenfilet gebraten",
+    "en": "Sole fillet fried"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "0.61",
+    "monounsaturates": "0.76",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "0.128",
+    "sugars": "0.125",
+    "starch": "0.003",
+    "polyols": "0",
+    "fibre": "0.039",
+    "protein": "19.392",
+    "sodium": "0.252",
+    "alcohol": "0",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y633212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

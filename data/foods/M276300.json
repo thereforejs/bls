@@ -1,0 +1,44 @@
+{
+  "code": "M276300",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, mit Frucht-Schokoladenzubereitung, gesüßt",
+    "en": "Yogurt min. 3.5 % fat, with fruit-chocolate preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "3.5",
+    "saturates": "2.24",
+    "monounsaturates": "0.91",
+    "polyunsaturates": "0.126",
+    "carbohydrate": "13.93",
+    "sugars": "13.21",
+    "starch": "0.713",
+    "polyols": "0.004",
+    "fibre": "0.2",
+    "protein": "3.46",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.919"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M276300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

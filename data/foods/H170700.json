@@ -1,0 +1,44 @@
+{
+  "code": "H170700",
+  "name": {
+    "de": "Cashewkern geröstet mit Fett, gesalzen",
+    "en": "Cashew nut roasted with fat, salted"
+  },
+  "per100g": {
+    "fat": "49.495",
+    "saturates": "10.5",
+    "monounsaturates": "29.1",
+    "polyunsaturates": "9.4",
+    "carbohydrate": "15.8",
+    "sugars": "4.95",
+    "starch": "10.8",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "19.6",
+    "sodium": "0.394",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H170700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

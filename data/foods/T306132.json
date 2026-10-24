@@ -1,0 +1,44 @@
+{
+  "code": "T306132",
+  "name": {
+    "de": "Heilbutt/Weißer Heilbutt, pochiert",
+    "en": "Halibut/white halibut, poached"
+  },
+  "per100g": {
+    "fat": "6.22",
+    "saturates": "1.323",
+    "monounsaturates": "6.084",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.1",
+    "sodium": "0.079",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T306132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

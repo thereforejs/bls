@@ -1,0 +1,44 @@
+{
+  "code": "G993182",
+  "name": {
+    "de": "Gemüsemischung mexikanische Art, gebraten ohne Fett (Pfanne)",
+    "en": "Mixed vegetables Mexican style, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.089",
+    "monounsaturates": "0.052",
+    "polyunsaturates": "0.169",
+    "carbohydrate": "11.6",
+    "sugars": "5.3",
+    "starch": "5.8",
+    "polyols": "0.13",
+    "fibre": "6.6",
+    "protein": "4.9",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G993182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

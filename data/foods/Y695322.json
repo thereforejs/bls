@@ -1,0 +1,44 @@
+{
+  "code": "Y695322",
+  "name": {
+    "de": "Seelachsschnitten gegrillt",
+    "en": "Fish slices of saithe grilled"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "0.8",
+    "monounsaturates": "1.66",
+    "polyunsaturates": "1.41",
+    "carbohydrate": "0.077",
+    "sugars": "0.076",
+    "starch": "0.001",
+    "polyols": "0",
+    "fibre": "0.018",
+    "protein": "21.072",
+    "sodium": "0.0738",
+    "alcohol": "0",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y695322",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

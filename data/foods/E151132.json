@@ -1,0 +1,44 @@
+{
+  "code": "E151132",
+  "name": {
+    "de": "Putenei gekocht",
+    "en": "Turkey egg boiled"
+  },
+  "per100g": {
+    "fat": "11.9",
+    "saturates": "3.63",
+    "monounsaturates": "4.5",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "0.34",
+    "sugars": "0.34",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.7",
+    "sodium": "0.151",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E151132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

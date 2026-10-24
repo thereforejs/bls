@@ -1,0 +1,44 @@
+{
+  "code": "W850100",
+  "name": {
+    "de": "Schinkentorte",
+    "en": "Ham pie"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "1.5",
+    "monounsaturates": "1.5",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "1",
+    "sugars": "1",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "19.1",
+    "sodium": "0.64",
+    "alcohol": "0",
+    "organicAcids": "0.843"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W850100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

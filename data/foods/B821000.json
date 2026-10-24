@@ -1,0 +1,44 @@
+{
+  "code": "B821000",
+  "name": {
+    "de": "Paniermehl/Semmelbrösel/Semmelmehl",
+    "en": "Bread crumbs"
+  },
+  "per100g": {
+    "fat": "3.97",
+    "saturates": "0.914",
+    "monounsaturates": "1.118",
+    "polyunsaturates": "0.625",
+    "carbohydrate": "67.48",
+    "sugars": "5.3",
+    "starch": "62.17",
+    "polyols": "0.012",
+    "fibre": "5.34",
+    "protein": "11.6",
+    "sodium": "0.7587",
+    "alcohol": "0",
+    "organicAcids": "0.294"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B821000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y143132",
+  "name": {
+    "de": "Rindfleischspieße gegrillt",
+    "en": "Beef skewer grilled"
+  },
+  "per100g": {
+    "fat": "11.8",
+    "saturates": "2.61",
+    "monounsaturates": "6.11",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "0.3",
+    "sugars": "0.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.41",
+    "protein": "25.34",
+    "sodium": "0.154",
+    "alcohol": "0",
+    "organicAcids": "0.89"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y143132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

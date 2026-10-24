@@ -1,0 +1,44 @@
+{
+  "code": "Y856163",
+  "name": {
+    "de": "Ananasgelee",
+    "en": "Pineapple jelly"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.021",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.024",
+    "carbohydrate": "12.931",
+    "sugars": "11.996",
+    "starch": "0",
+    "polyols": "0.935",
+    "fibre": "0.292",
+    "protein": "1.6",
+    "sodium": "0.006",
+    "alcohol": "0.019",
+    "organicAcids": "0.76"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y856163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

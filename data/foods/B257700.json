@@ -1,0 +1,44 @@
+{
+  "code": "B257700",
+  "name": {
+    "de": "Weizenmischbrot mit Quark",
+    "en": "Wheat-rye bread (> 50 % and < 90 % wheat) with quark"
+  },
+  "per100g": {
+    "fat": "0.85",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "43",
+    "sugars": "0.8",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "6.36",
+    "protein": "7.79",
+    "sodium": "0.482",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B257700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

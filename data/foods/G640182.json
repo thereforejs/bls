@@ -1,0 +1,44 @@
+{
+  "code": "G640182",
+  "name": {
+    "de": "Pastinake gebraten ohne Fett (Pfanne)",
+    "en": "Parsnip fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.796",
+    "saturates": "0.12",
+    "monounsaturates": "0.044",
+    "polyunsaturates": "0.472",
+    "carbohydrate": "17.9",
+    "sugars": "5.669",
+    "starch": "12.2",
+    "polyols": null,
+    "fibre": "3.944",
+    "protein": "4.9769",
+    "sodium": "0.015",
+    "alcohol": "0",
+    "organicAcids": "0.89"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G640182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

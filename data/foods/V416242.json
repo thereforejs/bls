@@ -1,0 +1,44 @@
+{
+  "code": "V416242",
+  "name": {
+    "de": "Hähnchen Brustfilet, tiefgefroren, geschmort ohne Fett",
+    "en": "Chicken breast fillet, deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "1.53",
+    "saturates": "0.346",
+    "monounsaturates": "0.444",
+    "polyunsaturates": "0.299",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "30.13",
+    "sodium": "0.0288",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V416242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

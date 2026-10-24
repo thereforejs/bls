@@ -1,0 +1,44 @@
+{
+  "code": "D079062",
+  "name": {
+    "de": "Pizzateig (mit Hefe) gebacken",
+    "en": "Pizza dough with yeast, baked"
+  },
+  "per100g": {
+    "fat": "6.26",
+    "saturates": "0.48",
+    "monounsaturates": "3.29",
+    "polyunsaturates": "1.82",
+    "carbohydrate": "51",
+    "sugars": "1.141",
+    "starch": "50",
+    "polyols": "0",
+    "fibre": "3.88",
+    "protein": "7.89",
+    "sodium": "0.179",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D079062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

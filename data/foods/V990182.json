@@ -1,0 +1,44 @@
+{
+  "code": "V990182",
+  "name": {
+    "de": "Geflügel Frikadelle, gebraten ohne Fett (Pfanne)",
+    "en": "Poultry patty, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "0.83",
+    "monounsaturates": "1.32",
+    "polyunsaturates": "1.04",
+    "carbohydrate": "5",
+    "sugars": "0.8",
+    "starch": "4",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "18.9",
+    "sodium": "0.612",
+    "alcohol": "0",
+    "organicAcids": "0.031"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V990182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

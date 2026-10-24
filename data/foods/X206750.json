@@ -1,0 +1,44 @@
+{
+  "code": "X206750",
+  "name": {
+    "de": "Rote-Bete-Salat (roh) mit Sellerie, Apfel und Joghurtmarinade",
+    "en": "Beetroot salad (raw) with celeriac, apple and yogurt marinade"
+  },
+  "per100g": {
+    "fat": "1.73",
+    "saturates": "0.44",
+    "monounsaturates": "0.73",
+    "polyunsaturates": "0.41",
+    "carbohydrate": "7.2",
+    "sugars": "6.74",
+    "starch": "0.211",
+    "polyols": "0.2",
+    "fibre": "2.3",
+    "protein": "1.77",
+    "sodium": "0.086",
+    "alcohol": "0.008",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X206750",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

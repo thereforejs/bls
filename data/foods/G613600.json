@@ -1,0 +1,44 @@
+{
+  "code": "G613600",
+  "name": {
+    "de": "Gemüsesaft aus Rote Rübe/Rote Bete",
+    "en": "Beetroot juice"
+  },
+  "per100g": {
+    "fat": "0.08",
+    "saturates": "0.02",
+    "monounsaturates": "0.0079",
+    "polyunsaturates": "0.03",
+    "carbohydrate": "7.76",
+    "sugars": "7.76",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "1.08",
+    "sodium": "0.051",
+    "alcohol": "0.006",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G613600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

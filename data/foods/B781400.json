@@ -1,0 +1,44 @@
+{
+  "code": "B781400",
+  "name": {
+    "de": "Weizenbaguette mit Nüssen",
+    "en": "Wheat baguette with nuts"
+  },
+  "per100g": {
+    "fat": "4.75",
+    "saturates": "0.6",
+    "monounsaturates": "1.95",
+    "polyunsaturates": "1.92",
+    "carbohydrate": "48",
+    "sugars": "1.6",
+    "starch": "46",
+    "polyols": "0",
+    "fibre": "3.8",
+    "protein": "8.7",
+    "sodium": "0.492",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B781400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

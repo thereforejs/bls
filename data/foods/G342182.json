@@ -1,0 +1,44 @@
+{
+  "code": "G342182",
+  "name": {
+    "de": "Weißkohl gebraten ohne Fett (Pfanne)",
+    "en": "White cabbage fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.358",
+    "saturates": "0.063",
+    "monounsaturates": "0.0091",
+    "polyunsaturates": "0.214",
+    "carbohydrate": "8.56",
+    "sugars": "8.3",
+    "starch": "0",
+    "polyols": "0.26",
+    "fibre": "5.7",
+    "protein": "2.608",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.372"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G342182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

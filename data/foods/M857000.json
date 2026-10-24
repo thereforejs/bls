@@ -1,0 +1,44 @@
+{
+  "code": "M857000",
+  "name": {
+    "de": "Grießpudding mit Sahne, gesüßt",
+    "en": "Semolina pudding with cream, sweetened"
+  },
+  "per100g": {
+    "fat": "6.77",
+    "saturates": "3.77",
+    "monounsaturates": "1.71",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "14.03",
+    "sugars": "13.55",
+    "starch": "0.48",
+    "polyols": "0",
+    "fibre": "0.03",
+    "protein": "2.84",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M857000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

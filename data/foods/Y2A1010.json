@@ -1,0 +1,44 @@
+{
+  "code": "Y2A1010",
+  "name": {
+    "de": "Kalbfleischpudding mit Lachsschinken und Champignons",
+    "en": "Veal pudding with ham and button mushrooms"
+  },
+  "per100g": {
+    "fat": "18.45",
+    "saturates": "7.25",
+    "monounsaturates": "7.76",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "6.3",
+    "sugars": "1.02",
+    "starch": "5.06",
+    "polyols": "0.22",
+    "fibre": "0.7",
+    "protein": "20.4",
+    "sodium": "0.372",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y2A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

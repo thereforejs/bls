@@ -1,0 +1,44 @@
+{
+  "code": "B561000",
+  "name": {
+    "de": "Dinkelbrötchen",
+    "en": "Spelt roll"
+  },
+  "per100g": {
+    "fat": "3.58",
+    "saturates": "0.93",
+    "monounsaturates": "1.12",
+    "polyunsaturates": "0.99",
+    "carbohydrate": "49",
+    "sugars": "1.5",
+    "starch": "47",
+    "polyols": "0",
+    "fibre": "7.6",
+    "protein": "10.8",
+    "sodium": "0.589",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B561000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

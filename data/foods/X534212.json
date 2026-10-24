@@ -1,0 +1,44 @@
+{
+  "code": "X534212",
+  "name": {
+    "de": "Grünkohl gedünstet, mit Speck",
+    "en": "Curly kale stewed, with bacon"
+  },
+  "per100g": {
+    "fat": "6.68",
+    "saturates": "1.33",
+    "monounsaturates": "3.06",
+    "polyunsaturates": "1.44",
+    "carbohydrate": "3.3",
+    "sugars": "1.8",
+    "starch": "1.4",
+    "polyols": "0.11",
+    "fibre": "5.1",
+    "protein": "4.75",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.137"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X534212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

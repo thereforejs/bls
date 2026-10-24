@@ -1,0 +1,44 @@
+{
+  "code": "E608082",
+  "name": {
+    "de": "Böhmische Knödel gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Bohemian dumplings boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "8.76",
+    "saturates": "4.67",
+    "monounsaturates": "2.22",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "30.53",
+    "sugars": "2.22",
+    "starch": "28.31",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "8.69",
+    "sodium": "0.369",
+    "alcohol": "0",
+    "organicAcids": "0.027"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E608082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F511100",
+  "name": {
+    "de": "Acerola roh",
+    "en": "Acerola raw"
+  },
+  "per100g": {
+    "fat": "0.23",
+    "saturates": "0.05",
+    "monounsaturates": "0.063",
+    "polyunsaturates": "0.069",
+    "carbohydrate": "2.66",
+    "sugars": "2.66",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "0.21",
+    "sodium": "0.003",
+    "alcohol": null,
+    "organicAcids": "0.906"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F511100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

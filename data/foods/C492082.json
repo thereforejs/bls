@@ -1,0 +1,44 @@
+{
+  "code": "C492082",
+  "name": {
+    "de": "Mehrkornschrot gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Grain mix coarse meal, boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.11",
+    "monounsaturates": "0.15",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "11.3",
+    "sugars": "0.254",
+    "starch": "11",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "2.19",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C492082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X9A4030",
+  "name": {
+    "de": "Pfannkuchen-Auflauf mit Spinatgemüse",
+    "en": "Pankcake casserole with spinach"
+  },
+  "per100g": {
+    "fat": "14.76",
+    "saturates": "5.85",
+    "monounsaturates": "5.21",
+    "polyunsaturates": "1.97",
+    "carbohydrate": "14.9",
+    "sugars": "2.1",
+    "starch": "12.8",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "9.3",
+    "sodium": "0.262",
+    "alcohol": "0",
+    "organicAcids": "0.273"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A4030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

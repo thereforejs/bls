@@ -1,0 +1,44 @@
+{
+  "code": "U990400",
+  "name": {
+    "de": "Sauce Hollandaise, Konserve",
+    "en": "Sauce Hollandaise, canned"
+  },
+  "per100g": {
+    "fat": "7.24",
+    "saturates": "3.59",
+    "monounsaturates": "1.98",
+    "polyunsaturates": "0.51",
+    "carbohydrate": "5.998",
+    "sugars": "0.056",
+    "starch": "5.942",
+    "polyols": "0",
+    "fibre": "0.071",
+    "protein": "2.7",
+    "sodium": "0.62",
+    "alcohol": "0",
+    "organicAcids": "0.014"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U990400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X216460",
+  "name": {
+    "de": "Radicchiosalat mit Essigmarinade",
+    "en": "Radiccio salad with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "13.23",
+    "saturates": "0.98",
+    "monounsaturates": "7.49",
+    "polyunsaturates": "3.56",
+    "carbohydrate": "1.9",
+    "sugars": "1.2",
+    "starch": "0.7",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "1",
+    "sodium": "0.114",
+    "alcohol": "0.008",
+    "organicAcids": "0.67"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X216460",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

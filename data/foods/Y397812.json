@@ -1,0 +1,44 @@
+{
+  "code": "Y397812",
+  "name": {
+    "de": "Schweinebauch gebraten im Ofen (mit Fett und Salz)",
+    "en": "Pork belly fried in oven (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "37.77",
+    "saturates": "10.82",
+    "monounsaturates": "11.7",
+    "polyunsaturates": "2.89",
+    "carbohydrate": "0.02",
+    "sugars": "0",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "22.69",
+    "sodium": "0.2309",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y397812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

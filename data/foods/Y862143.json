@@ -1,0 +1,44 @@
+{
+  "code": "Y862143",
+  "name": {
+    "de": "Vanilleflammeri/Vanillepudding, mit Eigelb",
+    "en": "Vanilla pudding with egg yolk"
+  },
+  "per100g": {
+    "fat": "5.26",
+    "saturates": "2.73",
+    "monounsaturates": "1.43",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "19.16",
+    "sugars": "11.3",
+    "starch": "7.858",
+    "polyols": "0",
+    "fibre": "0.073",
+    "protein": "4.6",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0.061"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y862143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

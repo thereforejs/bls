@@ -1,0 +1,44 @@
+{
+  "code": "G620142",
+  "name": {
+    "de": "Karotte/Möhre, geschmort ohne Fett",
+    "en": "Carrot braised without fat"
+  },
+  "per100g": {
+    "fat": "0.477",
+    "saturates": "0.1109",
+    "monounsaturates": "0.1236",
+    "polyunsaturates": "0.0892",
+    "carbohydrate": "7.797",
+    "sugars": "7.675",
+    "starch": "0.1219",
+    "polyols": "0",
+    "fibre": "3.5",
+    "protein": "1.002",
+    "sodium": "0.0271",
+    "alcohol": "0",
+    "organicAcids": "0.516"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "G570902",
+  "name": {
+    "de": "Zuckermais Konserve, abgetropft",
+    "en": "Sweetcorn canned, drained"
+  },
+  "per100g": {
+    "fat": "1.94",
+    "saturates": "0.384",
+    "monounsaturates": "0.676",
+    "polyunsaturates": "0.696",
+    "carbohydrate": "10.84",
+    "sugars": "6.22",
+    "starch": "4.52",
+    "polyols": "0.095",
+    "fibre": "3.59",
+    "protein": "2.71",
+    "sodium": "0.149",
+    "alcohol": null,
+    "organicAcids": "0.151"
+  },
+  "marks": {
+    "alcohol": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G570902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

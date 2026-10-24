@@ -1,0 +1,44 @@
+{
+  "code": "D611000",
+  "name": {
+    "de": "Maiskekse glutenfrei",
+    "en": "Maize biscuits gluten-free"
+  },
+  "per100g": {
+    "fat": "19.395",
+    "saturates": "11.739",
+    "monounsaturates": "4.303",
+    "polyunsaturates": "1.068",
+    "carbohydrate": "60.945",
+    "sugars": "23.926",
+    "starch": "37.019",
+    "polyols": "0",
+    "fibre": "4.529",
+    "protein": "4.38",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.0187"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D611000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

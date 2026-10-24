@@ -1,0 +1,44 @@
+{
+  "code": "Y131132",
+  "name": {
+    "de": "Roastbeef gebraten im Ofen, ohne Sauce",
+    "en": "Roast beef fried in oven, without sauce"
+  },
+  "per100g": {
+    "fat": "7.27",
+    "saturates": "2.16",
+    "monounsaturates": "2.77",
+    "polyunsaturates": "0.55",
+    "carbohydrate": "0.02",
+    "sugars": "0",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "28.72",
+    "sodium": "0.224",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y131132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

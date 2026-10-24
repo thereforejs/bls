@@ -1,0 +1,44 @@
+{
+  "code": "G620100",
+  "name": {
+    "de": "Karotte/Möhre, roh",
+    "en": "Carrot raw"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.093",
+    "monounsaturates": "0.1037",
+    "polyunsaturates": "0.0749",
+    "carbohydrate": "6.471",
+    "sugars": "6.37",
+    "starch": "0.1012",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "0.84",
+    "sodium": "0.0227",
+    "alcohol": "0",
+    "organicAcids": "0.428"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C526000",
+  "name": {
+    "de": "Polenta (Maisgrieß mit Wasser, Fett und Salz) gekocht",
+    "en": "Polenta (Maize semolina prepared with water, fat and salt) boiled"
+  },
+  "per100g": {
+    "fat": "6",
+    "saturates": "0.7",
+    "monounsaturates": "4.3",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "12.37",
+    "sugars": "0.274",
+    "starch": "12.096",
+    "polyols": "0",
+    "fibre": "1.854",
+    "protein": "1.705",
+    "sodium": "0.155",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C526000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

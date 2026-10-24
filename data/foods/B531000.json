@@ -1,0 +1,44 @@
+{
+  "code": "B531000",
+  "name": {
+    "de": "Haferbrötchen",
+    "en": "Oat roll"
+  },
+  "per100g": {
+    "fat": "4.47",
+    "saturates": "1.46",
+    "monounsaturates": "1.58",
+    "polyunsaturates": "1.14",
+    "carbohydrate": "52",
+    "sugars": "2.3",
+    "starch": "49",
+    "polyols": "0",
+    "fibre": "5.18",
+    "protein": "10.5",
+    "sodium": "0.573",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B531000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

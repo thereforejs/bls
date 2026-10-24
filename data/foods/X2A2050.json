@@ -1,0 +1,44 @@
+{
+  "code": "X2A2050",
+  "name": {
+    "de": "Gurken- und Kopfsalat mit Joghurtmarinade",
+    "en": "Cucumber-lettuce-salad with yogurt marinade"
+  },
+  "per100g": {
+    "fat": "1.56",
+    "saturates": "0.39",
+    "monounsaturates": "0.66",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "2.4",
+    "sugars": "2.4",
+    "starch": "0.006",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "1.48",
+    "sodium": "0.054",
+    "alcohol": "0.003",
+    "organicAcids": "0.53"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X2A2050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

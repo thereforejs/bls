@@ -1,0 +1,44 @@
+{
+  "code": "F507100",
+  "name": {
+    "de": "Kaki roh",
+    "en": "Persimmon raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.049",
+    "monounsaturates": "0.094",
+    "polyunsaturates": "0.062",
+    "carbohydrate": "14.125",
+    "sugars": "14.125",
+    "starch": null,
+    "polyols": null,
+    "fibre": "2.46",
+    "protein": "0.7",
+    "sodium": "0.0016",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F507100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

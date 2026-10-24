@@ -1,0 +1,44 @@
+{
+  "code": "X530353",
+  "name": {
+    "de": "Sauerkraut gedünstet",
+    "en": "Sauerkraut stewed"
+  },
+  "per100g": {
+    "fat": "1.05",
+    "saturates": "0.11",
+    "monounsaturates": "0.55",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "1.68",
+    "sugars": "1.53",
+    "starch": "0.07",
+    "polyols": "0.078",
+    "fibre": "2.6",
+    "protein": "0.76",
+    "sodium": "0.288",
+    "alcohol": "0.06",
+    "organicAcids": "1.367"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X530353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

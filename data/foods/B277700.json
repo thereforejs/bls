@@ -1,0 +1,44 @@
+{
+  "code": "B277700",
+  "name": {
+    "de": "Roggenmischbrot mit Quark",
+    "en": "Rye-wheat bread (> 50 % and < 90 % rye) with quark"
+  },
+  "per100g": {
+    "fat": "0.76",
+    "saturates": "0.09",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "43",
+    "sugars": "0.94",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "7.19",
+    "protein": "7.31",
+    "sodium": "0.495",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B277700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

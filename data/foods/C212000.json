@@ -1,0 +1,44 @@
+{
+  "code": "C212000",
+  "name": {
+    "de": "Weizen Backschrot, Type 1700",
+    "en": "Wheat coarse meal, Type 1700"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.22",
+    "monounsaturates": "0.2",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "62.39",
+    "sugars": "1.13144",
+    "starch": "61.26",
+    "polyols": "0",
+    "fibre": "12.56",
+    "protein": "12.52",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C212000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

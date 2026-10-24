@@ -1,0 +1,44 @@
+{
+  "code": "G230162",
+  "name": {
+    "de": "Mangold gebacken",
+    "en": "Chard/leaf beet, baked"
+  },
+  "per100g": {
+    "fat": "0.329",
+    "saturates": "0.033",
+    "monounsaturates": "0.017",
+    "polyunsaturates": "0.178",
+    "carbohydrate": "1.026",
+    "sugars": "0.812",
+    "starch": "0.214",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "2.176",
+    "sodium": "0.2552",
+    "alcohol": "0",
+    "organicAcids": "0.073"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G230162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

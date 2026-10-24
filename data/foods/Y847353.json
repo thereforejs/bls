@@ -1,0 +1,44 @@
+{
+  "code": "Y847353",
+  "name": {
+    "de": "Apfelkompott mit Vanillesauce",
+    "en": "Apple compote with vanilla sauce"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.87",
+    "monounsaturates": "0.42",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "11.3",
+    "sugars": "9.49",
+    "starch": "1.504",
+    "polyols": "0.3",
+    "fibre": "0.942",
+    "protein": "1.5",
+    "sodium": "0.013",
+    "alcohol": "0.003",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y847353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

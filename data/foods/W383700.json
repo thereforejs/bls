@@ -1,0 +1,44 @@
+{
+  "code": "W383700",
+  "name": {
+    "de": "Bremer Pinkel (Grützwurst)",
+    "en": "Bremer Pinkel pork sausage with oat groats"
+  },
+  "per100g": {
+    "fat": "7.77",
+    "saturates": "3",
+    "monounsaturates": "2.57",
+    "polyunsaturates": "1.26",
+    "carbohydrate": "7.4",
+    "sugars": "0.38",
+    "starch": "7",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "5.1",
+    "sodium": "0.664",
+    "alcohol": "0",
+    "organicAcids": "0.008"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W383700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

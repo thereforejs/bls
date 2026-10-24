@@ -1,0 +1,44 @@
+{
+  "code": "X663213",
+  "name": {
+    "de": "Kartoffelpudding",
+    "en": "Potato pudding"
+  },
+  "per100g": {
+    "fat": "9.39",
+    "saturates": "4.69",
+    "monounsaturates": "2.79",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "10.77",
+    "sugars": "0.65",
+    "starch": "10.12",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "6.7",
+    "sodium": "0.23",
+    "alcohol": "0",
+    "organicAcids": "0.143"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X663213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

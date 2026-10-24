@@ -1,0 +1,44 @@
+{
+  "code": "X678212",
+  "name": {
+    "de": "Kartoffelmaultaschen gefüllt mit Pflaumen, gebacken",
+    "en": "Potato squares filled with plums, baked"
+  },
+  "per100g": {
+    "fat": "6.7",
+    "saturates": "1",
+    "monounsaturates": "3.5",
+    "polyunsaturates": "1.61",
+    "carbohydrate": "19.7",
+    "sugars": "7.9",
+    "starch": "10.87",
+    "polyols": "0.901",
+    "fibre": "1.8",
+    "protein": "2.53",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.45"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X678212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

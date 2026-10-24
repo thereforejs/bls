@@ -1,0 +1,44 @@
+{
+  "code": "Y840143",
+  "name": {
+    "de": "Rhabarberkompott",
+    "en": "Rhubarb compote"
+  },
+  "per100g": {
+    "fat": "0.11",
+    "saturates": "0.023",
+    "monounsaturates": "0.006",
+    "polyunsaturates": "0.055",
+    "carbohydrate": "15.892",
+    "sugars": "15.711",
+    "starch": "0.181",
+    "polyols": "0",
+    "fibre": "2.517",
+    "protein": "0.472",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "1.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y840143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X215910",
+  "name": {
+    "de": "Kopfsalat mit Zitronenmarinade",
+    "en": "Lettuce with lemon marinade"
+  },
+  "per100g": {
+    "fat": "14.8",
+    "saturates": "1.1",
+    "monounsaturates": "8.43",
+    "polyunsaturates": "4.09",
+    "carbohydrate": "1.8",
+    "sugars": "1.8",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "1.03",
+    "sodium": "0.116",
+    "alcohol": "0",
+    "organicAcids": "0.69"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X215910",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

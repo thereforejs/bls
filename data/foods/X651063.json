@@ -1,0 +1,44 @@
+{
+  "code": "X651063",
+  "name": {
+    "de": "Bratkartoffeln aus rohen Kartoffeln, mit Zwiebeln",
+    "en": "Fried potatoes (of raw potatoes) with onions"
+  },
+  "per100g": {
+    "fat": "12.697",
+    "saturates": "0.88",
+    "monounsaturates": "6.59",
+    "polyunsaturates": "3.14",
+    "carbohydrate": "22.502",
+    "sugars": "1.131",
+    "starch": "21.371",
+    "polyols": "0",
+    "fibre": "2.798",
+    "protein": "2.867",
+    "sodium": "0.171",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

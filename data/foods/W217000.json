@@ -1,0 +1,44 @@
+{
+  "code": "W217000",
+  "name": {
+    "de": "Knacker einfach/Schüblinge einfach/Servela einfach",
+    "en": "Knacker sausage simple"
+  },
+  "per100g": {
+    "fat": "17.86",
+    "saturates": "5.99",
+    "monounsaturates": "6.78",
+    "polyunsaturates": "2.15",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "12.2",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W217000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

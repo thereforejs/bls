@@ -1,0 +1,44 @@
+{
+  "code": "G322152",
+  "name": {
+    "de": "Grünkohl gedünstet",
+    "en": "Curly kale stewed"
+  },
+  "per100g": {
+    "fat": "0.583",
+    "saturates": "0.09",
+    "monounsaturates": "0.0238",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "2.89",
+    "sugars": "2.296",
+    "starch": "0.426",
+    "polyols": "0.17",
+    "fibre": "7.296",
+    "protein": "3.617",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.197"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G322152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

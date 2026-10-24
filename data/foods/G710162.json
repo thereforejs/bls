@@ -1,0 +1,44 @@
+{
+  "code": "G710162",
+  "name": {
+    "de": "Bohne grün, gebacken",
+    "en": "Bean green, baked"
+  },
+  "per100g": {
+    "fat": "0.282",
+    "saturates": "0.083",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.135",
+    "carbohydrate": "4.1",
+    "sugars": "2.66",
+    "starch": "1.1",
+    "polyols": "0.33",
+    "fibre": "2.224",
+    "protein": "2.633",
+    "sodium": "0.00233",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G710162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

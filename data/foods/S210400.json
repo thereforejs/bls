@@ -1,0 +1,44 @@
+{
+  "code": "S210400",
+  "name": {
+    "de": "Speiseeis (Nuss, Schokolade, Vanille) gemischt, in Waffeltüte",
+    "en": "Ice cream mixed (chocolate, nut, vanilla) in waffle cone"
+  },
+  "per100g": {
+    "fat": "11.35",
+    "saturates": "6.66",
+    "monounsaturates": "2.64",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "27.6",
+    "sugars": "21.5",
+    "starch": "6.06",
+    "polyols": "0.001",
+    "fibre": "1.6",
+    "protein": "3.39",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0.362"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S210400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

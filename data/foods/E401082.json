@@ -1,0 +1,44 @@
+{
+  "code": "E401082",
+  "name": {
+    "de": "Teigwaren eifrei, gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Pasta egg-free, boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.716",
+    "saturates": "0.103",
+    "monounsaturates": null,
+    "polyunsaturates": "0.276",
+    "carbohydrate": "29.265",
+    "sugars": "0.856",
+    "starch": "28.409",
+    "polyols": null,
+    "fibre": "1.524",
+    "protein": "5.5",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E401082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

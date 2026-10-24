@@ -1,0 +1,44 @@
+{
+  "code": "V463042",
+  "name": {
+    "de": "Ente Fleisch, ohne Haut, geschmort ohne Fett",
+    "en": "Duck meat, without skin, braised without fat"
+  },
+  "per100g": {
+    "fat": "3.6",
+    "saturates": "0.752",
+    "monounsaturates": "1.401",
+    "polyunsaturates": "0.545",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.3",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V463042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

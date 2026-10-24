@@ -1,0 +1,44 @@
+{
+  "code": "V533182",
+  "name": {
+    "de": "Schwein Leber, gebraten ohne Fett (Pfanne)",
+    "en": "Pork liver, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "5.55",
+    "saturates": "1.739",
+    "monounsaturates": "0.957",
+    "polyunsaturates": "0.763",
+    "carbohydrate": "1.163",
+    "sugars": "0",
+    "starch": "1.163",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.15",
+    "sodium": "0.0985",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V533182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "E438000",
+  "name": {
+    "de": "Eier-Frischteigwaren roh",
+    "en": "Fresh egg pasta raw"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "0.76",
+    "monounsaturates": "1.37",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "51.8",
+    "sugars": "0.428",
+    "starch": "51.37",
+    "polyols": "0",
+    "fibre": "3.56",
+    "protein": "12.05",
+    "sodium": "0.401",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E438000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

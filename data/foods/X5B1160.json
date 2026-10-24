@@ -1,0 +1,44 @@
+{
+  "code": "X5B1160",
+  "name": {
+    "de": "Gemüse-Süßkartoffel-Brei, mit Karotte, Pastinake (ohne Salz, geeignet für Beikost)",
+    "en": "Vegetable-sweet potato purree, with carrot and parsnip (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "5.151",
+    "saturates": "0.39",
+    "monounsaturates": "2.79",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "11.2",
+    "sugars": "4.7",
+    "starch": "6.3",
+    "polyols": "0.18",
+    "fibre": "2",
+    "protein": "1.25",
+    "sodium": "0.009",
+    "alcohol": "0.003",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5B1160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T601282",
+  "name": {
+    "de": "Barsch/Flussbarsch, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "European perch deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.11",
+    "monounsaturates": "0.093",
+    "polyunsaturates": "0.195",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.85",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T601282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

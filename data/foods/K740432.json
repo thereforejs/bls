@@ -1,0 +1,44 @@
+{
+  "code": "K740432",
+  "name": {
+    "de": "Austernpilz getrocknet, gekocht",
+    "en": "Oyster mushroom dried, boiled"
+  },
+  "per100g": {
+    "fat": "0.895",
+    "saturates": "0.1245",
+    "monounsaturates": "0.0858",
+    "polyunsaturates": "0.3963",
+    "carbohydrate": "5.17",
+    "sugars": "4.52",
+    "starch": "0",
+    "polyols": "0.651",
+    "fibre": "24.858",
+    "protein": "13.46",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K740432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H861042",
+  "name": {
+    "de": "Tofu geschmort ohne Fett",
+    "en": "Tofu braised without fat"
+  },
+  "per100g": {
+    "fat": "5.233",
+    "saturates": "0.86",
+    "monounsaturates": "1.088",
+    "polyunsaturates": "3.185",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "1.529",
+    "protein": "16.422",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H861042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X566142",
+  "name": {
+    "de": "Selleriescheiben im Backteig (mit Bier) frittiert",
+    "en": "Celeriac slices in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "14.3",
+    "saturates": "1.47",
+    "monounsaturates": "7.6",
+    "polyunsaturates": "3.78",
+    "carbohydrate": "19.34",
+    "sugars": "1.757",
+    "starch": "17.42",
+    "polyols": "0.16",
+    "fibre": "4.3",
+    "protein": "5.8",
+    "sodium": "0.155",
+    "alcohol": "0.241",
+    "organicAcids": "0.47"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X566142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

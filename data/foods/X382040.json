@@ -1,0 +1,44 @@
+{
+  "code": "X382040",
+  "name": {
+    "de": "Frankfurter grüne Kräutersauce",
+    "en": "Frankfurt green herb sauce"
+  },
+  "per100g": {
+    "fat": "12.9",
+    "saturates": "4.9",
+    "monounsaturates": "5",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "3.7",
+    "sugars": "3.7",
+    "starch": "0.007",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "2.8",
+    "sodium": "0.21",
+    "alcohol": "0.005",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X382040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X463453",
+  "name": {
+    "de": "Linsen-Eintopf mit Wurst und Eier-Frischteigwaren Spätzle",
+    "en": "Lentil stew with sausage and fresh egg pasta spaetzle"
+  },
+  "per100g": {
+    "fat": "5.7",
+    "saturates": "1.6",
+    "monounsaturates": "2.31",
+    "polyunsaturates": "0.93",
+    "carbohydrate": "15",
+    "sugars": "1.3",
+    "starch": "13.7",
+    "polyols": "0.02",
+    "fibre": "4.4",
+    "protein": "7.8",
+    "sodium": "0.298",
+    "alcohol": "0.001",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X463453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K713902",
+  "name": {
+    "de": "Pfifferling Konserve, abgetropft",
+    "en": "Chanterelle canned, drained"
+  },
+  "per100g": {
+    "fat": "0.69",
+    "saturates": "0.054",
+    "monounsaturates": "0.007",
+    "polyunsaturates": "0.166",
+    "carbohydrate": "0.643",
+    "sugars": "0.188",
+    "starch": "0",
+    "polyols": "0.455",
+    "fibre": "3.81",
+    "protein": "2.083",
+    "sodium": "0.165",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K713902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

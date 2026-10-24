@@ -1,0 +1,44 @@
+{
+  "code": "S421000",
+  "name": {
+    "de": "Marzipan Rohmasse",
+    "en": "Marzipan raw paste"
+  },
+  "per100g": {
+    "fat": "24.9",
+    "saturates": "2.16",
+    "monounsaturates": "15.94",
+    "polyunsaturates": "5.6",
+    "carbohydrate": "37.21",
+    "sugars": "37.077",
+    "starch": "0.13",
+    "polyols": "0",
+    "fibre": "4.988",
+    "protein": "8",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S421000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

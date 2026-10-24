@@ -1,0 +1,44 @@
+{
+  "code": "S492000",
+  "name": {
+    "de": "Erdnuss-Krokant",
+    "en": "Peanut brittle"
+  },
+  "per100g": {
+    "fat": "32.3",
+    "saturates": "5",
+    "monounsaturates": "17",
+    "polyunsaturates": "6.34",
+    "carbohydrate": "37.4",
+    "sugars": "24.6",
+    "starch": "3.28",
+    "polyols": null,
+    "fibre": "5.5",
+    "protein": "18.8",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S492000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

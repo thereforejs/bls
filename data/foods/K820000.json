@@ -1,0 +1,46 @@
+{
+  "code": "K820000",
+  "name": {
+    "de": "Vegetarische Pastete, Brotaufstrich hefebasiert",
+    "en": "Vegetarian pate, spread yeast-based"
+  },
+  "per100g": {
+    "fat": "18.15",
+    "saturates": "4.747",
+    "monounsaturates": "4.836",
+    "polyunsaturates": "3.077",
+    "carbohydrate": "7.9",
+    "sugars": "2.62",
+    "starch": "5.24",
+    "polyols": "0.036",
+    "fibre": "6.75",
+    "protein": "4.95",
+    "sodium": "0.459",
+    "alcohol": null,
+    "organicAcids": "0.257"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K820000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

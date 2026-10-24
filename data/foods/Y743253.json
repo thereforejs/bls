@@ -1,0 +1,44 @@
+{
+  "code": "Y743253",
+  "name": {
+    "de": "Eier weich gekocht, mit Specksauce von dunkler/brauner Grundsauce",
+    "en": "Eggs soft boiled, with bacon sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "7.4",
+    "saturates": "1.6",
+    "monounsaturates": "3.4",
+    "polyunsaturates": "1.41",
+    "carbohydrate": "2.97",
+    "sugars": "0.38",
+    "starch": "2.59",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "7.17",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y743253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

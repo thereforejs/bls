@@ -1,0 +1,44 @@
+{
+  "code": "K430162",
+  "name": {
+    "de": "Topinambur/Erdartischocke, gebacken",
+    "en": "Jerusalem artichoke/topinambur, baked"
+  },
+  "per100g": {
+    "fat": "0.526",
+    "saturates": "0.122",
+    "monounsaturates": "0.0099",
+    "polyunsaturates": "0.268",
+    "carbohydrate": "5.128",
+    "sugars": "5.128",
+    "starch": null,
+    "polyols": null,
+    "fibre": "15.474",
+    "protein": "3.128",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K430162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

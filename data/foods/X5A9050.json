@@ -1,0 +1,44 @@
+{
+  "code": "X5A9050",
+  "name": {
+    "de": "Selleriegemüse gekocht",
+    "en": "Celeriac boiled (with lemon juice and salt)"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.059",
+    "monounsaturates": "0.012",
+    "polyunsaturates": "0.155",
+    "carbohydrate": "2.41",
+    "sugars": "1.845",
+    "starch": "0.372",
+    "polyols": "0.19",
+    "fibre": "3.7",
+    "protein": "1.333",
+    "sodium": "0.158",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A9050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

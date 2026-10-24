@@ -1,0 +1,44 @@
+{
+  "code": "G520042",
+  "name": {
+    "de": "Gurke geschmort ohne Fett",
+    "en": "Cucumber braised without fat"
+  },
+  "per100g": {
+    "fat": "0.218",
+    "saturates": "0.073",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.096",
+    "carbohydrate": "2.17",
+    "sugars": "2.17",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "1.155",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G520042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

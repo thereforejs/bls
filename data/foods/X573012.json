@@ -1,0 +1,44 @@
+{
+  "code": "X573012",
+  "name": {
+    "de": "Auberginen gedünstet (mit Fett und Salz)",
+    "en": "Aubergines stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.3",
+    "monounsaturates": "1.76",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "2.8",
+    "sugars": "2.7",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "1.4",
+    "protein": "0.66",
+    "sodium": "0.101",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X573012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

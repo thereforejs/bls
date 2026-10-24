@@ -1,0 +1,44 @@
+{
+  "code": "K713400",
+  "name": {
+    "de": "Pfifferling getrocknet",
+    "en": "Chanterelle dried"
+  },
+  "per100g": {
+    "fat": "2.514",
+    "saturates": "0.455",
+    "monounsaturates": "0.055",
+    "polyunsaturates": "1.262",
+    "carbohydrate": "5.111",
+    "sugars": "1.493",
+    "starch": null,
+    "polyols": "3.618",
+    "fibre": "30.334",
+    "protein": "36.271",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K713400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D433200",
+  "name": {
+    "de": "Quarknapfkuchen (Rührmasse)",
+    "en": "Quark ring cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "16.1",
+    "saturates": "8.2",
+    "monounsaturates": "4.77",
+    "polyunsaturates": "1.3",
+    "carbohydrate": "47.7",
+    "sugars": "26.9",
+    "starch": "20.7",
+    "polyols": "0.085",
+    "fibre": "2.6",
+    "protein": "8.5",
+    "sodium": "0.213",
+    "alcohol": "0",
+    "organicAcids": "0.557"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D433200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

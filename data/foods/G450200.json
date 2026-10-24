@@ -1,0 +1,44 @@
+{
+  "code": "G450200",
+  "name": {
+    "de": "Spargel tiefgefroren",
+    "en": "Asparagus deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.173",
+    "saturates": "0.031",
+    "monounsaturates": "0.00645",
+    "polyunsaturates": "0.083",
+    "carbohydrate": "4.42",
+    "sugars": "4.22",
+    "starch": "0.101",
+    "polyols": "0.1",
+    "fibre": "1.6",
+    "protein": "2.178",
+    "sodium": "0.00238",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G450200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

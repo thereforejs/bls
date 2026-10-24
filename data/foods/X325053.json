@@ -1,0 +1,44 @@
+{
+  "code": "X325053",
+  "name": {
+    "de": "Meerrettichsauce von heller/weißer Grundsauce",
+    "en": "Horseradish sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "3.3",
+    "monounsaturates": "1.26",
+    "polyunsaturates": "0.16",
+    "carbohydrate": "4.56",
+    "sugars": "1.68",
+    "starch": "2.88",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "1.5",
+    "sodium": "0.264",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X325053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

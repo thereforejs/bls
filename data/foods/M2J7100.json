@@ -1,0 +1,44 @@
+{
+  "code": "M2J7100",
+  "name": {
+    "de": "Trinkjoghurt aus entrahmter Milch, max. 0,5 % Fett, mit Fruchtzubereitung, gesüßt",
+    "en": "Yogurt drink from skimmed milk, max. 0.5 % fat, with fruit preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "0.42",
+    "saturates": "0.13",
+    "monounsaturates": "0.19",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "13.26",
+    "sugars": "12.25",
+    "starch": "0.9",
+    "polyols": "0.106",
+    "fibre": "0.32",
+    "protein": "3.45",
+    "sodium": "0.0502",
+    "alcohol": "0",
+    "organicAcids": "1.352"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2J7100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

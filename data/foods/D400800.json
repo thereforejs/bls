@@ -1,0 +1,44 @@
+{
+  "code": "D400800",
+  "name": {
+    "de": "Heidelbeer-Muffins (Rührmasse)",
+    "en": "Blueberry muffins (cake batter)"
+  },
+  "per100g": {
+    "fat": "14.23",
+    "saturates": "8.33",
+    "monounsaturates": "3.26",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "44.3",
+    "sugars": "23.02",
+    "starch": "21.3",
+    "polyols": "0.001",
+    "fibre": "3.1",
+    "protein": "5.7",
+    "sodium": "0.096",
+    "alcohol": "0",
+    "organicAcids": "0.499"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D400800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

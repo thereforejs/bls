@@ -1,0 +1,44 @@
+{
+  "code": "Y780163",
+  "name": {
+    "de": "Käsefondue (mit Alkohol)",
+    "en": "Cheese fondue (with alcohol)"
+  },
+  "per100g": {
+    "fat": "19.01",
+    "saturates": "11.594",
+    "monounsaturates": "4.995",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "0.12",
+    "sugars": "0.12",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "0.075",
+    "protein": "16.9",
+    "sodium": "0.295",
+    "alcohol": "1.6",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y780163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

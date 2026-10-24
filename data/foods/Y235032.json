@@ -1,0 +1,44 @@
+{
+  "code": "Y235032",
+  "name": {
+    "de": "Kalbskotelett gegrillt, mit Basilikumbutter",
+    "en": "Veal chop grilled, with basil butter"
+  },
+  "per100g": {
+    "fat": "13.2",
+    "saturates": "6",
+    "monounsaturates": "4.3",
+    "polyunsaturates": "1.26",
+    "carbohydrate": "0.1",
+    "sugars": "0.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "22",
+    "sodium": "0.17",
+    "alcohol": "0",
+    "organicAcids": "0.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y235032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

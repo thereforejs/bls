@@ -1,0 +1,44 @@
+{
+  "code": "G581082",
+  "name": {
+    "de": "Kürbis Hokkaido (C. maxima) gebraten ohne Fett (Pfanne)",
+    "en": "Hokkaido pumpkin fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.37",
+    "saturates": "0.087",
+    "monounsaturates": "0.033",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "9.811",
+    "sugars": "8.5",
+    "starch": "1.296",
+    "polyols": "0.015",
+    "fibre": "1.444",
+    "protein": "2.593",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

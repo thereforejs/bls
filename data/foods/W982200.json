@@ -1,0 +1,44 @@
+{
+  "code": "W982200",
+  "name": {
+    "de": "Delikatesspastete mit Mürbeteig, gebacken",
+    "en": "Gourmet pate with shortcrust pastry, baked"
+  },
+  "per100g": {
+    "fat": "22.65",
+    "saturates": "9.21",
+    "monounsaturates": "7.92",
+    "polyunsaturates": "2.07",
+    "carbohydrate": "7.55",
+    "sugars": "0.3",
+    "starch": "7.25",
+    "polyols": "0",
+    "fibre": "0.64",
+    "protein": "16.82",
+    "sodium": "1.1",
+    "alcohol": "0",
+    "organicAcids": "0.0042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W982200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

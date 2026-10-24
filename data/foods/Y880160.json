@@ -1,0 +1,44 @@
+{
+  "code": "Y880160",
+  "name": {
+    "de": "Quarkcreme",
+    "en": "Quark cream"
+  },
+  "per100g": {
+    "fat": "5.27",
+    "saturates": "2.88",
+    "monounsaturates": "1.369",
+    "polyunsaturates": "0.141",
+    "carbohydrate": "10.89",
+    "sugars": "10.89",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "8.5",
+    "sodium": "0.032",
+    "alcohol": "0",
+    "organicAcids": "0.701"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y880160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

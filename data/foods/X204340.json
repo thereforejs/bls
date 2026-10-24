@@ -1,0 +1,44 @@
+{
+  "code": "X204340",
+  "name": {
+    "de": "Apfel-Selleriesalat mit Zitronenmarinade",
+    "en": "Apple-celeriac salad with lemon marinade"
+  },
+  "per100g": {
+    "fat": "15.7",
+    "saturates": "1.28",
+    "monounsaturates": "7.09",
+    "polyunsaturates": "6.32",
+    "carbohydrate": "5.2",
+    "sugars": "4.65",
+    "starch": "0.3",
+    "polyols": "0.3",
+    "fibre": "2.4",
+    "protein": "1.72",
+    "sodium": "0.099",
+    "alcohol": "0.006",
+    "organicAcids": "0.71"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X204340",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

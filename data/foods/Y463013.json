@@ -1,0 +1,44 @@
+{
+  "code": "Y463013",
+  "name": {
+    "de": "Lammschmorbraten mit Sauce",
+    "en": "Braised lamb roast with sauce"
+  },
+  "per100g": {
+    "fat": "6.2",
+    "saturates": "1.4",
+    "monounsaturates": "0.9",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "1.69",
+    "sugars": "0.00617",
+    "starch": "1.68",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "19.03",
+    "sodium": "0.258",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y463013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

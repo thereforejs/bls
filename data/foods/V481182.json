@@ -1,0 +1,44 @@
+{
+  "code": "V481182",
+  "name": {
+    "de": "Pute Fleisch, ohne Haut, gebraten ohne Fett (Pfanne)",
+    "en": "Turkey meat, without skin, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "3.1",
+    "saturates": "0.865",
+    "monounsaturates": "0.968",
+    "polyunsaturates": "0.932",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.903",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V481182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

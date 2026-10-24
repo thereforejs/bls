@@ -1,0 +1,44 @@
+{
+  "code": "Y882510",
+  "name": {
+    "de": "Quark (Halbfettstufe) mit Konfitüre",
+    "en": "Quark (min. 20 % fat in dry matter) with jam"
+  },
+  "per100g": {
+    "fat": "4.4",
+    "saturates": "2.383",
+    "monounsaturates": "1.129",
+    "polyunsaturates": "0.132",
+    "carbohydrate": "10.4",
+    "sugars": "10.4",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0.2",
+    "protein": "10.6",
+    "sodium": "0.031",
+    "alcohol": "0",
+    "organicAcids": "0.902"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y882510",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y413032",
+  "name": {
+    "de": "Lammfilet gebraten",
+    "en": "Lamb fillet fried"
+  },
+  "per100g": {
+    "fat": "19.1",
+    "saturates": "6.95",
+    "monounsaturates": "5.99",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.6",
+    "sodium": "0.301",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y413032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M884000",
+  "name": {
+    "de": "Magermilchpulver",
+    "en": "Skimmed milk powder"
+  },
+  "per100g": {
+    "fat": "0.48",
+    "saturates": "0.28",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.022",
+    "carbohydrate": "50.5",
+    "sugars": "50.5",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "34.287",
+    "sodium": "0.557",
+    "alcohol": "0",
+    "organicAcids": "1.102"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M884000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

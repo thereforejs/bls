@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4000",
+  "name": {
+    "de": "Grießbrei (als Dessert) mit Erdbeersauce roh",
+    "en": "Semolina pudding (as dessert) with raw strawberry sauce"
+  },
+  "per100g": {
+    "fat": "3",
+    "saturates": "1.78",
+    "monounsaturates": "0.69",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "15.02",
+    "sugars": "10.58",
+    "starch": "4.43",
+    "polyols": "0.011",
+    "fibre": "0.6",
+    "protein": "3.14",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

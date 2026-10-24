@@ -1,0 +1,44 @@
+{
+  "code": "K703400",
+  "name": {
+    "de": "Morchel getrocknet",
+    "en": "Morel dried"
+  },
+  "per100g": {
+    "fat": "2.532",
+    "saturates": "0.436",
+    "monounsaturates": "0.055",
+    "polyunsaturates": "1.266",
+    "carbohydrate": "4.7",
+    "sugars": "4.7",
+    "starch": null,
+    "polyols": null,
+    "fibre": "55.475",
+    "protein": "19.689",
+    "sodium": "0.016",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K703400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

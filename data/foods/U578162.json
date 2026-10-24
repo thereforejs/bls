@@ -1,0 +1,44 @@
+{
+  "code": "U578162",
+  "name": {
+    "de": "Schwein Lachsbraten, gebraten, ohne Fett (Ofen)",
+    "en": "Pork meat for roasting (loin) fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "2.51",
+    "saturates": "0.83",
+    "monounsaturates": "0.89",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.84",
+    "sodium": "0.0479",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U578162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X445743",
+  "name": {
+    "de": "Sellerie-Lauchcremesuppe",
+    "en": "Cream of celeriac-leek soup"
+  },
+  "per100g": {
+    "fat": "2.18",
+    "saturates": "1.36",
+    "monounsaturates": "0.45",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3",
+    "sugars": "1.4",
+    "starch": "2",
+    "polyols": "0.04",
+    "fibre": "1",
+    "protein": "1.1",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X445743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H861132",
+  "name": {
+    "de": "Seidentofu gargezogen",
+    "en": "Silken tofu poached"
+  },
+  "per100g": {
+    "fat": "2.5",
+    "saturates": "0.39",
+    "monounsaturates": "0.52",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "0.6",
+    "protein": "4.2",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H861132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

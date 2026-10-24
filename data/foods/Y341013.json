@@ -1,0 +1,44 @@
+{
+  "code": "Y341013",
+  "name": {
+    "de": "Schweinegulasch mit Tomaten und Zwiebeln",
+    "en": "Pork goulash with tomatoes and onions"
+  },
+  "per100g": {
+    "fat": "4.71",
+    "saturates": "0.9",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.89",
+    "carbohydrate": "3.29",
+    "sugars": "3.29",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "13.27",
+    "sodium": "0.154",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y341013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

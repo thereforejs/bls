@@ -1,0 +1,44 @@
+{
+  "code": "D753100",
+  "name": {
+    "de": "Nuss-Spritzgebäck (Rührmasse)",
+    "en": "Nut spritz biscuits (cake batter)"
+  },
+  "per100g": {
+    "fat": "40.54",
+    "saturates": "19.54",
+    "monounsaturates": "14.73",
+    "polyunsaturates": "2.11",
+    "carbohydrate": "38.6",
+    "sugars": "16.9",
+    "starch": "21.7",
+    "polyols": "0",
+    "fibre": "3.5",
+    "protein": "7.9",
+    "sodium": "0.069",
+    "alcohol": "0",
+    "organicAcids": "0.0285"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D753100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D300200",
+  "name": {
+    "de": "Sachertorte (Rührmasse)",
+    "en": "Sacher torte (cake batter)"
+  },
+  "per100g": {
+    "fat": "17.6",
+    "saturates": "10.12",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "0.82",
+    "carbohydrate": "41",
+    "sugars": "33.6",
+    "starch": "7.4",
+    "polyols": "0.002",
+    "fibre": "2.7",
+    "protein": "5.9",
+    "sodium": "0.064",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D300200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

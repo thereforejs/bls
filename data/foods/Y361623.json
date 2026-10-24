@@ -1,0 +1,44 @@
+{
+  "code": "Y361623",
+  "name": {
+    "de": "Schweinebraten mit Sauce, Kaisergemüse und Salzkartoffeln",
+    "en": "Pork roast with sauce, mixed vegetables and boiled salted potatoes"
+  },
+  "per100g": {
+    "fat": "5.3",
+    "saturates": "1.3",
+    "monounsaturates": "2.4",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "7.1",
+    "sugars": "1.6",
+    "starch": "5.18",
+    "polyols": "0.29",
+    "fibre": "1.5",
+    "protein": "7.05",
+    "sodium": "0.139",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y361623",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

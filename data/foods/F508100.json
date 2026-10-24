@@ -1,0 +1,44 @@
+{
+  "code": "F508100",
+  "name": {
+    "de": "Maracuja/Passionsfrucht, roh",
+    "en": "Passion fruit raw"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.02353",
+    "monounsaturates": "0.0179",
+    "polyunsaturates": "0.0379",
+    "carbohydrate": "9.54",
+    "sugars": "9.54",
+    "starch": null,
+    "polyols": null,
+    "fibre": "1.4",
+    "protein": "0.71331",
+    "sodium": "0.00896",
+    "alcohol": null,
+    "organicAcids": "3.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F508100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

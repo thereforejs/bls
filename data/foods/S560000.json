@@ -1,0 +1,44 @@
+{
+  "code": "S560000",
+  "name": {
+    "de": "Zartbitter-/Halbbitterschokolade",
+    "en": "Bittersweet/semisweet chocolate"
+  },
+  "per100g": {
+    "fat": "32.26",
+    "saturates": "19.42",
+    "monounsaturates": "10.25",
+    "polyunsaturates": "1.089",
+    "carbohydrate": "49.6",
+    "sugars": "46.9",
+    "starch": "2.7",
+    "polyols": "0",
+    "fibre": "9.27",
+    "protein": "6.62",
+    "sodium": "0.0087",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S560000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

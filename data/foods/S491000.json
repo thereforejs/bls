@@ -1,0 +1,44 @@
+{
+  "code": "S491000",
+  "name": {
+    "de": "Sesam-Krokant",
+    "en": "Sesame brittle"
+  },
+  "per100g": {
+    "fat": "25.704",
+    "saturates": "3.851",
+    "monounsaturates": "10.149",
+    "polyunsaturates": "9.879",
+    "carbohydrate": "44.7",
+    "sugars": "32.9",
+    "starch": "0.112",
+    "polyols": null,
+    "fibre": "5.702",
+    "protein": "10.657",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S491000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

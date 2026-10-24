@@ -1,0 +1,44 @@
+{
+  "code": "P341600",
+  "name": {
+    "de": "Wermutwein süß",
+    "en": "Vermouth sweet"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "14.6",
+    "sugars": "14.6",
+    "starch": "0",
+    "polyols": "0.025",
+    "fibre": "0",
+    "protein": "0.1",
+    "sodium": "0.01",
+    "alcohol": "11.4",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P341600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S580200",
+  "name": {
+    "de": "Schokolade weiß, mit Kaffee",
+    "en": "Chocolate white, filled with coffee"
+  },
+  "per100g": {
+    "fat": "32.8",
+    "saturates": "19.05",
+    "monounsaturates": "9.49",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "55.8",
+    "sugars": "55.65",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "6.4",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S580200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

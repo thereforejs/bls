@@ -1,0 +1,44 @@
+{
+  "code": "D440500",
+  "name": {
+    "de": "Nusskuchen (Sandmasse)",
+    "en": "Nut cake (sand cake batter)"
+  },
+  "per100g": {
+    "fat": "31.79",
+    "saturates": "14.78",
+    "monounsaturates": "12.4",
+    "polyunsaturates": "1.68",
+    "carbohydrate": "45.4",
+    "sugars": "27.4",
+    "starch": "18",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "6.84",
+    "sodium": "0.066",
+    "alcohol": "0",
+    "organicAcids": "0.0192"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D440500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

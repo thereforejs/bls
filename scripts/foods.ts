@@ -1,8 +1,9 @@
 import { decimal, multiply, toDecimalString } from "@thereforejs/decy";
+import type { Food, Mark, Nutrient } from "../src/food.ts";
 import { shortestDecimal } from "./decimal.ts";
 
 // SPEC 3.1: nutrition's key, the BLS column and the unit the column must carry.
-const NUTRIENTS = {
+const NUTRIENTS: Record<Nutrient, readonly [string, "g" | "mg"]> = {
   fat: ["FAT", "g"],
   saturates: ["FASAT", "g"],
   monounsaturates: ["FAMS", "g"],
@@ -16,21 +17,9 @@ const NUTRIENTS = {
   sodium: ["NA", "mg"],
   alcohol: ["ALC", "g"],
   organicAcids: ["OA", "g"],
-} as const;
-
-const MARKS = ["<LOD", "<LOQ", "<LOD or <LOQ", "TR"] as const;
-
-export type Nutrient = keyof typeof NUTRIENTS;
-export type Mark = (typeof MARKS)[number];
-
-export type Food = {
-  code: string;
-  name: { de: string; en: string };
-  /** Grams per 100 g as exact decimal text; `null` where the BLS has no value. */
-  per100g: Record<Nutrient, string | null>;
-  /** Why a `null` is more than missing: below a limit or traces (BLS documentation 4.4). */
-  marks: Partial<Record<Nutrient, Mark>>;
 };
+
+const MARKS: readonly Mark[] = ["<LOD", "<LOQ", "<LOD or <LOQ", "TR"];
 
 /** The foods of the BLS sheet, header row first, in the order of the sheet. */
 export function toFoods(rows: (string | undefined)[][]): Food[] {
@@ -46,7 +35,13 @@ export function toFoods(rows: (string | undefined)[][]): Food[] {
     if (!code) throw new Error(`Row ${i + 2} has no code`);
     if (!de || !en) throw new Error(`${code} has no German or English name`);
 
-    const food: Food = { code, name: { de, en }, per100g: {} as Food["per100g"], marks: {} };
+    const food: Food = {
+      code,
+      name: { de, en },
+      per100g: {} as Food["per100g"],
+      marks: {},
+      sources: [{ source: "bls-4.0", id: code, nutrients: columns.map(([key]) => key) }],
+    };
     for (const [key, index] of columns) {
       const raw = row[index];
       const [bls, unit] = NUTRIENTS[key];

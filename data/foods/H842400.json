@@ -1,0 +1,44 @@
+{
+  "code": "H842400",
+  "name": {
+    "de": "Sojadrink gesüßt, aromatisiert",
+    "en": "Soya drink sweetened, flavoured"
+  },
+  "per100g": {
+    "fat": "2.212",
+    "saturates": "0.321",
+    "monounsaturates": "0.467",
+    "polyunsaturates": "1.278",
+    "carbohydrate": "5.69",
+    "sugars": "5.68",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "1.64",
+    "protein": "3.01",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H842400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X9A5000",
+  "name": {
+    "de": "Flammkuchen vegetarisch",
+    "en": "Tarte flambee vegetarian"
+  },
+  "per100g": {
+    "fat": "10.73",
+    "saturates": "4.21",
+    "monounsaturates": "3.98",
+    "polyunsaturates": "1.56",
+    "carbohydrate": "23",
+    "sugars": "2.2",
+    "starch": "21",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "6.85",
+    "sodium": "0.194",
+    "alcohol": "0",
+    "organicAcids": "0.319"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

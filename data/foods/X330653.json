@@ -1,0 +1,44 @@
+{
+  "code": "X330653",
+  "name": {
+    "de": "Robertsauce von dunkler/brauner Grundsauce",
+    "en": "Sauce \"Robert\" from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "0.7",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "1.14",
+    "carbohydrate": "5.37",
+    "sugars": "0.46",
+    "starch": "4.91",
+    "polyols": "0.001",
+    "fibre": "0.4",
+    "protein": "1.03",
+    "sodium": "0.24",
+    "alcohol": "0.31",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X330653",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

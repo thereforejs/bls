@@ -1,0 +1,44 @@
+{
+  "code": "Y870843",
+  "name": {
+    "de": "Weißweincreme abgeschlagen (mit Gelatine)",
+    "en": "White wine cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "0.76",
+    "monounsaturates": "1.06",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "13.14",
+    "sugars": "13.14",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "0.004",
+    "protein": "4.7",
+    "sodium": "0.057",
+    "alcohol": "0.44",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y870843",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

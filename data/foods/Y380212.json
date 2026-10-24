@@ -1,0 +1,44 @@
+{
+  "code": "Y380212",
+  "name": {
+    "de": "Schweinebauch gekocht, mit Sauerkraut mit Apfel gedünstet",
+    "en": "Pork belly boiled, with sauerkraut with apple stewed"
+  },
+  "per100g": {
+    "fat": "10.47",
+    "saturates": "3.59",
+    "monounsaturates": "4.13",
+    "polyunsaturates": "1.12",
+    "carbohydrate": "1.9",
+    "sugars": "1.75",
+    "starch": "0.09",
+    "polyols": "0.1",
+    "fibre": "1.7",
+    "protein": "7.92",
+    "sodium": "0.315",
+    "alcohol": "0.03",
+    "organicAcids": "0.841"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y380212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

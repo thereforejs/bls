@@ -1,0 +1,44 @@
+{
+  "code": "D651500",
+  "name": {
+    "de": "Printen schokoliert",
+    "en": "Chocolate printen"
+  },
+  "per100g": {
+    "fat": "13.4",
+    "saturates": "8.08",
+    "monounsaturates": "3.62",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "68.5",
+    "sugars": "43.7",
+    "starch": "24.7",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "5.5",
+    "sodium": "0.155",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D651500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

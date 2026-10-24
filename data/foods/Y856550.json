@@ -1,0 +1,44 @@
+{
+  "code": "Y856550",
+  "name": {
+    "de": "Buttermilchgelee mit Erdbeeren",
+    "en": "Buttermilk jelly with strawberries"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.22",
+    "monounsaturates": "0.08",
+    "polyunsaturates": "0.109",
+    "carbohydrate": "11.83",
+    "sugars": "11.81",
+    "starch": "0",
+    "polyols": "0.024",
+    "fibre": "0.8",
+    "protein": "3.1",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.75"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y856550",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

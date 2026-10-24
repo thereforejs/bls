@@ -1,0 +1,44 @@
+{
+  "code": "D073000",
+  "name": {
+    "de": "Brandmasse/Brandteig, roh",
+    "en": "Choux pastry raw"
+  },
+  "per100g": {
+    "fat": "9.29",
+    "saturates": "4.76",
+    "monounsaturates": "2.46",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "16.21",
+    "sugars": "0.223",
+    "starch": "15.99",
+    "polyols": "0",
+    "fibre": "1.19",
+    "protein": "6.75",
+    "sodium": "0.067",
+    "alcohol": "0",
+    "organicAcids": "0.0064"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D073000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

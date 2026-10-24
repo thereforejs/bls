@@ -1,0 +1,44 @@
+{
+  "code": "Y692723",
+  "name": {
+    "de": "Fischgulasch mit Seelachs ungarische Art",
+    "en": "Fish goulash with saithe Hungarian style"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "0.8",
+    "monounsaturates": "2",
+    "polyunsaturates": "1.06",
+    "carbohydrate": "4.2",
+    "sugars": "2.1",
+    "starch": "2.07",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "7.1",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y692723",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

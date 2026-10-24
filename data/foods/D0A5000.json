@@ -1,0 +1,44 @@
+{
+  "code": "D0A5000",
+  "name": {
+    "de": "Hefeteig (einfacher) gebacken",
+    "en": "Yeast dough (simple) baked"
+  },
+  "per100g": {
+    "fat": "8.98",
+    "saturates": "5.15",
+    "monounsaturates": "2.03",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "50",
+    "sugars": "8.85",
+    "starch": "41",
+    "polyols": "0",
+    "fibre": "3.14",
+    "protein": "8.71",
+    "sodium": "0.134",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D0A5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

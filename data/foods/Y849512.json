@@ -1,0 +1,44 @@
+{
+  "code": "Y849512",
+  "name": {
+    "de": "Fruchtkompott mit Süßstoff",
+    "en": "Fruit compote with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.075",
+    "monounsaturates": "0.064",
+    "polyunsaturates": "0.127",
+    "carbohydrate": "10.5",
+    "sugars": "9.55",
+    "starch": "0.099",
+    "polyols": "0.9",
+    "fibre": "1.2",
+    "protein": "0.644",
+    "sodium": "0.004",
+    "alcohol": "0.002",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y849512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

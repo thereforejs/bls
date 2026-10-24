@@ -1,0 +1,44 @@
+{
+  "code": "H610182",
+  "name": {
+    "de": "Bambussprossen gebraten ohne Fett (Pfanne)",
+    "en": "Bamboo shoots fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.353",
+    "saturates": "0.065",
+    "monounsaturates": "0.013",
+    "polyunsaturates": "0.202",
+    "carbohydrate": "1.129",
+    "sugars": "1.129",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "2.941",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H610182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

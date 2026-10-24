@@ -1,0 +1,44 @@
+{
+  "code": "Y301122",
+  "name": {
+    "de": "Eisbein gepökelt, gekocht",
+    "en": "Pork foreshank (hock) \"Eisbein\" cured, boiled"
+  },
+  "per100g": {
+    "fat": "11.29",
+    "saturates": "3.798",
+    "monounsaturates": "4.591",
+    "polyunsaturates": "1.022",
+    "carbohydrate": "0.579",
+    "sugars": "0.579",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.03",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y301122",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

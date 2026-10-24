@@ -1,0 +1,44 @@
+{
+  "code": "D411100",
+  "name": {
+    "de": "Mandarinen-Omelettes (Wiener Boden hell) mit Sahne",
+    "en": "Viennese sponge cake roll filled with whipped cream and mandarins"
+  },
+  "per100g": {
+    "fat": "16.2",
+    "saturates": "8.57",
+    "monounsaturates": "4.22",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "23.22",
+    "sugars": "16.16",
+    "starch": "7.06",
+    "polyols": "0",
+    "fibre": "0.49",
+    "protein": "3.72",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.36"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D411100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

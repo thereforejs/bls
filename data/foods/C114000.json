@@ -1,0 +1,44 @@
+{
+  "code": "C114000",
+  "name": {
+    "de": "Weizen Keim",
+    "en": "Wheat germ"
+  },
+  "per100g": {
+    "fat": "8.34",
+    "saturates": "1.4",
+    "monounsaturates": "1.005",
+    "polyunsaturates": "5.21",
+    "carbohydrate": "24.54",
+    "sugars": "2.49511",
+    "starch": "22.04",
+    "polyols": "0",
+    "fibre": "18.46",
+    "protein": "28.48",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C114000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

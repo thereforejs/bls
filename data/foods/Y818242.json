@@ -1,0 +1,44 @@
+{
+  "code": "Y818242",
+  "name": {
+    "de": "Quarkplinsen gebraten",
+    "en": "Small quark pancakes fried"
+  },
+  "per100g": {
+    "fat": "13.87",
+    "saturates": "3.96",
+    "monounsaturates": "5.32",
+    "polyunsaturates": "2.24",
+    "carbohydrate": "21.57",
+    "sugars": "8.49",
+    "starch": "13.08",
+    "polyols": "0",
+    "fibre": "0.97",
+    "protein": "10.59",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0.544"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y818242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y851512",
+  "name": {
+    "de": "Rhabarberkompott zuckerreduziert",
+    "en": "Rhubarb compote sugar-reduced"
+  },
+  "per100g": {
+    "fat": "0.119",
+    "saturates": "0.024",
+    "monounsaturates": "0.006",
+    "polyunsaturates": "0.059",
+    "carbohydrate": "9.13",
+    "sugars": "8.935",
+    "starch": "0.195",
+    "polyols": "0",
+    "fibre": "2.71",
+    "protein": "0.508",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y851512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

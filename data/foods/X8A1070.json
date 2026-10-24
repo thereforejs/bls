@@ -1,0 +1,44 @@
+{
+  "code": "X8A1070",
+  "name": {
+    "de": "Reis-Schinkenfüllung für Gemüse",
+    "en": "Rice-ham filling for vegetables"
+  },
+  "per100g": {
+    "fat": "13.45",
+    "saturates": "3.13",
+    "monounsaturates": "6.52",
+    "polyunsaturates": "2.66",
+    "carbohydrate": "17.2",
+    "sugars": "0.69",
+    "starch": "16.5",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "14.55",
+    "sodium": "0.593",
+    "alcohol": "0",
+    "organicAcids": "0.558"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X8A1070",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

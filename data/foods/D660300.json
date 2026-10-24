@@ -1,0 +1,44 @@
+{
+  "code": "D660300",
+  "name": {
+    "de": "Kokosmakronen",
+    "en": "Coconut macaroons"
+  },
+  "per100g": {
+    "fat": "29.9",
+    "saturates": "28.222",
+    "monounsaturates": "1.352",
+    "polyunsaturates": "0.216",
+    "carbohydrate": "49.4",
+    "sugars": "49.1",
+    "starch": "0",
+    "polyols": "0.311",
+    "fibre": "6.779",
+    "protein": "5.9",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D660300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y841263",
+  "name": {
+    "de": "Süßkirschkompott",
+    "en": "Sweet cherry compote"
+  },
+  "per100g": {
+    "fat": "0.236",
+    "saturates": "0.053",
+    "monounsaturates": "0.064",
+    "polyunsaturates": "0.071",
+    "carbohydrate": "21.5",
+    "sugars": "20.23",
+    "starch": "0",
+    "polyols": "1.27",
+    "fibre": "1.4",
+    "protein": "0.686",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.426"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X558143",
+  "name": {
+    "de": "Zucchini gedünstet (mit Fett und Salz)",
+    "en": "Courgette stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.9",
+    "saturates": "0.5",
+    "monounsaturates": "2.65",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "4",
+    "sugars": "2.5",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "1.6",
+    "sodium": "0.099",
+    "alcohol": "0",
+    "organicAcids": "0.015"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X558143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C515400",
+  "name": {
+    "de": "Cornflakes ungesüßt",
+    "en": "Cornflakes unsweetened"
+  },
+  "per100g": {
+    "fat": "0.84",
+    "saturates": "0.113",
+    "monounsaturates": "0.22",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "82.96",
+    "sugars": "0.71",
+    "starch": "82.25",
+    "polyols": "0",
+    "fibre": "4.13",
+    "protein": "7.18",
+    "sodium": "0.0589",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C515400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

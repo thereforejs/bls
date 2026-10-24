@@ -1,0 +1,44 @@
+{
+  "code": "D770400",
+  "name": {
+    "de": "Feingebäck (Blätterteig) schokoliert",
+    "en": "Fine pastry (puff pastry) with chocolate icing"
+  },
+  "per100g": {
+    "fat": "39.95",
+    "saturates": "17.96",
+    "monounsaturates": "16.16",
+    "polyunsaturates": "4.9",
+    "carbohydrate": "41.5",
+    "sugars": "14.2",
+    "starch": "27.27",
+    "polyols": "0",
+    "fibre": "3.54",
+    "protein": "5.77",
+    "sodium": "0.163",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D770400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

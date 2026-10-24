@@ -1,0 +1,44 @@
+{
+  "code": "U642132",
+  "name": {
+    "de": "Schwein Bauch (wie gewachsen) gekocht",
+    "en": "Pork belly (untrimmed) boiled"
+  },
+  "per100g": {
+    "fat": "29.64",
+    "saturates": "10.614",
+    "monounsaturates": "11.481",
+    "polyunsaturates": "2.831",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.49",
+    "sodium": "0.0386",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U642132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

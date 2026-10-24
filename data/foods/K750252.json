@@ -1,0 +1,44 @@
+{
+  "code": "K750252",
+  "name": {
+    "de": "Mischpilze tiefgefroren, gedünstet",
+    "en": "Mixed mushrooms deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.069",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3.82",
+    "sugars": "1.72",
+    "starch": "0",
+    "polyols": "2.1",
+    "fibre": "8.99",
+    "protein": "6.2",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K750252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

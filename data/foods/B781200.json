@@ -1,0 +1,44 @@
+{
+  "code": "B781200",
+  "name": {
+    "de": "Weizenbaguette",
+    "en": "Wheat baguette"
+  },
+  "per100g": {
+    "fat": "1.31",
+    "saturates": "0.32",
+    "monounsaturates": "0.34",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "50",
+    "sugars": "1.5",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "3.67",
+    "protein": "8.3",
+    "sodium": "0.6417",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B781200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

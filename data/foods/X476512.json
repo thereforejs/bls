@@ -1,0 +1,44 @@
+{
+  "code": "X476512",
+  "name": {
+    "de": "Tsatsiki",
+    "en": "Tsatsiki"
+  },
+  "per100g": {
+    "fat": "6.02",
+    "saturates": "3.93",
+    "monounsaturates": "1.492",
+    "polyunsaturates": "0.222",
+    "carbohydrate": "3.5",
+    "sugars": "3.5",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "2.4",
+    "sodium": "0.123",
+    "alcohol": "0",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X476512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

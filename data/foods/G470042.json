@@ -1,0 +1,44 @@
+{
+  "code": "G470042",
+  "name": {
+    "de": "Porree/Lauch, geschmort ohne Fett",
+    "en": "Leek braised without fat"
+  },
+  "per100g": {
+    "fat": "0.309",
+    "saturates": "0.054",
+    "monounsaturates": "0.0121",
+    "polyunsaturates": "0.129",
+    "carbohydrate": "6",
+    "sugars": "4.8",
+    "starch": "1",
+    "polyols": null,
+    "fibre": "2.8",
+    "protein": "2.648",
+    "sodium": "0.0006",
+    "alcohol": "0",
+    "organicAcids": "0.278"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G470042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

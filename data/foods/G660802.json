@@ -1,0 +1,44 @@
+{
+  "code": "G660802",
+  "name": {
+    "de": "Knollensellerie gesäuert, abgetropft",
+    "en": "Celeriac pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.242",
+    "saturates": "0.05",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.128",
+    "carbohydrate": "5.85",
+    "sugars": "5.449",
+    "starch": "0.267",
+    "polyols": "0.13",
+    "fibre": "3.2",
+    "protein": "1.142",
+    "sodium": "0.511",
+    "alcohol": "0.018",
+    "organicAcids": "1.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G660802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

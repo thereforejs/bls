@@ -1,0 +1,44 @@
+{
+  "code": "W342000",
+  "name": {
+    "de": "Hessische Landrotwurst",
+    "en": "Hessian blood sausage"
+  },
+  "per100g": {
+    "fat": "14.61",
+    "saturates": "5.62",
+    "monounsaturates": "5.05",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "0.45",
+    "sugars": "0.25",
+    "starch": "0.2",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "20.16",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W342000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

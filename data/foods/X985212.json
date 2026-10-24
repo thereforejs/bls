@@ -1,0 +1,44 @@
+{
+  "code": "X985212",
+  "name": {
+    "de": "Rohrnudeln (aus Hefeteig mit Wasser zubereitet) gebacken",
+    "en": "\"Rohrnudeln\" sweet yeast dumplings (of dough prepared with water) baked"
+  },
+  "per100g": {
+    "fat": "14.49",
+    "saturates": "4.69",
+    "monounsaturates": "5.92",
+    "polyunsaturates": "2.59",
+    "carbohydrate": "46",
+    "sugars": "9.971",
+    "starch": "36",
+    "polyols": "0",
+    "fibre": "2.76",
+    "protein": "6.69",
+    "sodium": "0.207",
+    "alcohol": "0",
+    "organicAcids": "0.0017"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X985212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

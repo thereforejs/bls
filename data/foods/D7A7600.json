@@ -1,0 +1,44 @@
+{
+  "code": "D7A7600",
+  "name": {
+    "de": "Schoko-Plunder",
+    "en": "Danish pastry with chocolate"
+  },
+  "per100g": {
+    "fat": "29.16",
+    "saturates": "15.45",
+    "monounsaturates": "10.08",
+    "polyunsaturates": "2.95",
+    "carbohydrate": "49",
+    "sugars": "14.083",
+    "starch": "35",
+    "polyols": "0",
+    "fibre": "3.43",
+    "protein": "8.65",
+    "sodium": "0.363",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

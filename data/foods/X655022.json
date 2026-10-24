@@ -1,0 +1,44 @@
+{
+  "code": "X655022",
+  "name": {
+    "de": "Kartoffelpuffer/Reibekuchen, gebraten",
+    "en": "Potato pancakes fried"
+  },
+  "per100g": {
+    "fat": "12.61",
+    "saturates": "1.12",
+    "monounsaturates": "6.29",
+    "polyunsaturates": "2.97",
+    "carbohydrate": "18.08",
+    "sugars": "1.15",
+    "starch": "16.93",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "4.23",
+    "sodium": "0.208",
+    "alcohol": "0",
+    "organicAcids": "0.014"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X655022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

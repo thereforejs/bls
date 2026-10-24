@@ -1,0 +1,47 @@
+{
+  "code": "T507100",
+  "name": {
+    "de": "Pangasius/Schlankwels, roh",
+    "en": "Striped catfish raw"
+  },
+  "per100g": {
+    "fat": "1.82",
+    "saturates": "0.7893",
+    "monounsaturates": "0.7576",
+    "polyunsaturates": "0.2467",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "14.91",
+    "sodium": "0.234",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T507100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

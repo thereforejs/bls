@@ -1,0 +1,44 @@
+{
+  "code": "C133000",
+  "name": {
+    "de": "Hafer Flocken",
+    "en": "Oat flakes"
+  },
+  "per100g": {
+    "fat": "6.65",
+    "saturates": "1.34",
+    "monounsaturates": "2.359",
+    "polyunsaturates": "2.682",
+    "carbohydrate": "53.3",
+    "sugars": "0.74",
+    "starch": "52.6",
+    "polyols": "0",
+    "fibre": "10.983",
+    "protein": "13.22",
+    "sodium": "0.00198",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C133000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

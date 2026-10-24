@@ -1,0 +1,44 @@
+{
+  "code": "G560400",
+  "name": {
+    "de": "Tomate getrocknet",
+    "en": "Tomato dried"
+  },
+  "per100g": {
+    "fat": "1.412",
+    "saturates": "0.2766",
+    "monounsaturates": "0.1362",
+    "polyunsaturates": "0.5666",
+    "carbohydrate": "41.66",
+    "sugars": "41.66",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "16.7",
+    "protein": "12.193",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "4.967"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G560400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

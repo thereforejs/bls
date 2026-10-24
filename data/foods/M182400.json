@@ -1,0 +1,44 @@
+{
+  "code": "M182400",
+  "name": {
+    "de": "Kondensmilch mind. 7,5 % Fett",
+    "en": "Evaporated milk min. 7.5 % fat"
+  },
+  "per100g": {
+    "fat": "7.57",
+    "saturates": "4.127",
+    "monounsaturates": "2.007",
+    "polyunsaturates": "0.205",
+    "carbohydrate": "9.32",
+    "sugars": "9.32",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "6.358",
+    "sodium": "0.098",
+    "alcohol": "0",
+    "organicAcids": "0.398"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M182400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U080100",
+  "name": {
+    "de": "Rind Leberhack, roh",
+    "en": "Beef liver mince, raw"
+  },
+  "per100g": {
+    "fat": "3.66",
+    "saturates": "1.149",
+    "monounsaturates": "0.631",
+    "polyunsaturates": "0.505",
+    "carbohydrate": "5.3",
+    "sugars": "0",
+    "starch": "5.3",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.21",
+    "sodium": "0.116",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U080100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

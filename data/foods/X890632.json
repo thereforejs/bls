@@ -1,0 +1,44 @@
+{
+  "code": "X890632",
+  "name": {
+    "de": "Käsepilaw (Reis mit Zwiebeln und Käse)",
+    "en": "Cheese pilaf (rice with onions and cheese)"
+  },
+  "per100g": {
+    "fat": "6.7",
+    "saturates": "4.3",
+    "monounsaturates": "1.555",
+    "polyunsaturates": "0.231",
+    "carbohydrate": "25.1",
+    "sugars": "1.27",
+    "starch": "23.8",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "5.93",
+    "sodium": "0.258",
+    "alcohol": "0",
+    "organicAcids": "0.094"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X890632",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

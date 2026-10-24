@@ -1,0 +1,44 @@
+{
+  "code": "S242300",
+  "name": {
+    "de": "Walnusseis",
+    "en": "Walnut ice cream"
+  },
+  "per100g": {
+    "fat": "12.8",
+    "saturates": "8.392",
+    "monounsaturates": "3.251",
+    "polyunsaturates": "0.3694",
+    "carbohydrate": "26.74",
+    "sugars": "22.21",
+    "starch": "4.53",
+    "polyols": "0",
+    "fibre": "1.77",
+    "protein": "3.4",
+    "sodium": "0.0342",
+    "alcohol": "0",
+    "organicAcids": "0.154"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S242300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

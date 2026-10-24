@@ -1,0 +1,44 @@
+{
+  "code": "U323162",
+  "name": {
+    "de": "Kalb Kotelett (Rücken) gebraten ohne Fett (Ofen)",
+    "en": "Veal chop (loin) fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "2.832",
+    "saturates": "1.186",
+    "monounsaturates": "1.064",
+    "polyunsaturates": "0.184",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.114",
+    "sodium": "0.101",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U323162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

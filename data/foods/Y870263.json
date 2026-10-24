@@ -1,0 +1,44 @@
+{
+  "code": "Y870263",
+  "name": {
+    "de": "Vanillecreme abgeschlagen (mit Gelatine)",
+    "en": "Vanilla cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "15.1",
+    "saturates": "7.55",
+    "monounsaturates": "4.17",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "13.68",
+    "sugars": "13.68",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "5.5",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.085"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y870263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

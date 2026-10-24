@@ -1,0 +1,44 @@
+{
+  "code": "N251000",
+  "name": {
+    "de": "Fruchtsaftgetränk mit Zucker und Süßungsmitteln",
+    "en": "Fruit juice beverage with sugar and artificial sweeteners"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.002",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0.004",
+    "carbohydrate": "2.2",
+    "sugars": "2.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.058",
+    "protein": "0.148",
+    "sodium": "0.003",
+    "alcohol": "0.018",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N251000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

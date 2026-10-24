@@ -1,0 +1,44 @@
+{
+  "code": "C552000",
+  "name": {
+    "de": "Mehrkornflocken",
+    "en": "Multigrain flakes"
+  },
+  "per100g": {
+    "fat": "3.071",
+    "saturates": "0.623",
+    "monounsaturates": "0.818",
+    "polyunsaturates": "1.393",
+    "carbohydrate": "57.2",
+    "sugars": "1.231",
+    "starch": "56",
+    "polyols": "0",
+    "fibre": "11.6",
+    "protein": "11.569",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C552000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

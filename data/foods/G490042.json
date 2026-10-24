@@ -1,0 +1,44 @@
+{
+  "code": "G490042",
+  "name": {
+    "de": "Knoblauch geschmort ohne Fett",
+    "en": "Garlic braised without fat"
+  },
+  "per100g": {
+    "fat": "0.52",
+    "saturates": "0.078",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.212",
+    "carbohydrate": "4",
+    "sugars": "2.5",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "35.371",
+    "protein": "7.487",
+    "sodium": "0.0097364",
+    "alcohol": "0",
+    "organicAcids": "0.278"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

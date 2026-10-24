@@ -1,0 +1,44 @@
+{
+  "code": "X359640",
+  "name": {
+    "de": "Asia-Dressing",
+    "en": "Asian dressing"
+  },
+  "per100g": {
+    "fat": "22.05",
+    "saturates": "1.66",
+    "monounsaturates": "12.62",
+    "polyunsaturates": "5.98",
+    "carbohydrate": "4.9",
+    "sugars": "4.43",
+    "starch": "0.3",
+    "polyols": "0.215",
+    "fibre": "0.4",
+    "protein": "1.84",
+    "sodium": "1.279",
+    "alcohol": "0.31",
+    "organicAcids": "2.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X359640",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

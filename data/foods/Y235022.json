@@ -1,0 +1,44 @@
+{
+  "code": "Y235022",
+  "name": {
+    "de": "Kalbssteak gebraten (mit Fett und Salz)",
+    "en": "Veal steak fried (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.97",
+    "saturates": "1.18",
+    "monounsaturates": "1.57",
+    "polyunsaturates": "0.45",
+    "carbohydrate": "0.01",
+    "sugars": "0",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "22",
+    "sodium": "0.188",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y235022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

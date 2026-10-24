@@ -1,0 +1,44 @@
+{
+  "code": "V416272",
+  "name": {
+    "de": "Hähnchen Brustfilet, tiefgefroren, gegrillt",
+    "en": "Chicken breast fillet, deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "2.05",
+    "saturates": "0.465",
+    "monounsaturates": "0.594",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "30.29",
+    "sodium": "0.0539",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V416272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

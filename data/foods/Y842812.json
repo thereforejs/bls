@@ -1,0 +1,44 @@
+{
+  "code": "Y842812",
+  "name": {
+    "de": "Erdbeerkompott ungesüßt",
+    "en": "Strawberry compote unsweetened"
+  },
+  "per100g": {
+    "fat": "0.368",
+    "saturates": "0.029",
+    "monounsaturates": "0.057",
+    "polyunsaturates": "0.218",
+    "carbohydrate": "6.941",
+    "sugars": "6.647",
+    "starch": "0.239",
+    "polyols": "0.055",
+    "fibre": "1.9",
+    "protein": "0.852",
+    "sodium": "0.001",
+    "alcohol": "0.001",
+    "organicAcids": "1.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y842812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

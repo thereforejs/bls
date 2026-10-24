@@ -1,0 +1,44 @@
+{
+  "code": "Y892142",
+  "name": {
+    "de": "Kartoffelbällchen (Hefeteig mit gekochten Kartoffeln) frittiert",
+    "en": "Small potato-yeast dumplings fried"
+  },
+  "per100g": {
+    "fat": "18.8",
+    "saturates": "7.1",
+    "monounsaturates": "6.96",
+    "polyunsaturates": "2.71",
+    "carbohydrate": "38",
+    "sugars": "12.22",
+    "starch": "26",
+    "polyols": "0",
+    "fibre": "2.47",
+    "protein": "6.81",
+    "sodium": "0.045",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y892142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

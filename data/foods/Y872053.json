@@ -1,0 +1,44 @@
+{
+  "code": "Y872053",
+  "name": {
+    "de": "Fruchtcreme roh gerührt (mit Gelatine)",
+    "en": "Fruit cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "2.39",
+    "monounsaturates": "1.71",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "16.05",
+    "sugars": "15.29",
+    "starch": "0.227",
+    "polyols": "0.53",
+    "fibre": "1.2",
+    "protein": "3.4",
+    "sodium": "0.021",
+    "alcohol": "0.02",
+    "organicAcids": "0.72"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y872053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

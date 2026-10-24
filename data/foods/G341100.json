@@ -1,0 +1,44 @@
+{
+  "code": "G341100",
+  "name": {
+    "de": "Rotkohl roh",
+    "en": "Red cabbage raw"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.0334",
+    "monounsaturates": "0.0066",
+    "polyunsaturates": "0.098",
+    "carbohydrate": "3.732",
+    "sugars": "3.66",
+    "starch": "0.072",
+    "polyols": null,
+    "fibre": "2.5",
+    "protein": "1.563",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.175"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G341100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

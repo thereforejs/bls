@@ -1,0 +1,44 @@
+{
+  "code": "V913500",
+  "name": {
+    "de": "Gänseleberpastete getrüffelt, in der Kruste gebacken",
+    "en": "Truffled goose liver pate, baked in a crust"
+  },
+  "per100g": {
+    "fat": "16",
+    "saturates": "7.4",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "8.9",
+    "sugars": "0.4",
+    "starch": "8.5",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "15.9",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V913500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

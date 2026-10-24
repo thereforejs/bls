@@ -112,56 +112,79 @@ are never validated with `[A-Z]\d{6}`.
 
 ## 5. Output
 
-Per food: the BLS code, the German and the English name, and `per100g` with nutrition's keys as exact
-decimal strings or `null`. How the names are split so that one language can be tree-shaken away is
-open (question 2).
+One entry point, `@thereforejs/bls`. Every food is a named export under its BLS code, typed `Food`:
+
+```ts
+import { C131000 } from "@thereforejs/bls"; // Hafer ganzes Korn, roh
+// { code: "C131000", name: { de, en }, per100g: { fat: "7.09", ..., sodium: "0.008" }, marks: {} }
+
+import * as bls from "@thereforejs/bls"; // an application that picks foods at runtime
+const food = bls[code];
+```
+
+- `per100g`: nutrition's keys as exact decimal text, or `null` (section 4).
+- `marks`: the BLS mark of a `null` value, if any (section 4).
+- `name`: German and English on every food. Dropping one language would save 18.6 % (gzip, measured
+  2026-10-24) at the price of a second import per food; not worth it.
+- The German and English name of each food is its doc comment, so an editor shows "Hafer ganzes Korn,
+  roh" next to `C131000`. No readable aliases: choosing names would be an interpretation.
+- The types `Food`, `Nutrient` and `Mark` are exported.
 
 ---
 
-## 6. Groups and entry points
+## 6. Groups
 
-One entry point per main food group (e.g. `@thereforejs/bls/sweets`). The documentation names only the
-principle with one example (C = Getreide); the readable entry names are derived from the data and
-agreed (question 6).
+The first letter of the code is the main food group (documentation 2.4). The build writes one module
+per group (`src/foods/c.ts`), so no single file holds the whole database; the entry only re-exports
+them. Groups are not entry points: an application either names its foods (and gets exactly those) or
+picks them at runtime (and needs all). Group entry points for lazy loading come when someone needs them.
 
-| Letter | Foods | gzip  | Letter | Foods | gzip  |
-| ------ | ----- | ----- | ------ | ----- | ----- |
-| B      | 186   | 9 KB  | P      | 119   | 5 KB  |
-| C      | 231   | 11 KB | Q      | 65    | 4 KB  |
-| D      | 466   | 28 KB | R      | 97    | 6 KB  |
-| E      | 104   | 5 KB  | S      | 253   | 14 KB |
-| F      | 275   | 13 KB | T      | 520   | 21 KB |
-| G      | 560   | 27 KB | U      | 685   | 26 KB |
-| H      | 142   | 8 KB  | V      | 462   | 17 KB |
-| K      | 157   | 9 KB  | W      | 375   | 19 KB |
-| M      | 279   | 13 KB | X      | 1,165 | 75 KB |
-| N      | 114   | 5 KB  | Y      | 885   | 56 KB |
+| Letter | Foods | Letter | Foods |
+| ------ | ----- | ------ | ----- |
+| B      | 186   | P      | 119   |
+| C      | 231   | Q      | 65    |
+| D      | 466   | R      | 97    |
+| E      | 104   | S      | 253   |
+| F      | 275   | T      | 520   |
+| G      | 560   | U      | 685   |
+| H      | 142   | V      | 462   |
+| K      | 157   | W      | 375   |
+| M      | 279   | X      | 1,165 |
+| N      | 114   | Y      | 885   |
 
-Sizes are for the declaration nutrients with both names (measured 2026-10-24); all groups together
-about 2.2 MB raw, 390 KB gzip.
+The documentation names no groups. From the data: B bread, C cereals, D cakes and pastries, E pasta,
+eggs and dumplings, F fruit, G vegetables, H nuts, seeds and plant-based alternatives, K potatoes and
+mushrooms, M milk and cheese, N coffee and tea, P alcoholic drinks, Q fats and oils, R salt, spices,
+sauces and fillings, S sugar and confectionery, T fish, U meat, V game, poultry and offal, W sausages,
+X and Y dishes. A reading for orientation, not part of the API.
 
 ---
 
 ## 7. Tree-shaking
 
-- `"sideEffects": false`, named exports only.
-- **No module holds a collection of all groups or all languages.** A map such as `{ de, en }` pulls
-  every entry into every bundle (verified with Rolldown in nutrition).
-- Each generated JSON is wrapped in a small typed `.ts` module: tsgo cannot emit declarations for a
-  JSON file exported directly.
-- Verified on the built package: importing one group ships only that group.
+- `"sideEffects": false`, one named export per food.
+- **No module holds a collection of all foods, groups or languages.** A map such as `{ de, en }` pulls
+  every entry into every bundle (verified with Rolldown in nutrition). Re-exports (`export *`) are not
+  a collection.
+- Verified 2026-10-24 on the built package with the Vite+ bundler: importing `C131000` and `M5B1600`
+  gives a bundle of 1,080 bytes holding exactly these two foods.
 
 ---
 
 ## 8. Build
 
-`scripts/build.ts` (run with `vpx`) reads the original XLSX from `docs/` and writes the group files.
-The generated data is checked in; users install it.
+`data/foods/<code>.json` is the source of truth: one file per food with its `sources`, checked in
+and maintained (decided 2026-10-24: the package is a maintained database with the BLS as its first
+source, not a copy of the BLS). `vp run import:bls` seeded it from `BLS_4_0_Daten_2025_DE.xlsx` once
+and only ever adds missing files. `vp run generate` renders the ignored `src/foods/*.ts` from it, in
+CI and before packing; the same data gives byte-identical files. Formatter and linter skip
+`src/foods/`; the tests check it. Sources are registered in `src/sources.ts`, shipped as
+`@thereforejs/bls/sources`.
 
-The build prints a report of everything it did not take over unchanged. Cleaned artefacts are silent.
-Listed:
+The build is to print a report of everything it did not take over unchanged. Cleaned artefacts are
+silent. Listed:
 
-- every `<LOD`, `<LOQ`, `TR` in a shipped nutrient;
+- every mark (`<LOD`, `<LOQ`, `TR`) in a shipped nutrient;
 - every food nutrition would refuse: a part above its whole (saturates, mono-, polyunsaturates above
   fat; sugars, starch, polyols above carbohydrate), a value above 100 g. Measured 2026-10-24: saturates
   above fat 42 times, mono-unsaturates 33, polyunsaturates 42 (Kochbanane roh: 0.116 saturates in
@@ -172,14 +195,16 @@ Listed:
 ## 9. Tests (the oracle)
 
 1. Cleaning: the artefact cases of section 4, each read back to the source double.
-2. Sodium mg to g; `-` to `null`; a real `0` stays `0`.
+2. Sodium mg to g; `-` to `null`; a real `0` stays `0`; a mark is `null` with the mark.
 3. Group split: every food lands in the group of its first letter, no group file holds a food of
    another group, codes like `M5B1600` included.
-4. Every shipped food passes nutrition's input rules or is listed in the build report.
-5. Reproducibility: two builds give byte-identical files.
-6. Property (fast-check): for every value, the shipped string reads back to the same double as the
+4. The shipped data: all 7,140 foods, each exported under its own code, every value its shortest
+   decimal.
+5. Every shipped food passes nutrition's input rules or is listed in the build report.
+6. Reproducibility: two builds give byte-identical files.
+7. Property (fast-check): for every value, the shipped string reads back to the same double as the
    source cell.
-7. Tree-shaking on the built package: one group imported, no other group in the bundle.
+8. Tree-shaking on the built package: two foods imported, only those two in the bundle.
 
 ---
 
@@ -190,7 +215,7 @@ Listed:
   Max Rubner-Institut (2025): Bundeslebensmittelschlüssel (BLS), Version 4.0 - Deutsche
   Nährstoffdatenbank. Karlsruhe. DOI: 10.25826/Data20251217-134202-0.
 - Changes made: a subset of nutrients, sodium in g instead of mg, `-` as `null`, numbers in their
-  shortest decimal spelling, split by main food group.
+  shortest decimal spelling, one export per food.
 - The documentation 9.3 says the BLS is provided "kostenfrei und ohne Lizenzbarrieren", for uses
   including "App- und Softwareentwicklung" and "Nährwertkennzeichnung". How the package states both
   licenses is open (question 7).
@@ -201,12 +226,15 @@ Listed:
 
 - Separate package and repo: other license, its own release rhythm, about 2 MB of data that should not
   sit in every nutrition install (2026-10-24).
-- Split by BLS main food group, one entry point each (2026-10-24).
+- Split by BLS main food group (2026-10-24); the same day replaced by one export per food, which
+  tree-shakes finer than any group.
 - Tree-shaking is a hard requirement: no module holds all groups or all languages (2026-10-24).
 - German and English names (2026-10-24).
 - Missing is `null`, never `0`; a real `0` stays `0` (2026-10-24).
 - Sodium only, no NACL; no energy (2026-10-24).
 - `<LOD`, `<LOQ`, `TR` ship as `null` with their mark next to it, never as a number (2026-10-24).
+- One entry point, one named export per food under its BLS code, both names on every food; groups only
+  as internal files (2026-10-24).
 - Name `@thereforejs/bls`, repo `thereforejs/bls`, a Vite+ library like nutrition (2026-10-24).
 
 ---
@@ -217,13 +245,14 @@ Listed:
    storing on other servers" notice for web documents; the download page says CC BY 4.0 for the data.
    A written confirmation from the Max Rubner-Institut (bls.karlsruhe@mri.bund.de) settles it before
    publishing. Building is fine without it.
-2. **Names per language:** how the German and English names are split so one can be tree-shaken away.
+2. ~~Names per language~~: decided 2026-10-24, both names on every food (section 5).
 3. ~~`<LOD`, `<LOQ`, `TR`~~: decided 2026-10-24, `null` with the mark next to it (section 4).
 4. **A part above its whole** (section 8): fix, `null`, or keep and let nutrition refuse.
 5. **Water (WATER):** not needed by nutrition; ship it or not.
-6. **Group entry names** per letter.
-7. **License statement:** how the package states MIT for the code and CC BY 4.0 for the data.
-8. **XLSX reader:** a library (license, size) or the XML parsed directly.
+6. ~~Group entry names~~: decided 2026-10-24, one entry with an export per food (sections 5, 6).
+7. ~~License statement~~: decided 2026-10-24, `"license": "MIT AND CC-BY-4.0"`, both named in the README.
+8. ~~XLSX reader~~: decided 2026-10-24, `fflate` to unzip, the two XML files parsed directly, which
+   keeps the raw cell text.
 9. **The BLS energy formula** disagrees between its own files: the documentation (5.2) has no OLSAC
    term, `BLS_4_0_Components_DE_EN.xlsx` adds `8*OLSAC` (kJ) although CHO already contains OLSAC; 411
    foods have OLSAC above 0. Which one the data uses decides whether ENERCJ can serve as an oracle for

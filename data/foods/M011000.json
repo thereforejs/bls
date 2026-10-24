@@ -1,0 +1,44 @@
+{
+  "code": "M011000",
+  "name": {
+    "de": "Schafmilch mind. 4,5 % Fett",
+    "en": "Sheep's milk min. 4.5 % fat"
+  },
+  "per100g": {
+    "fat": "5.967",
+    "saturates": "3.573",
+    "monounsaturates": "1.054",
+    "polyunsaturates": "0.224",
+    "carbohydrate": "4.432",
+    "sugars": "4.432",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "5.163",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M011000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

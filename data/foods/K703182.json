@@ -1,0 +1,44 @@
+{
+  "code": "K703182",
+  "name": {
+    "de": "Morchel gebraten ohne Fett (Pfanne)",
+    "en": "Morel fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.525",
+    "saturates": "0.09",
+    "monounsaturates": "0.012",
+    "polyunsaturates": "0.262",
+    "carbohydrate": "1",
+    "sugars": "1",
+    "starch": null,
+    "polyols": null,
+    "fibre": "11.492",
+    "protein": "4.079",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K703182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

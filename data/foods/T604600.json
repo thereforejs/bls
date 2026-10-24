@@ -1,0 +1,44 @@
+{
+  "code": "T604600",
+  "name": {
+    "de": "Katfisch/Steinbeißer, geräuchert",
+    "en": "Catfish/wolffish, smoked"
+  },
+  "per100g": {
+    "fat": "3.58",
+    "saturates": "0.638",
+    "monounsaturates": "1.505",
+    "polyunsaturates": "1.0556",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23",
+    "sodium": "0.701",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T604600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

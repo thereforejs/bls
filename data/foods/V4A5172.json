@@ -1,0 +1,44 @@
+{
+  "code": "V4A5172",
+  "name": {
+    "de": "Hähnchen Oberschenkel, mit Haut, gegrillt",
+    "en": "Chicken thigh, with skin, grilled"
+  },
+  "per100g": {
+    "fat": "22.14",
+    "saturates": "4.901",
+    "monounsaturates": "7.458",
+    "polyunsaturates": "3.698",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.42",
+    "sodium": "0.0981",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V4A5172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X811233",
+  "name": {
+    "de": "Reis Trauttmansdorff",
+    "en": "Rice pudding \"Trauttmansdorff\""
+  },
+  "per100g": {
+    "fat": "4.7",
+    "saturates": "2.602",
+    "monounsaturates": "1.206",
+    "polyunsaturates": "0.163",
+    "carbohydrate": "22",
+    "sugars": "11.5",
+    "starch": "10.1",
+    "polyols": "0.41",
+    "fibre": "0.8",
+    "protein": "3.2",
+    "sodium": "0.028",
+    "alcohol": "0.001",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X811233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C238032",
+  "name": {
+    "de": "Dinkel Grieß, gekocht",
+    "en": "Spelt semolina, boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.022",
+    "monounsaturates": "0.033",
+    "polyunsaturates": "0.082",
+    "carbohydrate": "7.14",
+    "sugars": "0.0725",
+    "starch": "7.07",
+    "polyols": "0",
+    "fibre": "0.67",
+    "protein": "1.36",
+    "sodium": "0.0001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C238032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

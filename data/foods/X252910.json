@@ -1,0 +1,44 @@
+{
+  "code": "X252910",
+  "name": {
+    "de": "Gurken-Rettichsalat mit Saure-Sahne-Dressing",
+    "en": "Cucumber-radish salad with sour cream dressing"
+  },
+  "per100g": {
+    "fat": "1.4",
+    "saturates": "0.7",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.14",
+    "carbohydrate": "2.8",
+    "sugars": "2.5",
+    "starch": "0.27",
+    "polyols": "0.05",
+    "fibre": "0.9",
+    "protein": "1.35",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X252910",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G210132",
+  "name": {
+    "de": "Spinat gekocht",
+    "en": "Spinach boiled"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.037",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.195",
+    "carbohydrate": "0.45",
+    "sugars": "0.38",
+    "starch": "0.07",
+    "polyols": "0",
+    "fibre": "2.06",
+    "protein": "2.36",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.041"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G210132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X371053",
+  "name": {
+    "de": "Holländische Sauce einfach",
+    "en": "Hollandaise sauce simple"
+  },
+  "per100g": {
+    "fat": "15.5",
+    "saturates": "8.8",
+    "monounsaturates": "3.87",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "1.98",
+    "sugars": "0.9",
+    "starch": "1.085",
+    "polyols": "0",
+    "fibre": "0.018",
+    "protein": "1.9",
+    "sodium": "0.24",
+    "alcohol": "0",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X371053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y813442",
+  "name": {
+    "de": "Dampfnudeln süß gebraten",
+    "en": "\"Dampfnudeln\" yeast dumplings sweetened fried"
+  },
+  "per100g": {
+    "fat": "16.05",
+    "saturates": "5.64",
+    "monounsaturates": "5.91",
+    "polyunsaturates": "2.42",
+    "carbohydrate": "42",
+    "sugars": "9.25",
+    "starch": "33",
+    "polyols": "0",
+    "fibre": "2.53",
+    "protein": "7.67",
+    "sodium": "0.205",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y813442",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

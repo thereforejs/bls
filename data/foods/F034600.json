@@ -1,0 +1,44 @@
+{
+  "code": "F034600",
+  "name": {
+    "de": "Smoothie grün (Früchte/Gemüse)",
+    "en": "Smoothie of green fruits and vegetables"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.07",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "8",
+    "sugars": "6.6",
+    "starch": "1",
+    "polyols": "0.5",
+    "fibre": "2.1",
+    "protein": "1.3",
+    "sodium": "0.011",
+    "alcohol": "0.03",
+    "organicAcids": "0.87"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F034600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

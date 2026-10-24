@@ -1,0 +1,44 @@
+{
+  "code": "M2L2300",
+  "name": {
+    "de": "Trinkjoghurt mind. 3,5 % Fett, mit Fruchtzubereitung, gesüßt",
+    "en": "Yogurt drink min. 3.5 % fat, with fruit preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "2.96",
+    "saturates": "1.9",
+    "monounsaturates": "0.77",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "13",
+    "sugars": "12.1",
+    "starch": "0.79",
+    "polyols": "0.08",
+    "fibre": "1.15",
+    "protein": "3.01",
+    "sodium": "0.0416",
+    "alcohol": "0",
+    "organicAcids": "1.101"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2L2300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

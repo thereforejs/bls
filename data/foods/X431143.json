@@ -1,0 +1,44 @@
+{
+  "code": "X431143",
+  "name": {
+    "de": "Ei-Einlauf, Suppeneinlage",
+    "en": "Egg added to soups"
+  },
+  "per100g": {
+    "fat": "6.28",
+    "saturates": "1.69",
+    "monounsaturates": "2.36",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "8.72",
+    "sugars": "0.27",
+    "starch": "8.45",
+    "polyols": "0",
+    "fibre": "0.66",
+    "protein": "10.32",
+    "sodium": "0.217",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X431143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

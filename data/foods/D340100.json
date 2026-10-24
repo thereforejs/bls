@@ -1,0 +1,44 @@
+{
+  "code": "D340100",
+  "name": {
+    "de": "Buttercremetorte (Sandmasse)",
+    "en": "Butter cream torte (sand cake batter)"
+  },
+  "per100g": {
+    "fat": "20.8",
+    "saturates": "12.36",
+    "monounsaturates": "5.12",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "38.2",
+    "sugars": "27",
+    "starch": "10.9",
+    "polyols": "0.04",
+    "fibre": "0.5",
+    "protein": "3.7",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0.078"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D340100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

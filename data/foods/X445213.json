@@ -1,0 +1,44 @@
+{
+  "code": "X445213",
+  "name": {
+    "de": "Tomatensuppe gebunden mit Reis",
+    "en": "Tomato soup thickened with rice"
+  },
+  "per100g": {
+    "fat": "3.47",
+    "saturates": "1.14",
+    "monounsaturates": "1.4",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "3.4",
+    "sugars": "1.37",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "0.67",
+    "sodium": "0.083",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X445213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

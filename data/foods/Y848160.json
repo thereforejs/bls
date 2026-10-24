@@ -1,0 +1,44 @@
+{
+  "code": "Y848160",
+  "name": {
+    "de": "Rumtopf",
+    "en": "Fruit preserved in rum with sugar"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.01",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.01",
+    "carbohydrate": "17.4",
+    "sugars": "16.9",
+    "starch": "0",
+    "polyols": "0.47",
+    "fibre": "0.8",
+    "protein": "0.3",
+    "sodium": "0.002",
+    "alcohol": "37",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y848160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

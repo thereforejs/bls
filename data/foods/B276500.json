@@ -1,0 +1,44 @@
+{
+  "code": "B276500",
+  "name": {
+    "de": "Roggenmischbrot mit Sonnenblumenkernen",
+    "en": "Rye-wheat bread (> 50 % and < 90 % rye) with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "3.11",
+    "saturates": "0.32",
+    "monounsaturates": "0.76",
+    "polyunsaturates": "1.67",
+    "carbohydrate": "41",
+    "sugars": "0.847",
+    "starch": "40",
+    "polyols": "0",
+    "fibre": "7.16",
+    "protein": "7.52",
+    "sodium": "0.471",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B276500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

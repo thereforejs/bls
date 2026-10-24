@@ -1,0 +1,44 @@
+{
+  "code": "Y690633",
+  "name": {
+    "de": "Rotbarschauflauf mit Gemüse",
+    "en": "Redfish casserole with vegetables"
+  },
+  "per100g": {
+    "fat": "6.4",
+    "saturates": "2.3",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.95",
+    "carbohydrate": "2.3",
+    "sugars": "1.4",
+    "starch": "0.081",
+    "polyols": "0.8",
+    "fibre": "1",
+    "protein": "8",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y690633",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

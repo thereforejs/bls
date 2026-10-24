@@ -1,0 +1,44 @@
+{
+  "code": "D780300",
+  "name": {
+    "de": "Nuss-Plunder",
+    "en": "Hazelnut Danish pastry"
+  },
+  "per100g": {
+    "fat": "34.5",
+    "saturates": "12.36",
+    "monounsaturates": "17.29",
+    "polyunsaturates": "4.1",
+    "carbohydrate": "43",
+    "sugars": "14.29",
+    "starch": "29",
+    "polyols": "0.001",
+    "fibre": "3.7",
+    "protein": "9.86",
+    "sodium": "0.315",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D780300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

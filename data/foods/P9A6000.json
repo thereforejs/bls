@@ -1,0 +1,44 @@
+{
+  "code": "P9A6000",
+  "name": {
+    "de": "Cocktail, Tequila Sunrise",
+    "en": "Cocktail, Tequila sunrise"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.003",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0.01",
+    "carbohydrate": "5.594",
+    "sugars": "5.594",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "0.3",
+    "sodium": "0.002",
+    "alcohol": "5.011",
+    "organicAcids": "0.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P9A6000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

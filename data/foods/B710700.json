@@ -1,0 +1,44 @@
+{
+  "code": "B710700",
+  "name": {
+    "de": "Dinkelbrot mit Nüssen",
+    "en": "Spelt bread with nuts"
+  },
+  "per100g": {
+    "fat": "5.01",
+    "saturates": "0.76",
+    "monounsaturates": "2.06",
+    "polyunsaturates": "1.87",
+    "carbohydrate": "41",
+    "sugars": "0.486",
+    "starch": "41",
+    "polyols": "0",
+    "fibre": "4.8",
+    "protein": "8.66",
+    "sodium": "0.453",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B710700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

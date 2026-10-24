@@ -1,0 +1,44 @@
+{
+  "code": "X880453",
+  "name": {
+    "de": "Curryreis",
+    "en": "Curried rice"
+  },
+  "per100g": {
+    "fat": "4.536",
+    "saturates": "0.34",
+    "monounsaturates": "2.57",
+    "polyunsaturates": "1.25",
+    "carbohydrate": "21.3",
+    "sugars": "0.08",
+    "starch": "21.2",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "2.185",
+    "sodium": "0.0369",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X880453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

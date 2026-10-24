@@ -1,0 +1,44 @@
+{
+  "code": "F2C1902",
+  "name": {
+    "de": "Aprikose ungesüßt, Konserve, abgetropft",
+    "en": "Apricot unsweetened, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.113",
+    "saturates": "0.009",
+    "monounsaturates": "0.056",
+    "polyunsaturates": "0.024",
+    "carbohydrate": "3.623",
+    "sugars": "3.271",
+    "starch": "0",
+    "polyols": "0.352",
+    "fibre": "1.143",
+    "protein": "0.7",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F2C1902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

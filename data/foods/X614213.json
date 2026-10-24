@@ -1,0 +1,44 @@
+{
+  "code": "X614213",
+  "name": {
+    "de": "Kartoffelgulasch",
+    "en": "Potato goulash"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.5",
+    "monounsaturates": "1.6",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "10.1",
+    "sugars": "1.8",
+    "starch": "8.3",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "1",
+    "sodium": "0.15",
+    "alcohol": "0",
+    "organicAcids": "0.048"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X614213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

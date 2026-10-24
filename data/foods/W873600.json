@@ -1,0 +1,44 @@
+{
+  "code": "W873600",
+  "name": {
+    "de": "Herzwurst Konserve",
+    "en": "Heart sausage canned"
+  },
+  "per100g": {
+    "fat": "11.34",
+    "saturates": "4.03",
+    "monounsaturates": "4.18",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "0.25",
+    "sugars": "0.18",
+    "starch": "0.07",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "14.65",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W873600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

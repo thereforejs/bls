@@ -1,0 +1,44 @@
+{
+  "code": "W234100",
+  "name": {
+    "de": "Fleischwurst fettreduziert",
+    "en": "Bologna reduced-fat"
+  },
+  "per100g": {
+    "fat": "5.31",
+    "saturates": "2.02",
+    "monounsaturates": "1.82",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "0.12",
+    "sugars": "0",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "13.9",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W234100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

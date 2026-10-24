@@ -1,0 +1,44 @@
+{
+  "code": "K270000",
+  "name": {
+    "de": "Gnocchi roh",
+    "en": "Gnocchi raw"
+  },
+  "per100g": {
+    "fat": "0.61",
+    "saturates": "0.04",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "31.9",
+    "sugars": "0.408",
+    "starch": "31.49",
+    "polyols": "0",
+    "fibre": "1.84",
+    "protein": "3.88",
+    "sodium": "0.52",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K270000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

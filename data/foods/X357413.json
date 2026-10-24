@@ -1,0 +1,44 @@
+{
+  "code": "X357413",
+  "name": {
+    "de": "Joghurtmarinade für Salat",
+    "en": "Yogurt marinade for salad"
+  },
+  "per100g": {
+    "fat": "8.84",
+    "saturates": "2.19",
+    "monounsaturates": "4.22",
+    "polyunsaturates": "1.76",
+    "carbohydrate": "3.83",
+    "sugars": "3.83",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.07",
+    "sodium": "0.289",
+    "alcohol": "0.016",
+    "organicAcids": "2.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X357413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

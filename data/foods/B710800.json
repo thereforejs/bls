@@ -1,0 +1,44 @@
+{
+  "code": "B710800",
+  "name": {
+    "de": "Dinkelbrot mit Ölsamen",
+    "en": "Spelt bread with oilseeds"
+  },
+  "per100g": {
+    "fat": "3.97",
+    "saturates": "0.74",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "1.62",
+    "carbohydrate": "41",
+    "sugars": "0.415",
+    "starch": "41",
+    "polyols": "0",
+    "fibre": "5.09",
+    "protein": "9.14",
+    "sodium": "0.455",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B710800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

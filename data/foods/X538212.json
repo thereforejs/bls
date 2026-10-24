@@ -1,0 +1,44 @@
+{
+  "code": "X538212",
+  "name": {
+    "de": "Kohlroulade mit Hackfleischfüllung, gedünstet",
+    "en": "Cabbage roulade with minced meat filling, stewed"
+  },
+  "per100g": {
+    "fat": "7.4",
+    "saturates": "1.8",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "1.27",
+    "carbohydrate": "4",
+    "sugars": "2.9",
+    "starch": "1",
+    "polyols": "0.08",
+    "fibre": "1.8",
+    "protein": "5.1",
+    "sodium": "0.15",
+    "alcohol": "0",
+    "organicAcids": "0.119"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X538212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F110100",
+  "name": {
+    "de": "Apfel roh",
+    "en": "Apple raw"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.201",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.244",
+    "carbohydrate": "11.7",
+    "sugars": "10.487",
+    "starch": "0.6",
+    "polyols": "0.6",
+    "fibre": "2.275",
+    "protein": "0.424",
+    "sodium": "0.001",
+    "alcohol": "0.019",
+    "organicAcids": "0.455"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F110100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

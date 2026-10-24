@@ -1,0 +1,44 @@
+{
+  "code": "G090600",
+  "name": {
+    "de": "Gemüsesaft aus Gemüsemischung",
+    "en": "Mixed vegetables juice"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.03",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.05",
+    "carbohydrate": "3.2",
+    "sugars": "3.2",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "0.2",
+    "protein": "0.838",
+    "sodium": "0.224",
+    "alcohol": "0.005",
+    "organicAcids": "0.49"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G090600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

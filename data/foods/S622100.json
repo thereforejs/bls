@@ -1,0 +1,44 @@
+{
+  "code": "S622100",
+  "name": {
+    "de": "Pralinen gefüllt mit Mandel-Karamell",
+    "en": "Pralines filled with almond-caramel"
+  },
+  "per100g": {
+    "fat": "25.48",
+    "saturates": "14.85",
+    "monounsaturates": "4.95",
+    "polyunsaturates": "4.42",
+    "carbohydrate": "54.96",
+    "sugars": "45.54",
+    "starch": "9.1",
+    "polyols": "0.316",
+    "fibre": "4.22",
+    "protein": "9.08",
+    "sodium": "0.261",
+    "alcohol": "0",
+    "organicAcids": "0.268"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S622100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X640053",
+  "name": {
+    "de": "Kartoffelgratin",
+    "en": "Potato gratin"
+  },
+  "per100g": {
+    "fat": "5.77",
+    "saturates": "3.01",
+    "monounsaturates": "1.63",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "15",
+    "sugars": "1.75",
+    "starch": "13",
+    "polyols": "0",
+    "fibre": "1.14",
+    "protein": "3.42",
+    "sodium": "0.146",
+    "alcohol": "0",
+    "organicAcids": "0.049"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X640053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

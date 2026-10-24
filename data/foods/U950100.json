@@ -1,0 +1,44 @@
+{
+  "code": "U950100",
+  "name": {
+    "de": "Schweinefleisch im eigenen Saft, mit Schwarten Konserve",
+    "en": "Pork in its own juice, with rind, canned"
+  },
+  "per100g": {
+    "fat": "25",
+    "saturates": "10.868",
+    "monounsaturates": "11.89",
+    "polyunsaturates": "1.454",
+    "carbohydrate": "0.42",
+    "sugars": "0",
+    "starch": "0.42",
+    "polyols": "0",
+    "fibre": "0.11",
+    "protein": "17.6",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.006"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U950100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

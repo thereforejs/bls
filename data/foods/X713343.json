@@ -1,0 +1,44 @@
+{
+  "code": "X713343",
+  "name": {
+    "de": "Eier-Frischteigwaren Spätzle mit Gulasch einfach (mit Rindfleisch)",
+    "en": "Fresh egg pasta spaetzle with beef goulash simple"
+  },
+  "per100g": {
+    "fat": "6.1",
+    "saturates": "1.5",
+    "monounsaturates": "3",
+    "polyunsaturates": "1.06",
+    "carbohydrate": "8",
+    "sugars": "0.5",
+    "starch": "7",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "11.2",
+    "sodium": "0.242",
+    "alcohol": "0",
+    "organicAcids": "0.027"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X713343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

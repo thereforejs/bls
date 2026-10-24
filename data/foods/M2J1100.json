@@ -1,0 +1,44 @@
+{
+  "code": "M2J1100",
+  "name": {
+    "de": "Joghurt aus entrahmter Milch, max. 0,5 % Fett, mit Fruchtzubereitung, Zucker und Süßungsmitteln, angereichert mit Vitaminen",
+    "en": "Yogurt from skimmed milk, max. 0.5 % fat, with fruit preparation, sugar and artificial sweeteners, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "0.113",
+    "saturates": "0.052",
+    "monounsaturates": "0.028",
+    "polyunsaturates": "0.016",
+    "carbohydrate": "6.3",
+    "sugars": "5.7",
+    "starch": "0.56",
+    "polyols": "0.004",
+    "fibre": "0.1",
+    "protein": "3.681",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2J1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

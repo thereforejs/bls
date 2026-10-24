@@ -1,0 +1,44 @@
+{
+  "code": "E605300",
+  "name": {
+    "de": "Schupfnudeln eifrei, roh",
+    "en": "Finger-shaped pasta egg-free, raw"
+  },
+  "per100g": {
+    "fat": "0.56",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "36.18",
+    "sugars": "0.54",
+    "starch": "35.64",
+    "polyols": "0",
+    "fibre": "2.54",
+    "protein": "4.93",
+    "sodium": "0.823",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E605300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

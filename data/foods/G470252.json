@@ -1,0 +1,44 @@
+{
+  "code": "G470252",
+  "name": {
+    "de": "Porree/Lauch, tiefgefroren, gedünstet",
+    "en": "Leek deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.296",
+    "saturates": "0.052",
+    "monounsaturates": "0.0116",
+    "polyunsaturates": "0.122",
+    "carbohydrate": "6",
+    "sugars": "4.5",
+    "starch": "1",
+    "polyols": null,
+    "fibre": "2.6",
+    "protein": "1",
+    "sodium": "0.0006",
+    "alcohol": "0",
+    "organicAcids": "0.263"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G470252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

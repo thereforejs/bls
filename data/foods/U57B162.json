@@ -1,0 +1,44 @@
+{
+  "code": "U57B162",
+  "name": {
+    "de": "Schwein Ladenbauch, gebraten ohne Fett (Ofen)",
+    "en": "Pork belly for roasting, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "30.34",
+    "saturates": "10.86",
+    "monounsaturates": "11.73",
+    "polyunsaturates": "2.89",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.77",
+    "sodium": "0.0675",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U57B162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

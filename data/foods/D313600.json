@@ -1,0 +1,44 @@
+{
+  "code": "D313600",
+  "name": {
+    "de": "Orangencremetorte (Wiener Boden dunkel) mit Schokosahne",
+    "en": "Orange cream torte (Viennese sponge cake dark) with chocolate-cream"
+  },
+  "per100g": {
+    "fat": "14.3",
+    "saturates": "7.76",
+    "monounsaturates": "3.84",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "26",
+    "sugars": "20.2",
+    "starch": "5.8",
+    "polyols": "0.002",
+    "fibre": "1.1",
+    "protein": "3",
+    "sodium": "0.043",
+    "alcohol": "0.5",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D313600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

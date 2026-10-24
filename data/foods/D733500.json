@@ -1,0 +1,44 @@
+{
+  "code": "D733500",
+  "name": {
+    "de": "Schwarz-Weiß-Gebäck (Mürbeteig)",
+    "en": "Black-and-white chequerboard biscuits (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "19.82",
+    "saturates": "12.17",
+    "monounsaturates": "4.43",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "62.2",
+    "sugars": "30.63",
+    "starch": "31.6",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "6.78",
+    "sodium": "0.088",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D733500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

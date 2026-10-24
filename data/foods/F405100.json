@@ -1,0 +1,44 @@
+{
+  "code": "F405100",
+  "name": {
+    "de": "Sanddornbeere roh",
+    "en": "Sea buckthorn berry raw"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.3",
+    "monounsaturates": "0.5",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "2.4",
+    "sugars": "2.3",
+    "starch": "0.1",
+    "polyols": null,
+    "fibre": "3.6",
+    "protein": "1.42",
+    "sodium": "0.004",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F405100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

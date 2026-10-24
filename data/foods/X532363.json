@@ -1,0 +1,44 @@
+{
+  "code": "X532363",
+  "name": {
+    "de": "Broccoliauflauf",
+    "en": "Broccoli casserole"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "5",
+    "monounsaturates": "1.76",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "3.2",
+    "sugars": "1.69",
+    "starch": "1.41",
+    "polyols": "0.1",
+    "fibre": "1.2",
+    "protein": "7.02",
+    "sodium": "0.209",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X532363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X357260",
+  "name": {
+    "de": "Meerrettich-Dressing",
+    "en": "Horseradish dressing"
+  },
+  "per100g": {
+    "fat": "13.1",
+    "saturates": "3.7",
+    "monounsaturates": "5.9",
+    "polyunsaturates": "2.22",
+    "carbohydrate": "3.7",
+    "sugars": "3.5",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.21",
+    "protein": "3",
+    "sodium": "0.23",
+    "alcohol": "0.011",
+    "organicAcids": "1.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X357260",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

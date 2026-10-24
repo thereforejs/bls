@@ -1,0 +1,44 @@
+{
+  "code": "Y744123",
+  "name": {
+    "de": "Eierfrikassee mit Blumenkohl und Spargel in Grundsauce hell/weiß, dazu Risotto",
+    "en": "Egg fricassee with cauliflower and asparagus in white basic sauce, with risotto"
+  },
+  "per100g": {
+    "fat": "4.4",
+    "saturates": "1.5",
+    "monounsaturates": "1.58",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "7.2",
+    "sugars": "1.22",
+    "starch": "5.4",
+    "polyols": "0.54",
+    "fibre": "0.9",
+    "protein": "4.96",
+    "sodium": "0.183",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y744123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y263123",
+  "name": {
+    "de": "Kalbsrahmgulasch",
+    "en": "Veal goulash with cream"
+  },
+  "per100g": {
+    "fat": "11.1",
+    "saturates": "4.1",
+    "monounsaturates": "4.12",
+    "polyunsaturates": "1.22",
+    "carbohydrate": "1.06",
+    "sugars": "1.05",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "15.04",
+    "sodium": "0.213",
+    "alcohol": "0",
+    "organicAcids": "0.046"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y263123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

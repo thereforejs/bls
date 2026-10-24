@@ -1,0 +1,44 @@
+{
+  "code": "X0A4000",
+  "name": {
+    "de": "Haferflocken gesüßt, mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Oat flakes sweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "1.58",
+    "monounsaturates": "0.891",
+    "polyunsaturates": "0.527",
+    "carbohydrate": "16.5",
+    "sugars": "7.89",
+    "starch": "8.5",
+    "polyols": "0.1",
+    "fibre": "2.1",
+    "protein": "4.6",
+    "sodium": "0.024",
+    "alcohol": "0.01",
+    "organicAcids": "0.83"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V535182",
+  "name": {
+    "de": "Lamm Leber, gebraten ohne Fett (Pfanne)",
+    "en": "Lamb liver, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "5.59",
+    "saturates": "1.72",
+    "monounsaturates": null,
+    "polyunsaturates": "0.96",
+    "carbohydrate": "1.1",
+    "sugars": "0",
+    "starch": "1.1",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.2",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V535182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G581132",
+  "name": {
+    "de": "Kürbis Pumpkin (C. pepo) gekocht",
+    "en": "Pumpkin (C. pepo) boiled"
+  },
+  "per100g": {
+    "fat": "0.136",
+    "saturates": "0.036",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.067",
+    "carbohydrate": "6.08",
+    "sugars": "5.34",
+    "starch": "0.733",
+    "polyols": "0.008",
+    "fibre": "3.709",
+    "protein": "1.151",
+    "sodium": "0.000777",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

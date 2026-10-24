@@ -1,0 +1,44 @@
+{
+  "code": "D7A7810",
+  "name": {
+    "de": "Kirschtasche (Blätterteig)",
+    "en": "Turnover (puff pastry) filled with cherries"
+  },
+  "per100g": {
+    "fat": "21.58",
+    "saturates": "13.36",
+    "monounsaturates": "4.79",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "29.67",
+    "sugars": "11.34",
+    "starch": "17.66",
+    "polyols": "0.671",
+    "fibre": "2.1",
+    "protein": "3.71",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7810",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

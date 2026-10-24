@@ -1,0 +1,44 @@
+{
+  "code": "X469043",
+  "name": {
+    "de": "Weißkraut-Karotten-Eintopf mit weißen Bohnen und Hammelfleisch",
+    "en": "White cabbage-carrot stew with haricots and mutton"
+  },
+  "per100g": {
+    "fat": "7.916",
+    "saturates": "3.543",
+    "monounsaturates": "3.034",
+    "polyunsaturates": "0.318",
+    "carbohydrate": "6",
+    "sugars": "2.3",
+    "starch": "3",
+    "polyols": "0.03",
+    "fibre": "3.1",
+    "protein": "7.159",
+    "sodium": "0.081",
+    "alcohol": "0",
+    "organicAcids": "0.118"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

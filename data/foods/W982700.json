@@ -1,0 +1,44 @@
+{
+  "code": "W982700",
+  "name": {
+    "de": "Pastete im Brotteig gebacken",
+    "en": "Pate in bread dough baked"
+  },
+  "per100g": {
+    "fat": "7.96",
+    "saturates": "2.79",
+    "monounsaturates": "2.94",
+    "polyunsaturates": "0.98",
+    "carbohydrate": "4",
+    "sugars": "0.16",
+    "starch": "4",
+    "polyols": "0",
+    "fibre": "0.66",
+    "protein": "19.53",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.148"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W982700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

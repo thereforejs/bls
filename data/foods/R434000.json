@@ -1,0 +1,44 @@
+{
+  "code": "R434000",
+  "name": {
+    "de": "Sahnestandmittel",
+    "en": "Whipped cream stabilizer"
+  },
+  "per100g": {
+    "fat": "0.045",
+    "saturates": null,
+    "monounsaturates": null,
+    "polyunsaturates": null,
+    "carbohydrate": "92.057",
+    "sugars": "54.62",
+    "starch": "37.437",
+    "polyols": null,
+    "fibre": "0.201",
+    "protein": "0.067",
+    "sodium": "0.083",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R434000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X7A3020",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli, gefüllt mit Rinderhackfleisch",
+    "en": "Fresh egg pasta Ravioli, filled with beef mince"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "1.48",
+    "monounsaturates": "2.11",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "17",
+    "sugars": "0.17",
+    "starch": "17",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "7.6",
+    "sodium": "0.171",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X7A3020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

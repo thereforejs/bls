@@ -1,0 +1,44 @@
+{
+  "code": "Y841412",
+  "name": {
+    "de": "Aprikosenkompott ungesüßt",
+    "en": "Apricot compote unsweetened"
+  },
+  "per100g": {
+    "fat": "0.116",
+    "saturates": "0.0092",
+    "monounsaturates": "0.057",
+    "polyunsaturates": "0.026",
+    "carbohydrate": "7.323",
+    "sugars": "6.61",
+    "starch": "0",
+    "polyols": "0.713",
+    "fibre": "1.372",
+    "protein": "0.7",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y841363",
+  "name": {
+    "de": "Sauerkirschkompott",
+    "en": "Sour cherry compote"
+  },
+  "per100g": {
+    "fat": "0.377",
+    "saturates": "0.082",
+    "monounsaturates": "0.103",
+    "polyunsaturates": "0.113",
+    "carbohydrate": "21.436",
+    "sugars": "20.682",
+    "starch": "0",
+    "polyols": "0.754",
+    "fibre": "0.8",
+    "protein": "0.679",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

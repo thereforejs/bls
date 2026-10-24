@@ -1,0 +1,44 @@
+{
+  "code": "X9A2040",
+  "name": {
+    "de": "Milch-Getreide-Brei, mit Haferflocken und Apfelsaft (geeignet für Beikost)",
+    "en": "Milk-cereal puree, with oat flakes and apple juice (suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "3.95",
+    "saturates": "2.227",
+    "monounsaturates": "0.962",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "10.4",
+    "sugars": "5.26",
+    "starch": "5",
+    "polyols": "0.143",
+    "fibre": "1.089",
+    "protein": "4.64",
+    "sodium": "0.034",
+    "alcohol": "0.004",
+    "organicAcids": "0.165"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A2040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

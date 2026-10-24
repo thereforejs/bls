@@ -1,0 +1,44 @@
+{
+  "code": "X673042",
+  "name": {
+    "de": "Kartoffelklöße von gekochten Kartoffeln",
+    "en": "Potato dumplings from boiled potatoes"
+  },
+  "per100g": {
+    "fat": "2.62",
+    "saturates": "1.35",
+    "monounsaturates": "0.64",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "23.4",
+    "sugars": "0.67",
+    "starch": "22.73",
+    "polyols": "0",
+    "fibre": "2.15",
+    "protein": "3.8",
+    "sodium": "0.175",
+    "alcohol": "0",
+    "organicAcids": "0.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X673042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

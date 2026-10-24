@@ -1,0 +1,44 @@
+{
+  "code": "G210282",
+  "name": {
+    "de": "Spinat tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Spinach deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.472",
+    "saturates": "0.048",
+    "monounsaturates": "0.024",
+    "polyunsaturates": "0.253",
+    "carbohydrate": "1.46",
+    "sugars": "1.17",
+    "starch": "0.287",
+    "polyols": "0",
+    "fibre": "2.8",
+    "protein": "3.452",
+    "sodium": "0.079",
+    "alcohol": "0",
+    "organicAcids": "0.097"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G210282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

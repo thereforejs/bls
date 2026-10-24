@@ -1,0 +1,44 @@
+{
+  "code": "D7A6500",
+  "name": {
+    "de": "Berliner/Pfannkuchen/Krapfen (Hefeteig) frittiert, gefüllt mit Pudding",
+    "en": "\"Berliner\" doughnut (yeast dough) deep-fried, filled with pudding"
+  },
+  "per100g": {
+    "fat": "14",
+    "saturates": "7.1",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "34.8",
+    "sugars": "5.89",
+    "starch": "28.9",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "6.7",
+    "sodium": "0.167",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A6500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

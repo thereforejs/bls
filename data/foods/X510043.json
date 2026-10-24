@@ -1,0 +1,44 @@
+{
+  "code": "X510043",
+  "name": {
+    "de": "Pilze gedünstet, mit saurer Sahne",
+    "en": "Mushrooms stewed, with sour cream"
+  },
+  "per100g": {
+    "fat": "8.6",
+    "saturates": "1.8",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "1.87",
+    "carbohydrate": "3.5",
+    "sugars": "1.9",
+    "starch": "0.007",
+    "polyols": "1.56",
+    "fibre": "2.3",
+    "protein": "4.08",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X510043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

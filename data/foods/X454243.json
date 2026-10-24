@@ -1,0 +1,44 @@
+{
+  "code": "X454243",
+  "name": {
+    "de": "Grießsuppe geröstet",
+    "en": "Semolina soup roasted"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.2",
+    "monounsaturates": "0.81",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "4",
+    "sugars": "1.2",
+    "starch": "2.79",
+    "polyols": "0.01",
+    "fibre": "0.8",
+    "protein": "1.05",
+    "sodium": "0.282",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X454243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

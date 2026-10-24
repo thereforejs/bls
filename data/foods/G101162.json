@@ -1,0 +1,44 @@
+{
+  "code": "G101162",
+  "name": {
+    "de": "Chicoree gebacken",
+    "en": "Witloof chicory baked"
+  },
+  "per100g": {
+    "fat": "0.212",
+    "saturates": "0.036",
+    "monounsaturates": "0.0053",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "1.5",
+    "sugars": "1.09",
+    "starch": "0.033",
+    "polyols": "0.1",
+    "fibre": "1.5",
+    "protein": "2.812",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.298"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G101162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

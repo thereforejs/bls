@@ -1,0 +1,44 @@
+{
+  "code": "S530700",
+  "name": {
+    "de": "Milchschokolade gefüllt mit Fruchtcreme",
+    "en": "Milk chocolate filled with fruit cream"
+  },
+  "per100g": {
+    "fat": "34",
+    "saturates": "18.72",
+    "monounsaturates": "11.13",
+    "polyunsaturates": "2.25",
+    "carbohydrate": "57.3",
+    "sugars": "56.7",
+    "starch": "0.592",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "3.8",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S530700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

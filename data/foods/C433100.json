@@ -1,0 +1,44 @@
+{
+  "code": "C433100",
+  "name": {
+    "de": "Braunhirse Mehl",
+    "en": "Brown millet flour"
+  },
+  "per100g": {
+    "fat": "3.74",
+    "saturates": "0.46",
+    "monounsaturates": "0.743",
+    "polyunsaturates": "1.95",
+    "carbohydrate": "55.81",
+    "sugars": "0.73077",
+    "starch": "55.08",
+    "polyols": "0",
+    "fibre": "17.71",
+    "protein": "11.1",
+    "sodium": "0.0004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C433100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

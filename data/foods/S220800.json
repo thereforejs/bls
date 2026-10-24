@@ -1,0 +1,44 @@
+{
+  "code": "S220800",
+  "name": {
+    "de": "Speiseeis (Nuss, Vanille) gemischt",
+    "en": "Ice cream mixed (nut, vanilla)"
+  },
+  "per100g": {
+    "fat": "11.48",
+    "saturates": "7.875",
+    "monounsaturates": "2.567",
+    "polyunsaturates": "0.289",
+    "carbohydrate": "24.69",
+    "sugars": "20.17",
+    "starch": "4.52",
+    "polyols": "0",
+    "fibre": "1.06",
+    "protein": "2.89",
+    "sodium": "0.0378",
+    "alcohol": "0",
+    "organicAcids": "0.356"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S220800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

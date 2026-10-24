@@ -1,0 +1,44 @@
+{
+  "code": "Y996510",
+  "name": {
+    "de": "Erdbeereis",
+    "en": "Strawberry ice cream"
+  },
+  "per100g": {
+    "fat": "7.6",
+    "saturates": "3.945",
+    "monounsaturates": "1.956",
+    "polyunsaturates": "0.312",
+    "carbohydrate": "22.822",
+    "sugars": "22.794",
+    "starch": "0",
+    "polyols": "0.028",
+    "fibre": "0.9",
+    "protein": "1.4",
+    "sodium": "0.017",
+    "alcohol": "0",
+    "organicAcids": "0.92"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y996510",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

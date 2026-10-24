@@ -1,0 +1,44 @@
+{
+  "code": "D610700",
+  "name": {
+    "de": "Wespennester (Eiklarmasse)",
+    "en": "\"Wasp nests\" almond meringue"
+  },
+  "per100g": {
+    "fat": "23.62",
+    "saturates": "5.15",
+    "monounsaturates": "13.03",
+    "polyunsaturates": "4.1",
+    "carbohydrate": "49.69",
+    "sugars": "49.09",
+    "starch": "0.6",
+    "polyols": "0",
+    "fibre": "5.5",
+    "protein": "11",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D610700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

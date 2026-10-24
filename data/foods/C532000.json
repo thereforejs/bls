@@ -1,0 +1,44 @@
+{
+  "code": "C532000",
+  "name": {
+    "de": "Reis gepufft, ungesüßt",
+    "en": "Rice puffed, unsweetened"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.399",
+    "monounsaturates": "0.78",
+    "polyunsaturates": "0.744",
+    "carbohydrate": "77.47",
+    "sugars": "0.42",
+    "starch": "77.05",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "7.5",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C532000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

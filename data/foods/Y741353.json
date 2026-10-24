@@ -1,0 +1,44 @@
+{
+  "code": "Y741353",
+  "name": {
+    "de": "Eierfrikassee mit Pilzsauce von heller/weißer Grundsauce",
+    "en": "Egg fricassee with mushroom sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "6.7",
+    "saturates": "2.5",
+    "monounsaturates": "2.26",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "1.57",
+    "sugars": "0.72",
+    "starch": "0.74",
+    "polyols": "0.11",
+    "fibre": "0.6",
+    "protein": "9.9",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y741353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

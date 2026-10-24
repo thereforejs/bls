@@ -1,0 +1,44 @@
+{
+  "code": "X4A7010",
+  "name": {
+    "de": "Gemüsesuppe mit Kartoffeln",
+    "en": "Vegetable soup with potatoes"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.1",
+    "monounsaturates": "0.61",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "2.7",
+    "sugars": "1.7",
+    "starch": "0.831",
+    "polyols": "0.16",
+    "fibre": "0.9",
+    "protein": "1",
+    "sodium": "0.229",
+    "alcohol": "0",
+    "organicAcids": "0.098"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A7010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

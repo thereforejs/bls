@@ -1,0 +1,44 @@
+{
+  "code": "Y023113",
+  "name": {
+    "de": "Leberwürste erwärmt",
+    "en": "Liver sausages heated"
+  },
+  "per100g": {
+    "fat": "31.744",
+    "saturates": "12.46",
+    "monounsaturates": "16.45",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "0.59",
+    "sugars": "0.23",
+    "starch": "0.36",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "16.83",
+    "sodium": "0.787",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y023113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

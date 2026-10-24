@@ -1,0 +1,44 @@
+{
+  "code": "Y141123",
+  "name": {
+    "de": "Rindergulasch ungarisch",
+    "en": "Beef goulash \"Hungarian\""
+  },
+  "per100g": {
+    "fat": "8.8",
+    "saturates": "1.98",
+    "monounsaturates": "4.58",
+    "polyunsaturates": "1.62",
+    "carbohydrate": "4.5",
+    "sugars": "4.5",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "1.2",
+    "protein": "14.9",
+    "sodium": "0.225",
+    "alcohol": "0.09",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y141123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

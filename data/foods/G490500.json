@@ -1,0 +1,44 @@
+{
+  "code": "G490500",
+  "name": {
+    "de": "Knoblauch Pulver",
+    "en": "Garlic powder"
+  },
+  "per100g": {
+    "fat": "1.044",
+    "saturates": "0.158",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.425",
+    "carbohydrate": "7",
+    "sugars": "5.1",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "70.355",
+    "protein": "15.042",
+    "sodium": "0.0195619",
+    "alcohol": "0",
+    "organicAcids": "0.552"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

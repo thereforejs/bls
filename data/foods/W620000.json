@@ -1,0 +1,44 @@
+{
+  "code": "W620000",
+  "name": {
+    "de": "Eisbein, Kochpökelware, gekocht",
+    "en": "Pork foreshank (hock) \"Eisbein\" cooked cured, boiled"
+  },
+  "per100g": {
+    "fat": "8.68",
+    "saturates": "2.749",
+    "monounsaturates": "3.874",
+    "polyunsaturates": "0.7527",
+    "carbohydrate": "0.579",
+    "sugars": "0.579",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.32",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W620000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

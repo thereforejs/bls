@@ -1,0 +1,44 @@
+{
+  "code": "G710252",
+  "name": {
+    "de": "Bohne grün, tiefgefroren, gedünstet",
+    "en": "Bean green, deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.284",
+    "saturates": "0.083",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.136",
+    "carbohydrate": "4",
+    "sugars": "2.54",
+    "starch": "1.1",
+    "polyols": "0.32",
+    "fibre": "2.234",
+    "protein": "2",
+    "sodium": "0.00211",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G710252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

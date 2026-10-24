@@ -1,0 +1,44 @@
+{
+  "code": "F220600",
+  "name": {
+    "de": "Pflaumensaft",
+    "en": "Plum juice"
+  },
+  "per100g": {
+    "fat": "0.136",
+    "saturates": "0.018",
+    "monounsaturates": "0.0413",
+    "polyunsaturates": "0.063",
+    "carbohydrate": "9.64",
+    "sugars": "7.29",
+    "starch": "0",
+    "polyols": "2.349",
+    "fibre": "0.2",
+    "protein": "0.27",
+    "sodium": "0.0007",
+    "alcohol": null,
+    "organicAcids": "1.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F220600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

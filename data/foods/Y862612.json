@@ -1,0 +1,44 @@
+{
+  "code": "Y862612",
+  "name": {
+    "de": "Karamellflammeri/Karamellpudding",
+    "en": "Caramel pudding"
+  },
+  "per100g": {
+    "fat": "4.55",
+    "saturates": "2.37",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.28",
+    "carbohydrate": "25.2",
+    "sugars": "18.4",
+    "starch": "6.799",
+    "polyols": "0",
+    "fibre": "0.063",
+    "protein": "3.9",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.053"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y862612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

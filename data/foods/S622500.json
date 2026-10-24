@@ -1,0 +1,44 @@
+{
+  "code": "S622500",
+  "name": {
+    "de": "Nuss-Pralinen (alkoholhaltig)",
+    "en": "Nut pralines (alcoholic)"
+  },
+  "per100g": {
+    "fat": "20.61",
+    "saturates": "7.42",
+    "monounsaturates": "10.95",
+    "polyunsaturates": "1.33",
+    "carbohydrate": "51.5",
+    "sugars": "51.012",
+    "starch": "0.5",
+    "polyols": "0",
+    "fibre": "2.3",
+    "protein": "5.16",
+    "sodium": "0.034",
+    "alcohol": "3.1",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S622500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "F505400",
+  "name": {
+    "de": "Feige getrocknet",
+    "en": "Fig dried"
+  },
+  "per100g": {
+    "fat": "1.28",
+    "saturates": "0.35",
+    "monounsaturates": "0.387",
+    "polyunsaturates": "0.158",
+    "carbohydrate": "55.17",
+    "sugars": "55.13",
+    "starch": null,
+    "polyols": "0.038",
+    "fibre": "13",
+    "protein": "3.54",
+    "sodium": "0.134",
+    "alcohol": null,
+    "organicAcids": "1.08"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F505400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

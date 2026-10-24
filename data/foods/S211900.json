@@ -1,0 +1,44 @@
+{
+  "code": "S211900",
+  "name": {
+    "de": "Speiseeis (Frucht, Nuss) gemischt, in Waffeltüte",
+    "en": "Ice cream mixed (fruit, nut) in waffle cone"
+  },
+  "per100g": {
+    "fat": "7.51",
+    "saturates": "4.51",
+    "monounsaturates": "2.04",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "30",
+    "sugars": "24.4",
+    "starch": "4.97",
+    "polyols": "0.008",
+    "fibre": "1.3",
+    "protein": "2.41",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.146"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S211900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

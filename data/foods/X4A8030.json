@@ -1,0 +1,44 @@
+{
+  "code": "X4A8030",
+  "name": {
+    "de": "Kichererbsen-Eintopf",
+    "en": "Chickpea stew"
+  },
+  "per100g": {
+    "fat": "2.5",
+    "saturates": "0.3",
+    "monounsaturates": "1.16",
+    "polyunsaturates": "0.86",
+    "carbohydrate": "6",
+    "sugars": "1.7",
+    "starch": "4.3",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "2.6",
+    "sodium": "0.255",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A8030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

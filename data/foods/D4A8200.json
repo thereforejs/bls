@@ -1,0 +1,44 @@
+{
+  "code": "D4A8200",
+  "name": {
+    "de": "Kürbis-Kuchen (Rührmasse)",
+    "en": "Pumpkin cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "16.1",
+    "saturates": "9.7",
+    "monounsaturates": "3.57",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "41.7",
+    "sugars": "22.6",
+    "starch": "19",
+    "polyols": "0.096",
+    "fibre": "2.7",
+    "protein": "5.2",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.432"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A8200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

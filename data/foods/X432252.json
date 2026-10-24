@@ -1,0 +1,44 @@
+{
+  "code": "X432252",
+  "name": {
+    "de": "Teigwaren eifrei (mit Salz gekocht), Suppeneinlage",
+    "en": "Pasta egg-free (boiled with salt) as soup garnish"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.101",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "28.596",
+    "sugars": "0.838",
+    "starch": "27.758",
+    "polyols": "0",
+    "fibre": "1.489",
+    "protein": "5.4",
+    "sodium": "0.0507",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X432252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

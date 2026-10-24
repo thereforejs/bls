@@ -1,0 +1,44 @@
+{
+  "code": "D770300",
+  "name": {
+    "de": "Schweineohren/Schweinsohren (Blätterteig)",
+    "en": "Pig ear pastry (puff pastry)"
+  },
+  "per100g": {
+    "fat": "39.72",
+    "saturates": "18.03",
+    "monounsaturates": "15.38",
+    "polyunsaturates": "4.86",
+    "carbohydrate": "52.38",
+    "sugars": "24.957",
+    "starch": "27.42",
+    "polyols": "0",
+    "fibre": "2.04",
+    "protein": "4.14",
+    "sodium": "0.155",
+    "alcohol": "0",
+    "organicAcids": "0.0091"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D770300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S538400",
+  "name": {
+    "de": "Vollmilchschokolade mit Rosinen und Haselnüssen (alkoholhaltig)",
+    "en": "Whole milk chocolate with raisins and hazelnuts (alcoholic)"
+  },
+  "per100g": {
+    "fat": "31.6",
+    "saturates": "17.1",
+    "monounsaturates": "11.14",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "49.6",
+    "sugars": "49",
+    "starch": "0.5",
+    "polyols": "0.116",
+    "fibre": "3.1",
+    "protein": "6.3",
+    "sodium": "0.06",
+    "alcohol": "0.6",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S538400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D300600",
+  "name": {
+    "de": "Schwarzwälder Kirschtorte (Schokobiskuit) mit Alkohol",
+    "en": "Black forest torte (chocolate sponge cake) with alcohol"
+  },
+  "per100g": {
+    "fat": "15.9",
+    "saturates": "8.42",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "22.5",
+    "sugars": "14.5",
+    "starch": "7.7",
+    "polyols": "0.252",
+    "fibre": "1.1",
+    "protein": "4.5",
+    "sodium": "0.041",
+    "alcohol": "0.6",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D300600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

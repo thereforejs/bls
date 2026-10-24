@@ -1,0 +1,44 @@
+{
+  "code": "C219332",
+  "name": {
+    "de": "Hartweizen Grieß, gekocht",
+    "en": "Durum wheat semolina, boiled"
+  },
+  "per100g": {
+    "fat": "0.67",
+    "saturates": "0.09",
+    "monounsaturates": "0.09",
+    "polyunsaturates": "0.28",
+    "carbohydrate": "31.05",
+    "sugars": "0.47861",
+    "starch": "30.57",
+    "polyols": "0",
+    "fibre": "2.18",
+    "protein": "6.02",
+    "sodium": "0.0003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C219332",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

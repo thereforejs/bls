@@ -1,0 +1,44 @@
+{
+  "code": "Y175022",
+  "name": {
+    "de": "Saure Rinderkutteln gekocht, mit Grundsauce dunkel/braun",
+    "en": "Sour beef tripe boiled, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.1",
+    "saturates": "0.8",
+    "monounsaturates": "1.5",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "2.81",
+    "sugars": "0.012",
+    "starch": "2.8",
+    "polyols": "0",
+    "fibre": "0.23",
+    "protein": "8.6",
+    "sodium": "0.203",
+    "alcohol": "0.001",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y175022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K709152",
+  "name": {
+    "de": "Hallimasch gedünstet",
+    "en": "Dark honey mushroom stewed"
+  },
+  "per100g": {
+    "fat": "0.958",
+    "saturates": "0.167",
+    "monounsaturates": "0.021",
+    "polyunsaturates": "0.479",
+    "carbohydrate": "4.2",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": "3.85",
+    "fibre": "7.761",
+    "protein": "4.466",
+    "sodium": "0.05821",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K709152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

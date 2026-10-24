@@ -1,0 +1,44 @@
+{
+  "code": "Y015132",
+  "name": {
+    "de": "Schweinebauch gekocht, mit warmer Blut- und Leberwurst und gedünstetem Sauerkraut",
+    "en": "Pork belly boiled, with warm blood- and pork liver sausage and stewed sauerkraut"
+  },
+  "per100g": {
+    "fat": "11.31",
+    "saturates": "3.68",
+    "monounsaturates": "4.46",
+    "polyunsaturates": "1.25",
+    "carbohydrate": "1.36",
+    "sugars": "1.24",
+    "starch": "0.07",
+    "polyols": "0.053",
+    "fibre": "1.7",
+    "protein": "6.32",
+    "sodium": "0.4",
+    "alcohol": "0.04",
+    "organicAcids": "0.929"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y015132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B591000",
+  "name": {
+    "de": "Mehrkornbrötchen",
+    "en": "Multigrain roll"
+  },
+  "per100g": {
+    "fat": "5.44",
+    "saturates": "1.07",
+    "monounsaturates": "1.6",
+    "polyunsaturates": "2.42",
+    "carbohydrate": "50",
+    "sugars": "1.8",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "6.64",
+    "protein": "9.8",
+    "sodium": "0.513",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B591000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

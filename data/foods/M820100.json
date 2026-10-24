@@ -1,0 +1,44 @@
+{
+  "code": "M820100",
+  "name": {
+    "de": "Frischkäsezubereitung Natur < 10 % Fett i. Tr.",
+    "en": "Cream cheese preparation < 10 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.1",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3",
+    "sugars": "3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "11.9",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M820100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

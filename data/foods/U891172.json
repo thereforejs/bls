@@ -1,0 +1,44 @@
+{
+  "code": "U891172",
+  "name": {
+    "de": "Schaf Hinterhaxe, mager, gegrillt",
+    "en": "Sheep hindshank, lean, grilled"
+  },
+  "per100g": {
+    "fat": "4.72",
+    "saturates": "1.479",
+    "monounsaturates": "1.304",
+    "polyunsaturates": "0.413",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.7",
+    "sodium": "0.114",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U891172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

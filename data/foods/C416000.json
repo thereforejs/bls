@@ -1,0 +1,44 @@
+{
+  "code": "C416000",
+  "name": {
+    "de": "Mehlmischung für Kuchen glutenfrei",
+    "en": "Flour mix for cake gluten-free"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.063",
+    "monounsaturates": "0.112",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "82.9",
+    "sugars": "0.2",
+    "starch": "82.7",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "1.8",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C416000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

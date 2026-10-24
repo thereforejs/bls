@@ -1,0 +1,44 @@
+{
+  "code": "X531042",
+  "name": {
+    "de": "Blumenkohl gedünstet, mit Semmelbröseln",
+    "en": "Cauliflower stewed, with breadcrumbs"
+  },
+  "per100g": {
+    "fat": "6.05",
+    "saturates": "0.48",
+    "monounsaturates": "3.28",
+    "polyunsaturates": "1.69",
+    "carbohydrate": "7.88",
+    "sugars": "2.29",
+    "starch": "2.73",
+    "polyols": "2.86",
+    "fibre": "3",
+    "protein": "2.8",
+    "sodium": "0.14",
+    "alcohol": "0",
+    "organicAcids": "0.275"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X531042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

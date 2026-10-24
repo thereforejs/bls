@@ -1,0 +1,44 @@
+{
+  "code": "G460100",
+  "name": {
+    "de": "Portulak roh",
+    "en": "Purslane raw"
+  },
+  "per100g": {
+    "fat": "0.34",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0.587",
+    "sugars": "0.192",
+    "starch": "0.395",
+    "polyols": null,
+    "fibre": "1.6",
+    "protein": "1.482",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G460100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

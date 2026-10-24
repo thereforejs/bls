@@ -1,0 +1,44 @@
+{
+  "code": "W163100",
+  "name": {
+    "de": "Schinkenplockwurst/Schinkenplockwurst luftgetrocknet",
+    "en": "Schinkenplockwurst sausage air dried"
+  },
+  "per100g": {
+    "fat": "15.53",
+    "saturates": "5.82",
+    "monounsaturates": "5.63",
+    "polyunsaturates": "1.75",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "25.55",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W163100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C530200",
+  "name": {
+    "de": "Quinoa gepufft, ungesüßt",
+    "en": "Quinoa puffed, unsweetened"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "0.356",
+    "monounsaturates": "0.796",
+    "polyunsaturates": "1.55",
+    "carbohydrate": "75.65",
+    "sugars": "1.12453",
+    "starch": "74.53",
+    "polyols": "0",
+    "fibre": "5.79",
+    "protein": "9.04",
+    "sodium": "0.0034",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C530200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

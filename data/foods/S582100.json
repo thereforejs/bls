@@ -1,0 +1,44 @@
+{
+  "code": "S582100",
+  "name": {
+    "de": "Waffelschnitte gefüllt mit Kakaocreme und gerösteten Haselnussstückchen",
+    "en": "Wafer square filled with cocoa cream and roasted hazelnut bits"
+  },
+  "per100g": {
+    "fat": "30.6",
+    "saturates": "11.5",
+    "monounsaturates": "15.3",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "52.6",
+    "sugars": "42.2",
+    "starch": "10.4",
+    "polyols": "0",
+    "fibre": "3.6",
+    "protein": "7.6",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S582100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

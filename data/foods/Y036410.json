@@ -1,0 +1,44 @@
+{
+  "code": "Y036410",
+  "name": {
+    "de": "Frikadellen aus Putenfleisch gebraten",
+    "en": "Meatballs of turkey fried"
+  },
+  "per100g": {
+    "fat": "7.74",
+    "saturates": "1.33",
+    "monounsaturates": "3.23",
+    "polyunsaturates": "1.62",
+    "carbohydrate": "4.99",
+    "sugars": "0.84",
+    "starch": "4.15",
+    "polyols": "0.001",
+    "fibre": "0.6",
+    "protein": "26.7",
+    "sodium": "0.314",
+    "alcohol": "0",
+    "organicAcids": "0.089"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036410",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

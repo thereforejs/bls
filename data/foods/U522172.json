@@ -1,0 +1,44 @@
+{
+  "code": "U522172",
+  "name": {
+    "de": "Schwein Stielkotelett, gegrillt",
+    "en": "Pork chop (loin) grilled"
+  },
+  "per100g": {
+    "fat": "12.67",
+    "saturates": "4.28",
+    "monounsaturates": "4.53",
+    "polyunsaturates": "1.07",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.27",
+    "sodium": "0.0592",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U522172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K717152",
+  "name": {
+    "de": "Rotkappe gedünstet",
+    "en": "Orange birch bolete stewed"
+  },
+  "per100g": {
+    "fat": "1.099",
+    "saturates": "0.194",
+    "monounsaturates": "0.025",
+    "polyunsaturates": "0.549",
+    "carbohydrate": "4.6",
+    "sugars": "0.746",
+    "starch": null,
+    "polyols": "3.85",
+    "fibre": "6.648",
+    "protein": "3.061",
+    "sodium": "0",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K717152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

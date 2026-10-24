@@ -1,0 +1,44 @@
+{
+  "code": "H882000",
+  "name": {
+    "de": "Käsealternative, Basis Cashewkerne, vegan",
+    "en": "Plant-based cheese alternative, cashew-based, vegan"
+  },
+  "per100g": {
+    "fat": "33.559",
+    "saturates": "6.598",
+    "monounsaturates": "20.526",
+    "polyunsaturates": "6.147",
+    "carbohydrate": "18.5",
+    "sugars": "4.382",
+    "starch": "14.1",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "14.97",
+    "sodium": "0.389",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H882000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

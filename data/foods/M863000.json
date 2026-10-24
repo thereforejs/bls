@@ -1,0 +1,44 @@
+{
+  "code": "M863000",
+  "name": {
+    "de": "Obatzter/Obazda, Käsezubereitung 60 % Fett i. Tr.",
+    "en": "Obatzter/Obazda (Bavarian cheese spread) 60 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "27.19",
+    "saturates": "17.476",
+    "monounsaturates": "6.493",
+    "polyunsaturates": "0.738",
+    "carbohydrate": "1.53",
+    "sugars": "1.46",
+    "starch": "0.07",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "11.64",
+    "sodium": "0.599",
+    "alcohol": "0",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M863000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

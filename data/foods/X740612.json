@@ -1,0 +1,44 @@
+{
+  "code": "X740612",
+  "name": {
+    "de": "Eierteigwaren mit Roquefortsauce",
+    "en": "Egg pasta with Roquefort sauce"
+  },
+  "per100g": {
+    "fat": "14.962",
+    "saturates": "7.32",
+    "monounsaturates": "4.5",
+    "polyunsaturates": "1.15",
+    "carbohydrate": "16.666",
+    "sugars": "1.056",
+    "starch": "15.61",
+    "polyols": "0",
+    "fibre": "0.862",
+    "protein": "7.7",
+    "sodium": "0.371",
+    "alcohol": "0",
+    "organicAcids": "0.138"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X740612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C232032",
+  "name": {
+    "de": "Hafer Schrot, gekocht",
+    "en": "Oat coarse meal, boiled"
+  },
+  "per100g": {
+    "fat": "1.273",
+    "saturates": "0.257",
+    "monounsaturates": "0.452",
+    "polyunsaturates": "0.514",
+    "carbohydrate": "9.6",
+    "sugars": "0.194",
+    "starch": "9.4",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "2.107",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C232032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

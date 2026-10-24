@@ -1,0 +1,44 @@
+{
+  "code": "Y995040",
+  "name": {
+    "de": "Vanillesahneeis mit Schlagsahne, frischen Erdbeeren und Rum",
+    "en": "Vanilla cream ice cream with whipped cream, fresh strawberries and rum"
+  },
+  "per100g": {
+    "fat": "12.09",
+    "saturates": "6.19",
+    "monounsaturates": "3.2",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "6.69",
+    "sugars": "6.66",
+    "starch": "0",
+    "polyols": "0.032",
+    "fibre": "1.1",
+    "protein": "1.7",
+    "sodium": "0.015",
+    "alcohol": "1.5",
+    "organicAcids": "0.589"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y995040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

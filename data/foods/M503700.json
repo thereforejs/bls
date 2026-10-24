@@ -1,0 +1,44 @@
+{
+  "code": "M503700",
+  "name": {
+    "de": "Steinbuscher mind. 50 % Fett i. Tr.",
+    "en": "Steinbuscher cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "26",
+    "saturates": "13.6",
+    "monounsaturates": "7.8",
+    "polyunsaturates": "1",
+    "carbohydrate": "0.01",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "20",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M503700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

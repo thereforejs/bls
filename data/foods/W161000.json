@@ -1,0 +1,44 @@
+{
+  "code": "W161000",
+  "name": {
+    "de": "Plockwurst",
+    "en": "Plockwurst sausage"
+  },
+  "per100g": {
+    "fat": "26.3",
+    "saturates": "14.6",
+    "monounsaturates": "16.7",
+    "polyunsaturates": "3.98",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "20.5",
+    "sodium": "1.4",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W161000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

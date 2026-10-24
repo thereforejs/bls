@@ -10,6 +10,27 @@ tree-shakable nutrient data for [`@thereforejs/nutrition`](https://github.com/th
 > [!WARNING]
 > Early development (0.x). Nothing is published yet and the API will change.
 
+## Usage
+
+```ts
+import { C131000 } from "@thereforejs/bls"; // Hafer ganzes Korn, roh
+
+C131000.per100g; // { fat: "7.09", saturates: "1.43", ..., sodium: "0.008", organicAcids: "0" }
+```
+
+Every food is a named export under its BLS code, so a bundle holds only the foods it imports. An
+application that picks foods at runtime imports the namespace:
+
+```ts
+import * as bls from "@thereforejs/bls";
+import type { Food } from "@thereforejs/bls";
+
+const byCode: Record<string, Food> = bls;
+const food = byCode[code]; // undefined for an unknown code
+```
+
+Values are grams per 100 g as exact decimal text; `null` means the BLS has no value, never 0.
+
 ## Source
 
 Max Rubner-Institut (2025): Bundeslebensmittelschlüssel (BLS), Version 4.0 - Deutsche
@@ -21,7 +42,8 @@ Nährstoffdatenbank. Karlsruhe. DOI: [10.25826/Data20251217-134202-0](https://do
 - Sodium in g instead of mg.
 - A missing value (`-`) as `null`.
 - Numbers in their shortest decimal spelling (`9.3` instead of `9.3000000000000007`).
-- Split into one file per BLS main food group.
+- Below a limit or traces (`<LOD`, `<LOQ`, `TR`) as `null`, with the mark kept next to it.
+- One named export per food, under its BLS code.
 
 ## License
 

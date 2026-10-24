@@ -1,0 +1,44 @@
+{
+  "code": "W395100",
+  "name": {
+    "de": "Leberpastete mit Champignons",
+    "en": "Liver pate with button mushrooms"
+  },
+  "per100g": {
+    "fat": "28.6",
+    "saturates": "3.19",
+    "monounsaturates": "3.04",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "0.8",
+    "sugars": "0.1",
+    "starch": "0.31",
+    "polyols": "0.43",
+    "fibre": "0.4",
+    "protein": "14.2",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W395100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X742233",
+  "name": {
+    "de": "Eierteigwaren mit vier Käsesorten",
+    "en": "Egg pasta with four cheeses"
+  },
+  "per100g": {
+    "fat": "9.5",
+    "saturates": "5.7",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "18.97",
+    "sugars": "0.942",
+    "starch": "18.03",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "8.2",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X742233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

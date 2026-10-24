@@ -1,0 +1,46 @@
+{
+  "code": "F603100",
+  "name": {
+    "de": "Orange roh",
+    "en": "Orange raw"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.0278",
+    "monounsaturates": "0.0554",
+    "polyunsaturates": "0.07575",
+    "carbohydrate": "8.85",
+    "sugars": "8.85",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "1",
+    "sodium": "0.002",
+    "alcohol": "0.021",
+    "organicAcids": "1.08"
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F603100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

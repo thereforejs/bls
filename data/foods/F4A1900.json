@@ -1,0 +1,44 @@
+{
+  "code": "F4A1900",
+  "name": {
+    "de": "Preiselbeere gezuckert (mit Pektin) Konserve",
+    "en": "Lingonberry sugared (with pectine) canned"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.048",
+    "monounsaturates": "0.035",
+    "polyunsaturates": "0.089",
+    "carbohydrate": "42.2",
+    "sugars": "42.2",
+    "starch": "0.045",
+    "polyols": "0.001",
+    "fibre": "1.3",
+    "protein": "0.3",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F4A1900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

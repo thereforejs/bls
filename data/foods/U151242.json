@@ -1,0 +1,44 @@
+{
+  "code": "U151242",
+  "name": {
+    "de": "Rind Gulasch (Bug) tiefgefroren, geschmort ohne Fett",
+    "en": "Beef goulash (shoulder) deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "6.424",
+    "saturates": "2.819",
+    "monounsaturates": "2.896",
+    "polyunsaturates": "0.342",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.77",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U151242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

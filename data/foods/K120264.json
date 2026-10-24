@@ -1,0 +1,44 @@
+{
+  "code": "K120264",
+  "name": {
+    "de": "Kartoffel ungeschält, tiefgefroren, gebacken",
+    "en": "Potatoe unpeeled, deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "0.133",
+    "saturates": "0.044",
+    "monounsaturates": "0.021",
+    "polyunsaturates": "0.018",
+    "carbohydrate": "24.6",
+    "sugars": "1.95",
+    "starch": "22.652",
+    "polyols": "0",
+    "fibre": "1.892",
+    "protein": "2.73",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K120264",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

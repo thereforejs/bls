@@ -1,0 +1,44 @@
+{
+  "code": "Y886240",
+  "name": {
+    "de": "Joghurtcreme",
+    "en": "Yogurt cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "1.55",
+    "monounsaturates": "1.03",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "15.59",
+    "sugars": "15.59",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "4.6",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.98"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y886240",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

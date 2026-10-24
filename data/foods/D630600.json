@@ -1,0 +1,44 @@
+{
+  "code": "D630600",
+  "name": {
+    "de": "Doppelkekse mit Kakaocremefüllung",
+    "en": "Shortcake biscuits sandwiched with cocoa-cream filling"
+  },
+  "per100g": {
+    "fat": "17.59",
+    "saturates": "8.959",
+    "monounsaturates": "5.808",
+    "polyunsaturates": "1.796",
+    "carbohydrate": "71.18",
+    "sugars": "27.71",
+    "starch": "43.47",
+    "polyols": "0",
+    "fibre": "2.86",
+    "protein": "5.37",
+    "sodium": "0.1525",
+    "alcohol": "0",
+    "organicAcids": "0.299"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D630600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

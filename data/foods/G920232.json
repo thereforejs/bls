@@ -1,0 +1,44 @@
+{
+  "code": "G920232",
+  "name": {
+    "de": "Gemüsemischung Leipziger Allerlei, tiefgefroren, gekocht",
+    "en": "Mixed vegetables \"Leipziger Allerlei\", deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "0.421",
+    "saturates": "0.091",
+    "monounsaturates": "0.063",
+    "polyunsaturates": "0.181",
+    "carbohydrate": "8.69",
+    "sugars": "3.86",
+    "starch": "4.816",
+    "polyols": "0.01",
+    "fibre": "4",
+    "protein": "3.4",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G920232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

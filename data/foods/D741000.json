@@ -1,0 +1,44 @@
+{
+  "code": "D741000",
+  "name": {
+    "de": "Donut (Hefeteig) frittiert, mit Schokoladenglasur",
+    "en": "Doughnut (yeast dough) deep-fried, with chocolate icing"
+  },
+  "per100g": {
+    "fat": "15.1",
+    "saturates": "8.1",
+    "monounsaturates": "4.4",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "43",
+    "sugars": "18.1",
+    "starch": "24.9",
+    "polyols": "0",
+    "fibre": "3.2",
+    "protein": "6",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D741000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

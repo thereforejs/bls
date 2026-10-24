@@ -1,0 +1,44 @@
+{
+  "code": "X327613",
+  "name": {
+    "de": "Käsesauce von Bechamelsauce mit Kochschinken",
+    "en": "Cheese sauce from Bechamel sauce with boiled ham"
+  },
+  "per100g": {
+    "fat": "8.2",
+    "saturates": "5.2",
+    "monounsaturates": "1.94",
+    "polyunsaturates": "0.23",
+    "carbohydrate": "4.18",
+    "sugars": "1.94",
+    "starch": "2.24",
+    "polyols": "0",
+    "fibre": "0.17",
+    "protein": "7.8",
+    "sodium": "0.296",
+    "alcohol": "0",
+    "organicAcids": "0.259"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X327613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

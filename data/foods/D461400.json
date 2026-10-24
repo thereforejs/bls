@@ -1,0 +1,44 @@
+{
+  "code": "D461400",
+  "name": {
+    "de": "Gugelhupf mit Rosinen (Hefeteig)",
+    "en": "Ring cake with raisins (yeast dough)"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "8.1",
+    "monounsaturates": "5.17",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "47",
+    "sugars": "16",
+    "starch": "31",
+    "polyols": "0.057",
+    "fibre": "3.4",
+    "protein": "8.8",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.276"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D461400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X323253",
+  "name": {
+    "de": "Zwiebelsauce von heller/weißer Grundsauce",
+    "en": "Onion sauce made from white basic sauce"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "2.7",
+    "monounsaturates": "0.99",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "4.17",
+    "sugars": "1.92",
+    "starch": "2.25",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "0.92",
+    "sodium": "0.288",
+    "alcohol": "0.001",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X323253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

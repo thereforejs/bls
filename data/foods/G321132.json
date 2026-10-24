@@ -1,0 +1,44 @@
+{
+  "code": "G321132",
+  "name": {
+    "de": "Chinakohl gekocht",
+    "en": "Chinese white cabbage boiled"
+  },
+  "per100g": {
+    "fat": "0.225",
+    "saturates": "0.014",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.0291",
+    "carbohydrate": "1.56",
+    "sugars": "1.397",
+    "starch": "0",
+    "polyols": "0.16",
+    "fibre": "2",
+    "protein": "2.025",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G321132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

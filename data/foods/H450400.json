@@ -1,0 +1,44 @@
+{
+  "code": "H450400",
+  "name": {
+    "de": "Mohn gemahlen",
+    "en": "Poppy seed ground"
+  },
+  "per100g": {
+    "fat": "42.2",
+    "saturates": "4.8",
+    "monounsaturates": "6.33",
+    "polyunsaturates": "29.93",
+    "carbohydrate": "2.99",
+    "sugars": "2.99",
+    "starch": null,
+    "polyols": null,
+    "fibre": "17.159",
+    "protein": "23.821",
+    "sodium": "0.021",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H450400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

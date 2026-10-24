@@ -1,0 +1,44 @@
+{
+  "code": "U505100",
+  "name": {
+    "de": "Schwein Fettwamme, ohne Schwarten, geringer Magerfleischanteil (S XI) roh",
+    "en": "Pork fat belly flank, without rind, low lean meat content (S XI) raw"
+  },
+  "per100g": {
+    "fat": "68.82",
+    "saturates": "28.54",
+    "monounsaturates": "21.41",
+    "polyunsaturates": "7.01",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "6.3",
+    "sodium": "0.0496",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U505100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

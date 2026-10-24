@@ -1,0 +1,44 @@
+{
+  "code": "X720533",
+  "name": {
+    "de": "Schinkenfleckerl (Auflauf aus Eier-Frischteigwaren mit Kochschinken und saurer Sahne)",
+    "en": "\"Schinkenfleckerl\" (casserole of fresh egg pasta with boiled ham and sour cream)"
+  },
+  "per100g": {
+    "fat": "8.6",
+    "saturates": "1.5",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "1.91",
+    "carbohydrate": "19.4",
+    "sugars": "0.5",
+    "starch": "18.93",
+    "polyols": "0",
+    "fibre": "1.48",
+    "protein": "11.48",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X720533",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

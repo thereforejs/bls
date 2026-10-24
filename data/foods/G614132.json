@@ -1,0 +1,44 @@
+{
+  "code": "G614132",
+  "name": {
+    "de": "Weiße Rübe/Wasserrübe/Herbstrübe, gekocht",
+    "en": "Turnip boiled"
+  },
+  "per100g": {
+    "fat": "0.213",
+    "saturates": "0.029",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.129",
+    "carbohydrate": "6.37",
+    "sugars": "5.49",
+    "starch": "0.668",
+    "polyols": "0.21",
+    "fibre": "3.49",
+    "protein": "0.958",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0.232"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G614132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

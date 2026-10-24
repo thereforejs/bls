@@ -1,0 +1,44 @@
+{
+  "code": "Y536123",
+  "name": {
+    "de": "Hasenbraten mit Grundsauce dunkel/braun und saurer Sahne",
+    "en": "Hare roast with brown basic sauce and sour cream"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "1.4",
+    "monounsaturates": "1",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "1.6",
+    "sugars": "0.3",
+    "starch": "1.33",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "19.56",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.009"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y536123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

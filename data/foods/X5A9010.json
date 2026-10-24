@@ -1,0 +1,44 @@
+{
+  "code": "X5A9010",
+  "name": {
+    "de": "Kohlrabi gekocht, vegetarisch gefüllt mit Frischkäse und Erbsen",
+    "en": "Kohlrabi boiled, vegetarian filled with cream cheese and peas"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "2.3",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "4.9",
+    "sugars": "2.8",
+    "starch": "2.08",
+    "polyols": "0.04",
+    "fibre": "1.5",
+    "protein": "2.3",
+    "sodium": "0.247",
+    "alcohol": "0",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A9010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

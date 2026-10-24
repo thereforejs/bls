@@ -1,0 +1,44 @@
+{
+  "code": "D753500",
+  "name": {
+    "de": "Vanillehörnchen/Vanillekipferl (Mürbeteig)",
+    "en": "Vanilla crescents (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "32.96",
+    "saturates": "15.87",
+    "monounsaturates": "10.65",
+    "polyunsaturates": "2.7",
+    "carbohydrate": "51.4",
+    "sugars": "27.6",
+    "starch": "23.84",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "8.5",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D753500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

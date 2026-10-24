@@ -1,0 +1,44 @@
+{
+  "code": "K718162",
+  "name": {
+    "de": "Steinpilz gebacken",
+    "en": "Porcini mushroom baked"
+  },
+  "per100g": {
+    "fat": "0.556",
+    "saturates": "0.099",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.278",
+    "carbohydrate": "4.54",
+    "sugars": "0.736",
+    "starch": null,
+    "polyols": "3.8",
+    "fibre": "8.361",
+    "protein": "7.5",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K718162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

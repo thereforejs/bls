@@ -1,0 +1,44 @@
+{
+  "code": "Y944062",
+  "name": {
+    "de": "Currywurst mit Pommes frites",
+    "en": "Curried bratwurst with potato chips"
+  },
+  "per100g": {
+    "fat": "13.04",
+    "saturates": "3.23",
+    "monounsaturates": "5.4",
+    "polyunsaturates": "2.12",
+    "carbohydrate": "17.44",
+    "sugars": "5.39",
+    "starch": "12.05",
+    "polyols": "0",
+    "fibre": "1.42",
+    "protein": "6.58",
+    "sodium": "0.6429",
+    "alcohol": "0",
+    "organicAcids": "0.271"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y944062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

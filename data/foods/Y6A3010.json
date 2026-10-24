@@ -1,0 +1,44 @@
+{
+  "code": "Y6A3010",
+  "name": {
+    "de": "Rotbarschfilet pochiert (ohne Sauce)",
+    "en": "Redfish fillet poached (without sauce)"
+  },
+  "per100g": {
+    "fat": "3.51",
+    "saturates": "0.72",
+    "monounsaturates": "1.299",
+    "polyunsaturates": "0.835",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.5",
+    "sodium": "0.119",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y6A3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

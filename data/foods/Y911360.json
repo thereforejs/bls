@@ -1,0 +1,44 @@
+{
+  "code": "Y911360",
+  "name": {
+    "de": "Doppeldecker Burger",
+    "en": "Double-decker burger"
+  },
+  "per100g": {
+    "fat": "14.7",
+    "saturates": "3.76",
+    "monounsaturates": "6.83",
+    "polyunsaturates": "2.25",
+    "carbohydrate": "15.3",
+    "sugars": "2.6",
+    "starch": "12.71",
+    "polyols": "0.004",
+    "fibre": "1.4",
+    "protein": "10.5",
+    "sodium": "0.4",
+    "alcohol": "0.01",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y911360",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

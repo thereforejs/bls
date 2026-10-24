@@ -1,0 +1,44 @@
+{
+  "code": "X162612",
+  "name": {
+    "de": "Karottensalat (gegart) mit warmer Essigmarinade",
+    "en": "Carrot salad (cooked) with warm vinegar marinade"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "0.3",
+    "monounsaturates": "2.13",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "5.19",
+    "sugars": "5.11",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "0.72",
+    "sodium": "0.106",
+    "alcohol": "0.008",
+    "organicAcids": "1.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X162612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

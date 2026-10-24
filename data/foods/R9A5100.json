@@ -1,0 +1,44 @@
+{
+  "code": "R9A5100",
+  "name": {
+    "de": "Sacherguss/Schokoladenglasur, für Gebäck/Torten",
+    "en": "Sacher icing/chocolate icing, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "15.75",
+    "saturates": "9.48",
+    "monounsaturates": "5",
+    "polyunsaturates": "0.533",
+    "carbohydrate": "45.4",
+    "sugars": "43.9",
+    "starch": "1.538",
+    "polyols": "0",
+    "fibre": "4.2",
+    "protein": "3.31",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A5100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

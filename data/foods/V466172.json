@@ -1,0 +1,44 @@
+{
+  "code": "V466172",
+  "name": {
+    "de": "Ente Brust, mit Haut, gegrillt",
+    "en": "Duck breast, with skin, grilled"
+  },
+  "per100g": {
+    "fat": "17.426",
+    "saturates": "5.786",
+    "monounsaturates": "8.272",
+    "polyunsaturates": "2.25",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.339",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V466172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

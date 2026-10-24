@@ -1,0 +1,44 @@
+{
+  "code": "B106800",
+  "name": {
+    "de": "Vollkornbrot mit Nüssen",
+    "en": "Wholemeal bread with nuts"
+  },
+  "per100g": {
+    "fat": "4.23",
+    "saturates": "0.401",
+    "monounsaturates": "1.646",
+    "polyunsaturates": "1.859",
+    "carbohydrate": "36",
+    "sugars": "0.94",
+    "starch": "35",
+    "polyols": "0",
+    "fibre": "9.9",
+    "protein": "7.62",
+    "sodium": "0.458",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B106800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

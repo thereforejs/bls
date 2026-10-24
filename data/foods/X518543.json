@@ -1,0 +1,44 @@
+{
+  "code": "X518543",
+  "name": {
+    "de": "Ratatouille",
+    "en": "Ratatouille"
+  },
+  "per100g": {
+    "fat": "3.36",
+    "saturates": "0.26",
+    "monounsaturates": "1.83",
+    "polyunsaturates": "0.95",
+    "carbohydrate": "4.6",
+    "sugars": "4.5",
+    "starch": "0",
+    "polyols": "0.09",
+    "fibre": "1.8",
+    "protein": "1.2",
+    "sodium": "0.172",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X518543",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

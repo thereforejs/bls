@@ -1,0 +1,44 @@
+{
+  "code": "C522000",
+  "name": {
+    "de": "Getreideflakes gesüßt",
+    "en": "Cereal flakes sweetened"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.29",
+    "monounsaturates": "0.35",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "70.2",
+    "sugars": "12.1",
+    "starch": "57.9",
+    "polyols": "0",
+    "fibre": "7",
+    "protein": "9.7",
+    "sodium": "0.334",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C522000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

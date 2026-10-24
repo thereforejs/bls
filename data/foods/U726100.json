@@ -1,0 +1,44 @@
+{
+  "code": "U726100",
+  "name": {
+    "de": "Hammel Kotelett, roh",
+    "en": "Mutton chop (loin) raw"
+  },
+  "per100g": {
+    "fat": "32",
+    "saturates": "14.593",
+    "monounsaturates": "12.437",
+    "polyunsaturates": "1.14",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.9",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U726100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

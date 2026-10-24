@@ -1,0 +1,44 @@
+{
+  "code": "P9B3000",
+  "name": {
+    "de": "Cocktail, Campari-Tonic",
+    "en": "Cocktail, Campari-tonic"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "6.3",
+    "sugars": "6.3",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.005",
+    "alcohol": "3.1",
+    "organicAcids": "0.154"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P9B3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

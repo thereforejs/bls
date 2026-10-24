@@ -1,0 +1,44 @@
+{
+  "code": "C223600",
+  "name": {
+    "de": "Roggen Mehl, Type 1740",
+    "en": "Rye flour, Type 1740"
+  },
+  "per100g": {
+    "fat": "1.27",
+    "saturates": "0.13",
+    "monounsaturates": "0.17",
+    "polyunsaturates": "0.58",
+    "carbohydrate": "57.46",
+    "sugars": "2.039",
+    "starch": "55.42",
+    "polyols": "0",
+    "fibre": "18.66",
+    "protein": "8.98",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C223600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

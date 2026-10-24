@@ -1,0 +1,44 @@
+{
+  "code": "B251000",
+  "name": {
+    "de": "Weizenmischbrot",
+    "en": "Wheat-rye bread (> 50 % and < 90 % wheat)"
+  },
+  "per100g": {
+    "fat": "1.515",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "37.326",
+    "sugars": "0.836",
+    "starch": "36.49",
+    "polyols": "0",
+    "fibre": "4.572",
+    "protein": "8.61",
+    "sodium": "0.511",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B251000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

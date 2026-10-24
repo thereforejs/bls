@@ -1,0 +1,44 @@
+{
+  "code": "K713432",
+  "name": {
+    "de": "Pfifferling getrocknet, gekocht",
+    "en": "Chanterelle dried, boiled"
+  },
+  "per100g": {
+    "fat": "1.293",
+    "saturates": "0.235",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.649",
+    "carbohydrate": "2.629",
+    "sugars": "0.768",
+    "starch": null,
+    "polyols": "1.861",
+    "fibre": "16.294",
+    "protein": "18.654",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K713432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

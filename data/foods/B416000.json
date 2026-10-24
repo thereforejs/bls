@@ -1,0 +1,44 @@
+{
+  "code": "B416000",
+  "name": {
+    "de": "Weizenvollkornbrötchen mit Ölsamen",
+    "en": "Wholemeal wheat roll with oilseeds"
+  },
+  "per100g": {
+    "fat": "5.61",
+    "saturates": "1.19",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "2.21",
+    "carbohydrate": "46",
+    "sugars": "1.4",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "9.78",
+    "protein": "11.2",
+    "sodium": "0.544",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B416000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X255010",
+  "name": {
+    "de": "Tomatensalat mit Essigmarinade",
+    "en": "Tomato salad with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "7.47",
+    "saturates": "0.53",
+    "monounsaturates": "4.24",
+    "polyunsaturates": "2.05",
+    "carbohydrate": "2.89",
+    "sugars": "2.88",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "0.83",
+    "sodium": "0.06",
+    "alcohol": "0.005",
+    "organicAcids": "0.69"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X255010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

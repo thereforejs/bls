@@ -1,0 +1,44 @@
+{
+  "code": "D660500",
+  "name": {
+    "de": "Kokosmakronen schokoliert",
+    "en": "Chocolate coconut macaroons"
+  },
+  "per100g": {
+    "fat": "30.2",
+    "saturates": "27.17",
+    "monounsaturates": "2.42",
+    "polyunsaturates": "0.321",
+    "carbohydrate": "49.5",
+    "sugars": "48.9",
+    "starch": "0.324",
+    "polyols": "0.274",
+    "fibre": "7.08",
+    "protein": "6",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D660500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X366143",
+  "name": {
+    "de": "Mandelsauce",
+    "en": "Almond sauce"
+  },
+  "per100g": {
+    "fat": "8.01",
+    "saturates": "2.53",
+    "monounsaturates": "3.54",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "14.25",
+    "sugars": "10.72",
+    "starch": "3.53",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "5.5",
+    "sodium": "0.032",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X366143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

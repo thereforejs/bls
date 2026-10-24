@@ -1,0 +1,44 @@
+{
+  "code": "S330000",
+  "name": {
+    "de": "Weichkaramelle",
+    "en": "Soft caramels"
+  },
+  "per100g": {
+    "fat": "15.9",
+    "saturates": "9.6",
+    "monounsaturates": "4.4",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "75.1",
+    "sugars": "51.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.56",
+    "protein": "2",
+    "sodium": "0.312",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S330000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F516902",
+  "name": {
+    "de": "Mango gezuckert, Konserve, abgetropft",
+    "en": "Mango sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.395",
+    "saturates": "0.09",
+    "monounsaturates": "0.16",
+    "polyunsaturates": "0.066",
+    "carbohydrate": "14",
+    "sugars": "12.8",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "0.5",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.197"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F516902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

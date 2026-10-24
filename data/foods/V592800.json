@@ -1,0 +1,44 @@
+{
+  "code": "V592800",
+  "name": {
+    "de": "Kalb Zunge, Kochpökelware",
+    "en": "Veal tongue, cooked cured"
+  },
+  "per100g": {
+    "fat": "8.682",
+    "saturates": "2.839",
+    "monounsaturates": "2.986",
+    "polyunsaturates": "0.942",
+    "carbohydrate": "0.483",
+    "sugars": "0.483",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.977",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V592800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

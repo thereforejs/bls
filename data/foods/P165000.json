@@ -1,0 +1,46 @@
+{
+  "code": "P165000",
+  "name": {
+    "de": "Lagerbier dunkel",
+    "en": "Dark beer"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0.172",
+    "sugars": "0.172",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.4",
+    "sodium": "0.003",
+    "alcohol": "3.5",
+    "organicAcids": null
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P165000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

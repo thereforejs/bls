@@ -1,0 +1,44 @@
+{
+  "code": "B629000",
+  "name": {
+    "de": "Knusperbrot glutenfrei",
+    "en": "Crackerbread gluten-free"
+  },
+  "per100g": {
+    "fat": "1.606",
+    "saturates": "0.236",
+    "monounsaturates": "0.52",
+    "polyunsaturates": "0.766",
+    "carbohydrate": "73.6",
+    "sugars": "2.22",
+    "starch": "71.4",
+    "polyols": "0",
+    "fibre": "5.265",
+    "protein": "7.958",
+    "sodium": "0.567",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B629000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

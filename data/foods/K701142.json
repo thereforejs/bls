@@ -1,0 +1,44 @@
+{
+  "code": "K701142",
+  "name": {
+    "de": "Champignon geschmort ohne Fett",
+    "en": "Button mushroom braised without fat"
+  },
+  "per100g": {
+    "fat": "0.405",
+    "saturates": "0.0713",
+    "monounsaturates": "0.00896",
+    "polyunsaturates": "0.20246",
+    "carbohydrate": "4.4",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": "4.09",
+    "fibre": "2.8",
+    "protein": "5.41",
+    "sodium": "0.06107",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

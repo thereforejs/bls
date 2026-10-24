@@ -1,0 +1,44 @@
+{
+  "code": "G630100",
+  "name": {
+    "de": "Meerrettich roh",
+    "en": "Horseradish raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.048",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.167",
+    "carbohydrate": "11.67",
+    "sugars": "8.25",
+    "starch": "3.42",
+    "polyols": null,
+    "fibre": "4.287",
+    "protein": "5.875",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.81"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G630100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

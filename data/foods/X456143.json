@@ -1,0 +1,44 @@
+{
+  "code": "X456143",
+  "name": {
+    "de": "Gulaschsuppe mit Rindfleisch, Zwiebeln und Paprika",
+    "en": "Goulash soup with beef, onions and sweet pepper"
+  },
+  "per100g": {
+    "fat": "2.7",
+    "saturates": "0.48",
+    "monounsaturates": "1.42",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "2",
+    "sugars": "2",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "3.5",
+    "sodium": "0.086",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X456143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

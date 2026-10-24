@@ -1,0 +1,44 @@
+{
+  "code": "X980112",
+  "name": {
+    "de": "Semmelknödel",
+    "en": "White bread dumplings"
+  },
+  "per100g": {
+    "fat": "6.64",
+    "saturates": "1.47",
+    "monounsaturates": "2.97",
+    "polyunsaturates": "1.46",
+    "carbohydrate": "21.66",
+    "sugars": "2.52",
+    "starch": "19.14",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "7.49",
+    "sodium": "0.469",
+    "alcohol": "0",
+    "organicAcids": "0.021"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X980112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

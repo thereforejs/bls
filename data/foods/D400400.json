@@ -1,0 +1,44 @@
+{
+  "code": "D400400",
+  "name": {
+    "de": "Schokoladen-Muffins (Rührmasse)",
+    "en": "Chocolate muffins (cake batter)"
+  },
+  "per100g": {
+    "fat": "16.54",
+    "saturates": "9.78",
+    "monounsaturates": "4.52",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "43.5",
+    "sugars": "21.8",
+    "starch": "21.7",
+    "polyols": "0",
+    "fibre": "4.41",
+    "protein": "7.4",
+    "sodium": "0.155",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D400400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

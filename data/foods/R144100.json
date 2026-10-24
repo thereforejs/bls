@@ -1,0 +1,44 @@
+{
+  "code": "R144100",
+  "name": {
+    "de": "Frucht-Chutney, Würzsoße",
+    "en": "Fruit chutney"
+  },
+  "per100g": {
+    "fat": "0.33",
+    "saturates": "0.07",
+    "monounsaturates": "0.125",
+    "polyunsaturates": "0.06",
+    "carbohydrate": "68",
+    "sugars": "66.4",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "0.6",
+    "sodium": "1.185",
+    "alcohol": "0.002",
+    "organicAcids": "0.69"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R144100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

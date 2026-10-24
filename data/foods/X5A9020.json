@@ -1,0 +1,44 @@
+{
+  "code": "X5A9020",
+  "name": {
+    "de": "Kohlrüben/Steckrüben, gedünstet, mit Speck",
+    "en": "Swede stewed, with bacon"
+  },
+  "per100g": {
+    "fat": "0.8",
+    "saturates": "0.3",
+    "monounsaturates": "0.263",
+    "polyunsaturates": "0.146",
+    "carbohydrate": "2.03",
+    "sugars": "1.25",
+    "starch": "0.586",
+    "polyols": "0.19",
+    "fibre": "2.463",
+    "protein": "1.58",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.366"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A9020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

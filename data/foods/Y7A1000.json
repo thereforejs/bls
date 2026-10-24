@@ -1,0 +1,44 @@
+{
+  "code": "Y7A1000",
+  "name": {
+    "de": "Souffle mit Räucherforelle",
+    "en": "Souffle with smoked trout"
+  },
+  "per100g": {
+    "fat": "24.4",
+    "saturates": "10.28",
+    "monounsaturates": "7.99",
+    "polyunsaturates": "2.73",
+    "carbohydrate": "6.62",
+    "sugars": "1.98",
+    "starch": "4.64",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "9.7",
+    "sodium": "0.385",
+    "alcohol": "0",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y7A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

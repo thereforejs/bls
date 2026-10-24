@@ -1,0 +1,44 @@
+{
+  "code": "W144000",
+  "name": {
+    "de": "Salami Italienische Art, mit Lammfleisch",
+    "en": "Salami Italian-type, with lamb meat"
+  },
+  "per100g": {
+    "fat": "29.14",
+    "saturates": "11.1",
+    "monounsaturates": "12.82",
+    "polyunsaturates": "3.25",
+    "carbohydrate": "0.23",
+    "sugars": "0",
+    "starch": "0.23",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "22.36",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W144000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S581500",
+  "name": {
+    "de": "Milchschokoladen-Riegel gefüllt mit Knusperwaffel",
+    "en": "Milk chocolate bar filled with crispy waffle"
+  },
+  "per100g": {
+    "fat": "25.51",
+    "saturates": "14.76",
+    "monounsaturates": "7.76",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "48.9",
+    "sugars": "41.9",
+    "starch": "6.99",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "6.39",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S581500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

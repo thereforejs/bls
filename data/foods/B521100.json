@@ -1,0 +1,44 @@
+{
+  "code": "B521100",
+  "name": {
+    "de": "Roggenbrötchen mit Kümmel und Salz",
+    "en": "Rye roll with caraway seeds and salt"
+  },
+  "per100g": {
+    "fat": "2.83",
+    "saturates": "0.84",
+    "monounsaturates": "0.93",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "48",
+    "sugars": "0.8119",
+    "starch": "47",
+    "polyols": "0",
+    "fibre": "8.71",
+    "protein": "8.19",
+    "sodium": "0.838",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B521100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

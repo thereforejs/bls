@@ -1,0 +1,44 @@
+{
+  "code": "X702142",
+  "name": {
+    "de": "Vollkorn-Eier-Frischteigwaren mit Mandelpesto",
+    "en": "Fresh wholemeal egg pasta with almond pesto"
+  },
+  "per100g": {
+    "fat": "11.92",
+    "saturates": "2.15",
+    "monounsaturates": "6.16",
+    "polyunsaturates": "2.5",
+    "carbohydrate": "14",
+    "sugars": "0.6",
+    "starch": "13",
+    "polyols": "0",
+    "fibre": "3.7",
+    "protein": "8.64",
+    "sodium": "0.165",
+    "alcohol": "0",
+    "organicAcids": "0.044"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X702142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K750400",
+  "name": {
+    "de": "Mischpilze getrocknet",
+    "en": "Mixed mushrooms dried"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "0.325",
+    "monounsaturates": "0.084",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "16.5",
+    "sugars": "7.42",
+    "starch": "0",
+    "polyols": "9.08",
+    "fibre": "38.86",
+    "protein": "26.8",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K750400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

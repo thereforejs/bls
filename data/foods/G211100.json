@@ -1,0 +1,44 @@
+{
+  "code": "G211100",
+  "name": {
+    "de": "Spinat roh",
+    "en": "Spinach raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.03",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.162",
+    "carbohydrate": "0.93",
+    "sugars": "0.75",
+    "starch": "0.182",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "2.067",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0.062"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G211100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G410100",
+  "name": {
+    "de": "Artischocke roh",
+    "en": "Artichokes raw"
+  },
+  "per100g": {
+    "fat": "0.12",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.69",
+    "sugars": "2.51",
+    "starch": "0.182",
+    "polyols": "0",
+    "fibre": "10.79",
+    "protein": "2.4",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G410100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

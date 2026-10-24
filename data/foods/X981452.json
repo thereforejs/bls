@@ -1,0 +1,44 @@
+{
+  "code": "X981452",
+  "name": {
+    "de": "Schinkenknödel",
+    "en": "Ham dumplings"
+  },
+  "per100g": {
+    "fat": "6.49",
+    "saturates": "1.49",
+    "monounsaturates": "2.92",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "19.91",
+    "sugars": "2.4",
+    "starch": "17.51",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "9.77",
+    "sodium": "0.539",
+    "alcohol": "0",
+    "organicAcids": "0.191"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X981452",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y845242",
+  "name": {
+    "de": "Apfelküchlein (Apfelringe im Milchbackteig) gebraten",
+    "en": "Apple doughnuts fried"
+  },
+  "per100g": {
+    "fat": "9.7",
+    "saturates": "1.32",
+    "monounsaturates": "4.98",
+    "polyunsaturates": "2.48",
+    "carbohydrate": "22",
+    "sugars": "9.84",
+    "starch": "11.9",
+    "polyols": "0.3",
+    "fibre": "2.22",
+    "protein": "3.5",
+    "sodium": "0.024",
+    "alcohol": "0.004",
+    "organicAcids": "0.279"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y845242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

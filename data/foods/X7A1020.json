@@ -1,0 +1,44 @@
+{
+  "code": "X7A1020",
+  "name": {
+    "de": "Spaghetti Aglio e olio (Teigwaren eifrei, mit Knoblauch und Öl)",
+    "en": "Pasta aglio e olio (pasta egg-free, with garlic and vegetable oil)"
+  },
+  "per100g": {
+    "fat": "6.6",
+    "saturates": "0.8",
+    "monounsaturates": "4.4",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "26.41",
+    "sugars": "0.86",
+    "starch": "25.554",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "5.1",
+    "sodium": "0.096",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X7A1020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

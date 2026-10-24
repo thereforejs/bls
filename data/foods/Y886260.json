@@ -1,0 +1,44 @@
+{
+  "code": "Y886260",
+  "name": {
+    "de": "Zitronen-Joghurt-Creme (mit Gelatine)",
+    "en": "Lemon-yogurt cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "14.2",
+    "saturates": "7.66",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "0.412",
+    "carbohydrate": "16.75",
+    "sugars": "16.75",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.027",
+    "protein": "2.9",
+    "sodium": "0.026",
+    "alcohol": "0.001",
+    "organicAcids": "1.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y886260",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

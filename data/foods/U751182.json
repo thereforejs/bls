@@ -1,0 +1,44 @@
+{
+  "code": "U751182",
+  "name": {
+    "de": "Schaf Gulasch (Bug, mager) gebraten ohne Fett (Pfanne)",
+    "en": "Sheep goulash (shoulder, lean) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "7.95",
+    "saturates": "2.72",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.5",
+    "sodium": "0.088",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U751182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

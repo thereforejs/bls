@@ -1,0 +1,44 @@
+{
+  "code": "X1A8010",
+  "name": {
+    "de": "Fischsalat mit Kabeljau und Essigmarinade",
+    "en": "Fish salad with cod and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "6.46",
+    "saturates": "0.53",
+    "monounsaturates": "3.55",
+    "polyunsaturates": "1.86",
+    "carbohydrate": "1.11",
+    "sugars": "1.1",
+    "starch": "0.01",
+    "polyols": "0.003",
+    "fibre": "0.3",
+    "protein": "9.8",
+    "sodium": "0.198",
+    "alcohol": "0.01",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A8010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X462063",
+  "name": {
+    "de": "Gemüsesuppe mit Kartoffeln und Rindfleisch",
+    "en": "Vegetable soup with potatoes and beef"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.5",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "2.5",
+    "sugars": "1.6",
+    "starch": "0.763",
+    "polyols": "0.15",
+    "fibre": "0.8",
+    "protein": "3.5",
+    "sodium": "0.217",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X462063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

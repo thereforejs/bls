@@ -1,0 +1,44 @@
+{
+  "code": "Y584123",
+  "name": {
+    "de": "Putenragout mit Paprika und saurer Sahne",
+    "en": "Turkey ragout with sweet pepper and sour cream"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "1.1",
+    "monounsaturates": "4.1",
+    "polyunsaturates": "1.97",
+    "carbohydrate": "2.9",
+    "sugars": "1.2",
+    "starch": "1.73",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "17.26",
+    "sodium": "0.26",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y584123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

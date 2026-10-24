@@ -1,0 +1,44 @@
+{
+  "code": "U861242",
+  "name": {
+    "de": "Schaf Bug/Schulter, mager, tiefgefroren, geschmort ohne Fett",
+    "en": "Sheep shoulder, lean, deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "8.45",
+    "saturates": "2.9",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.2",
+    "sodium": "0.066",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U861242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

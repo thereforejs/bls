@@ -1,0 +1,44 @@
+{
+  "code": "G730132",
+  "name": {
+    "de": "Dicke Bohne unreif, gekocht",
+    "en": "Broad bean immature, boiled"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.133",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "6",
+    "sugars": "1.3",
+    "starch": "4.7",
+    "polyols": null,
+    "fibre": "5.8",
+    "protein": "5.2",
+    "sodium": "0.015",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G730132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

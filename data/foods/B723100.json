@@ -1,0 +1,44 @@
+{
+  "code": "B723100",
+  "name": {
+    "de": "Laugengebäck (Hagelsalz entfernt)",
+    "en": "Pretzel (visible salt removed)"
+  },
+  "per100g": {
+    "fat": "4.145",
+    "saturates": "0.98",
+    "monounsaturates": "1.06",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "50",
+    "sugars": "1.4",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "3.775",
+    "protein": "9.203",
+    "sodium": "0.8374",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B723100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

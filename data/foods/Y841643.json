@@ -1,0 +1,44 @@
+{
+  "code": "Y841643",
+  "name": {
+    "de": "Dörrpflaumenkompott",
+    "en": "Prune compote"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "22",
+    "sugars": "19.3",
+    "starch": "0",
+    "polyols": "2.675",
+    "fibre": "2.35",
+    "protein": "0.88",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "2.249"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

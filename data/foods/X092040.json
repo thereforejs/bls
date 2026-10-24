@@ -1,0 +1,44 @@
+{
+  "code": "X092040",
+  "name": {
+    "de": "Haferflocken gesüßt, mit Milch 3,5 % Fett und Fruchtmischung",
+    "en": "Oat flakes sweetened, with milk 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "3.1",
+    "saturates": "1.185",
+    "monounsaturates": "0.871",
+    "polyunsaturates": "0.743",
+    "carbohydrate": "22.9",
+    "sugars": "9.5",
+    "starch": "13.1",
+    "polyols": "0.1",
+    "fibre": "3.3",
+    "protein": "4.79",
+    "sodium": "0.014",
+    "alcohol": "0.02",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X092040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

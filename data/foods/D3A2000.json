@@ -1,0 +1,44 @@
+{
+  "code": "D3A2000",
+  "name": {
+    "de": "Erdbeer-Charlotte mit Joghurtsahne (Biskuit)",
+    "en": "Strawberry Charlotte Royale Cake (sponge cake)"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "3.42",
+    "monounsaturates": "2.18",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "30.6",
+    "sugars": "23.2",
+    "starch": "7.34",
+    "polyols": "0.015",
+    "fibre": "1.1",
+    "protein": "5.3",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.53"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D3A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

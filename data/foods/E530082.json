@@ -1,0 +1,44 @@
+{
+  "code": "E530082",
+  "name": {
+    "de": "Vollkorneierteigwaren gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Wholemeal egg pasta boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.01",
+    "saturates": "0.175",
+    "monounsaturates": "0.202",
+    "polyunsaturates": "0.369",
+    "carbohydrate": "22",
+    "sugars": "0.276",
+    "starch": "21.72",
+    "polyols": "0",
+    "fibre": "4.6",
+    "protein": "5.28",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E530082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

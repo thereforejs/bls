@@ -1,0 +1,44 @@
+{
+  "code": "U133100",
+  "name": {
+    "de": "Rind Steak (Rücken) mariniert, roh",
+    "en": "Beef steak (loin) marinated, raw"
+  },
+  "per100g": {
+    "fat": "6.75",
+    "saturates": "2.02",
+    "monounsaturates": "3.31",
+    "polyunsaturates": "0.93",
+    "carbohydrate": "0.14",
+    "sugars": "0.14",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "20.41",
+    "sodium": "0.398",
+    "alcohol": "0.002",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U133100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

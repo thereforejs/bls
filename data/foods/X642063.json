@@ -1,0 +1,44 @@
+{
+  "code": "X642063",
+  "name": {
+    "de": "Bäckerin-Kartoffeln vegetarisch",
+    "en": "\"Bäckerin-Kartoffeln\" (potato gratin) vegetarian"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "1.2",
+    "monounsaturates": "2.16",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "13",
+    "sugars": "2.8",
+    "starch": "10",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "1.66",
+    "sodium": "0.253",
+    "alcohol": "0",
+    "organicAcids": "0.085"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X642063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

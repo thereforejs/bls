@@ -1,0 +1,46 @@
+{
+  "code": "R132000",
+  "name": {
+    "de": "Senf mittelscharf",
+    "en": "Mustard medium hot"
+  },
+  "per100g": {
+    "fat": "6.96",
+    "saturates": "0.496",
+    "monounsaturates": "3.97",
+    "polyunsaturates": "2.21",
+    "carbohydrate": "2.94",
+    "sugars": "2.76",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "4.5",
+    "protein": "5.51",
+    "sodium": "1.31",
+    "alcohol": null,
+    "organicAcids": "1.742"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R132000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

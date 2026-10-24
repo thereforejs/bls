@@ -1,0 +1,44 @@
+{
+  "code": "Y182912",
+  "name": {
+    "de": "Gulasch einfach (mit Rindfleisch)",
+    "en": "Beef goulash simple"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "1.8",
+    "monounsaturates": "3.9",
+    "polyunsaturates": "1.29",
+    "carbohydrate": "3",
+    "sugars": "0.7",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "13.2",
+    "sodium": "0.275",
+    "alcohol": "0",
+    "organicAcids": "0.038"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y182912",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

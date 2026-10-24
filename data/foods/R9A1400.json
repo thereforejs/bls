@@ -1,0 +1,44 @@
+{
+  "code": "R9A1400",
+  "name": {
+    "de": "Zitronensahnecreme für Gebäck/Torten",
+    "en": "Lemon cream (with starch) for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "9.5",
+    "saturates": "5.069",
+    "monounsaturates": "2.484",
+    "polyunsaturates": "0.273",
+    "carbohydrate": "18.75",
+    "sugars": "16.178",
+    "starch": "2.572",
+    "polyols": "0",
+    "fibre": "0.047",
+    "protein": "1.8",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.85"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A1400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

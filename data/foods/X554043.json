@@ -1,0 +1,44 @@
+{
+  "code": "X554043",
+  "name": {
+    "de": "Paprika-Tomaten-Gemüse gedünstet",
+    "en": "Sweet peppers and tomatoes stewed"
+  },
+  "per100g": {
+    "fat": "1.618",
+    "saturates": "0.14",
+    "monounsaturates": "0.83",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "5",
+    "sugars": "4.9",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "1.9",
+    "protein": "1.056",
+    "sodium": "0.261",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X554043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

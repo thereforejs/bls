@@ -1,0 +1,44 @@
+{
+  "code": "C211132",
+  "name": {
+    "de": "Weizen Vollkornschrot, gekocht",
+    "en": "Wheat coarse meal, boiled"
+  },
+  "per100g": {
+    "fat": "0.276",
+    "saturates": "0.034",
+    "monounsaturates": "0.031",
+    "polyunsaturates": "0.131",
+    "carbohydrate": "8.928",
+    "sugars": "0.158",
+    "starch": "8.77",
+    "polyols": "0",
+    "fibre": "2.063",
+    "protein": "1.9931",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C211132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B8B3000",
+  "name": {
+    "de": "Vollkornknusperbrot",
+    "en": "Wholemeal crackerbread"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.2",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "63.7",
+    "sugars": "5.5",
+    "starch": "58",
+    "polyols": "0",
+    "fibre": "14.99",
+    "protein": "10.4",
+    "sodium": "0.49",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8B3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

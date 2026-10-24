@@ -1,0 +1,44 @@
+{
+  "code": "Y814210",
+  "name": {
+    "de": "Apfel-Bananen-Birnenmus roh",
+    "en": "Apple-banana-pear sauce raw"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.103",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.146",
+    "carbohydrate": "13.8",
+    "sugars": "12",
+    "starch": "0.835",
+    "polyols": "0.9",
+    "fibre": "2",
+    "protein": "0.658",
+    "sodium": "0.001",
+    "alcohol": "0.05",
+    "organicAcids": "0.62"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y814210",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

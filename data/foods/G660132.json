@@ -1,0 +1,44 @@
+{
+  "code": "G660132",
+  "name": {
+    "de": "Knollensellerie gekocht",
+    "en": "Celeriac boiled"
+  },
+  "per100g": {
+    "fat": "0.291",
+    "saturates": "0.059",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.153",
+    "carbohydrate": "2.44",
+    "sugars": "1.862",
+    "starch": "0.388",
+    "polyols": "0.19",
+    "fibre": "3.8",
+    "protein": "1.368",
+    "sodium": "0.062",
+    "alcohol": "0",
+    "organicAcids": "0.212"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G660132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

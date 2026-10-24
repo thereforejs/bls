@@ -1,0 +1,44 @@
+{
+  "code": "U284162",
+  "name": {
+    "de": "Rind Hüfte, gebraten ohne Fett (Ofen)",
+    "en": "Beef rump, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "2.69",
+    "saturates": "1.164",
+    "monounsaturates": "1.161",
+    "polyunsaturates": "0.142",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "30.3",
+    "sodium": "0.069",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U284162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

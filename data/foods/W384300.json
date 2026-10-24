@@ -1,0 +1,44 @@
+{
+  "code": "W384300",
+  "name": {
+    "de": "Weiße Graupenwurst",
+    "en": "White sausage with pearl barley"
+  },
+  "per100g": {
+    "fat": "6.53",
+    "saturates": "2.5",
+    "monounsaturates": "2.12",
+    "polyunsaturates": "0.77",
+    "carbohydrate": "12.8",
+    "sugars": "0.42",
+    "starch": "12.4",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "7",
+    "sodium": "0.664",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W384300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

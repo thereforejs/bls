@@ -1,0 +1,44 @@
+{
+  "code": "G581142",
+  "name": {
+    "de": "Kürbis Pumpkin (C. pepo) geschmort ohne Fett",
+    "en": "Pumpkin (C. pepo) braised without fat"
+  },
+  "per100g": {
+    "fat": "0.141",
+    "saturates": "0.037",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.07",
+    "carbohydrate": "6.39",
+    "sugars": "5.61",
+    "starch": "0.769",
+    "polyols": "0.009",
+    "fibre": "3.769",
+    "protein": "1.197",
+    "sodium": "0.000969",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y6A2020",
+  "name": {
+    "de": "Lachs gebraten, in Grundsauce hell/weiß mit Sahne und Risi-Pisi",
+    "en": "Salmon fried in white basic sauce with cream and risi-pisi"
+  },
+  "per100g": {
+    "fat": "8.8",
+    "saturates": "3",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "1.53",
+    "carbohydrate": "9.4",
+    "sugars": "1.4",
+    "starch": "8",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "9.2",
+    "sodium": "0.164",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y6A2020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

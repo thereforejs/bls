@@ -1,0 +1,44 @@
+{
+  "code": "Y379032",
+  "name": {
+    "de": "Schweinezunge gekocht, mit Weißweinsauce von heller/weißer Grundsauce",
+    "en": "Pork tongue boiled, with white wine sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "8.9",
+    "saturates": "3.5",
+    "monounsaturates": "2.78",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "1.59",
+    "sugars": "0.3",
+    "starch": "1.29",
+    "polyols": "0.001",
+    "fibre": "0.09",
+    "protein": "11.07",
+    "sodium": "0.165",
+    "alcohol": "0.34",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y379032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

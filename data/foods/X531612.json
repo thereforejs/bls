@@ -1,0 +1,44 @@
+{
+  "code": "X531612",
+  "name": {
+    "de": "Blumenkohl gedünstet (mit Fett und Salz)",
+    "en": "Cauliflower stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "5.3",
+    "saturates": "0.5",
+    "monounsaturates": "2.91",
+    "polyunsaturates": "1.49",
+    "carbohydrate": "4.35",
+    "sugars": "1.83",
+    "starch": "0.147",
+    "polyols": "2.37",
+    "fibre": "2.3",
+    "protein": "2.01",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0.217"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X531612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

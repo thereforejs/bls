@@ -1,0 +1,44 @@
+{
+  "code": "W327000",
+  "name": {
+    "de": "Leberwurst einfach",
+    "en": "Liver sausage simple"
+  },
+  "per100g": {
+    "fat": "18.08",
+    "saturates": "7.38",
+    "monounsaturates": "5.58",
+    "polyunsaturates": "1.96",
+    "carbohydrate": "0.62",
+    "sugars": "0.28",
+    "starch": "0.34",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "17.59",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.006"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W327000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

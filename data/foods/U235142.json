@@ -1,0 +1,44 @@
+{
+  "code": "U235142",
+  "name": {
+    "de": "Rind Hochrippe, geschmort ohne Fett",
+    "en": "Beef forerib/prime rib, braised without fat"
+  },
+  "per100g": {
+    "fat": "9.471",
+    "saturates": "4.252",
+    "monounsaturates": "4.33",
+    "polyunsaturates": "0.318",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.407",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U235142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

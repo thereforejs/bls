@@ -1,0 +1,44 @@
+{
+  "code": "C133032",
+  "name": {
+    "de": "Hafer Flocken, gekocht",
+    "en": "Oat flakes, boiled"
+  },
+  "per100g": {
+    "fat": "1.257",
+    "saturates": "0.253",
+    "monounsaturates": "0.446",
+    "polyunsaturates": "0.507",
+    "carbohydrate": "10",
+    "sugars": "0.14",
+    "starch": "9.9",
+    "polyols": "0",
+    "fibre": "2.076",
+    "protein": "2.499",
+    "sodium": "0.00037",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C133032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

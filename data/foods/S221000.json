@@ -1,0 +1,44 @@
+{
+  "code": "S221000",
+  "name": {
+    "de": "Speiseeis (Frucht, Karamell, Vanille) gemischt",
+    "en": "Ice cream mixed (caramel, fruit, vanilla)"
+  },
+  "per100g": {
+    "fat": "6.36",
+    "saturates": "3.85",
+    "monounsaturates": "1.48",
+    "polyunsaturates": "0.29",
+    "carbohydrate": "25.2",
+    "sugars": "23",
+    "starch": "1.66",
+    "polyols": "0.006",
+    "fibre": "0.3",
+    "protein": "2.3",
+    "sodium": "0.027",
+    "alcohol": "0",
+    "organicAcids": "0.266"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S221000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

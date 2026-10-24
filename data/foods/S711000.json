@@ -1,0 +1,46 @@
+{
+  "code": "S711000",
+  "name": {
+    "de": "Kakaopulver schwach entölt",
+    "en": "Cocoa powder lightly deoiled"
+  },
+  "per100g": {
+    "fat": "19.8",
+    "saturates": "12.371",
+    "monounsaturates": "6.695",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "10.9",
+    "sugars": "0.9",
+    "starch": "10",
+    "polyols": "0",
+    "fibre": "26.32",
+    "protein": "22.61",
+    "sodium": "0.292",
+    "alcohol": null,
+    "organicAcids": null
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S711000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

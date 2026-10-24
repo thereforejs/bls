@@ -1,0 +1,44 @@
+{
+  "code": "X339243",
+  "name": {
+    "de": "Madeirasauce von dunkler/brauner Grundsauce",
+    "en": "Madeira sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "0.4",
+    "monounsaturates": "2.6",
+    "polyunsaturates": "1.21",
+    "carbohydrate": "6.9",
+    "sugars": "2.3",
+    "starch": "4.61",
+    "polyols": "0.003",
+    "fibre": "0.4",
+    "protein": "1",
+    "sodium": "0.216",
+    "alcohol": "0.57",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X339243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

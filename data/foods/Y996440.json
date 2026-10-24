@@ -1,0 +1,44 @@
+{
+  "code": "Y996440",
+  "name": {
+    "de": "Zitronensorbet",
+    "en": "Lemon sherbet/sorbet"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.037",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.086",
+    "carbohydrate": "28.126",
+    "sugars": "28.126",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.045",
+    "protein": "0.7",
+    "sodium": "0.013",
+    "alcohol": "0.001",
+    "organicAcids": "2.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y996440",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

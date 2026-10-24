@@ -1,0 +1,44 @@
+{
+  "code": "P288600",
+  "name": {
+    "de": "Rotweinpunsch",
+    "en": "Red wine punch"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.002",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0.006",
+    "carbohydrate": "5.13",
+    "sugars": "5.11",
+    "starch": "0",
+    "polyols": "0.017",
+    "fibre": "0.023",
+    "protein": "0.2",
+    "sodium": "0.002",
+    "alcohol": "8.8",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P288600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

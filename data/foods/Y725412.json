@@ -1,0 +1,44 @@
+{
+  "code": "Y725412",
+  "name": {
+    "de": "Rührei gebraten mit Kräutern",
+    "en": "Scrambled eggs fried with herbs"
+  },
+  "per100g": {
+    "fat": "16.54",
+    "saturates": "2.97",
+    "monounsaturates": "7.72",
+    "polyunsaturates": "3.48",
+    "carbohydrate": "0.39",
+    "sugars": "0.38",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "12.85",
+    "sodium": "0.282",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y725412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X426153",
+  "name": {
+    "de": "Ochsenschwanzsuppe klar",
+    "en": "Oxtail soup clear"
+  },
+  "per100g": {
+    "fat": "6.6",
+    "saturates": "2.21",
+    "monounsaturates": "3.25",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "1.3",
+    "sugars": "1.3",
+    "starch": "0",
+    "polyols": "0.02",
+    "fibre": "1.1",
+    "protein": "8.9",
+    "sodium": "0.137",
+    "alcohol": "0",
+    "organicAcids": "0.102"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X426153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

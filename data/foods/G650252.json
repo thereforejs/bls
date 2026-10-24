@@ -1,0 +1,44 @@
+{
+  "code": "G650252",
+  "name": {
+    "de": "Schwarzwurzel tiefgefroren, gedünstet",
+    "en": "Black salsify deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.444",
+    "saturates": "0.048",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.255",
+    "carbohydrate": "8.6",
+    "sugars": "3.9",
+    "starch": "2",
+    "polyols": "0.069",
+    "fibre": "5",
+    "protein": "1.434",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G650252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

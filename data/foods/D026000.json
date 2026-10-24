@@ -1,0 +1,44 @@
+{
+  "code": "D026000",
+  "name": {
+    "de": "Vollkornzwieback",
+    "en": "Wholemeal rusk"
+  },
+  "per100g": {
+    "fat": "6.16",
+    "saturates": "2.4",
+    "monounsaturates": "1.87",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "68",
+    "sugars": "10.746",
+    "starch": "57",
+    "polyols": "0",
+    "fibre": "10.81",
+    "protein": "12.26",
+    "sodium": "0.376",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D026000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

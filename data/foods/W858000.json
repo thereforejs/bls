@@ -1,0 +1,44 @@
+{
+  "code": "W858000",
+  "name": {
+    "de": "Schweinezungensülze",
+    "en": "Jellied pork tongue"
+  },
+  "per100g": {
+    "fat": "9.6",
+    "saturates": "3.1",
+    "monounsaturates": "3.29",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "0.53",
+    "sugars": "0.53",
+    "starch": "0.0007",
+    "polyols": "0",
+    "fibre": "0.02",
+    "protein": "17",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.012"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W858000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

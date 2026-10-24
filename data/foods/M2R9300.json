@@ -1,0 +1,44 @@
+{
+  "code": "M2R9300",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, mit Nusszubereitung, gesüßt",
+    "en": "Yogurt min. 3.5 % fat, with nuts, sweetened"
+  },
+  "per100g": {
+    "fat": "3.675",
+    "saturates": "2.1",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "14.4",
+    "sugars": "13.72",
+    "starch": "0.7",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "3.99",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.932"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2R9300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

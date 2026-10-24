@@ -1,0 +1,44 @@
+{
+  "code": "F303600",
+  "name": {
+    "de": "Brombeersaft",
+    "en": "Blackberry juice"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "9.2",
+    "sugars": "4.9",
+    "starch": "0",
+    "polyols": "4.28",
+    "fibre": "0.3",
+    "protein": "1.17",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.918"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F303600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

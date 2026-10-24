@@ -1,0 +1,44 @@
+{
+  "code": "Y179032",
+  "name": {
+    "de": "Rinderzunge gekocht, mit Rosinensauce",
+    "en": "Beef tongue boiled, with raisin sauce"
+  },
+  "per100g": {
+    "fat": "10.6",
+    "saturates": "3",
+    "monounsaturates": "4.1",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "4.2",
+    "sugars": "2.1",
+    "starch": "2.1",
+    "polyols": "0.031",
+    "fibre": "0.4",
+    "protein": "10.8",
+    "sodium": "0.13",
+    "alcohol": "0",
+    "organicAcids": "0.136"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y179032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

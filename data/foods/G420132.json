@@ -1,0 +1,44 @@
+{
+  "code": "G420132",
+  "name": {
+    "de": "Stielmus/Rübstiel, gekocht",
+    "en": "Turnip tops/greens, boiled"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.07",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0.78",
+    "sugars": "0.78",
+    "starch": null,
+    "polyols": null,
+    "fibre": "3.2",
+    "protein": "1.5",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G420132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

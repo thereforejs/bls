@@ -1,0 +1,44 @@
+{
+  "code": "D187200",
+  "name": {
+    "de": "Apfel-Streuselkuchen (Mürbeteig)",
+    "en": "Apple crumble tart (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "16.13",
+    "saturates": "7.22",
+    "monounsaturates": "2.54",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "35.14",
+    "sugars": "17.06",
+    "starch": "17.66",
+    "polyols": "0.42",
+    "fibre": "3.42",
+    "protein": "4.19",
+    "sodium": "0.0126",
+    "alcohol": "0.003",
+    "organicAcids": "0.266"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D187200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

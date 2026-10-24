@@ -1,0 +1,44 @@
+{
+  "code": "M713500",
+  "name": {
+    "de": "Speisequark Fettstufe, 40 % Fett i. Tr.",
+    "en": "Quark 40 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "11.4",
+    "saturates": "6.173",
+    "monounsaturates": "2.912",
+    "polyunsaturates": "0.298",
+    "carbohydrate": "2.6",
+    "sugars": "2.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.874",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.86"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M713500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "R9A6100",
+  "name": {
+    "de": "Mokkaflammeri mit Likör, für Gebäck/Torten",
+    "en": "Mocha flummery with liqueur, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "2.4",
+    "saturates": "1.5",
+    "monounsaturates": "0.6",
+    "polyunsaturates": "0.016",
+    "carbohydrate": "25",
+    "sugars": "19",
+    "starch": "6",
+    "polyols": "0",
+    "fibre": "0.52",
+    "protein": "2.7",
+    "sodium": "0.056",
+    "alcohol": "1.39",
+    "organicAcids": "0.147"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A6100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

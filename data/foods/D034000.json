@@ -1,0 +1,44 @@
+{
+  "code": "D034000",
+  "name": {
+    "de": "Schokozwieback",
+    "en": "Chocolate rusk"
+  },
+  "per100g": {
+    "fat": "20.2",
+    "saturates": "11.18",
+    "monounsaturates": "6.19",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "58",
+    "sugars": "28.4",
+    "starch": "30",
+    "polyols": "0",
+    "fibre": "7.84",
+    "protein": "9.1",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D034000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

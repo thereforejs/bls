@@ -1,0 +1,44 @@
+{
+  "code": "W237082",
+  "name": {
+    "de": "Fleischkäse fettreduziert, gebraten ohne Fett (Pfanne)",
+    "en": "Fleischkaese sausage reduced-fat, fried without fat, (pan)"
+  },
+  "per100g": {
+    "fat": "7.56",
+    "saturates": "2.87",
+    "monounsaturates": "2.6",
+    "polyunsaturates": "0.87",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "19.47",
+    "sodium": "0.9",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W237082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

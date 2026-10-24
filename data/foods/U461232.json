@@ -1,0 +1,44 @@
+{
+  "code": "U461232",
+  "name": {
+    "de": "Kalb Bug/Schulter, tiefgefroren, gekocht",
+    "en": "Veal shoulder, deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "1.082",
+    "saturates": "0.453",
+    "monounsaturates": "0.406",
+    "polyunsaturates": "0.07",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.257",
+    "sodium": "0.081",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U461232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

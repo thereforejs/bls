@@ -1,0 +1,44 @@
+{
+  "code": "W309000",
+  "name": {
+    "de": "Thüringer Fleischrotwurst fettreduziert",
+    "en": "Thuringian blood sausage reduced-fat"
+  },
+  "per100g": {
+    "fat": "4.68",
+    "saturates": "1.54",
+    "monounsaturates": "1.53",
+    "polyunsaturates": "0.638",
+    "carbohydrate": "0.77",
+    "sugars": "0.29",
+    "starch": "0.48",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "20.57",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W309000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

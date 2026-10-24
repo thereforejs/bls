@@ -1,0 +1,44 @@
+{
+  "code": "S693000",
+  "name": {
+    "de": "Nüsse mit Vollmilchschokoladenüberzug",
+    "en": "Whole milk chocolate covered nuts"
+  },
+  "per100g": {
+    "fat": "37.7",
+    "saturates": "15.99",
+    "monounsaturates": "17.7",
+    "polyunsaturates": "2.1",
+    "carbohydrate": "46.5",
+    "sugars": "45.9",
+    "starch": "0.5",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "8",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S693000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

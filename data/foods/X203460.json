@@ -1,0 +1,44 @@
+{
+  "code": "X203460",
+  "name": {
+    "de": "Griechischer Bauernsalat",
+    "en": "Greek farmers salad"
+  },
+  "per100g": {
+    "fat": "14",
+    "saturates": "5.24",
+    "monounsaturates": "4.97",
+    "polyunsaturates": "1.79",
+    "carbohydrate": "1.41",
+    "sugars": "1.4",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "5.27",
+    "sodium": "0.388",
+    "alcohol": "0.002",
+    "organicAcids": "0.97"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X203460",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

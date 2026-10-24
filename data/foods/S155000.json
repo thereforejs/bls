@@ -1,0 +1,44 @@
+{
+  "code": "S155000",
+  "name": {
+    "de": "Apfeldicksaft",
+    "en": "Apple syrup"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "72.619",
+    "sugars": "65.758",
+    "starch": "0",
+    "polyols": "6.861",
+    "fibre": "2.127",
+    "protein": "0.665",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "5.255"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S155000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

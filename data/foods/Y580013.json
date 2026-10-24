@@ -1,0 +1,44 @@
+{
+  "code": "Y580013",
+  "name": {
+    "de": "Pute gebraten im Ofen, mit Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Turkey fried in oven, with cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "15.3",
+    "saturates": "4.6",
+    "monounsaturates": "6.2",
+    "polyunsaturates": "3.14",
+    "carbohydrate": "1.56",
+    "sugars": "0.086",
+    "starch": "1.47",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "19.65",
+    "sodium": "0.377",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y580013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

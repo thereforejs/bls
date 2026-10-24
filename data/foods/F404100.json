@@ -1,0 +1,44 @@
+{
+  "code": "F404100",
+  "name": {
+    "de": "Eberesche süß, roh",
+    "en": "Sweet rowanberry raw"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "12.7",
+    "sugars": "4.1",
+    "starch": "0.1",
+    "polyols": "8.5",
+    "fibre": "6",
+    "protein": "1.3",
+    "sodium": "0.0006",
+    "alcohol": "0",
+    "organicAcids": "2.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F404100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

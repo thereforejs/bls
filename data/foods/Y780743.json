@@ -1,0 +1,44 @@
+{
+  "code": "Y780743",
+  "name": {
+    "de": "Käse im Blätterteig gebacken",
+    "en": "Cheese in puff pastry baked"
+  },
+  "per100g": {
+    "fat": "32.68",
+    "saturates": "14.7",
+    "monounsaturates": "12.2",
+    "polyunsaturates": "3.4",
+    "carbohydrate": "15.47",
+    "sugars": "0.102",
+    "starch": "15.37",
+    "polyols": "0",
+    "fibre": "1.14",
+    "protein": "16.6",
+    "sodium": "0.443",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y780743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

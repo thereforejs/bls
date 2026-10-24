@@ -1,0 +1,44 @@
+{
+  "code": "X654042",
+  "name": {
+    "de": "Pommes frites",
+    "en": "Potato chips"
+  },
+  "per100g": {
+    "fat": "10.656",
+    "saturates": "0.79",
+    "monounsaturates": "5.94",
+    "polyunsaturates": "2.83",
+    "carbohydrate": "31.077",
+    "sugars": "1.562",
+    "starch": "29.515",
+    "polyols": "0",
+    "fibre": "2.465",
+    "protein": "3.368",
+    "sodium": "0.3827",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X654042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

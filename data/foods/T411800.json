@@ -1,0 +1,44 @@
+{
+  "code": "T411800",
+  "name": {
+    "de": "Graved Lachs",
+    "en": "Graved salmon (salt-sugar-cured)"
+  },
+  "per100g": {
+    "fat": "7.74",
+    "saturates": "1.446",
+    "monounsaturates": "3.32",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "1.493",
+    "sugars": "1.493",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.009",
+    "sodium": "1.169",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T411800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

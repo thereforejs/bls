@@ -1,0 +1,44 @@
+{
+  "code": "X357340",
+  "name": {
+    "de": "Joghurt-Dressing",
+    "en": "Yogurt dressing"
+  },
+  "per100g": {
+    "fat": "10.7",
+    "saturates": "2.39",
+    "monounsaturates": "5.28",
+    "polyunsaturates": "2.29",
+    "carbohydrate": "3.51",
+    "sugars": "3.49",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.03",
+    "protein": "3.25",
+    "sodium": "0.2221",
+    "alcohol": "0",
+    "organicAcids": "1.57"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X357340",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

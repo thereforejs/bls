@@ -1,0 +1,44 @@
+{
+  "code": "D623000",
+  "name": {
+    "de": "Marmorwaffeln (Rührmasse)",
+    "en": "Marble waffles (cake batter)"
+  },
+  "per100g": {
+    "fat": "31.64",
+    "saturates": "18.65",
+    "monounsaturates": "7.46",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "44.2",
+    "sugars": "20.267",
+    "starch": "23.9",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "9.89",
+    "sodium": "0.167",
+    "alcohol": "0",
+    "organicAcids": "0.0282"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D623000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

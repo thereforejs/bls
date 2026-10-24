@@ -1,0 +1,44 @@
+{
+  "code": "Y1A1000",
+  "name": {
+    "de": "Gulasch (mit Rindfleisch)",
+    "en": "Beef goulash"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "1.7",
+    "monounsaturates": "2.9",
+    "polyunsaturates": "0.88",
+    "carbohydrate": "4.2",
+    "sugars": "3.6",
+    "starch": "0.59",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "12.95",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y1A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

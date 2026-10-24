@@ -1,0 +1,44 @@
+{
+  "code": "G780400",
+  "name": {
+    "de": "Limabohne (Butterbohne Mondbohne) reif",
+    "en": "Lima bean/butter bean, mature"
+  },
+  "per100g": {
+    "fat": "1.4",
+    "saturates": "0.41",
+    "monounsaturates": "0.135",
+    "polyunsaturates": "0.808",
+    "carbohydrate": "48.635",
+    "sugars": "1.99",
+    "starch": "43",
+    "polyols": null,
+    "fibre": "14.2",
+    "protein": "20.6",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G780400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

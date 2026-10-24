@@ -1,0 +1,44 @@
+{
+  "code": "K120134",
+  "name": {
+    "de": "Kartoffel ungeschält, gekocht",
+    "en": "Potatoe unpeeled, boiled"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.035",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.013",
+    "carbohydrate": "13.641",
+    "sugars": "1.096",
+    "starch": "12.545",
+    "polyols": "0",
+    "fibre": "1.696",
+    "protein": "1.8",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K120134",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

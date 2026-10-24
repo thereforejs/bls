@@ -1,0 +1,44 @@
+{
+  "code": "X860252",
+  "name": {
+    "de": "Reiskroketten mit Parmesan",
+    "en": "Rice croquettes with Parmesan cheese"
+  },
+  "per100g": {
+    "fat": "15.3",
+    "saturates": "1.8",
+    "monounsaturates": "8.26",
+    "polyunsaturates": "3.88",
+    "carbohydrate": "31.6",
+    "sugars": "1.25",
+    "starch": "30.3",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "5.96",
+    "sodium": "0.341",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X860252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U57A100",
+  "name": {
+    "de": "Schwein Grillbauch, roh",
+    "en": "Pork belly for grilling, raw"
+  },
+  "per100g": {
+    "fat": "28.06",
+    "saturates": "10.05",
+    "monounsaturates": "10.85",
+    "polyunsaturates": "2.68",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.74",
+    "sodium": "0.0609",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U57A100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

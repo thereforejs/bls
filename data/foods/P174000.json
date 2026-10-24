@@ -1,0 +1,44 @@
+{
+  "code": "P174000",
+  "name": {
+    "de": "Doppelbock",
+    "en": "Doppelbock beer (original wort min. 18 %)"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.131",
+    "sugars": "0",
+    "starch": "2.131",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.503",
+    "sodium": "0.0016",
+    "alcohol": "5.63",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P174000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

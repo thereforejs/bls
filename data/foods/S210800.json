@@ -1,0 +1,44 @@
+{
+  "code": "S210800",
+  "name": {
+    "de": "Speiseeis Nuss, in Waffeltüte",
+    "en": "Nut ice cream, in waffle cone"
+  },
+  "per100g": {
+    "fat": "12.86",
+    "saturates": "7.79",
+    "monounsaturates": "3.52",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "29.8",
+    "sugars": "21.2",
+    "starch": "8.59",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "3.96",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0.114"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S210800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

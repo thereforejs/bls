@@ -1,0 +1,44 @@
+{
+  "code": "S241000",
+  "name": {
+    "de": "Vanilleeis",
+    "en": "Vanilla ice cream"
+  },
+  "per100g": {
+    "fat": "10.16",
+    "saturates": "7.356",
+    "monounsaturates": "1.882",
+    "polyunsaturates": "0.2088",
+    "carbohydrate": "22.64",
+    "sugars": "18.14",
+    "starch": "4.5",
+    "polyols": "0",
+    "fibre": "0.34",
+    "protein": "2.38",
+    "sodium": "0.0414",
+    "alcohol": "0",
+    "organicAcids": "0.558"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S692000",
+  "name": {
+    "de": "Getreidechips umhüllt mit Milchschokolade",
+    "en": "Cereal crisps coated with milk chocolate"
+  },
+  "per100g": {
+    "fat": "27.67",
+    "saturates": "14.96",
+    "monounsaturates": "9.27",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "59.4",
+    "sugars": "36.8",
+    "starch": "22.56",
+    "polyols": "0.002",
+    "fibre": "2.93",
+    "protein": "5.24",
+    "sodium": "0.135",
+    "alcohol": "0",
+    "organicAcids": "0.0001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S692000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

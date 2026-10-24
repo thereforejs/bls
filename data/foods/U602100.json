@@ -1,0 +1,44 @@
+{
+  "code": "U602100",
+  "name": {
+    "de": "Schwein Fleisch, sehnenfrei, sichtbarer Fettanteil max. 5 % (S II) roh",
+    "en": "Pork meat, tendon free, visible fat content max. 5 % (S II) raw"
+  },
+  "per100g": {
+    "fat": "5.61",
+    "saturates": "1.89",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.708",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.41",
+    "sodium": "0.0588",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U602100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

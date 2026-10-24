@@ -1,0 +1,44 @@
+{
+  "code": "V486142",
+  "name": {
+    "de": "Pute Brust, ohne Haut, geschmort ohne Fett",
+    "en": "Turkey breast, without skin, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.914",
+    "saturates": "0.332",
+    "monounsaturates": "0.206",
+    "polyunsaturates": "0.217",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "34.111",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V486142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G760132",
+  "name": {
+    "de": "Erbse grün, gekocht",
+    "en": "Pea green, boiled"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.097",
+    "monounsaturates": "0.036",
+    "polyunsaturates": "0.291",
+    "carbohydrate": "12.036",
+    "sugars": "1.275",
+    "starch": "10.761",
+    "polyols": null,
+    "fibre": "5.92",
+    "protein": "5.6",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.151"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G760132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y842712",
+  "name": {
+    "de": "Pflaumenkompott/Zwetschgenkompott, zuckerreduziert",
+    "en": "Plum compote sugar-reduced"
+  },
+  "per100g": {
+    "fat": "0.126",
+    "saturates": "0.017",
+    "monounsaturates": "0.0382",
+    "polyunsaturates": "0.058",
+    "carbohydrate": "12.05",
+    "sugars": "10.12",
+    "starch": "0",
+    "polyols": "1.933",
+    "fibre": "1.3",
+    "protein": "0.22",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.93"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y842712",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

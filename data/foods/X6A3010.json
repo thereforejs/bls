@@ -1,0 +1,44 @@
+{
+  "code": "X6A3010",
+  "name": {
+    "de": "Kartoffelsouffle mit Broccoli",
+    "en": "Potato souffle with broccoli"
+  },
+  "per100g": {
+    "fat": "8.21",
+    "saturates": "1.54",
+    "monounsaturates": "3.97",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "7.3",
+    "sugars": "1.65",
+    "starch": "5.55",
+    "polyols": "0.1",
+    "fibre": "1.3",
+    "protein": "7.29",
+    "sodium": "0.214",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

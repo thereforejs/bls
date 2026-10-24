@@ -1,0 +1,44 @@
+{
+  "code": "F552100",
+  "name": {
+    "de": "Kapstachelbeere/Physalis, roh",
+    "en": "Cape gooseberry raw"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.1",
+    "monounsaturates": "0.114",
+    "polyunsaturates": "0.586",
+    "carbohydrate": "14.125",
+    "sugars": "14.125",
+    "starch": null,
+    "polyols": null,
+    "fibre": "2.46",
+    "protein": "2.3",
+    "sodium": "0.0016",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F552100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

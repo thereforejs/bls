@@ -1,0 +1,44 @@
+{
+  "code": "C650000",
+  "name": {
+    "de": "Reisdrink ungesüßt",
+    "en": "Rice drink unsweetened"
+  },
+  "per100g": {
+    "fat": "1.04",
+    "saturates": "0.246",
+    "monounsaturates": "0.282",
+    "polyunsaturates": "0.44",
+    "carbohydrate": "12.31",
+    "sugars": "6.58",
+    "starch": "5.73",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.039",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C650000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

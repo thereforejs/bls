@@ -1,0 +1,44 @@
+{
+  "code": "Y036122",
+  "name": {
+    "de": "Frikadellen gebraten",
+    "en": "Meatballs fried"
+  },
+  "per100g": {
+    "fat": "19.48",
+    "saturates": "5.62",
+    "monounsaturates": "6.39",
+    "polyunsaturates": "1.31",
+    "carbohydrate": "4.45",
+    "sugars": "0.88",
+    "starch": "3.57",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "18.65",
+    "sodium": "0.252",
+    "alcohol": "0",
+    "organicAcids": "0.065"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036122",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X420163",
+  "name": {
+    "de": "Rinderkraftbrühe mit Tapioka (Sago)",
+    "en": "Beef consomme with tapioka (sago)"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "1.897",
+    "sugars": "0",
+    "starch": "1.897",
+    "polyols": "0",
+    "fibre": "0.018",
+    "protein": "0.4",
+    "sodium": "0.244",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X420163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

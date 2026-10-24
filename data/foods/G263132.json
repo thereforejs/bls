@@ -1,0 +1,44 @@
+{
+  "code": "G263132",
+  "name": {
+    "de": "Sauerampfer gekocht",
+    "en": "Sorrel boiled"
+  },
+  "per100g": {
+    "fat": "0.514",
+    "saturates": "0.051",
+    "monounsaturates": "0.025",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "1.656",
+    "sugars": "1.032",
+    "starch": "0.624",
+    "polyols": null,
+    "fibre": "2.91",
+    "protein": "4.557",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G263132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

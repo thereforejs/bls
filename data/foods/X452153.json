@@ -1,0 +1,44 @@
+{
+  "code": "X452153",
+  "name": {
+    "de": "Eintopf aus Teigwaren eifrei, mit Gemüse und Hühnerfleisch",
+    "en": "Stew of pasta egg-free, with vegetables and chicken"
+  },
+  "per100g": {
+    "fat": "2.6",
+    "saturates": "0.8",
+    "monounsaturates": "0.8",
+    "polyunsaturates": "0.724",
+    "carbohydrate": "11.2",
+    "sugars": "0.8",
+    "starch": "10.398",
+    "polyols": "0.01",
+    "fibre": "0.9",
+    "protein": "5.7",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X452153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

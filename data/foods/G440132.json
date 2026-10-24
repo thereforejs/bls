@@ -1,0 +1,44 @@
+{
+  "code": "G440132",
+  "name": {
+    "de": "Palmenherz gekocht",
+    "en": "Palm heart, boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.038",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.084",
+    "carbohydrate": "3.78",
+    "sugars": "3.6",
+    "starch": "0.086",
+    "polyols": "0.09",
+    "fibre": "1.4",
+    "protein": "2.6",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G440132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

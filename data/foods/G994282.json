@@ -1,0 +1,44 @@
+{
+  "code": "G994282",
+  "name": {
+    "de": "Gemüsemischung asiatische Art, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Mixed vegetables Asian style, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.058",
+    "monounsaturates": "0.034",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "5",
+    "sugars": "5",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "3",
+    "protein": "3",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G994282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

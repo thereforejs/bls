@@ -1,0 +1,44 @@
+{
+  "code": "G345152",
+  "name": {
+    "de": "Sauerkraut abgetropft, gedünstet",
+    "en": "Sauerkraut drained, stewed"
+  },
+  "per100g": {
+    "fat": "0.307",
+    "saturates": "0.071",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.063",
+    "carbohydrate": "0.98",
+    "sugars": "0.763",
+    "starch": "0.1",
+    "polyols": "0.122",
+    "fibre": "2.119",
+    "protein": "1.114",
+    "sodium": "0.471",
+    "alcohol": "0.05",
+    "organicAcids": "2.119"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G345152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

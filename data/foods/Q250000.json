@@ -1,0 +1,44 @@
+{
+  "code": "Q250000",
+  "name": {
+    "de": "Kürbiskernöl",
+    "en": "Pumpkin seed oil"
+  },
+  "per100g": {
+    "fat": "100",
+    "saturates": "16.6",
+    "monounsaturates": "28.01",
+    "polyunsaturates": "49.66",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.0004432",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q250000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

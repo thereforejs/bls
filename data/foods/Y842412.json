@@ -1,0 +1,44 @@
+{
+  "code": "Y842412",
+  "name": {
+    "de": "Aprikosenkompott mit Süßstoff",
+    "en": "Apricot compote with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.115",
+    "saturates": "0.0092",
+    "monounsaturates": "0.057",
+    "polyunsaturates": "0.026",
+    "carbohydrate": "7.283",
+    "sugars": "6.574",
+    "starch": "0",
+    "polyols": "0.709",
+    "fibre": "1.365",
+    "protein": "0.7",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y842412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

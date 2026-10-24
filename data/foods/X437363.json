@@ -1,0 +1,44 @@
+{
+  "code": "X437363",
+  "name": {
+    "de": "Leberklößchen",
+    "en": "Small liver dumplings"
+  },
+  "per100g": {
+    "fat": "5.26",
+    "saturates": "2.159",
+    "monounsaturates": "1.375",
+    "polyunsaturates": "0.661",
+    "carbohydrate": "15.29",
+    "sugars": "2.1",
+    "starch": "13.19",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "12.79",
+    "sodium": "0.326",
+    "alcohol": "0",
+    "organicAcids": "0.023"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X437363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

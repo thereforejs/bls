@@ -1,0 +1,44 @@
+{
+  "code": "X447413",
+  "name": {
+    "de": "Tomatensuppe aus frischen Tomaten, Gemüsebrühe und Teigwaren eifrei",
+    "en": "Tomato soup of fresh tomatoes, vegetable stock and pasta egg-free"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.1",
+    "monounsaturates": "0.58",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "5",
+    "sugars": "2.9",
+    "starch": "2.07",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "1.1",
+    "sodium": "0.136",
+    "alcohol": "0",
+    "organicAcids": "0.267"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X447413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T753800",
+  "name": {
+    "de": "Garnele/Granat/Krabbe, Präserve",
+    "en": "Common shrimp semi-preserved"
+  },
+  "per100g": {
+    "fat": "1.955",
+    "saturates": "0.43161",
+    "monounsaturates": "0.2519",
+    "polyunsaturates": "0.7097",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.938",
+    "sodium": "0.512",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T753800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

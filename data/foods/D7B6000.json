@@ -1,0 +1,44 @@
+{
+  "code": "D7B6000",
+  "name": {
+    "de": "Mürbchen (Mürbeteig) schokoliert",
+    "en": "Shortcrust pastry biscuit with chocolate icing"
+  },
+  "per100g": {
+    "fat": "26.61",
+    "saturates": "16.1",
+    "monounsaturates": "7.16",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "57.1",
+    "sugars": "28.77",
+    "starch": "28.3",
+    "polyols": "0",
+    "fibre": "3.45",
+    "protein": "6.54",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B6000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

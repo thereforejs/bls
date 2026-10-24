@@ -1,0 +1,44 @@
+{
+  "code": "Y846150",
+  "name": {
+    "de": "Erdbeerschaum (mit Sahne)",
+    "en": "Strawberry mousse"
+  },
+  "per100g": {
+    "fat": "6.323",
+    "saturates": "3.279",
+    "monounsaturates": "1.63",
+    "polyunsaturates": "0.268",
+    "carbohydrate": "19.236",
+    "sugars": "19.208",
+    "starch": "0",
+    "polyols": "0.028",
+    "fibre": "1",
+    "protein": "1.9",
+    "sodium": "0.027",
+    "alcohol": "0.002",
+    "organicAcids": "0.589"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y846150",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

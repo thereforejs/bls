@@ -1,0 +1,44 @@
+{
+  "code": "V913300",
+  "name": {
+    "de": "Wildschweinpastete imitiert, mit Mürbeteig, gebacken",
+    "en": "Mock wild boar pie, with shortcrust pastry, baked"
+  },
+  "per100g": {
+    "fat": "11.2",
+    "saturates": "5.08",
+    "monounsaturates": "3.48",
+    "polyunsaturates": "1",
+    "carbohydrate": "7.3",
+    "sugars": "0.08",
+    "starch": "7.2",
+    "polyols": "0",
+    "fibre": "0.59",
+    "protein": "19.44",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.0043"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V913300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

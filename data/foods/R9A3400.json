@@ -1,0 +1,44 @@
+{
+  "code": "R9A3400",
+  "name": {
+    "de": "Quarkfüllung für Gebäck/Torten",
+    "en": "Quark filling for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "0.93",
+    "saturates": "0.294",
+    "monounsaturates": "0.337",
+    "polyunsaturates": "0.14",
+    "carbohydrate": "25",
+    "sugars": "15.9",
+    "starch": "9.098",
+    "polyols": "0",
+    "fibre": "0.106",
+    "protein": "9.16",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "0.595"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A3400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

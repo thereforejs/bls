@@ -1,0 +1,44 @@
+{
+  "code": "S221800",
+  "name": {
+    "de": "Frucht-Joghurteis",
+    "en": "Yogurt-fruit ice cream"
+  },
+  "per100g": {
+    "fat": "2.1",
+    "saturates": "1.32",
+    "monounsaturates": "0.519",
+    "polyunsaturates": "0.111",
+    "carbohydrate": "17.94",
+    "sugars": "17.93",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0.3",
+    "protein": "3.3",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0.726"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S221800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

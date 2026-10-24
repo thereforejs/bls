@@ -1,0 +1,44 @@
+{
+  "code": "W841000",
+  "name": {
+    "de": "Kalbfleischgalantine gebacken",
+    "en": "Veal meat galantine baked"
+  },
+  "per100g": {
+    "fat": "4.13",
+    "saturates": "1.76",
+    "monounsaturates": "1.71",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "0.03",
+    "sugars": "0",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "20.45",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W841000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

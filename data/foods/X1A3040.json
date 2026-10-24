@@ -1,0 +1,44 @@
+{
+  "code": "X1A3040",
+  "name": {
+    "de": "Reissalat mit Gemüse, Früchten, Curry und Zitronenmarinade",
+    "en": "Curried rice salad with vegetables, fruits and lemon marinade"
+  },
+  "per100g": {
+    "fat": "2.4",
+    "saturates": "0.2",
+    "monounsaturates": "1.25",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "13.8",
+    "sugars": "2.2",
+    "starch": "11.6",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "1.9",
+    "sodium": "0.016",
+    "alcohol": "0.001",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A3040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

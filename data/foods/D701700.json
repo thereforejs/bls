@@ -1,0 +1,44 @@
+{
+  "code": "D701700",
+  "name": {
+    "de": "Haferflocken-Nussplätzchen",
+    "en": "Oatmeal-nut biscuits"
+  },
+  "per100g": {
+    "fat": "35.161",
+    "saturates": "13.432",
+    "monounsaturates": "16.152",
+    "polyunsaturates": "2.774",
+    "carbohydrate": "37.9",
+    "sugars": "22.359",
+    "starch": "15.5",
+    "polyols": "0",
+    "fibre": "4.9",
+    "protein": "9.699",
+    "sodium": "0.079",
+    "alcohol": "0",
+    "organicAcids": "0.0186"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D701700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B121400",
+  "name": {
+    "de": "Roggenvollkornbrot mit Sonnenblumenkernen",
+    "en": "Wholemeal rye bread with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "3.01",
+    "saturates": "0.33",
+    "monounsaturates": "0.81",
+    "polyunsaturates": "1.61",
+    "carbohydrate": "33",
+    "sugars": "1.092",
+    "starch": "32",
+    "polyols": "0",
+    "fibre": "11.41",
+    "protein": "6.44",
+    "sodium": "0.437",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B121400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

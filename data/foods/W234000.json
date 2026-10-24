@@ -1,0 +1,48 @@
+{
+  "code": "W234000",
+  "name": {
+    "de": "Fleischwurst",
+    "en": "Bologna"
+  },
+  "per100g": {
+    "fat": "28.3",
+    "saturates": "11.044",
+    "monounsaturates": "12.553",
+    "polyunsaturates": "3.483",
+    "carbohydrate": "0.25",
+    "sugars": "0.24",
+    "starch": null,
+    "polyols": "0.006",
+    "fibre": null,
+    "protein": "12.11",
+    "sodium": "0.975",
+    "alcohol": null,
+    "organicAcids": "0.627"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W234000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

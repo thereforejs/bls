@@ -1,0 +1,44 @@
+{
+  "code": "D9A4000",
+  "name": {
+    "de": "Vollkornplunderteig roh",
+    "en": "Wholemeal Danish pastry dough, raw"
+  },
+  "per100g": {
+    "fat": "21.57",
+    "saturates": "11.294",
+    "monounsaturates": "7.377",
+    "polyunsaturates": "2.416",
+    "carbohydrate": "30",
+    "sugars": "5.193",
+    "starch": "25",
+    "polyols": "0",
+    "fibre": "5.13",
+    "protein": "6.88",
+    "sodium": "0.299",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

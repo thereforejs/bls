@@ -1,0 +1,44 @@
+{
+  "code": "V463172",
+  "name": {
+    "de": "Ente Fleisch, ohne Haut, gegrillt",
+    "en": "Duck meat, without skin, grilled"
+  },
+  "per100g": {
+    "fat": "5.5",
+    "saturates": "1.143",
+    "monounsaturates": "2.131",
+    "polyunsaturates": "0.828",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.9",
+    "sodium": "0.115",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V463172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

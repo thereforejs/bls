@@ -1,0 +1,44 @@
+{
+  "code": "M524572",
+  "name": {
+    "de": "Halloumi Grillkäse, gegrillt",
+    "en": "Halloumi cheese grilled"
+  },
+  "per100g": {
+    "fat": "25.32",
+    "saturates": "14.95",
+    "monounsaturates": "5.16",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "0.1",
+    "sugars": "0",
+    "starch": "0.1",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "22.14",
+    "sodium": "0.6595",
+    "alcohol": "0",
+    "organicAcids": "1.166"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M524572",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

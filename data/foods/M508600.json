@@ -1,0 +1,44 @@
+{
+  "code": "M508600",
+  "name": {
+    "de": "Havarti mind. 45 % Fett i. Tr.",
+    "en": "Havarti cheese min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "26.8",
+    "saturates": "17.354",
+    "monounsaturates": "6.911",
+    "polyunsaturates": "0.76",
+    "carbohydrate": "0.074",
+    "sugars": "0.074",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24",
+    "sodium": "0.755",
+    "alcohol": "0",
+    "organicAcids": "1.325"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M508600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

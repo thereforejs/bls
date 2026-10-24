@@ -1,0 +1,44 @@
+{
+  "code": "W237032",
+  "name": {
+    "de": "Fleischkäse fettreduziert, gekocht",
+    "en": "Fleischkaese sausage reduced-fat, boiled"
+  },
+  "per100g": {
+    "fat": "5.74",
+    "saturates": "2.18",
+    "monounsaturates": "1.97",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "0.14",
+    "sugars": "0",
+    "starch": "0.14",
+    "polyols": "0",
+    "fibre": "0.09",
+    "protein": "16.3",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W237032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

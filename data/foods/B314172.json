@@ -1,0 +1,44 @@
+{
+  "code": "B314172",
+  "name": {
+    "de": "Weizentoastbrot mit Roggen, getoastet",
+    "en": "Wheat toast with rye, toasted"
+  },
+  "per100g": {
+    "fat": "4.09",
+    "saturates": "1.39",
+    "monounsaturates": "1.52",
+    "polyunsaturates": "0.86",
+    "carbohydrate": "58",
+    "sugars": "1.9",
+    "starch": "56",
+    "polyols": "0",
+    "fibre": "4.45",
+    "protein": "10.22",
+    "sodium": "0.604",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B314172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

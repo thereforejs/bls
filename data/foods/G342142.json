@@ -1,0 +1,44 @@
+{
+  "code": "G342142",
+  "name": {
+    "de": "Weißkohl geschmort ohne Fett",
+    "en": "White cabbage braised without fat"
+  },
+  "per100g": {
+    "fat": "0.336",
+    "saturates": "0.0591",
+    "monounsaturates": "0.0085",
+    "polyunsaturates": "0.201",
+    "carbohydrate": "8.1",
+    "sugars": "7.85",
+    "starch": "0",
+    "polyols": "0.25",
+    "fibre": "5.4",
+    "protein": "2.443",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.352"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G342142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

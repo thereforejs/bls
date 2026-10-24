@@ -1,0 +1,44 @@
+{
+  "code": "V576142",
+  "name": {
+    "de": "Hammel Niere, geschmort ohne Fett",
+    "en": "Mutton kidney, braised without fat"
+  },
+  "per100g": {
+    "fat": "4.848",
+    "saturates": "1.61",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.198",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "31.35",
+    "sodium": "0.277",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V576142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

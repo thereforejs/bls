@@ -1,0 +1,44 @@
+{
+  "code": "X361163",
+  "name": {
+    "de": "Vanillesauce",
+    "en": "Vanilla sauce"
+  },
+  "per100g": {
+    "fat": "4.61",
+    "saturates": "2.4",
+    "monounsaturates": "1.25",
+    "polyunsaturates": "0.29",
+    "carbohydrate": "15.16",
+    "sugars": "11.34",
+    "starch": "3.825",
+    "polyols": "0",
+    "fibre": "0.035",
+    "protein": "4",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.054"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X361163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

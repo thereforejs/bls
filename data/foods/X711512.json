@@ -1,0 +1,44 @@
+{
+  "code": "X711512",
+  "name": {
+    "de": "Eier-Frischteigwaren Spätzle, selbstgemacht, roh",
+    "en": "Fresh egg pasta spaetzle, homemade, raw"
+  },
+  "per100g": {
+    "fat": "3.93",
+    "saturates": "1",
+    "monounsaturates": "1.38",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "35.54",
+    "sugars": "0.251",
+    "starch": "35.29",
+    "polyols": "0",
+    "fibre": "2.62",
+    "protein": "9.3",
+    "sodium": "0.321",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X711512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

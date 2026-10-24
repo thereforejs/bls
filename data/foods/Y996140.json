@@ -1,0 +1,44 @@
+{
+  "code": "Y996140",
+  "name": {
+    "de": "Vanillecremeeis",
+    "en": "Vanilla ice cream (with egg)"
+  },
+  "per100g": {
+    "fat": "9.42",
+    "saturates": "4.59",
+    "monounsaturates": "2.67",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "18.5",
+    "sugars": "17.98",
+    "starch": "0.515",
+    "polyols": "0",
+    "fibre": "0.005",
+    "protein": "4.3",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y996140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

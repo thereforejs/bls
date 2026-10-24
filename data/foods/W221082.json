@@ -1,0 +1,44 @@
+{
+  "code": "W221082",
+  "name": {
+    "de": "Rheinische Bratwurst gebraten ohne Fett (Pfanne)",
+    "en": "Rhenish bratwurst fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "21.19",
+    "saturates": "7.42",
+    "monounsaturates": "7.69",
+    "polyunsaturates": "2.44",
+    "carbohydrate": "0.09",
+    "sugars": "0",
+    "starch": "0.09",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "12.59",
+    "sodium": "0.814",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W221082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

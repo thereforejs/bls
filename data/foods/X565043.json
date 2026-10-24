@@ -1,0 +1,44 @@
+{
+  "code": "X565043",
+  "name": {
+    "de": "Schwarzwurzeln gekocht",
+    "en": "Black salsify boiled (with lemon juice and salt)"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.049",
+    "monounsaturates": "0.006",
+    "polyunsaturates": "0.233",
+    "carbohydrate": "7.7",
+    "sugars": "3.6",
+    "starch": "1.7",
+    "polyols": "0.061",
+    "fibre": "5",
+    "protein": "1.26",
+    "sodium": "0.136",
+    "alcohol": "0",
+    "organicAcids": "0.64"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X565043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

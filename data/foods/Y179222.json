@@ -1,0 +1,44 @@
+{
+  "code": "Y179222",
+  "name": {
+    "de": "Ochsenzunge paniert, gebraten",
+    "en": "Ox tongue breaded, fried"
+  },
+  "per100g": {
+    "fat": "19.74",
+    "saturates": "4.65",
+    "monounsaturates": "8.35",
+    "polyunsaturates": "3.31",
+    "carbohydrate": "7.29",
+    "sugars": "0.43",
+    "starch": "6.86",
+    "polyols": "0.001",
+    "fibre": "0.56",
+    "protein": "16.38",
+    "sodium": "0.263",
+    "alcohol": "0",
+    "organicAcids": "0.022"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y179222",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

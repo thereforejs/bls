@@ -1,0 +1,44 @@
+{
+  "code": "X6A3020",
+  "name": {
+    "de": "Moussaka (Auflauf mit Kartoffeln, Auberginen, Bechamel- und Hackfleischsauce)",
+    "en": "Moussaka (gratin with potatoes, aubergines, Bechamel and minced meat sauce)"
+  },
+  "per100g": {
+    "fat": "11",
+    "saturates": "4.1",
+    "monounsaturates": "4.51",
+    "polyunsaturates": "1.41",
+    "carbohydrate": "7.5",
+    "sugars": "2.8",
+    "starch": "4.64",
+    "polyols": "0.02",
+    "fibre": "1.1",
+    "protein": "6.14",
+    "sodium": "0.241",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A3020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

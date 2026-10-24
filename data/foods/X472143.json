@@ -1,0 +1,44 @@
+{
+  "code": "X472143",
+  "name": {
+    "de": "Vanille-Milchsuppe gebunden mit Grieß",
+    "en": "Vanilla-milk soup thickened with semolina"
+  },
+  "per100g": {
+    "fat": "3.34",
+    "saturates": "2.1",
+    "monounsaturates": "0.74",
+    "polyunsaturates": "0.07",
+    "carbohydrate": "10",
+    "sugars": "7.57",
+    "starch": "2.43",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "3.72",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.056"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X472143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

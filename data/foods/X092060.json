@@ -1,0 +1,44 @@
+{
+  "code": "X092060",
+  "name": {
+    "de": "Müsli Bircher-Benner Art, gesüßt, mit Äpfeln, Rosinen, Sahne und Nüssen",
+    "en": "Muesli Bircher-Benner style, sweetened, with apples, raisins, cream and nuts"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "1.3",
+    "monounsaturates": "2.096",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "19.3",
+    "sugars": "16.1",
+    "starch": "2.7",
+    "polyols": "0.4",
+    "fibre": "2.2",
+    "protein": "1.7",
+    "sodium": "0.004",
+    "alcohol": "0.01",
+    "organicAcids": "0.71"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X092060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

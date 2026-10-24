@@ -1,0 +1,44 @@
+{
+  "code": "Y692943",
+  "name": {
+    "de": "Ragout fin mit Rotbarsch",
+    "en": "Ragout fin with redfish"
+  },
+  "per100g": {
+    "fat": "6.3",
+    "saturates": "2.7",
+    "monounsaturates": "1.9",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "1.1",
+    "sugars": "0.57",
+    "starch": "0.53",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "10.8",
+    "sodium": "0.263",
+    "alcohol": "0.04",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y692943",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

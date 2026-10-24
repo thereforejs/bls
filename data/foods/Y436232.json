@@ -1,0 +1,44 @@
+{
+  "code": "Y436232",
+  "name": {
+    "de": "Lammfleischspieße mit Gemüse, gegrillt",
+    "en": "Lamb skewer with vegetables, grilled"
+  },
+  "per100g": {
+    "fat": "11.3",
+    "saturates": "3.92",
+    "monounsaturates": "4.98",
+    "polyunsaturates": "1.22",
+    "carbohydrate": "1.7",
+    "sugars": "1.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "12.4",
+    "sodium": "0.144",
+    "alcohol": "0.003",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y436232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

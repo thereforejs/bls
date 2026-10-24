@@ -1,0 +1,44 @@
+{
+  "code": "T604182",
+  "name": {
+    "de": "Katfisch/Steinbeißer, gebraten ohne Fett (Pfanne)",
+    "en": "Catfish/wolffish, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "2.4",
+    "saturates": "0.571",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.874",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.762",
+    "sodium": "0.112",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T604182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

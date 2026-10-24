@@ -1,0 +1,44 @@
+{
+  "code": "S320000",
+  "name": {
+    "de": "Hartkaramelle (Bonbon) gefüllt",
+    "en": "Boiled sweets filled/hard candy filled"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "87.3",
+    "sugars": "57.7",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S320000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

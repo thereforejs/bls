@@ -1,0 +1,44 @@
+{
+  "code": "Y546033",
+  "name": {
+    "de": "Wildschweinkeule geschmort, mit Wildsauce von dunkler/brauner Grundsauce",
+    "en": "Leg of wild boar braised, with game sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "10.5",
+    "saturates": "2.68",
+    "monounsaturates": "5.34",
+    "polyunsaturates": "1.48",
+    "carbohydrate": "2.55",
+    "sugars": "0.00942",
+    "starch": "2.54",
+    "polyols": "0",
+    "fibre": "0.19",
+    "protein": "15.21",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y546033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

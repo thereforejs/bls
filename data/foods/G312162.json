@@ -1,0 +1,44 @@
+{
+  "code": "G312162",
+  "name": {
+    "de": "Broccoli gebacken",
+    "en": "Broccoli baked"
+  },
+  "per100g": {
+    "fat": "0.8404",
+    "saturates": "0.1674",
+    "monounsaturates": "0.0528",
+    "polyunsaturates": "0.3645",
+    "carbohydrate": "3.3",
+    "sugars": "1.94",
+    "starch": "0.768",
+    "polyols": "0.6",
+    "fibre": "4.2",
+    "protein": "5.101",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.46"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G312162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

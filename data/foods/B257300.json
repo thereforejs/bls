@@ -1,0 +1,44 @@
+{
+  "code": "B257300",
+  "name": {
+    "de": "Weizenmischbrot mit Buttermilch",
+    "en": "Wheat-rye bread (> 50 % and < 90 % wheat) with buttermilk"
+  },
+  "per100g": {
+    "fat": "0.89",
+    "saturates": "0.14",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "43",
+    "sugars": "1.02",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "6.36",
+    "protein": "7.34",
+    "sodium": "0.483",
+    "alcohol": "0",
+    "organicAcids": "0.064"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B257300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

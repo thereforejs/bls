@@ -1,0 +1,44 @@
+{
+  "code": "M172500",
+  "name": {
+    "de": "Sauerrahm/Saure Sahne, mind. 10 % Fett",
+    "en": "Sour cream min. 10 % fat"
+  },
+  "per100g": {
+    "fat": "10",
+    "saturates": "5.3",
+    "monounsaturates": "3",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "4.1",
+    "sugars": "4.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.1",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.195"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M172500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

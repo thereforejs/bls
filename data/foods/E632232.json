@@ -1,0 +1,44 @@
+{
+  "code": "E632232",
+  "name": {
+    "de": "Dinkelvollkornteigwaren eifrei, gekocht",
+    "en": "Wholemeal spelt pasta egg-free, boiled"
+  },
+  "per100g": {
+    "fat": "0.9",
+    "saturates": "0.092",
+    "monounsaturates": "0.156",
+    "polyunsaturates": "0.381",
+    "carbohydrate": "22.38",
+    "sugars": "0.389",
+    "starch": "21.99",
+    "polyols": "0",
+    "fibre": "3.98",
+    "protein": "5.26",
+    "sodium": "0.0004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E632232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

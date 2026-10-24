@@ -1,0 +1,44 @@
+{
+  "code": "X382160",
+  "name": {
+    "de": "Frankfurter grüne Kräutersauce mit gekochtem Ei",
+    "en": "Frankfurt green herb sauce with boiled egg"
+  },
+  "per100g": {
+    "fat": "22.7",
+    "saturates": "2.6",
+    "monounsaturates": "12.01",
+    "polyunsaturates": "5.56",
+    "carbohydrate": "0.97",
+    "sugars": "0.97",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "0.3",
+    "protein": "7.9",
+    "sodium": "0.45",
+    "alcohol": "0.01",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X382160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

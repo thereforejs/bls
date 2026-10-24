@@ -1,0 +1,44 @@
+{
+  "code": "V438232",
+  "name": {
+    "de": "Suppenhuhn Innereien, tiefgefroren, gekocht",
+    "en": "Boiling fowl giblets, deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "11.51",
+    "saturates": "3.02",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.2",
+    "sodium": "0.072",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V438232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

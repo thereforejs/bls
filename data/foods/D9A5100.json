@@ -1,0 +1,44 @@
+{
+  "code": "D9A5100",
+  "name": {
+    "de": "Vollkorn-Marmorkuchen (Rührmasse)",
+    "en": "Wholemeal marble cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "22.6",
+    "saturates": "8.13",
+    "monounsaturates": "10.06",
+    "polyunsaturates": "3.6",
+    "carbohydrate": "39.9",
+    "sugars": "21.88",
+    "starch": "18",
+    "polyols": "0",
+    "fibre": "4.47",
+    "protein": "8.05",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A5100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D660600",
+  "name": {
+    "de": "Schokoladen-Haselnussmakronen",
+    "en": "Chocolate hazelnut macaroons"
+  },
+  "per100g": {
+    "fat": "29.5",
+    "saturates": "5.04",
+    "monounsaturates": "21.2",
+    "polyunsaturates": "2.622",
+    "carbohydrate": "48.2",
+    "sugars": "47.628",
+    "starch": "0.6",
+    "polyols": "0",
+    "fibre": "4.4",
+    "protein": "9.4",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D660600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y640413",
+  "name": {
+    "de": "Lachs gebraten, in Grundsauce hell/weiß mit Sahne",
+    "en": "Salmon fried, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "14.7",
+    "saturates": "5.2",
+    "monounsaturates": "4.04",
+    "polyunsaturates": "2.38",
+    "carbohydrate": "1.63",
+    "sugars": "0.74",
+    "starch": "0.89",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "13.52",
+    "sodium": "0.276",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y640413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X562243",
+  "name": {
+    "de": "Karotten und Lauch gedünstet",
+    "en": "Carrots and leek stewed"
+  },
+  "per100g": {
+    "fat": "3.5",
+    "saturates": "0.3",
+    "monounsaturates": "1.86",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "4.8",
+    "sugars": "4.8",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "1.02",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0.287"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X562243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

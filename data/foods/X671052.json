@@ -1,0 +1,44 @@
+{
+  "code": "X671052",
+  "name": {
+    "de": "Thüringer grüne Kartoffelklöße (mit Grieß)",
+    "en": "Thuringian green dumplings (made from raw and boiled potatoes with semolina)"
+  },
+  "per100g": {
+    "fat": "3.81",
+    "saturates": "2.31",
+    "monounsaturates": "0.84",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "16.3",
+    "sugars": "1.59",
+    "starch": "14.71",
+    "polyols": "0.001",
+    "fibre": "1.24",
+    "protein": "2.77",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.031"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X671052",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

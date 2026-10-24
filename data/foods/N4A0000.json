@@ -1,0 +1,44 @@
+{
+  "code": "N4A0000",
+  "name": {
+    "de": "Kaffee (Getränk) mit Haferdrink, ungesüßt",
+    "en": "Coffee (infusion) with oat drink, unsweetened"
+  },
+  "per100g": {
+    "fat": "0.03",
+    "saturates": "0.0041",
+    "monounsaturates": "0.0131",
+    "polyunsaturates": "0.0141",
+    "carbohydrate": "0.14",
+    "sugars": "0.128",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.32",
+    "protein": "0.14",
+    "sodium": "0.0054",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N4A0000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

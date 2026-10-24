@@ -1,0 +1,44 @@
+{
+  "code": "G850132",
+  "name": {
+    "de": "Gemüsecremesuppe aus Instantpulver (mit Wasser zubereitet)",
+    "en": "Cream of vegetable soup, made from instant powder and water"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.0000349",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "6.7",
+    "sugars": "4.09",
+    "starch": "2.61",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "0.75",
+    "sodium": "0.401",
+    "alcohol": "0",
+    "organicAcids": "0.175"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G850132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

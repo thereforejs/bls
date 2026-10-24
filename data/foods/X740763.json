@@ -1,0 +1,44 @@
+{
+  "code": "X740763",
+  "name": {
+    "de": "Eierteigwaren gebraten mit Thunfisch",
+    "en": "Egg pasta fried with tuna"
+  },
+  "per100g": {
+    "fat": "2.25",
+    "saturates": "0.32",
+    "monounsaturates": "1.05",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "17",
+    "sugars": "1.2",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "6.6",
+    "sodium": "0.161",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X740763",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

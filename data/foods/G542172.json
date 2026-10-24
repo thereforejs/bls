@@ -1,0 +1,44 @@
+{
+  "code": "G542172",
+  "name": {
+    "de": "Gemüsepaprika gelb, gegrillt",
+    "en": "Sweet pepper yellow, grilled"
+  },
+  "per100g": {
+    "fat": "0.215",
+    "saturates": "0.0551",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.0917",
+    "carbohydrate": "4.755",
+    "sugars": "4.755",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.366",
+    "protein": "0.843",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G542172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

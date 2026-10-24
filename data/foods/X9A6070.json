@@ -1,0 +1,44 @@
+{
+  "code": "X9A6070",
+  "name": {
+    "de": "Vegetarische Füllung für Gemüse",
+    "en": "Vegetarian filling for vegetables"
+  },
+  "per100g": {
+    "fat": "16.85",
+    "saturates": "4.83",
+    "monounsaturates": "7.57",
+    "polyunsaturates": "3.2",
+    "carbohydrate": "15.23",
+    "sugars": "3.01",
+    "starch": "12.216",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "8.3",
+    "sodium": "0.479",
+    "alcohol": "0",
+    "organicAcids": "0.151"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A6070",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

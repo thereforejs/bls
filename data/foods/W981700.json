@@ -1,0 +1,44 @@
+{
+  "code": "W981700",
+  "name": {
+    "de": "Haselnusspastete mit Mürbeteig, gebacken",
+    "en": "Hazelnut pate with shortcrust pastry, baked"
+  },
+  "per100g": {
+    "fat": "23.39",
+    "saturates": "7.54",
+    "monounsaturates": "11.05",
+    "polyunsaturates": "2.29",
+    "carbohydrate": "7.9",
+    "sugars": "0.503",
+    "starch": "7.4",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "16.79",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.0042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W981700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

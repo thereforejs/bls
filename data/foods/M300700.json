@@ -1,0 +1,44 @@
+{
+  "code": "M300700",
+  "name": {
+    "de": "Hartkäse mind. 50 % Fett i. Tr.",
+    "en": "Hard cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "32.1",
+    "saturates": "22.296",
+    "monounsaturates": "7.483",
+    "polyunsaturates": "0.719",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.9",
+    "sodium": "0.59",
+    "alcohol": "0",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M300700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

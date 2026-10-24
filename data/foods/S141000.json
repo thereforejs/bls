@@ -1,0 +1,44 @@
+{
+  "code": "S141000",
+  "name": {
+    "de": "Schoko-Nuss-Creme",
+    "en": "Chocolate-nut cream"
+  },
+  "per100g": {
+    "fat": "43.397",
+    "saturates": "10.005",
+    "monounsaturates": "28.109",
+    "polyunsaturates": "4.101",
+    "carbohydrate": "35.4",
+    "sugars": "34.778",
+    "starch": "0.6",
+    "polyols": "0",
+    "fibre": "2.586",
+    "protein": "10.686",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0.26"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S141000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

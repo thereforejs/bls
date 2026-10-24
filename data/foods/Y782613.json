@@ -1,0 +1,44 @@
+{
+  "code": "Y782613",
+  "name": {
+    "de": "Käse-Weißbrot-Auflauf",
+    "en": "Cheese-white bread casserole"
+  },
+  "per100g": {
+    "fat": "14.01",
+    "saturates": "8.358",
+    "monounsaturates": "3.599",
+    "polyunsaturates": "0.717",
+    "carbohydrate": "17.34",
+    "sugars": "2.06",
+    "starch": "15.28",
+    "polyols": "0.003",
+    "fibre": "1.31",
+    "protein": "15.3",
+    "sodium": "0.43",
+    "alcohol": "0",
+    "organicAcids": "0.275"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y782613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

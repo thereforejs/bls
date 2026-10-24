@@ -1,0 +1,44 @@
+{
+  "code": "Y693932",
+  "name": {
+    "de": "Fish and Chips (mit Rotbarsch)",
+    "en": "Fish and chips (with redfish)"
+  },
+  "per100g": {
+    "fat": "11.6",
+    "saturates": "1.4",
+    "monounsaturates": "6",
+    "polyunsaturates": "2.96",
+    "carbohydrate": "17.7",
+    "sugars": "1.09",
+    "starch": "16.6",
+    "polyols": "0",
+    "fibre": "1.33",
+    "protein": "10.7",
+    "sodium": "0.279",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y693932",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "R9A5000",
+  "name": {
+    "de": "Aprikosenglasur/Aprikotur, für Gebäck/Torten",
+    "en": "Apricot icing for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.013",
+    "monounsaturates": "0.017",
+    "polyunsaturates": "0.07",
+    "carbohydrate": "47.7",
+    "sugars": "47.7",
+    "starch": "0",
+    "polyols": "0.015",
+    "fibre": "0.5",
+    "protein": "0.2",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.72"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y652232",
+  "name": {
+    "de": "Schleie paniert, frittiert",
+    "en": "Tench breaded, deep-fried"
+  },
+  "per100g": {
+    "fat": "8.7",
+    "saturates": "1.04",
+    "monounsaturates": "4.51",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "14.04",
+    "sugars": "0.94",
+    "starch": "13.1",
+    "polyols": "0.002",
+    "fibre": "1.16",
+    "protein": "17.45",
+    "sodium": "0.232",
+    "alcohol": "0.002",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y652232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

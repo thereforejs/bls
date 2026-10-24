@@ -1,0 +1,44 @@
+{
+  "code": "G450152",
+  "name": {
+    "de": "Spargel gedünstet",
+    "en": "Asparagus stewed"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.0323",
+    "monounsaturates": "0.00672",
+    "polyunsaturates": "0.0864",
+    "carbohydrate": "4.6",
+    "sugars": "4.4",
+    "starch": "0.105",
+    "polyols": "0.1",
+    "fibre": "1.7",
+    "protein": "2.269",
+    "sodium": "0.00248",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G450152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

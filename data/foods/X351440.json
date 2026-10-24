@@ -1,0 +1,44 @@
+{
+  "code": "X351440",
+  "name": {
+    "de": "Salatmarinade mit Meerrettich",
+    "en": "Salad marinade with horseradish"
+  },
+  "per100g": {
+    "fat": "36.71",
+    "saturates": "7.41",
+    "monounsaturates": "17.85",
+    "polyunsaturates": "7.46",
+    "carbohydrate": "2",
+    "sugars": "1.84",
+    "starch": "0.16",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "1.21",
+    "sodium": "0.23",
+    "alcohol": "0.034",
+    "organicAcids": "2.79"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X351440",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

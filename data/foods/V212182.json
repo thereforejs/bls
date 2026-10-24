@@ -1,0 +1,44 @@
+{
+  "code": "V212182",
+  "name": {
+    "de": "Hirsch Fleisch, gebraten ohne Fett (Pfanne)",
+    "en": "Venison meat, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "3.988",
+    "saturates": "1.514",
+    "monounsaturates": null,
+    "polyunsaturates": "0.777",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.209",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V212182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

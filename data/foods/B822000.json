@@ -1,0 +1,44 @@
+{
+  "code": "B822000",
+  "name": {
+    "de": "Paniermehl glutenfrei",
+    "en": "Bread crumbs gluten-free"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "1.677",
+    "monounsaturates": "1.4",
+    "polyunsaturates": "0.523",
+    "carbohydrate": "78",
+    "sugars": "0.23",
+    "starch": "78",
+    "polyols": "0",
+    "fibre": "1.974",
+    "protein": "6.461",
+    "sodium": "0.501",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B822000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K110143",
+  "name": {
+    "de": "Kartoffel geschält, druckgedämpft",
+    "en": "Potatoe peeled, pressure-steamed"
+  },
+  "per100g": {
+    "fat": "0.04",
+    "saturates": "0.0343",
+    "monounsaturates": "0.0148",
+    "polyunsaturates": "0.0131",
+    "carbohydrate": "17.353",
+    "sugars": "0.873",
+    "starch": "16.48",
+    "polyols": null,
+    "fibre": "1.7",
+    "protein": "2.08",
+    "sodium": "0.0018",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K110143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

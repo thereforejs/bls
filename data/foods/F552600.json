@@ -1,0 +1,44 @@
+{
+  "code": "F552600",
+  "name": {
+    "de": "Kapstachelbeersaft/Physalissaft",
+    "en": "Cape gooseberry juice"
+  },
+  "per100g": {
+    "fat": "0.88",
+    "saturates": "0.08",
+    "monounsaturates": "0.092",
+    "polyunsaturates": "0.469",
+    "carbohydrate": "12.712",
+    "sugars": "12.712",
+    "starch": null,
+    "polyols": null,
+    "fibre": "0.246",
+    "protein": "2.07",
+    "sodium": "0.0014",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F552600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

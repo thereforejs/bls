@@ -1,0 +1,44 @@
+{
+  "code": "X7A2000",
+  "name": {
+    "de": "Nudelpudding (Teigwaren eifrei) mit Kochschinken",
+    "en": "Pudding of pasta egg-free, with boiled ham"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "2.4",
+    "monounsaturates": "1.6",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "15.2",
+    "sugars": "0.8",
+    "starch": "14.364",
+    "polyols": "0",
+    "fibre": "0.613",
+    "protein": "9.8",
+    "sodium": "0.24",
+    "alcohol": "0",
+    "organicAcids": "0.245"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X7A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

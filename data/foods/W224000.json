@@ -1,0 +1,44 @@
+{
+  "code": "W224000",
+  "name": {
+    "de": "Münchner Weißwurst",
+    "en": "Bavarian white sausage"
+  },
+  "per100g": {
+    "fat": "27.225",
+    "saturates": "6.29",
+    "monounsaturates": "7.09",
+    "polyunsaturates": "1.87",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.08",
+    "protein": "11.7",
+    "sodium": "0.834",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W224000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

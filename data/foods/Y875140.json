@@ -1,0 +1,44 @@
+{
+  "code": "Y875140",
+  "name": {
+    "de": "Ambrosiacreme (Saure-Sahne-Creme mit Rum)",
+    "en": "Cream made from sour cream with rum"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "2.1",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.16",
+    "carbohydrate": "17.7",
+    "sugars": "17.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.009",
+    "protein": "4.2",
+    "sodium": "0.04",
+    "alcohol": "0.7",
+    "organicAcids": "0.82"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y875140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S740000",
+  "name": {
+    "de": "Trinkschokoladenpulver",
+    "en": "Instant hot chocolate powder (for drinking chocolate)"
+  },
+  "per100g": {
+    "fat": "5.87",
+    "saturates": "3.24",
+    "monounsaturates": "1.84",
+    "polyunsaturates": "0.511",
+    "carbohydrate": "68.131",
+    "sugars": "64.954",
+    "starch": "3.177",
+    "polyols": "0",
+    "fibre": "6.57",
+    "protein": "7.97",
+    "sodium": "0.0087",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S740000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

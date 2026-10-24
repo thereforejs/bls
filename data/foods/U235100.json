@@ -1,0 +1,44 @@
+{
+  "code": "U235100",
+  "name": {
+    "de": "Rind Hochrippe, roh",
+    "en": "Beef forerib/prime rib, raw"
+  },
+  "per100g": {
+    "fat": "8.05",
+    "saturates": "3.615",
+    "monounsaturates": "3.68",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.55",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U235100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

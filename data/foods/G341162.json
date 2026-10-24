@@ -1,0 +1,44 @@
+{
+  "code": "G341162",
+  "name": {
+    "de": "Rotkohl gebacken",
+    "en": "Red cabbage baked"
+  },
+  "per100g": {
+    "fat": "0.212",
+    "saturates": "0.0393",
+    "monounsaturates": "0.0077",
+    "polyunsaturates": "0.115",
+    "carbohydrate": "4.391",
+    "sugars": "4.306",
+    "starch": "0.085",
+    "polyols": null,
+    "fibre": "2.9",
+    "protein": "1.839",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0.206"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G341162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

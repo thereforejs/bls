@@ -1,0 +1,44 @@
+{
+  "code": "W368000",
+  "name": {
+    "de": "Anspacher Leberpresssack/Leberpresssack",
+    "en": "Anspacher liver brawn"
+  },
+  "per100g": {
+    "fat": "26.8",
+    "saturates": "11.63",
+    "monounsaturates": "7.85",
+    "polyunsaturates": "2.82",
+    "carbohydrate": "0.55",
+    "sugars": "0.12",
+    "starch": "0.43",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "14.12",
+    "sodium": "0.822",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W368000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

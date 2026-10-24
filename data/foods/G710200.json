@@ -1,0 +1,44 @@
+{
+  "code": "G710200",
+  "name": {
+    "de": "Bohne grün, tiefgefroren",
+    "en": "Bean green, deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.267",
+    "saturates": "0.079",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.128",
+    "carbohydrate": "3.7",
+    "sugars": "2.39",
+    "starch": "1",
+    "polyols": "0.3",
+    "fibre": "2.1",
+    "protein": "1.9",
+    "sodium": "0.00198",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G710200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X720613",
+  "name": {
+    "de": "Auflauf aus Eier-Frischteigwaren mit Sahne-Käsesauce und Chester überbacken",
+    "en": "Casserole of fresh egg pasta with cream-cheese sauce and Chester cheese gratinated"
+  },
+  "per100g": {
+    "fat": "18.26",
+    "saturates": "9.3",
+    "monounsaturates": "5.3",
+    "polyunsaturates": "1",
+    "carbohydrate": "19.21",
+    "sugars": "1.53",
+    "starch": "17.68",
+    "polyols": "0",
+    "fibre": "1.54",
+    "protein": "9.9",
+    "sodium": "0.334",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X720613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

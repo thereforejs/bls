@@ -1,0 +1,44 @@
+{
+  "code": "Y221232",
+  "name": {
+    "de": "Kalbskotelett natur, gebraten",
+    "en": "Veal chop fried"
+  },
+  "per100g": {
+    "fat": "4.414",
+    "saturates": "1.31",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.49",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.449",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y221232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

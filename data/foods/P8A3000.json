@@ -1,0 +1,44 @@
+{
+  "code": "P8A3000",
+  "name": {
+    "de": "Eierpunsch",
+    "en": "Egg nog"
+  },
+  "per100g": {
+    "fat": "7.77",
+    "saturates": "4",
+    "monounsaturates": "2.1",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "10.6",
+    "sugars": "10.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.19",
+    "sodium": "0.037",
+    "alcohol": "6.4",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P8A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

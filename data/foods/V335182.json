@@ -1,0 +1,44 @@
+{
+  "code": "V335182",
+  "name": {
+    "de": "Wildente Schenkel, mit Haut, gebraten ohne Fett (Pfanne)",
+    "en": "Wild duck leg, with skin, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "14.7",
+    "saturates": "4.9",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.8",
+    "sodium": "0.072",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V335182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

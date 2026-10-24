@@ -1,0 +1,44 @@
+{
+  "code": "B491200",
+  "name": {
+    "de": "Dinkelvollkornbrötchen mit Nüssen",
+    "en": "Wholemeal spelt roll with nuts"
+  },
+  "per100g": {
+    "fat": "7.21",
+    "saturates": "1.205",
+    "monounsaturates": "2.831",
+    "polyunsaturates": "2.608",
+    "carbohydrate": "45",
+    "sugars": "1.7",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "7.9",
+    "protein": "10.9",
+    "sodium": "0.544",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B491200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

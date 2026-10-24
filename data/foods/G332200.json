@@ -1,0 +1,44 @@
+{
+  "code": "G332200",
+  "name": {
+    "de": "Rosenkohl tiefgefroren",
+    "en": "Brussels sprouts deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.378",
+    "saturates": "0.0568",
+    "monounsaturates": "0.0088",
+    "polyunsaturates": "0.216",
+    "carbohydrate": "2.51",
+    "sugars": "1.76",
+    "starch": "0.544",
+    "polyols": "0.21",
+    "fibre": "4.9",
+    "protein": "4.944",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.71"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G332200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M2A2100",
+  "name": {
+    "de": "Milchmischgetränk < 1 % Fett, probiotisch, aromatisiert, mit Zucker und Süßungsmitteln, angereichert mit Vitaminen",
+    "en": "Milk drink < 1 % fat, probiotic, flavoured, with sugar and artificial sweeteners, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "0.071",
+    "saturates": "0.043",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.001",
+    "carbohydrate": "3.2",
+    "sugars": "3",
+    "starch": "0.224",
+    "polyols": "0",
+    "fibre": "0.003",
+    "protein": "3.473",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2A2100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

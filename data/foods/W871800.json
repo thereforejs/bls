@@ -1,0 +1,44 @@
+{
+  "code": "W871800",
+  "name": {
+    "de": "Krakauer/Kochpolnische, Konserve",
+    "en": "Krakow cooked sausage canned"
+  },
+  "per100g": {
+    "fat": "12.14",
+    "saturates": "4.79",
+    "monounsaturates": "4.87",
+    "polyunsaturates": "1.04",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "15.85",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W871800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

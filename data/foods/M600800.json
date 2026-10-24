@@ -1,0 +1,44 @@
+{
+  "code": "M600800",
+  "name": {
+    "de": "Weichkäse mind. 60 % Fett i. Tr.",
+    "en": "Soft cheese min. 60 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "33.2",
+    "saturates": "21.663",
+    "monounsaturates": "8.456",
+    "polyunsaturates": "0.731",
+    "carbohydrate": "0.01",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "16.8",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.224"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M600800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

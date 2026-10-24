@@ -1,0 +1,44 @@
+{
+  "code": "D705300",
+  "name": {
+    "de": "Apfelküchlein/Apfelringe im Ausbackteig, frittiert",
+    "en": "Apple slices in frying batter, deep-fried"
+  },
+  "per100g": {
+    "fat": "11.9",
+    "saturates": "4.2",
+    "monounsaturates": "4.5",
+    "polyunsaturates": "2.1",
+    "carbohydrate": "17.9",
+    "sugars": "6.1",
+    "starch": "11.41",
+    "polyols": "0.42",
+    "fibre": "2.04",
+    "protein": "3.5",
+    "sodium": "0.027",
+    "alcohol": "0.003",
+    "organicAcids": "0.266"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D705300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

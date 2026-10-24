@@ -1,0 +1,44 @@
+{
+  "code": "H210400",
+  "name": {
+    "de": "Mandel süß, gemahlen",
+    "en": "Sweet almond crushed"
+  },
+  "per100g": {
+    "fat": "46.6",
+    "saturates": "4.01",
+    "monounsaturates": "29.51",
+    "polyunsaturates": "10.3",
+    "carbohydrate": "3.87",
+    "sugars": "3.634",
+    "starch": "0.24",
+    "polyols": "0",
+    "fibre": "7",
+    "protein": "22.333",
+    "sodium": "0.00207",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H210400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

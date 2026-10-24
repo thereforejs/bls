@@ -1,0 +1,44 @@
+{
+  "code": "U687062",
+  "name": {
+    "de": "Schwein Oberschale (ohne Deckel) gebraten ohne Fett (Ofen)",
+    "en": "Pork topside, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "2.71",
+    "saturates": "0.844",
+    "monounsaturates": "1.129",
+    "polyunsaturates": "0.226",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.54",
+    "sodium": "0.0529",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U687062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

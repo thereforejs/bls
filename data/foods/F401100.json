@@ -1,0 +1,44 @@
+{
+  "code": "F401100",
+  "name": {
+    "de": "Preiselbeere roh",
+    "en": "Lingonberry raw"
+  },
+  "per100g": {
+    "fat": "0.53",
+    "saturates": "0.104",
+    "monounsaturates": "0.077",
+    "polyunsaturates": "0.194",
+    "carbohydrate": "6.231",
+    "sugars": "6.109",
+    "starch": "0.12",
+    "polyols": "0.002",
+    "fibre": "2.89",
+    "protein": "0.6875",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F401100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G470282",
+  "name": {
+    "de": "Porree/Lauch, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Leek deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.441",
+    "saturates": "0.078",
+    "monounsaturates": "0.0173",
+    "polyunsaturates": "0.182",
+    "carbohydrate": "9",
+    "sugars": "6.8",
+    "starch": "2",
+    "polyols": null,
+    "fibre": "3.8",
+    "protein": "1.4",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.392"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G470282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K718400",
+  "name": {
+    "de": "Steinpilz getrocknet",
+    "en": "Porcini mushroom dried"
+  },
+  "per100g": {
+    "fat": "2.332",
+    "saturates": "0.414",
+    "monounsaturates": "0.047",
+    "polyunsaturates": "1.166",
+    "carbohydrate": "19.06",
+    "sugars": "3.09",
+    "starch": null,
+    "polyols": "15.97",
+    "fibre": "35.093",
+    "protein": "31.479",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.76"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K718400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U951800",
+  "name": {
+    "de": "Corned Pork, Konserve",
+    "en": "Corned pork, canned"
+  },
+  "per100g": {
+    "fat": "4.1",
+    "saturates": "1.35",
+    "monounsaturates": "1.58",
+    "polyunsaturates": "0.643",
+    "carbohydrate": "0.29",
+    "sugars": "0",
+    "starch": "0.29",
+    "polyols": "0",
+    "fibre": "0.08",
+    "protein": "26.2",
+    "sodium": "0.9",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U951800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

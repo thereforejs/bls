@@ -1,0 +1,44 @@
+{
+  "code": "C118000",
+  "name": {
+    "de": "Quinoa weiß, roh",
+    "en": "Quinoa white, raw"
+  },
+  "per100g": {
+    "fat": "6.29",
+    "saturates": "0.643",
+    "monounsaturates": "1.51",
+    "polyunsaturates": "3",
+    "carbohydrate": "59.65",
+    "sugars": "1.75005",
+    "starch": "57.9",
+    "polyols": "0",
+    "fibre": "7.6",
+    "protein": "12.56",
+    "sodium": "0.0035",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C118000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

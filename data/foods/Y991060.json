@@ -1,0 +1,44 @@
+{
+  "code": "Y991060",
+  "name": {
+    "de": "Vanillecremeeis mit Schlagsahne",
+    "en": "Vanilla ice cream (with egg) with whipped cream"
+  },
+  "per100g": {
+    "fat": "19.9",
+    "saturates": "10.38",
+    "monounsaturates": "5.31",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "11.32",
+    "sugars": "11.05",
+    "starch": "0.273",
+    "polyols": "0",
+    "fibre": "0.003",
+    "protein": "3.4",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.099"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y991060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

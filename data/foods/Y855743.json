@@ -1,0 +1,44 @@
+{
+  "code": "Y855743",
+  "name": {
+    "de": "Rote Grütze mit Vanillesauce",
+    "en": "Red fruit jelly with vanilla sauce"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.87",
+    "monounsaturates": "0.47",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "16.2",
+    "sugars": "12.2",
+    "starch": "3.49",
+    "polyols": "0.56",
+    "fibre": "1.8",
+    "protein": "2.1",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "1.088"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y855743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

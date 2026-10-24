@@ -1,0 +1,44 @@
+{
+  "code": "X746023",
+  "name": {
+    "de": "Eier-Frischteigwaren, grün, mit Gorgonzolasauce",
+    "en": "Fresh egg pasta with semolina, green, with Gorgonzola sauce"
+  },
+  "per100g": {
+    "fat": "11.2",
+    "saturates": "5.8",
+    "monounsaturates": "3.18",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "13.5",
+    "sugars": "0.64",
+    "starch": "12.86",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "7.9",
+    "sodium": "0.372",
+    "alcohol": "0",
+    "organicAcids": "0.137"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X746023",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

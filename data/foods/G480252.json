@@ -1,0 +1,44 @@
+{
+  "code": "G480252",
+  "name": {
+    "de": "Speisezwiebel tiefgefroren, gedünstet",
+    "en": "Onion deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.164",
+    "saturates": "0.0274",
+    "monounsaturates": "0.0165",
+    "polyunsaturates": "0.0565",
+    "carbohydrate": "6.55",
+    "sugars": "6.55",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.259",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.276"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

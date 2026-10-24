@@ -1,0 +1,44 @@
+{
+  "code": "M2S8300",
+  "name": {
+    "de": "Ayran, Joghurtgetränk, gesalzen",
+    "en": "Ayran, yogurt drink, salted"
+  },
+  "per100g": {
+    "fat": "1.96",
+    "saturates": "1.28",
+    "monounsaturates": "0.486",
+    "polyunsaturates": "0.0605",
+    "carbohydrate": "2.69",
+    "sugars": "2.69",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "2.29",
+    "sodium": "0.256",
+    "alcohol": "0",
+    "organicAcids": "0.614"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2S8300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

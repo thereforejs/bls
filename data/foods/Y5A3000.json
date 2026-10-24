@@ -1,0 +1,44 @@
+{
+  "code": "Y5A3000",
+  "name": {
+    "de": "Hühnerleber gebraten",
+    "en": "Chicken liver fried"
+  },
+  "per100g": {
+    "fat": "6.39",
+    "saturates": "1.49",
+    "monounsaturates": "1.84",
+    "polyunsaturates": "1.52",
+    "carbohydrate": "2.77",
+    "sugars": "1.32",
+    "starch": "1.45",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "19.97",
+    "sodium": "0.288",
+    "alcohol": "0",
+    "organicAcids": "0.055"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y5A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

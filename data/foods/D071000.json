@@ -1,0 +1,44 @@
+{
+  "code": "D071000",
+  "name": {
+    "de": "Ausbackteig (mit Milch) gesüßt, roh",
+    "en": "Frying batter (with milk) sweetened, raw"
+  },
+  "per100g": {
+    "fat": "9.6",
+    "saturates": "1.93",
+    "monounsaturates": "4.48",
+    "polyunsaturates": "2.06",
+    "carbohydrate": "27.36",
+    "sugars": "4.26",
+    "starch": "23.1",
+    "polyols": "0",
+    "fibre": "1.71",
+    "protein": "7",
+    "sodium": "0.055",
+    "alcohol": "0",
+    "organicAcids": "0.025"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D071000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

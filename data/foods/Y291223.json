@@ -1,0 +1,44 @@
+{
+  "code": "Y291223",
+  "name": {
+    "de": "Ossobuco alla milanese (Kalbsbeinscheiben geschmort)",
+    "en": "Ossobuco alla milanese (veal leg slices braised)"
+  },
+  "per100g": {
+    "fat": "5.5",
+    "saturates": "1.58",
+    "monounsaturates": "1.86",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "0.8",
+    "sugars": "0.8",
+    "starch": "0.01",
+    "polyols": "0.005",
+    "fibre": "0.5",
+    "protein": "18.52",
+    "sodium": "0.216",
+    "alcohol": "0.44",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y291223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

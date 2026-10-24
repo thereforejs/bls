@@ -1,0 +1,44 @@
+{
+  "code": "W520032",
+  "name": {
+    "de": "Corned Beef gekocht",
+    "en": "Corned beef boiled"
+  },
+  "per100g": {
+    "fat": "5.172",
+    "saturates": "2.171",
+    "monounsaturates": "2.46",
+    "polyunsaturates": "0.302",
+    "carbohydrate": "0.29",
+    "sugars": "0",
+    "starch": "0.29",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "22.448",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.005"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W520032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X511343",
+  "name": {
+    "de": "Pilzragout von Champignons, überbacken",
+    "en": "Button mushroom ragout, gratinated"
+  },
+  "per100g": {
+    "fat": "16.4",
+    "saturates": "5.45",
+    "monounsaturates": "6.52",
+    "polyunsaturates": "2.27",
+    "carbohydrate": "2.6",
+    "sugars": "1.1",
+    "starch": "0",
+    "polyols": "1.51",
+    "fibre": "1",
+    "protein": "11.09",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X511343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

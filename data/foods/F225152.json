@@ -1,0 +1,44 @@
+{
+  "code": "F225152",
+  "name": {
+    "de": "Reineclaude gedünstet",
+    "en": "Greengage stewed"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "15.8",
+    "sugars": "12.7",
+    "starch": "0",
+    "polyols": "3.071",
+    "fibre": "2.647",
+    "protein": "0.99",
+    "sodium": "0.001",
+    "alcohol": null,
+    "organicAcids": "1.47"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F225152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

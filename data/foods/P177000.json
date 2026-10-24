@@ -1,0 +1,44 @@
+{
+  "code": "P177000",
+  "name": {
+    "de": "Stout",
+    "en": "Stout"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "5.3",
+    "sugars": "3.2",
+    "starch": "2.1275",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.4",
+    "sodium": "0.0016",
+    "alcohol": "3.3",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P177000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

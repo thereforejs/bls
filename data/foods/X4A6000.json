@@ -1,0 +1,44 @@
+{
+  "code": "X4A6000",
+  "name": {
+    "de": "Fenchelsuppe mit Orangenfilets",
+    "en": "Fennel soup with orange fillets"
+  },
+  "per100g": {
+    "fat": "2.9",
+    "saturates": "1.7",
+    "monounsaturates": "0.668",
+    "polyunsaturates": "0.102",
+    "carbohydrate": "2.2",
+    "sugars": "2.1",
+    "starch": "0",
+    "polyols": "0.08",
+    "fibre": "0.9",
+    "protein": "0.74",
+    "sodium": "0.212",
+    "alcohol": "0.002",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A6000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

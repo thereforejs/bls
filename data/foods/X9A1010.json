@@ -1,0 +1,44 @@
+{
+  "code": "X9A1010",
+  "name": {
+    "de": "Haferbratlinge vegan, gebraten",
+    "en": "Oat patties vegan, fried"
+  },
+  "per100g": {
+    "fat": "15.6",
+    "saturates": "1.7",
+    "monounsaturates": "6.86",
+    "polyunsaturates": "5.5",
+    "carbohydrate": "20",
+    "sugars": "1.28",
+    "starch": "18.7",
+    "polyols": "0.01",
+    "fibre": "6",
+    "protein": "8.01",
+    "sodium": "0.192",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

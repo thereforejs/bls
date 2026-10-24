@@ -1,0 +1,44 @@
+{
+  "code": "K740400",
+  "name": {
+    "de": "Austernpilz getrocknet",
+    "en": "Oyster mushroom dried"
+  },
+  "per100g": {
+    "fat": "1.74",
+    "saturates": "0.2421",
+    "monounsaturates": "0.1669",
+    "polyunsaturates": "0.7705",
+    "carbohydrate": "10.05",
+    "sugars": "8.78",
+    "starch": "0",
+    "polyols": "1.266",
+    "fibre": "46.278",
+    "protein": "26.18",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K740400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

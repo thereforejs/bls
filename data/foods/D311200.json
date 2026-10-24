@@ -1,0 +1,44 @@
+{
+  "code": "D311200",
+  "name": {
+    "de": "Buttercremetorte (Biskuit)",
+    "en": "Butter cream torte (sponge cake)"
+  },
+  "per100g": {
+    "fat": "18.85",
+    "saturates": "11.3",
+    "monounsaturates": "4.39",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "26.66",
+    "sugars": "17.4",
+    "starch": "9.26",
+    "polyols": "0",
+    "fibre": "0.54",
+    "protein": "5.44",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0.038"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D311200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

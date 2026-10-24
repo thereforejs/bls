@@ -1,0 +1,44 @@
+{
+  "code": "Y840853",
+  "name": {
+    "de": "Birnen im Sud gekocht",
+    "en": "Pears boiled"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.044",
+    "monounsaturates": "0.069",
+    "polyunsaturates": "0.139",
+    "carbohydrate": "15.28",
+    "sugars": "12.02",
+    "starch": "0",
+    "polyols": "3.26",
+    "fibre": "3",
+    "protein": "0.332",
+    "sodium": "0.001",
+    "alcohol": "0.006",
+    "organicAcids": "0.47"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y840853",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

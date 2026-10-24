@@ -1,0 +1,44 @@
+{
+  "code": "B106700",
+  "name": {
+    "de": "Vollkornbrot mit Kürbiskernen",
+    "en": "Wholemeal bread with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "3.23",
+    "saturates": "0.489",
+    "monounsaturates": "0.759",
+    "polyunsaturates": "1.569",
+    "carbohydrate": "37",
+    "sugars": "0.846",
+    "starch": "36",
+    "polyols": "0",
+    "fibre": "10.03",
+    "protein": "8.54",
+    "sodium": "0.46",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B106700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

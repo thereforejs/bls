@@ -1,0 +1,44 @@
+{
+  "code": "Y8A3000",
+  "name": {
+    "de": "Apfel-Bananen-Birnenmus ungesüßt",
+    "en": "Apple-banana-pear sauce unsweetened"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.113",
+    "monounsaturates": "0.034",
+    "polyunsaturates": "0.16",
+    "carbohydrate": "13.4",
+    "sugars": "11.43",
+    "starch": "0.942",
+    "polyols": "1",
+    "fibre": "2.3",
+    "protein": "0.719",
+    "sodium": "0.001",
+    "alcohol": "0.07",
+    "organicAcids": "0.57"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

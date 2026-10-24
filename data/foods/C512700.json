@@ -1,0 +1,44 @@
+{
+  "code": "C512700",
+  "name": {
+    "de": "Müslimischung mit Trockenfrüchten, glutenfrei, gesüßt",
+    "en": "Muesli mix with dried fruit, gluten-free, sweetened"
+  },
+  "per100g": {
+    "fat": "8",
+    "saturates": "1.8",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "3.3",
+    "carbohydrate": "56.7",
+    "sugars": "21.3",
+    "starch": "34.9",
+    "polyols": "0.489",
+    "fibre": "6.9",
+    "protein": "8.6",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "1.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C512700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S161000",
+  "name": {
+    "de": "Pflaumenmus",
+    "en": "Plum butter (jam)"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.012",
+    "monounsaturates": "0.0273",
+    "polyunsaturates": "0.041",
+    "carbohydrate": "45.928",
+    "sugars": "44.55",
+    "starch": "0",
+    "polyols": "1.378",
+    "fibre": "1.66",
+    "protein": "0.94",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "1.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S161000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

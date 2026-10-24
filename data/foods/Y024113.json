@@ -1,0 +1,44 @@
+{
+  "code": "Y024113",
+  "name": {
+    "de": "Blutwürste erwärmt",
+    "en": "Blood sausages heated"
+  },
+  "per100g": {
+    "fat": "28.004",
+    "saturates": "8.4",
+    "monounsaturates": "10.55",
+    "polyunsaturates": "2.99",
+    "carbohydrate": "0.33",
+    "sugars": "0.21",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "13.284",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.005"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y024113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

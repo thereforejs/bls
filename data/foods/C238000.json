@@ -1,0 +1,44 @@
+{
+  "code": "C238000",
+  "name": {
+    "de": "Dinkel Grieß",
+    "en": "Spelt semolina"
+  },
+  "per100g": {
+    "fat": "1.81",
+    "saturates": "0.203",
+    "monounsaturates": "0.31",
+    "polyunsaturates": "0.758",
+    "carbohydrate": "65.75",
+    "sugars": "0.66693",
+    "starch": "65.08",
+    "polyols": "0",
+    "fibre": "6.13",
+    "protein": "12.52",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C238000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

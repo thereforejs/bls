@@ -1,0 +1,47 @@
+{
+  "code": "M810600",
+  "name": {
+    "de": "Schmelzkäsezubereitung 45 - 52 % Fett i. Tr.",
+    "en": "Processed cheese preparation 45 - 52 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "23.7",
+    "saturates": "15.996",
+    "monounsaturates": "5.851",
+    "polyunsaturates": "0.667",
+    "carbohydrate": "5.3",
+    "sugars": "5.3",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "11.8",
+    "sodium": "0.9235",
+    "alcohol": null,
+    "organicAcids": "0.853"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M810600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

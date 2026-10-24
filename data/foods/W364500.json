@@ -1,0 +1,44 @@
+{
+  "code": "W364500",
+  "name": {
+    "de": "Schinkenpresskopf",
+    "en": "Ham brawn"
+  },
+  "per100g": {
+    "fat": "11.75",
+    "saturates": "4.31",
+    "monounsaturates": "3.96",
+    "polyunsaturates": "1.31",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "21.68",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W364500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

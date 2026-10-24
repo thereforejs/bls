@@ -1,0 +1,44 @@
+{
+  "code": "F545182",
+  "name": {
+    "de": "Kochbanane gebraten ohne Fett (Pfanne)",
+    "en": "Plantain fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.173",
+    "monounsaturates": "0.013",
+    "polyunsaturates": "0.022",
+    "carbohydrate": "44",
+    "sugars": "11.5",
+    "starch": "32.5",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "1.76",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.849"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F545182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

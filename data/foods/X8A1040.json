@@ -1,0 +1,44 @@
+{
+  "code": "X8A1040",
+  "name": {
+    "de": "Milchreis gesüßt, mit Sojadrink",
+    "en": "Rice pudding sweetened, with soya drink"
+  },
+  "per100g": {
+    "fat": "1.11",
+    "saturates": "0.168",
+    "monounsaturates": "0.272",
+    "polyunsaturates": "0.591",
+    "carbohydrate": "18.4",
+    "sugars": "1.25",
+    "starch": "17.1",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "4.24",
+    "sodium": "0.025",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X8A1040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

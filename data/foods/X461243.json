@@ -1,0 +1,44 @@
+{
+  "code": "X461243",
+  "name": {
+    "de": "Kohlrüben-Eintopf mit Kasseler und Kartoffeln",
+    "en": "Turnip stew with cured, smoked pork neck and potatoes"
+  },
+  "per100g": {
+    "fat": "2.7",
+    "saturates": "1",
+    "monounsaturates": "1.37",
+    "polyunsaturates": "0.37",
+    "carbohydrate": "5.34",
+    "sugars": "1.21",
+    "starch": "4.047",
+    "polyols": "0.08",
+    "fibre": "1.4",
+    "protein": "6.8",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.159"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X461243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

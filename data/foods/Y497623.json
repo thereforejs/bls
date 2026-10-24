@@ -1,0 +1,44 @@
+{
+  "code": "Y497623",
+  "name": {
+    "de": "Hammelfleisch gedünstet mit Weißkraut (Irish Stew)",
+    "en": "Mutton stewed with white cabbage (Irish Stew)"
+  },
+  "per100g": {
+    "fat": "9.8",
+    "saturates": "3.7",
+    "monounsaturates": "4.1",
+    "polyunsaturates": "0.84",
+    "carbohydrate": "9.45",
+    "sugars": "2.51",
+    "starch": "6.89",
+    "polyols": "0.05",
+    "fibre": "1.8",
+    "protein": "6.36",
+    "sodium": "0.195",
+    "alcohol": "0",
+    "organicAcids": "0.095"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y497623",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

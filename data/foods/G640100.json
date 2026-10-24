@@ -1,0 +1,44 @@
+{
+  "code": "G640100",
+  "name": {
+    "de": "Pastinake roh",
+    "en": "Parsnip raw"
+  },
+  "per100g": {
+    "fat": "0.43",
+    "saturates": "0.065",
+    "monounsaturates": "0.024",
+    "polyunsaturates": "0.255",
+    "carbohydrate": "9.7",
+    "sugars": "3.061",
+    "starch": "6.6",
+    "polyols": null,
+    "fibre": "2.13",
+    "protein": "2.6875",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G640100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

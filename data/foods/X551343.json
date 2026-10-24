@@ -1,0 +1,44 @@
+{
+  "code": "X551343",
+  "name": {
+    "de": "Auberginen mit Tomaten gedünstet",
+    "en": "Aubergines with tomatoes stewed"
+  },
+  "per100g": {
+    "fat": "3.647",
+    "saturates": "0.28",
+    "monounsaturates": "2.01",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "3.6",
+    "sugars": "3.5",
+    "starch": "0",
+    "polyols": "0.07",
+    "fibre": "1.6",
+    "protein": "0.888",
+    "sodium": "0.19",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X551343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

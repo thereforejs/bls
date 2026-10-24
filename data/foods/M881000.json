@@ -1,0 +1,44 @@
+{
+  "code": "M881000",
+  "name": {
+    "de": "Milchpulver mit hohem Fettgehalt (Sahnepulver, Rahmpulver)",
+    "en": "Milk powder with high fat content (cream powder)"
+  },
+  "per100g": {
+    "fat": "42",
+    "saturates": "21.9",
+    "monounsaturates": "12.6",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "28.3",
+    "sugars": "28.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.6",
+    "sodium": "0.27",
+    "alcohol": "0",
+    "organicAcids": "2.62"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M881000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D310800",
+  "name": {
+    "de": "Biskuitrolle/Biskuitroulade, mit Erdbeersahnecreme",
+    "en": "Sponge cake roll, filled with strawberry-cream"
+  },
+  "per100g": {
+    "fat": "10.5",
+    "saturates": "4.94",
+    "monounsaturates": "2.98",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "29.9",
+    "sugars": "21.9",
+    "starch": "7.96",
+    "polyols": "0.013",
+    "fibre": "1",
+    "protein": "5.6",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D310800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

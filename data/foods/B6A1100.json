@@ -1,0 +1,44 @@
+{
+  "code": "B6A1100",
+  "name": {
+    "de": "Weizenvollkornknäckebrot mit Käse, Ölsamen und Tomaten",
+    "en": "Wholemeal wheat crispbread with cheese, oilseeds and tomatoes"
+  },
+  "per100g": {
+    "fat": "13.7",
+    "saturates": "4",
+    "monounsaturates": "5.2",
+    "polyunsaturates": "3.4",
+    "carbohydrate": "49",
+    "sugars": "4.5",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "11.9",
+    "protein": "16.3",
+    "sodium": "0.747",
+    "alcohol": "0",
+    "organicAcids": "0.442"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

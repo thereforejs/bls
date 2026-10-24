@@ -1,0 +1,44 @@
+{
+  "code": "X455013",
+  "name": {
+    "de": "Brotsuppe (Weißbrot) mit Gemüsebrühe, Tomaten, Champignons und Käse",
+    "en": "Bread soup (white bread) with vegetable stock, tomatoes, button mushruooms and cheese"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "1.5",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "5.9",
+    "sugars": "1.4",
+    "starch": "4.309",
+    "polyols": "0.19",
+    "fibre": "0.7",
+    "protein": "2.8",
+    "sodium": "0.277",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X455013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

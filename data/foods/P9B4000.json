@@ -1,0 +1,44 @@
+{
+  "code": "P9B4000",
+  "name": {
+    "de": "Cocktail, Margarita",
+    "en": "Cocktail, Margarita"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.008",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.017",
+    "carbohydrate": "2.4",
+    "sugars": "2.4",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "0.009",
+    "protein": "0",
+    "sodium": "0.135",
+    "alcohol": "8.5",
+    "organicAcids": "0.47"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P9B4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

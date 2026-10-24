@@ -1,0 +1,44 @@
+{
+  "code": "X9A6040",
+  "name": {
+    "de": "Hefeteig, gesalzen, mit Milch 3,5 % Fett, roh",
+    "en": "Yeast dough, salted, with milk 3.5 % fat, raw"
+  },
+  "per100g": {
+    "fat": "12.81",
+    "saturates": "7.44",
+    "monounsaturates": "2.91",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "48",
+    "sugars": "1.54",
+    "starch": "46",
+    "polyols": "0",
+    "fibre": "3.53",
+    "protein": "8.5",
+    "sodium": "0.132",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A6040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

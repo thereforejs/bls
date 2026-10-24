@@ -1,0 +1,44 @@
+{
+  "code": "Y710243",
+  "name": {
+    "de": "Spiegelei gebacken, auf gedünstetem Spinat mit Tomaten",
+    "en": "Baked egg on stewed spinach with tomatoes"
+  },
+  "per100g": {
+    "fat": "10.79",
+    "saturates": "2.34",
+    "monounsaturates": "4.92",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "1.55",
+    "sugars": "1.43",
+    "starch": "0.121",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "6.51",
+    "sodium": "0.173",
+    "alcohol": "0",
+    "organicAcids": "0.136"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y710243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y7A3000",
+  "name": {
+    "de": "Basilikumbutter",
+    "en": "Basil butter"
+  },
+  "per100g": {
+    "fat": "59.1",
+    "saturates": "35.4",
+    "monounsaturates": "13",
+    "polyunsaturates": "2.88",
+    "carbohydrate": "1.7",
+    "sugars": "1.5",
+    "starch": "0.2",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "2.7",
+    "sodium": "0.18",
+    "alcohol": "0",
+    "organicAcids": "0.099"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y7A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

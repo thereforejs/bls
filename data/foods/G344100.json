@@ -1,0 +1,44 @@
+{
+  "code": "G344100",
+  "name": {
+    "de": "Spitzkohl roh",
+    "en": "Pointed cabbage raw"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.022",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "4.54",
+    "sugars": "4.4",
+    "starch": "0",
+    "polyols": "0.14",
+    "fibre": "3",
+    "protein": "1.21",
+    "sodium": "0.018",
+    "alcohol": "0",
+    "organicAcids": "0.197"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G344100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

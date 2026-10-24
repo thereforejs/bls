@@ -1,0 +1,44 @@
+{
+  "code": "H190100",
+  "name": {
+    "de": "Macadamianuss",
+    "en": "Macadamia nut"
+  },
+  "per100g": {
+    "fat": "73",
+    "saturates": "10.7",
+    "monounsaturates": "59",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "5.2",
+    "sugars": "4.1",
+    "starch": "1.05",
+    "polyols": "0",
+    "fibre": "11.432",
+    "protein": "8.797",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.00052"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H190100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

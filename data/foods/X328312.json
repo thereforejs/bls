@@ -1,0 +1,44 @@
+{
+  "code": "X328312",
+  "name": {
+    "de": "Carbonara Sauce",
+    "en": "Carbonara sauce"
+  },
+  "per100g": {
+    "fat": "21.66",
+    "saturates": "8.83",
+    "monounsaturates": "7.92",
+    "polyunsaturates": "2.29",
+    "carbohydrate": "0.3",
+    "sugars": "0.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.157",
+    "protein": "20.47",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.182"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X328312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

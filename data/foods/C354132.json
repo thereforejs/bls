@@ -1,0 +1,44 @@
+{
+  "code": "C354132",
+  "name": {
+    "de": "Reismischung mit Wildreis, gekocht",
+    "en": "Rice mix with wild rice, boiled"
+  },
+  "per100g": {
+    "fat": "0.796",
+    "saturates": "0.139",
+    "monounsaturates": "0.288",
+    "polyunsaturates": "0.297",
+    "carbohydrate": "27.25",
+    "sugars": "0.27",
+    "starch": "26.979",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "3.552",
+    "sodium": "0.00137",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C354132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

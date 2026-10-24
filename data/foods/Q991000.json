@@ -1,0 +1,44 @@
+{
+  "code": "Q991000",
+  "name": {
+    "de": "Mayonnaise (Fertigprodukt)",
+    "en": "Mayonnaise (ready-made product)"
+  },
+  "per100g": {
+    "fat": "81.2",
+    "saturates": "6.88",
+    "monounsaturates": "42.772",
+    "polyunsaturates": "25.234",
+    "carbohydrate": "2.3",
+    "sugars": "2.3",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0.64",
+    "protein": "1.49",
+    "sodium": "0.364",
+    "alcohol": "0",
+    "organicAcids": "0.762"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q991000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

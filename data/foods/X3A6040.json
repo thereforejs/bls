@@ -1,0 +1,44 @@
+{
+  "code": "X3A6040",
+  "name": {
+    "de": "Tofu-Bolognese vegan",
+    "en": "Tofu Bolognese vegan"
+  },
+  "per100g": {
+    "fat": "10.7",
+    "saturates": "0.9",
+    "monounsaturates": "4.12",
+    "polyunsaturates": "4.01",
+    "carbohydrate": "2.7",
+    "sugars": "2.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "3.2",
+    "protein": "11.4",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A6040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

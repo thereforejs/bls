@@ -1,0 +1,44 @@
+{
+  "code": "S539900",
+  "name": {
+    "de": "Vollmilchschokolade",
+    "en": "Whole milk chocolate"
+  },
+  "per100g": {
+    "fat": "35.13",
+    "saturates": "21.12",
+    "monounsaturates": "10.44",
+    "polyunsaturates": "1.14",
+    "carbohydrate": "52.01",
+    "sugars": "51.38",
+    "starch": "0.631",
+    "polyols": "0",
+    "fibre": "2.52",
+    "protein": "6.34",
+    "sodium": "0.0742",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S539900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

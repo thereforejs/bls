@@ -1,0 +1,44 @@
+{
+  "code": "G542100",
+  "name": {
+    "de": "Gemüsepaprika gelb, roh",
+    "en": "Sweet pepper yellow, raw"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.0512",
+    "monounsaturates": "0.003",
+    "polyunsaturates": "0.0853",
+    "carbohydrate": "4.422",
+    "sugars": "4.422",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "0.8",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G542100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

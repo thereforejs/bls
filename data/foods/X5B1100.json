@@ -1,0 +1,44 @@
+{
+  "code": "X5B1100",
+  "name": {
+    "de": "Gemüse-Kartoffel-Brei, mit Fenchel (ohne Salz, geeignet für Beikost)",
+    "en": "Vegetable-potato purree, with fennel (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "4.928",
+    "saturates": "0.38",
+    "monounsaturates": "2.79",
+    "polyunsaturates": "1.33",
+    "carbohydrate": "7.11",
+    "sugars": "2.69",
+    "starch": "4.086",
+    "polyols": "0.33",
+    "fibre": "2",
+    "protein": "1.15",
+    "sodium": "0.015",
+    "alcohol": "0.003",
+    "organicAcids": "0.083"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5B1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

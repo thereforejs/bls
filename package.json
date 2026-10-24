@@ -29,6 +29,7 @@
   "sideEffects": false,
   "exports": {
     ".": "./dist/index.mjs",
+    "./sources": "./dist/sources.mjs",
     "./package.json": "./package.json"
   },
   "publishConfig": {
@@ -40,7 +41,9 @@
     "dev": "vp pack --watch",
     "test": "vp test",
     "check": "vp check",
-    "prepack": "vp check && vp test run && vp pack",
+    "generate": "vpx scripts/generate.ts",
+    "import:bls": "vpx scripts/import-bls.ts",
+    "prepack": "vp run generate && vp check && vp test run && vp pack",
     "prepare": "vp config"
   },
   "devDependencies": {

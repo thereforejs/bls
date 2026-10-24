@@ -1,0 +1,44 @@
+{
+  "code": "U471172",
+  "name": {
+    "de": "Kalb Haxe, gegrillt",
+    "en": "Veal shank, grilled"
+  },
+  "per100g": {
+    "fat": "5.299",
+    "saturates": "2.247",
+    "monounsaturates": "2.012",
+    "polyunsaturates": "0.344",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.16",
+    "sodium": "0.122",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U471172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G312100",
+  "name": {
+    "de": "Broccoli roh",
+    "en": "Broccoli raw"
+  },
+  "per100g": {
+    "fat": "0.5967",
+    "saturates": "0.1189",
+    "monounsaturates": "0.0375",
+    "polyunsaturates": "0.2588",
+    "carbohydrate": "2.3",
+    "sugars": "1.38",
+    "starch": "0.545",
+    "polyols": "0.4",
+    "fibre": "3",
+    "protein": "3.622",
+    "sodium": "0.026",
+    "alcohol": "0",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G312100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W224032",
+  "name": {
+    "de": "Münchner Weißwurst gargezogen",
+    "en": "Bavarian white sausage poached"
+  },
+  "per100g": {
+    "fat": "23.789",
+    "saturates": "5.5",
+    "monounsaturates": "6.19",
+    "polyunsaturates": "1.64",
+    "carbohydrate": "0.07",
+    "sugars": "0",
+    "starch": "0.07",
+    "polyols": "0",
+    "fibre": "0.08",
+    "protein": "10.905",
+    "sodium": "0.688",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W224032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

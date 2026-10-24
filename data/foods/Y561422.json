@@ -1,0 +1,44 @@
+{
+  "code": "Y561422",
+  "name": {
+    "de": "Wiener Backhendl (Hähnchen im Backteig gebraten)",
+    "en": "Chicken in frying batter fried"
+  },
+  "per100g": {
+    "fat": "24.2",
+    "saturates": "6.4",
+    "monounsaturates": "9.19",
+    "polyunsaturates": "6.48",
+    "carbohydrate": "4.55",
+    "sugars": "0.51",
+    "starch": "4.04",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "18.26",
+    "sodium": "0.214",
+    "alcohol": "0.001",
+    "organicAcids": "0.36"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y561422",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

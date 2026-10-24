@@ -1,0 +1,46 @@
+{
+  "code": "M400600",
+  "name": {
+    "de": "Schnittkäse mind. 45 % Fett i. Tr.",
+    "en": "Semi-hard cheese min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "26.04",
+    "saturates": "18.092",
+    "monounsaturates": "6.091",
+    "polyunsaturates": "0.557",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.22",
+    "sodium": "0.5395",
+    "alcohol": "0",
+    "organicAcids": "0.645"
+  },
+  "marks": {
+    "starch": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M400600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G480400",
+  "name": {
+    "de": "Speisezwiebel getrocknet",
+    "en": "Onion dried"
+  },
+  "per100g": {
+    "fat": "1.406",
+    "saturates": "0.2346",
+    "monounsaturates": "0.1414",
+    "polyunsaturates": "0.4863",
+    "carbohydrate": "56.33",
+    "sugars": "56.33",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "13.1",
+    "protein": "10.832",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "2.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

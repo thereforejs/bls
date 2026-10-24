@@ -1,0 +1,44 @@
+{
+  "code": "Y843143",
+  "name": {
+    "de": "Apfelmus",
+    "en": "Apple sauce"
+  },
+  "per100g": {
+    "fat": "0.399",
+    "saturates": "0.16",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.195",
+    "carbohydrate": "12.5",
+    "sugars": "11.558",
+    "starch": "0.479",
+    "polyols": "0.5",
+    "fibre": "1.815",
+    "protein": "0.338",
+    "sodium": "0.001",
+    "alcohol": "0.005",
+    "organicAcids": "0.363"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y843143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

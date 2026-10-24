@@ -1,0 +1,44 @@
+{
+  "code": "X463613",
+  "name": {
+    "de": "Linsensuppe mit Gemüse und gepökeltem Schweinefleisch",
+    "en": "Lentil soup with vegetables and cured pork"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "1.6",
+    "monounsaturates": "2.29",
+    "polyunsaturates": "0.88",
+    "carbohydrate": "9",
+    "sugars": "1.4",
+    "starch": "8",
+    "polyols": "0.01",
+    "fibre": "3.1",
+    "protein": "7.18",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X463613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

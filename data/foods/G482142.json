@@ -1,0 +1,44 @@
+{
+  "code": "G482142",
+  "name": {
+    "de": "Frühlingszwiebel/Lauchzwiebel, geschmort ohne Fett",
+    "en": "Spring onion braised without fat"
+  },
+  "per100g": {
+    "fat": "0.24",
+    "saturates": "0.04",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.7",
+    "sugars": "3.5",
+    "starch": "0.2",
+    "polyols": null,
+    "fibre": "3.2",
+    "protein": "2.4",
+    "sodium": "0.015",
+    "alcohol": "0",
+    "organicAcids": "0.278"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G482142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

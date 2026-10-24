@@ -1,0 +1,44 @@
+{
+  "code": "X9A4020",
+  "name": {
+    "de": "Pfannkuchen/Eierkuchen, ungesüßt, mit Milch 3,5 % Fett, gebraten in Butter",
+    "en": "Pancakes unsweetened, with milk 3.5 % fat, fried in butter"
+  },
+  "per100g": {
+    "fat": "10.68",
+    "saturates": "5.49",
+    "monounsaturates": "2.32",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "30.2",
+    "sugars": "2.55",
+    "starch": "27.6",
+    "polyols": "0",
+    "fibre": "2.04",
+    "protein": "8.43",
+    "sodium": "0.133",
+    "alcohol": "0",
+    "organicAcids": "0.041"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A4020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

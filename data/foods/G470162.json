@@ -1,0 +1,44 @@
+{
+  "code": "G470162",
+  "name": {
+    "de": "Porree/Lauch, gebacken",
+    "en": "Leek baked"
+  },
+  "per100g": {
+    "fat": "0.294",
+    "saturates": "0.052",
+    "monounsaturates": "0.0116",
+    "polyunsaturates": "0.122",
+    "carbohydrate": "6",
+    "sugars": "4.6",
+    "starch": "1",
+    "polyols": null,
+    "fibre": "2.6",
+    "protein": "2.518",
+    "sodium": "0.0006",
+    "alcohol": "0",
+    "organicAcids": "0.261"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G470162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

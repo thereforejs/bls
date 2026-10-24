@@ -1,0 +1,44 @@
+{
+  "code": "Y841212",
+  "name": {
+    "de": "Johannisbeerkompott",
+    "en": "Red currant compote"
+  },
+  "per100g": {
+    "fat": "0.139",
+    "saturates": "0.027",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.051",
+    "carbohydrate": "14.61",
+    "sugars": "14.61",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "2.4",
+    "protein": "1.002",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1.652"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

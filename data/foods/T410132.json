@@ -1,0 +1,44 @@
+{
+  "code": "T410132",
+  "name": {
+    "de": "Lachs pochiert",
+    "en": "Salmon poached"
+  },
+  "per100g": {
+    "fat": "11.947",
+    "saturates": "2.558",
+    "monounsaturates": "3.79",
+    "polyunsaturates": "3.693",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.9",
+    "sodium": "0.0374",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T410132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

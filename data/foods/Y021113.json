@@ -1,0 +1,44 @@
+{
+  "code": "Y021113",
+  "name": {
+    "de": "Pfälzer Bratwurst gebraten, in Grundsauce dunkel/braun",
+    "en": "\"Palatine\" bratwurst fried, in brown basic sauce"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "5.2",
+    "monounsaturates": "6.2",
+    "polyunsaturates": "2.11",
+    "carbohydrate": "1.87",
+    "sugars": "0.00667",
+    "starch": "1.86",
+    "polyols": "0",
+    "fibre": "0.17",
+    "protein": "8.85",
+    "sodium": "0.632",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y021113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

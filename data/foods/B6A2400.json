@@ -1,0 +1,44 @@
+{
+  "code": "B6A2400",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Dinkel",
+    "en": "Wholemeal rye crispbread with spelt"
+  },
+  "per100g": {
+    "fat": "1.54",
+    "saturates": "0.17",
+    "monounsaturates": "0.22",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "59.73",
+    "sugars": "1.8",
+    "starch": "57.93",
+    "polyols": "0",
+    "fibre": "18.81",
+    "protein": "10.11",
+    "sodium": "0.5501",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A2400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

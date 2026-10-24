@@ -1,0 +1,44 @@
+{
+  "code": "C119132",
+  "name": {
+    "de": "Bulgur (Hartweizen) gekocht",
+    "en": "Bulgur (durum wheat) boiled"
+  },
+  "per100g": {
+    "fat": "0.9",
+    "saturates": "0.13",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.37",
+    "carbohydrate": "29.1",
+    "sugars": "0.8",
+    "starch": "28.3",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "5.5",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C119132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

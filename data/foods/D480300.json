@@ -1,0 +1,44 @@
+{
+  "code": "D480300",
+  "name": {
+    "de": "Käsekuchen mit Streuseln (Mürbeteig)",
+    "en": "Cheesecake with crumbles (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "14.3",
+    "saturates": "8.21",
+    "monounsaturates": "3.44",
+    "polyunsaturates": "0.55",
+    "carbohydrate": "35.1",
+    "sugars": "20.49",
+    "starch": "14.6",
+    "polyols": "0",
+    "fibre": "0.95",
+    "protein": "7.95",
+    "sodium": "0.066",
+    "alcohol": "0",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D480300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X1A1010",
+  "name": {
+    "de": "Broccolisalat (gegart) mit Joghurtmarinade",
+    "en": "Broccoli salad (cooked) with yogurt marinade"
+  },
+  "per100g": {
+    "fat": "2.68",
+    "saturates": "0.64",
+    "monounsaturates": "1.12",
+    "polyunsaturates": "0.62",
+    "carbohydrate": "2.4",
+    "sugars": "1.85",
+    "starch": "0.332",
+    "polyols": "0.2",
+    "fibre": "1.9",
+    "protein": "3.01",
+    "sodium": "0.089",
+    "alcohol": "0.004",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

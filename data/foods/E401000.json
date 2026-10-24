@@ -1,0 +1,44 @@
+{
+  "code": "E401000",
+  "name": {
+    "de": "Teigwaren eifrei, roh",
+    "en": "Pasta egg-free, raw"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.233",
+    "monounsaturates": null,
+    "polyunsaturates": "0.618",
+    "carbohydrate": "68.833",
+    "sugars": "2.015",
+    "starch": "66.818",
+    "polyols": null,
+    "fibre": "3.406",
+    "protein": "12.4",
+    "sodium": "0.0031",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E401000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

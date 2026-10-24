@@ -1,0 +1,44 @@
+{
+  "code": "T932262",
+  "name": {
+    "de": "Seelachs im Backteig, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Saithe/pollack, in frying batter, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "12.33",
+    "saturates": "1.26",
+    "monounsaturates": "6.45",
+    "polyunsaturates": "3.48",
+    "carbohydrate": "20.14",
+    "sugars": "0.66",
+    "starch": "19.48",
+    "polyols": "0.001",
+    "fibre": "1.44",
+    "protein": "14.44",
+    "sodium": "0.369",
+    "alcohol": "0",
+    "organicAcids": "0.032"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T932262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

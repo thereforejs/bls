@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4090",
+  "name": {
+    "de": "Schokoladenflammeri/Schokoladenpudding",
+    "en": "Chocolate pudding"
+  },
+  "per100g": {
+    "fat": "4.04",
+    "saturates": "2.11",
+    "monounsaturates": "1.26",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "18.3",
+    "sugars": "12.08",
+    "starch": "6.2",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "3.88",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.051"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4090",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

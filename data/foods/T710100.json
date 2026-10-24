@@ -1,0 +1,44 @@
+{
+  "code": "T710100",
+  "name": {
+    "de": "Edelkrebs/Flusskrebs, roh",
+    "en": "Crayfish raw"
+  },
+  "per100g": {
+    "fat": "0.47",
+    "saturates": "0.0674",
+    "monounsaturates": "0.0816",
+    "polyunsaturates": "0.121",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15",
+    "sodium": "0.253",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T710100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

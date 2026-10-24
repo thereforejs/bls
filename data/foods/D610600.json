@@ -1,0 +1,44 @@
+{
+  "code": "D610600",
+  "name": {
+    "de": "Zuckerlis (Eiklarmasse)",
+    "en": "\"Zuckerlis\" almond meringue"
+  },
+  "per100g": {
+    "fat": "21.721",
+    "saturates": "2.87",
+    "monounsaturates": "12.9",
+    "polyunsaturates": "4.5",
+    "carbohydrate": "43.9",
+    "sugars": "34.63",
+    "starch": "9.3",
+    "polyols": "0",
+    "fibre": "5.7",
+    "protein": "12.996",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D610600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X493243",
+  "name": {
+    "de": "Holundersuppe mit Apfel, gebunden mit Stärke",
+    "en": "Elderberry soup with apple, thickened with starch"
+  },
+  "per100g": {
+    "fat": "0.948",
+    "saturates": "0.092",
+    "monounsaturates": "0.06",
+    "polyunsaturates": "0.614",
+    "carbohydrate": "11.2",
+    "sugars": "10.69",
+    "starch": "0.439",
+    "polyols": "0.1",
+    "fibre": "2.1",
+    "protein": "1.373",
+    "sodium": "0.002",
+    "alcohol": "0.001",
+    "organicAcids": "1.425"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X493243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

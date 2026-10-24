@@ -1,0 +1,44 @@
+{
+  "code": "G090242",
+  "name": {
+    "de": "Gemüsemischung Kaisergemüse, tiefgefroren, geschmort ohne Fett",
+    "en": "Mixed vegetables (carrots, cauliflower and broccoli florets) deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.465",
+    "saturates": "0.093",
+    "monounsaturates": "0.0535",
+    "polyunsaturates": "0.173",
+    "carbohydrate": "4.8",
+    "sugars": "3.42",
+    "starch": "0.291",
+    "polyols": "1.1",
+    "fibre": "3.2",
+    "protein": "2.512",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.37"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G090242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

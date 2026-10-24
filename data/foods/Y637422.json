@@ -1,0 +1,44 @@
+{
+  "code": "Y637422",
+  "name": {
+    "de": "Heilbuttfilet pochiert (ohne Sauce)",
+    "en": "Halibut fillet poached (without sauce)"
+  },
+  "per100g": {
+    "fat": "6.21",
+    "saturates": "1.321",
+    "monounsaturates": "6.077",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.079",
+    "sodium": "0.131",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y637422",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T934262",
+  "name": {
+    "de": "Alaska-Seelachs paniert, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Alaska pollock breaded, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "5.54",
+    "saturates": "0.6",
+    "monounsaturates": "1.4",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "16.21",
+    "sugars": "0.92",
+    "starch": "15.29",
+    "polyols": "0.002",
+    "fibre": "1.13",
+    "protein": "11.4",
+    "sodium": "0.442",
+    "alcohol": "0",
+    "organicAcids": "0.051"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T934262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

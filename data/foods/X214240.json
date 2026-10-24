@@ -1,0 +1,44 @@
+{
+  "code": "X214240",
+  "name": {
+    "de": "Feldsalat mit Essigmarinade",
+    "en": "Lamb's lettuce with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "17.3",
+    "saturates": "1.24",
+    "monounsaturates": "9.83",
+    "polyunsaturates": "4.77",
+    "carbohydrate": "0.64",
+    "sugars": "0.62",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "1.2",
+    "sodium": "0.136",
+    "alcohol": "0.011",
+    "organicAcids": "0.88"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X214240",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

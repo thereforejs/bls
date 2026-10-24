@@ -1,0 +1,44 @@
+{
+  "code": "G331162",
+  "name": {
+    "de": "Kohlrabi gebacken",
+    "en": "Kohlrabi baked"
+  },
+  "per100g": {
+    "fat": "0.188",
+    "saturates": "0.033",
+    "monounsaturates": "0.0162",
+    "polyunsaturates": "0.083",
+    "carbohydrate": "4.56",
+    "sugars": "4.358",
+    "starch": "0",
+    "polyols": "0.16",
+    "fibre": "1.8",
+    "protein": "2.282",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0.369"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G331162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

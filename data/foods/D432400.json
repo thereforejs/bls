@@ -1,0 +1,44 @@
+{
+  "code": "D432400",
+  "name": {
+    "de": "Quarkstollen (Rührmasse)",
+    "en": "Quark stollen (cake batter)"
+  },
+  "per100g": {
+    "fat": "15.7",
+    "saturates": "6.3",
+    "monounsaturates": "5.92",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "48.6",
+    "sugars": "28.9",
+    "starch": "19.5",
+    "polyols": "0.181",
+    "fibre": "4.2",
+    "protein": "8.1",
+    "sodium": "0.125",
+    "alcohol": "0",
+    "organicAcids": "0.94"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D432400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X445713",
+  "name": {
+    "de": "Selleriecremesuppe",
+    "en": "Cream of celeriac soup"
+  },
+  "per100g": {
+    "fat": "4.7",
+    "saturates": "2.5",
+    "monounsaturates": "1.203",
+    "polyunsaturates": "0.156",
+    "carbohydrate": "2.62",
+    "sugars": "1.36",
+    "starch": "1.199",
+    "polyols": "0.06",
+    "fibre": "1",
+    "protein": "0.96",
+    "sodium": "0.194",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X445713",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

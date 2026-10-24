@@ -1,0 +1,44 @@
+{
+  "code": "D431900",
+  "name": {
+    "de": "Ottilienkuchen (Rührmasse)",
+    "en": "\"Ottilienkuchen\" cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "26.98",
+    "saturates": "14.18",
+    "monounsaturates": "8.03",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "45.1",
+    "sugars": "28.7",
+    "starch": "16.4",
+    "polyols": "0",
+    "fibre": "2.4",
+    "protein": "7.1",
+    "sodium": "0.083",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

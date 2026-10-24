@@ -1,0 +1,44 @@
+{
+  "code": "X9A1060",
+  "name": {
+    "de": "Hirse-Gemüse-Bratlinge gebraten",
+    "en": "Millet-vegetable patties fried"
+  },
+  "per100g": {
+    "fat": "3.6",
+    "saturates": "0.6",
+    "monounsaturates": "1.48",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "11.39",
+    "sugars": "1.84",
+    "starch": "9.55",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "4.2",
+    "sodium": "0.203",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A1060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "B783012",
+  "name": {
+    "de": "Weizentortilla",
+    "en": "Wheat flour tortilla"
+  },
+  "per100g": {
+    "fat": "7.85",
+    "saturates": "2.838",
+    "monounsaturates": "3.101",
+    "polyunsaturates": "1.309",
+    "carbohydrate": "46.639",
+    "sugars": "1.33",
+    "starch": "45.3",
+    "polyols": "0.009",
+    "fibre": "1.2",
+    "protein": "8.85",
+    "sodium": "0.617",
+    "alcohol": null,
+    "organicAcids": "0.22"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B783012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

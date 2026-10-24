@@ -1,0 +1,44 @@
+{
+  "code": "B782100",
+  "name": {
+    "de": "Weizenfladenbrot",
+    "en": "Wheat flatbread"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.2",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "47",
+    "sugars": "0.317",
+    "starch": "47",
+    "polyols": "0",
+    "fibre": "3.34",
+    "protein": "8.2",
+    "sodium": "0.504",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B782100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

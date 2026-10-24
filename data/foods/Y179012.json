@@ -1,0 +1,44 @@
+{
+  "code": "Y179012",
+  "name": {
+    "de": "Rinderzunge gekocht",
+    "en": "Beef tongue boiled (in stock)"
+  },
+  "per100g": {
+    "fat": "15.288",
+    "saturates": "4.999",
+    "monounsaturates": "5.26",
+    "polyunsaturates": "1.66",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.462",
+    "sodium": "0.058",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y179012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

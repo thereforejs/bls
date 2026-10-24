@@ -1,0 +1,44 @@
+{
+  "code": "X166260",
+  "name": {
+    "de": "Selleriesalat (gegart) mit warmer Essigmarinade",
+    "en": "Celeriac salad (cooked) with warm vinegar marinade"
+  },
+  "per100g": {
+    "fat": "3.1",
+    "saturates": "0.3",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "2.14",
+    "sugars": "1.66",
+    "starch": "0.32",
+    "polyols": "0.16",
+    "fibre": "3",
+    "protein": "1.17",
+    "sodium": "0.127",
+    "alcohol": "0.006",
+    "organicAcids": "0.89"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X166260",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

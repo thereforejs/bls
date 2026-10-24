@@ -1,0 +1,44 @@
+{
+  "code": "X4B3000",
+  "name": {
+    "de": "Leberknödel, Suppeneinlage",
+    "en": "Liver dumpling as soup garnish"
+  },
+  "per100g": {
+    "fat": "11.13",
+    "saturates": "5.544",
+    "monounsaturates": "2.762",
+    "polyunsaturates": "0.814",
+    "carbohydrate": "12.47",
+    "sugars": "1.61",
+    "starch": "10.86",
+    "polyols": "0.002",
+    "fibre": "1",
+    "protein": "13.77",
+    "sodium": "0.491",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4B3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

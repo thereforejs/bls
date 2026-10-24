@@ -1,0 +1,44 @@
+{
+  "code": "D734900",
+  "name": {
+    "de": "Nussstangen (Mürbeteig)",
+    "en": "Nut sticks (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "36.3",
+    "saturates": "14.03",
+    "monounsaturates": "16.68",
+    "polyunsaturates": "2.4",
+    "carbohydrate": "43.7",
+    "sugars": "24.037",
+    "starch": "19.7",
+    "polyols": "0",
+    "fibre": "3.2",
+    "protein": "8.6",
+    "sodium": "0.015",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D734900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

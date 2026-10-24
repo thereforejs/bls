@@ -1,0 +1,44 @@
+{
+  "code": "X358240",
+  "name": {
+    "de": "Sahne-Dressing für Salat",
+    "en": "Cream dressing for salad"
+  },
+  "per100g": {
+    "fat": "10.9",
+    "saturates": "5.7",
+    "monounsaturates": "3",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "3.4",
+    "sugars": "3.4",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "2.01",
+    "sodium": "0.41",
+    "alcohol": "0.001",
+    "organicAcids": "2.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X358240",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

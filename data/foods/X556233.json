@@ -1,0 +1,44 @@
+{
+  "code": "X556233",
+  "name": {
+    "de": "Tomaten gebacken provenzalische Art",
+    "en": "Tomatoes baked Provencal style"
+  },
+  "per100g": {
+    "fat": "7.95",
+    "saturates": "0.59",
+    "monounsaturates": "4.51",
+    "polyunsaturates": "2.18",
+    "carbohydrate": "3.83",
+    "sugars": "3.83",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "1",
+    "sodium": "0.193",
+    "alcohol": "0",
+    "organicAcids": "0.457"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X556233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

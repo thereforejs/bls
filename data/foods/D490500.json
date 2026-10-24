@@ -1,0 +1,44 @@
+{
+  "code": "D490500",
+  "name": {
+    "de": "Französische Apfeltarte (Blätterteig)",
+    "en": "French apple tart (puff pastry)"
+  },
+  "per100g": {
+    "fat": "23.6",
+    "saturates": "14.78",
+    "monounsaturates": "5.14",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "27.1",
+    "sugars": "6.7",
+    "starch": "20.05",
+    "polyols": "0.32",
+    "fibre": "2.5",
+    "protein": "4.2",
+    "sodium": "0.025",
+    "alcohol": "0",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D490500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

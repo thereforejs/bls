@@ -1,0 +1,44 @@
+{
+  "code": "E470082",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli (Gemüsefüllung) gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Fresh egg pasta Ravioli (vegetable filling) boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "2.12",
+    "saturates": "0.3",
+    "monounsaturates": "0.5",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "25",
+    "sugars": "0.78",
+    "starch": "24.2",
+    "polyols": "0.001",
+    "fibre": "2",
+    "protein": "5.09",
+    "sodium": "0.142",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E470082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

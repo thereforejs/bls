@@ -1,0 +1,44 @@
+{
+  "code": "W193000",
+  "name": {
+    "de": "Kabanossi/Peperoni",
+    "en": "Kabanossi/Peperoni, sausage, raw, small, firm"
+  },
+  "per100g": {
+    "fat": "27.13",
+    "saturates": "10.32",
+    "monounsaturates": "9.79",
+    "polyunsaturates": "2.92",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.27",
+    "sodium": "1.4",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W193000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

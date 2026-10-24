@@ -1,0 +1,44 @@
+{
+  "code": "U952000",
+  "name": {
+    "de": "Schwein Schnitzel, paniert, gebraten ohne Fett (Pfanne)",
+    "en": "Pork meat, breaded, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "3.66",
+    "saturates": "1.19",
+    "monounsaturates": "1.56",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "9.24",
+    "sugars": "0.62",
+    "starch": "8.62",
+    "polyols": "0.001",
+    "fibre": "0.72",
+    "protein": "26.66",
+    "sodium": "0.549",
+    "alcohol": "0",
+    "organicAcids": "0.032"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U952000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

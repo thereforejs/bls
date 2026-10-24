@@ -1,0 +1,44 @@
+{
+  "code": "X389000",
+  "name": {
+    "de": "Avocadocreme (Guacamole)",
+    "en": "Avocado dip (Guacamole)"
+  },
+  "per100g": {
+    "fat": "10.2",
+    "saturates": "2.109",
+    "monounsaturates": "6.153",
+    "polyunsaturates": "1.26",
+    "carbohydrate": "2",
+    "sugars": "2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "3.7",
+    "protein": "1.41",
+    "sodium": "0.18",
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X389000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

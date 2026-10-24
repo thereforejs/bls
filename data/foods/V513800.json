@@ -1,0 +1,44 @@
+{
+  "code": "V513800",
+  "name": {
+    "de": "Schwein Herz, Kochpökelware",
+    "en": "Pork heart, cooked cured"
+  },
+  "per100g": {
+    "fat": "6.83",
+    "saturates": "2.56",
+    "monounsaturates": "2.21",
+    "polyunsaturates": "0.879",
+    "carbohydrate": "0.797",
+    "sugars": "0.797",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.351",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V513800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

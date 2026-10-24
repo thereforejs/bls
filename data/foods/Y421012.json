@@ -1,0 +1,44 @@
+{
+  "code": "Y421012",
+  "name": {
+    "de": "Hammelkotelett natur, gebraten",
+    "en": "Mutton chop fried"
+  },
+  "per100g": {
+    "fat": "42.8",
+    "saturates": "15.61",
+    "monounsaturates": "13.3",
+    "polyunsaturates": "1.23",
+    "carbohydrate": "0.06",
+    "sugars": "0.05",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "18.94",
+    "sodium": "0.282",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y421012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

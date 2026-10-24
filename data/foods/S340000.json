@@ -1,0 +1,44 @@
+{
+  "code": "S340000",
+  "name": {
+    "de": "Weichkaramelle gefüllt",
+    "en": "Soft caramel filled"
+  },
+  "per100g": {
+    "fat": "18.23",
+    "saturates": "9.6",
+    "monounsaturates": "6.21",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "63",
+    "sugars": "42.4",
+    "starch": "0.3",
+    "polyols": "10",
+    "fibre": "0.81",
+    "protein": "2.327",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S340000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

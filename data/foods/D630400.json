@@ -1,0 +1,44 @@
+{
+  "code": "D630400",
+  "name": {
+    "de": "Butterkekse/Butterplätzchen (Mürbeteig)",
+    "en": "Shortbread biscuits"
+  },
+  "per100g": {
+    "fat": "16.12",
+    "saturates": "9.923",
+    "monounsaturates": "3.999",
+    "polyunsaturates": "0.8181",
+    "carbohydrate": "68.89",
+    "sugars": "27.06",
+    "starch": "41.8",
+    "polyols": "0.03",
+    "fibre": "2.41",
+    "protein": "7.54",
+    "sodium": "0.3285",
+    "alcohol": "0",
+    "organicAcids": "0.209"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D630400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

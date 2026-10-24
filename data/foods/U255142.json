@@ -1,0 +1,44 @@
+{
+  "code": "U255142",
+  "name": {
+    "de": "Rind Brustkern/Mittelbrust, geschmort ohne Fett",
+    "en": "Beef brisket/centre cut, braised without fat"
+  },
+  "per100g": {
+    "fat": "16.224",
+    "saturates": "7.514",
+    "monounsaturates": "7.653",
+    "polyunsaturates": "0.568",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.319",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U255142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

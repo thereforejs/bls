@@ -1,0 +1,44 @@
+{
+  "code": "X0A5000",
+  "name": {
+    "de": "Müsli Bircher-Benner Art, ungesüßt, mit Äpfeln, Rosinen, Sahne und Nüssen",
+    "en": "Muesli Bircher-Benner style, unsweetened, with apples, raisins, cream and nuts"
+  },
+  "per100g": {
+    "fat": "4.7",
+    "saturates": "1.4",
+    "monounsaturates": "2.265",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "14.6",
+    "sugars": "11.3",
+    "starch": "2.9",
+    "polyols": "0.4",
+    "fibre": "2.4",
+    "protein": "1.8",
+    "sodium": "0.004",
+    "alcohol": "0.011",
+    "organicAcids": "0.77"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

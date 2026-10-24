@@ -1,0 +1,44 @@
+{
+  "code": "X530343",
+  "name": {
+    "de": "Sauerkraut mit Apfel gedünstet",
+    "en": "Sauerkraut with apple stewed"
+  },
+  "per100g": {
+    "fat": "0.99",
+    "saturates": "0.12",
+    "monounsaturates": "0.49",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "3",
+    "sugars": "2.63",
+    "starch": "0.13",
+    "polyols": "0.2",
+    "fibre": "2.6",
+    "protein": "0.72",
+    "sodium": "0.254",
+    "alcohol": "0.05",
+    "organicAcids": "1.261"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X530343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

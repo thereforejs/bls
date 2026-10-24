@@ -1,0 +1,44 @@
+{
+  "code": "G322200",
+  "name": {
+    "de": "Grünkohl tiefgefroren",
+    "en": "Curly kale deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.744",
+    "saturates": "0.115",
+    "monounsaturates": "0.0303",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "3.69",
+    "sugars": "2.9338",
+    "starch": "0.544",
+    "polyols": "0.21",
+    "fibre": "9.322",
+    "protein": "4.622",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.251"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G322200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

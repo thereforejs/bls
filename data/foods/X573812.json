@@ -1,0 +1,44 @@
+{
+  "code": "X573812",
+  "name": {
+    "de": "Knollensellerie gedünstet (mit Fett und Salz)",
+    "en": "Celeriac stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "0.3",
+    "monounsaturates": "1.48",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "1.91",
+    "sugars": "1.49",
+    "starch": "0.278",
+    "polyols": "0.14",
+    "fibre": "2.7",
+    "protein": "1.07",
+    "sodium": "0.147",
+    "alcohol": "0",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X573812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

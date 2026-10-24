@@ -1,0 +1,44 @@
+{
+  "code": "S241400",
+  "name": {
+    "de": "Speiseeis (Frucht, Kaffee, Nuss) gemischt, mit Eierlikör",
+    "en": "Ice cream mixed (coffee, fruit, nut) with egg liqueur"
+  },
+  "per100g": {
+    "fat": "7.3",
+    "saturates": "4.1",
+    "monounsaturates": "2.03",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "25.1",
+    "sugars": "23.2",
+    "starch": "1.5",
+    "polyols": "0.006",
+    "fibre": "0.7",
+    "protein": "2.9",
+    "sodium": "0.029",
+    "alcohol": "1.84",
+    "organicAcids": "0.117"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

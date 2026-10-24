@@ -1,0 +1,44 @@
+{
+  "code": "Y346013",
+  "name": {
+    "de": "Schweinepfeffer",
+    "en": "\"Schweinepfeffer\" savoury pork goulash"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "1.1",
+    "monounsaturates": "4.1",
+    "polyunsaturates": "1.71",
+    "carbohydrate": "3.28",
+    "sugars": "0.61",
+    "starch": "2.67",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "12.42",
+    "sodium": "0.183",
+    "alcohol": "0.003",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y346013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

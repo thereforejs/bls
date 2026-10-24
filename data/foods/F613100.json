@@ -1,0 +1,44 @@
+{
+  "code": "F613100",
+  "name": {
+    "de": "Kumquat roh",
+    "en": "Kumquat raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.042",
+    "monounsaturates": "0.083",
+    "polyunsaturates": "0.114",
+    "carbohydrate": "10.1",
+    "sugars": "10.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.12",
+    "protein": "0.65",
+    "sodium": "0.006",
+    "alcohol": "0.021",
+    "organicAcids": "1.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F613100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

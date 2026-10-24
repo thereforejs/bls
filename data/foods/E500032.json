@@ -1,0 +1,44 @@
+{
+  "code": "E500032",
+  "name": {
+    "de": "Vollkornteigwaren eifrei, gekocht",
+    "en": "Wholemeal pasta egg-free, boiled"
+  },
+  "per100g": {
+    "fat": "1.11",
+    "saturates": "0.165",
+    "monounsaturates": "0.101",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "22.6",
+    "sugars": "1",
+    "starch": "21.6",
+    "polyols": null,
+    "fibre": "3.9",
+    "protein": "5.4",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E500032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G582802",
+  "name": {
+    "de": "Zucchini gesäuert, abgetropft",
+    "en": "Courgette pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.064",
+    "monounsaturates": "0.025",
+    "polyunsaturates": "0.131",
+    "carbohydrate": "5.5",
+    "sugars": "5.5",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "1.1",
+    "sodium": "0.475",
+    "alcohol": "0.018",
+    "organicAcids": "1.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G582802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G650902",
+  "name": {
+    "de": "Schwarzwurzel Konserve, abgetropft",
+    "en": "Black salsify canned, drained"
+  },
+  "per100g": {
+    "fat": "0.327",
+    "saturates": "0.038",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.191",
+    "carbohydrate": "4.6",
+    "sugars": "1.43",
+    "starch": "1.4",
+    "polyols": "0.046",
+    "fibre": "4",
+    "protein": "1.062",
+    "sodium": "0.212",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G650902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

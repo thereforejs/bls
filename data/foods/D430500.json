@@ -1,0 +1,44 @@
+{
+  "code": "D430500",
+  "name": {
+    "de": "Nusskuchen (Rührmasse)",
+    "en": "Nut cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "39",
+    "saturates": "15.14",
+    "monounsaturates": "18.18",
+    "polyunsaturates": "2.44",
+    "carbohydrate": "31.8",
+    "sugars": "18.002",
+    "starch": "13.8",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "9.02",
+    "sodium": "0.135",
+    "alcohol": "0",
+    "organicAcids": "0.0215"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D430500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

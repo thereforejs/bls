@@ -1,0 +1,44 @@
+{
+  "code": "M248000",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, mit Kaffeezubereitung, gesüßt",
+    "en": "Yogurt min. 3.5 % fat, with coffee preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "3.1",
+    "saturates": "1.6",
+    "monounsaturates": "1",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "13.7",
+    "sugars": "13.3",
+    "starch": "0.4",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "3.8",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M248000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

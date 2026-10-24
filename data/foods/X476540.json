@@ -1,0 +1,44 @@
+{
+  "code": "X476540",
+  "name": {
+    "de": "Gurken-Buttermilch-Joghurt-Kaltschale",
+    "en": "Cold cucumber-buttermilk-yogurt soup"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.7",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.09",
+    "carbohydrate": "3.2",
+    "sugars": "3.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "2.24",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X476540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

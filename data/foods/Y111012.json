@@ -1,0 +1,44 @@
+{
+  "code": "Y111012",
+  "name": {
+    "de": "Rinderfilet mariniert, gebraten im Ofen",
+    "en": "Beef fillet marinated, fried in oven"
+  },
+  "per100g": {
+    "fat": "5.8",
+    "saturates": "1.72",
+    "monounsaturates": "2.18",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "0.08",
+    "sugars": "0.08",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "23.09",
+    "sodium": "0.192",
+    "alcohol": "0.57",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y111012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

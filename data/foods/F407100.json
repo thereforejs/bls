@@ -1,0 +1,44 @@
+{
+  "code": "F407100",
+  "name": {
+    "de": "Moosbeere roh",
+    "en": "Small cranberry raw"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.065",
+    "monounsaturates": "0.117",
+    "polyunsaturates": "0.468",
+    "carbohydrate": "9.93",
+    "sugars": "9.93",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "4.9",
+    "protein": "0.4",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "3.89"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F407100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

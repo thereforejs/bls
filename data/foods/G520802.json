@@ -1,0 +1,48 @@
+{
+  "code": "G520802",
+  "name": {
+    "de": "Gurke gesäuert (Gewürzgurke) abgetropft",
+    "en": "Cucumber/gherkin pickled, drained"
+  },
+  "per100g": {
+    "fat": null,
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "5.52",
+    "sugars": "5.49",
+    "starch": null,
+    "polyols": "0.028",
+    "fibre": "0.88",
+    "protein": "0.9",
+    "sodium": "0.454",
+    "alcohol": null,
+    "organicAcids": "1.661"
+  },
+  "marks": {
+    "fat": "<LOD",
+    "starch": "<LOD",
+    "alcohol": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G520802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

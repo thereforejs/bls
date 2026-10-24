@@ -1,0 +1,44 @@
+{
+  "code": "G994162",
+  "name": {
+    "de": "Gemüsemischung asiatische Art, gebacken",
+    "en": "Mixed vegetables Asian style, baked"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.046",
+    "monounsaturates": "0.028",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "4.2",
+    "sugars": "4.2",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "2",
+    "protein": "2.4",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G994162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

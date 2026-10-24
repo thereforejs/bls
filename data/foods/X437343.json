@@ -1,0 +1,44 @@
+{
+  "code": "X437343",
+  "name": {
+    "de": "Leberklößchen mit Semmelbröseln",
+    "en": "Small liver dumplings with bread crumbs"
+  },
+  "per100g": {
+    "fat": "15",
+    "saturates": "8.162",
+    "monounsaturates": "3.525",
+    "polyunsaturates": "0.842",
+    "carbohydrate": "13.19",
+    "sugars": "1.55",
+    "starch": "11.64",
+    "polyols": "0.002",
+    "fibre": "1",
+    "protein": "13.47",
+    "sodium": "0.334",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X437343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y634433",
+  "name": {
+    "de": "Seezunge Müllerinart (mehliert, gebraten)",
+    "en": "Sole floured, fried"
+  },
+  "per100g": {
+    "fat": "2.6",
+    "saturates": "0.57",
+    "monounsaturates": "0.71",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "2.58",
+    "sugars": "0.089",
+    "starch": "2.49",
+    "polyols": "0",
+    "fibre": "0.23",
+    "protein": "18.18",
+    "sodium": "0.237",
+    "alcohol": "0",
+    "organicAcids": "0.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y634433",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

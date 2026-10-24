@@ -1,0 +1,44 @@
+{
+  "code": "U331282",
+  "name": {
+    "de": "Kalb Steak (Rücken) tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Veal steak (loin) deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "3.348",
+    "saturates": "1.401",
+    "monounsaturates": "1.257",
+    "polyunsaturates": "0.218",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.867",
+    "sodium": "0.078",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U331282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

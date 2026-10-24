@@ -1,0 +1,44 @@
+{
+  "code": "X741112",
+  "name": {
+    "de": "Eierteigwaren (mit Salz gekocht)",
+    "en": "Egg pasta (boiled with salt)"
+  },
+  "per100g": {
+    "fat": "0.785",
+    "saturates": "0.316",
+    "monounsaturates": "0.311",
+    "polyunsaturates": "0.136",
+    "carbohydrate": "24.647",
+    "sugars": "0.612",
+    "starch": "24.035",
+    "polyols": "0",
+    "fibre": "1.327",
+    "protein": "5.2",
+    "sodium": "0.143",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X741112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

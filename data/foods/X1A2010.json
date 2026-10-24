@@ -1,0 +1,44 @@
+{
+  "code": "X1A2010",
+  "name": {
+    "de": "Kartoffelsalat mit Marinade (Gemüsebrühe)",
+    "en": "Potato salad with marinade (vegetable stock)"
+  },
+  "per100g": {
+    "fat": "3",
+    "saturates": "0.3",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "11.42",
+    "sugars": "1.2",
+    "starch": "10.22",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "1.52",
+    "sodium": "0.107",
+    "alcohol": "0.005",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A2010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

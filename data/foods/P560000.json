@@ -1,0 +1,44 @@
+{
+  "code": "P560000",
+  "name": {
+    "de": "Bitterlikör/Kräuterlikör/Gewürzlikör",
+    "en": "Bitter/herb/spice liqueur"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "28.78",
+    "sugars": "28.75",
+    "starch": "0",
+    "polyols": "0.029",
+    "fibre": "0",
+    "protein": "0.1",
+    "sodium": "0.027",
+    "alcohol": "23.6",
+    "organicAcids": "0.59"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P560000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

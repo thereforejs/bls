@@ -1,0 +1,44 @@
+{
+  "code": "B6A1500",
+  "name": {
+    "de": "Weizenvollkornknäckebrot mit Ölsamen, Hartkäse und Möhre",
+    "en": "Wholemeal wheat crispbread with oilseeds, hard cheese and carrots"
+  },
+  "per100g": {
+    "fat": "15.3",
+    "saturates": "2.9",
+    "monounsaturates": "5.8",
+    "polyunsaturates": "5.3",
+    "carbohydrate": "48",
+    "sugars": "3.8",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "11.1",
+    "protein": "16.1",
+    "sodium": "0.751",
+    "alcohol": "0",
+    "organicAcids": "0.088"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A1500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

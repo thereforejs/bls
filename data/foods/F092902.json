@@ -1,0 +1,44 @@
+{
+  "code": "F092902",
+  "name": {
+    "de": "Fruchtmischung/Fruchtcocktail, mit Süßungsmitteln, Konserve, abgetropft",
+    "en": "Fruit mix/fruit cocktail, with artificial sweeteners, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.036",
+    "monounsaturates": "0.058",
+    "polyunsaturates": "0.108",
+    "carbohydrate": "6.4",
+    "sugars": "5.2",
+    "starch": "0",
+    "polyols": "1.21",
+    "fibre": "2.2",
+    "protein": "0.5",
+    "sodium": "0.009",
+    "alcohol": "0.005",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F092902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

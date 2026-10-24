@@ -1,0 +1,44 @@
+{
+  "code": "G312132",
+  "name": {
+    "de": "Broccoli gekocht",
+    "en": "Broccoli boiled"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.0981",
+    "monounsaturates": "0.0309",
+    "polyunsaturates": "0.2137",
+    "carbohydrate": "2.5",
+    "sugars": "1.6",
+    "starch": "0.636",
+    "polyols": "0.3",
+    "fibre": "2.73",
+    "protein": "3.3",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G312132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

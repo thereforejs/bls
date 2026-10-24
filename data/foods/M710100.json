@@ -1,0 +1,46 @@
+{
+  "code": "M710100",
+  "name": {
+    "de": "Skyr, Frischkäse < 10 % Fett i. Tr.",
+    "en": "Skyr Icelandic style strained yogurt < 10 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "0.84",
+    "saturates": "0.47",
+    "monounsaturates": "0.27",
+    "polyunsaturates": "0.057",
+    "carbohydrate": "3.19",
+    "sugars": "3.14",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0.18",
+    "protein": "10.35",
+    "sodium": "0.0333",
+    "alcohol": "0",
+    "organicAcids": "0.586"
+  },
+  "marks": {
+    "starch": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M710100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D610500",
+  "name": {
+    "de": "Zimtsterne (Eiklarmasse)",
+    "en": "Cinnamon stars (meringue)"
+  },
+  "per100g": {
+    "fat": "27.149",
+    "saturates": "2.34",
+    "monounsaturates": "17.2",
+    "polyunsaturates": "6",
+    "carbohydrate": "39.89",
+    "sugars": "39.751",
+    "starch": "0.14",
+    "polyols": "0",
+    "fibre": "5.8",
+    "protein": "14.3",
+    "sodium": "0.031",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D610500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

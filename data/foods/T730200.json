@@ -1,0 +1,44 @@
+{
+  "code": "T730200",
+  "name": {
+    "de": "Hummer tiefgefroren",
+    "en": "Lobster deep-frozen"
+  },
+  "per100g": {
+    "fat": "1.9",
+    "saturates": "0.2397",
+    "monounsaturates": "0.4461",
+    "polyunsaturates": "0.673",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.9",
+    "sodium": "0.27",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T730200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

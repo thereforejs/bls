@@ -1,0 +1,44 @@
+{
+  "code": "X562053",
+  "name": {
+    "de": "Karotten/Möhren, gekocht, mit Grundsauce hell/weiß",
+    "en": "Carrots boiled, with white basis sauce"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.9",
+    "monounsaturates": "0.35",
+    "polyunsaturates": "0.09",
+    "carbohydrate": "5.63",
+    "sugars": "4.67",
+    "starch": "0.96",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "0.83",
+    "sodium": "0.182",
+    "alcohol": "0",
+    "organicAcids": "0.167"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X562053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

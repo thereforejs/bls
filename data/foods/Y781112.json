@@ -1,0 +1,44 @@
+{
+  "code": "Y781112",
+  "name": {
+    "de": "Mozzarella paniert, frittiert",
+    "en": "Mozzarella cheese breaded, deep-fried"
+  },
+  "per100g": {
+    "fat": "22.93",
+    "saturates": "11.52",
+    "monounsaturates": "7.26",
+    "polyunsaturates": "2.24",
+    "carbohydrate": "5.05",
+    "sugars": "0.48",
+    "starch": "4.57",
+    "polyols": "0.001",
+    "fibre": "0.39",
+    "protein": "16.62",
+    "sodium": "0.232",
+    "alcohol": "0",
+    "organicAcids": "0.308"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y781112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

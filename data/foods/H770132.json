@@ -1,0 +1,46 @@
+{
+  "code": "H770132",
+  "name": {
+    "de": "Mungbohne reif, gekocht",
+    "en": "Mung bean mature, boiled"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.11",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "14.5",
+    "sugars": "0.5",
+    "starch": "14",
+    "polyols": null,
+    "fibre": "6.1",
+    "protein": "8.6",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {
+    "sodium": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H770132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

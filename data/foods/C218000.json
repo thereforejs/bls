@@ -1,0 +1,44 @@
+{
+  "code": "C218000",
+  "name": {
+    "de": "Weichweizen Grieß",
+    "en": "Soft wheat semolina"
+  },
+  "per100g": {
+    "fat": "0.88",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "73.97",
+    "sugars": "0.76504",
+    "starch": "73.2",
+    "polyols": "0",
+    "fibre": "4.06",
+    "protein": "10.72",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C218000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

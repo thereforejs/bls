@@ -1,0 +1,44 @@
+{
+  "code": "Y859343",
+  "name": {
+    "de": "Orangencreme abgeschlagen (mit Stärke)",
+    "en": "Orange cream (with starch)"
+  },
+  "per100g": {
+    "fat": "2.159",
+    "saturates": "0.59",
+    "monounsaturates": "0.82",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "18.085",
+    "sugars": "13.493",
+    "starch": "4.592",
+    "polyols": "0",
+    "fibre": "0.122",
+    "protein": "2.8",
+    "sodium": "0.05",
+    "alcohol": "0.002",
+    "organicAcids": "0.292"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y859343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

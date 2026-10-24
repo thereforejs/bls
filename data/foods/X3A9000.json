@@ -1,0 +1,44 @@
+{
+  "code": "X3A9000",
+  "name": {
+    "de": "Buttermilch-Dressing für Salat",
+    "en": "Buttermilk dressing for salad"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.29",
+    "monounsaturates": "0.11",
+    "polyunsaturates": "0.11",
+    "carbohydrate": "3.74",
+    "sugars": "3.69",
+    "starch": "0.05",
+    "polyols": "0.004",
+    "fibre": "0.14",
+    "protein": "2.59",
+    "sodium": "0.5524",
+    "alcohol": "0.09",
+    "organicAcids": "2.49"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A9000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G993902",
+  "name": {
+    "de": "Gemüsemischung mexikanische Art, Konserve, abgetropft",
+    "en": "Mixed vegetables Mexican style, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.051",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.097",
+    "carbohydrate": "5.7",
+    "sugars": "2.6",
+    "starch": "2.8",
+    "polyols": "0.06",
+    "fibre": "4",
+    "protein": "2.9",
+    "sodium": "0.211",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G993902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

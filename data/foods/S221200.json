@@ -1,0 +1,44 @@
+{
+  "code": "S221200",
+  "name": {
+    "de": "Speiseeis (Karamell, Schokolade) gemischt",
+    "en": "Ice cream mixed (caramel, chocolate)"
+  },
+  "per100g": {
+    "fat": "9.63",
+    "saturates": "4.31",
+    "monounsaturates": "2.37",
+    "polyunsaturates": "1.85",
+    "carbohydrate": "25.7",
+    "sugars": "23.4",
+    "starch": "2.3",
+    "polyols": "0.002",
+    "fibre": "1.21",
+    "protein": "3.9",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S221200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

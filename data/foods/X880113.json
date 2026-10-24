@@ -1,0 +1,44 @@
+{
+  "code": "X880113",
+  "name": {
+    "de": "Reis gedünstet mit Pfifferlingen",
+    "en": "Rice stewed with chanterelles"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "0.4",
+    "monounsaturates": "2.46",
+    "polyunsaturates": "1.26",
+    "carbohydrate": "20.2",
+    "sugars": "0.57",
+    "starch": "19.5",
+    "polyols": "0.165",
+    "fibre": "2.1",
+    "protein": "3.86",
+    "sodium": "0.209",
+    "alcohol": "0",
+    "organicAcids": "0.008"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X880113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

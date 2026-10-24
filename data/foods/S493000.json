@@ -1,0 +1,44 @@
+{
+  "code": "S493000",
+  "name": {
+    "de": "Haselnuss-Krokant",
+    "en": "Hazelnut brittle"
+  },
+  "per100g": {
+    "fat": "12.918",
+    "saturates": "1.075",
+    "monounsaturates": "10.327",
+    "polyunsaturates": "1.29",
+    "carbohydrate": "80.9",
+    "sugars": "80.786",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "3.25",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S493000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

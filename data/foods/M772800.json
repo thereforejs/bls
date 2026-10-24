@@ -1,0 +1,44 @@
+{
+  "code": "M772800",
+  "name": {
+    "de": "Schmelzkäse aus Frischkäse, streichfähig, mind. 60 % Fett i. Tr.",
+    "en": "Processed cheese made from cream cheese, spreadable, min. 60 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "29.6",
+    "saturates": "19.5",
+    "monounsaturates": "5.61",
+    "polyunsaturates": "0.62",
+    "carbohydrate": "4.1",
+    "sugars": "4.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.7",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M772800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

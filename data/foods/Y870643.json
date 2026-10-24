@@ -1,0 +1,44 @@
+{
+  "code": "Y870643",
+  "name": {
+    "de": "Mokkacreme abgeschlagen (mit Gelatine)",
+    "en": "Mocha cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "12.6",
+    "saturates": "6.59",
+    "monounsaturates": "3.52",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "13.8",
+    "sugars": "13.73",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "5.5",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0.068"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y870643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

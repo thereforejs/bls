@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4120",
+  "name": {
+    "de": "Vanilleflammeri/Vanillepudding (als Dessert) mit Karamellsauce",
+    "en": "Vanilla pudding (as dessert) with caramel sauce"
+  },
+  "per100g": {
+    "fat": "4.88",
+    "saturates": "2.52",
+    "monounsaturates": "1.35",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "19.98",
+    "sugars": "14.16",
+    "starch": "5.823",
+    "polyols": "0",
+    "fibre": "0.054",
+    "protein": "4.2",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0.055"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4120",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W233032",
+  "name": {
+    "de": "Fleischkäse einfach, fein/Original Bayerischer Leberkäse fein, gekocht",
+    "en": "Fleischkaese sausage boiled"
+  },
+  "per100g": {
+    "fat": "17.65",
+    "saturates": "6.398",
+    "monounsaturates": "7.233",
+    "polyunsaturates": "1.723",
+    "carbohydrate": "0.5",
+    "sugars": "0.5",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.06",
+    "sodium": "0.5178",
+    "alcohol": "0",
+    "organicAcids": "0.498"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W233032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y697612",
+  "name": {
+    "de": "Seeteufel gebraten (mit Fett und Salz)",
+    "en": "Anglerfish fried (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.21",
+    "monounsaturates": "0.47",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "0.083",
+    "sugars": "0.083",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.006",
+    "protein": "16.896",
+    "sodium": "0.224",
+    "alcohol": "0",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y697612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

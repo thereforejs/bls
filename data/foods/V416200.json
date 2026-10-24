@@ -1,0 +1,44 @@
+{
+  "code": "V416200",
+  "name": {
+    "de": "Hähnchen Brustfilet, tiefgefroren",
+    "en": "Chicken breast fillet, deep-frozen"
+  },
+  "per100g": {
+    "fat": "1.81",
+    "saturates": "0.41",
+    "monounsaturates": "0.525",
+    "polyunsaturates": "0.353",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.25",
+    "sodium": "0.0512",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V416200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

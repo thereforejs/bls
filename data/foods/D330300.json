@@ -1,0 +1,44 @@
+{
+  "code": "D330300",
+  "name": {
+    "de": "Schokoladentorte (Rührmasse)",
+    "en": "Chocolate torte (cake batter)"
+  },
+  "per100g": {
+    "fat": "22.59",
+    "saturates": "10.51",
+    "monounsaturates": "8.74",
+    "polyunsaturates": "1.31",
+    "carbohydrate": "47.5",
+    "sugars": "28.5",
+    "starch": "19",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "7.97",
+    "sodium": "0.097",
+    "alcohol": "0",
+    "organicAcids": "0.016"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D330300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

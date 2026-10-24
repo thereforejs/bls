@@ -1,0 +1,44 @@
+{
+  "code": "X551812",
+  "name": {
+    "de": "Auberginenscheiben im Backteig (mit Bier) frittiert",
+    "en": "Aubergine slices in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "14.28",
+    "saturates": "1.47",
+    "monounsaturates": "7.63",
+    "polyunsaturates": "3.72",
+    "carbohydrate": "20.48",
+    "sugars": "2.08",
+    "starch": "18.32",
+    "polyols": "0.08",
+    "fibre": "2.3",
+    "protein": "5.4",
+    "sodium": "0.11",
+    "alcohol": "0.256",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X551812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

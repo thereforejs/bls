@@ -1,0 +1,44 @@
+{
+  "code": "U023262",
+  "name": {
+    "de": "Schwein Hackfleisch, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Pork mince, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "26.44",
+    "saturates": "8.825",
+    "monounsaturates": "10.024",
+    "polyunsaturates": "2.933",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.35",
+    "sodium": "0.0669",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U023262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

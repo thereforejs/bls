@@ -1,0 +1,44 @@
+{
+  "code": "Y871363",
+  "name": {
+    "de": "Mousse au chocolat (Schokoladenschaum) mit Rum",
+    "en": "Mousse au chocolat (chocolate mousse) with rum"
+  },
+  "per100g": {
+    "fat": "24.84",
+    "saturates": "13.05",
+    "monounsaturates": "7.22",
+    "polyunsaturates": "1.04",
+    "carbohydrate": "16.7",
+    "sugars": "16.1",
+    "starch": "0.625",
+    "polyols": "0",
+    "fibre": "2.15",
+    "protein": "5.8",
+    "sodium": "0.054",
+    "alcohol": "0.5",
+    "organicAcids": "0.068"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y871363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

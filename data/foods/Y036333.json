@@ -1,0 +1,44 @@
+{
+  "code": "Y036333",
+  "name": {
+    "de": "Königsberger Klopse mit Kapernsauce von heller/weißer Grundsauce",
+    "en": "\"Königsberger Klopse\" meatballs, with caper sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "9.7",
+    "saturates": "4.2",
+    "monounsaturates": "3.46",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "3.52",
+    "sugars": "0.75",
+    "starch": "2.77",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "9.4",
+    "sodium": "0.331",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036333",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

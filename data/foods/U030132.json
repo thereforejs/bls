@@ -1,0 +1,44 @@
+{
+  "code": "U030132",
+  "name": {
+    "de": "Kalb Hackfleisch, gekocht",
+    "en": "Veal mince, boiled"
+  },
+  "per100g": {
+    "fat": "13.409",
+    "saturates": "6.031",
+    "monounsaturates": "6.125",
+    "polyunsaturates": "0.497",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.573",
+    "sodium": "0.077",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U030132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

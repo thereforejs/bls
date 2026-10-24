@@ -1,0 +1,44 @@
+{
+  "code": "P571000",
+  "name": {
+    "de": "Apfelkorn",
+    "en": "Apfelkorn (apple flavoured liqueur)"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "6.537",
+    "sugars": "5.919",
+    "starch": "0",
+    "polyols": "0.618",
+    "fibre": "0.191",
+    "protein": "0.06",
+    "sodium": "0.004",
+    "alcohol": "14.28",
+    "organicAcids": "0.473"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P571000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

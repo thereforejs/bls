@@ -1,0 +1,44 @@
+{
+  "code": "H110600",
+  "name": {
+    "de": "Erdnuss geröstet",
+    "en": "Peanut roasted"
+  },
+  "per100g": {
+    "fat": "49.7",
+    "saturates": "7.7",
+    "monounsaturates": "26.1",
+    "polyunsaturates": "9.74",
+    "carbohydrate": "9.9",
+    "sugars": "4.9",
+    "starch": "5.04",
+    "polyols": null,
+    "fibre": "8.4",
+    "protein": "29",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H110600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

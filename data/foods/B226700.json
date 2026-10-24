@@ -1,0 +1,44 @@
+{
+  "code": "B226700",
+  "name": {
+    "de": "Roggenbrot mit Kürbiskernen",
+    "en": "Rye bread with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "2.98",
+    "saturates": "0.45",
+    "monounsaturates": "0.74",
+    "polyunsaturates": "1.45",
+    "carbohydrate": "38",
+    "sugars": "0.899",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "8.92",
+    "protein": "7.04",
+    "sodium": "0.455",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B226700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y8A7000",
+  "name": {
+    "de": "Pfannkuchen/Eierkuchen, mit Milch 3,5 % Fett und Apfel, gebraten",
+    "en": "Pancakes with milk 3.5 % fat and apple, fried"
+  },
+  "per100g": {
+    "fat": "8.62",
+    "saturates": "1.52",
+    "monounsaturates": "3.71",
+    "polyunsaturates": "1.73",
+    "carbohydrate": "24.3",
+    "sugars": "4.3",
+    "starch": "19.7",
+    "polyols": "0.26",
+    "fibre": "2.2",
+    "protein": "6",
+    "sodium": "0.094",
+    "alcohol": "0.002",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

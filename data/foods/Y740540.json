@@ -1,0 +1,44 @@
+{
+  "code": "Y740540",
+  "name": {
+    "de": "Eier russisch",
+    "en": "Russian eggs"
+  },
+  "per100g": {
+    "fat": "19.1",
+    "saturates": "2.7",
+    "monounsaturates": "9.5",
+    "polyunsaturates": "4.3",
+    "carbohydrate": "0.37",
+    "sugars": "0.36",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "12.6",
+    "sodium": "0.851",
+    "alcohol": "0.001",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y740540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

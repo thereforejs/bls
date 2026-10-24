@@ -1,0 +1,44 @@
+{
+  "code": "W423000",
+  "name": {
+    "de": "Schwein Kochschinken, Kochpökelware, geräuchert",
+    "en": "Pork ham, cooked cured, smoked"
+  },
+  "per100g": {
+    "fat": "3.04",
+    "saturates": "1.004",
+    "monounsaturates": "1.22",
+    "polyunsaturates": "0.262",
+    "carbohydrate": "0.465",
+    "sugars": "0.465",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.24",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W423000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

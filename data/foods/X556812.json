@@ -1,0 +1,44 @@
+{
+  "code": "X556812",
+  "name": {
+    "de": "Tomaten gedünstet (mit Fett und Salz)",
+    "en": "Tomatoes stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "2.26",
+    "saturates": "0.17",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "4.37",
+    "sugars": "3.59",
+    "starch": "0.78",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "1.17",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0.409"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X556812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

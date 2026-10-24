@@ -1,0 +1,44 @@
+{
+  "code": "Y180512",
+  "name": {
+    "de": "Rindfleisch gekocht",
+    "en": "Beef boiled"
+  },
+  "per100g": {
+    "fat": "6.9",
+    "saturates": "3",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "0.375",
+    "carbohydrate": "0.04",
+    "sugars": "0.04",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "26.17",
+    "sodium": "0.096",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y180512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T206172",
+  "name": {
+    "de": "Schellfisch gegrillt",
+    "en": "Haddock grilled"
+  },
+  "per100g": {
+    "fat": "0.71",
+    "saturates": "0.122",
+    "monounsaturates": "0.093",
+    "polyunsaturates": "0.264",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.5",
+    "sodium": "0.087",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T206172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

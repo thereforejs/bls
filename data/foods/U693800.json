@@ -1,0 +1,44 @@
+{
+  "code": "U693800",
+  "name": {
+    "de": "Schwein Hintereisbein/Hinterhaxe, Kochpökelware",
+    "en": "Pork hindshank (hock) cooked cured"
+  },
+  "per100g": {
+    "fat": "10.67",
+    "saturates": "3.59",
+    "monounsaturates": "4.339",
+    "polyunsaturates": "0.966",
+    "carbohydrate": "0.439",
+    "sugars": "0.439",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.27",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U693800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

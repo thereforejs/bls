@@ -1,0 +1,44 @@
+{
+  "code": "N253000",
+  "name": {
+    "de": "Fruchtsaftgetränk mit Süßungsmitteln, angereichert mit Vitaminen",
+    "en": "Fruit juice beverage with artificial sweeteners, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.002",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0.004",
+    "carbohydrate": "0.4",
+    "sugars": "0.4",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.016",
+    "protein": "0.042",
+    "sodium": "0.003",
+    "alcohol": "0.018",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N253000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

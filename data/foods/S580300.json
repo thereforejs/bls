@@ -1,0 +1,44 @@
+{
+  "code": "S580300",
+  "name": {
+    "de": "Schokolade weiß, mit Kokoschips",
+    "en": "Chocolate white, filled with coconut chips"
+  },
+  "per100g": {
+    "fat": "36.06",
+    "saturates": "22.91",
+    "monounsaturates": "9.13",
+    "polyunsaturates": "1.01",
+    "carbohydrate": "52.699",
+    "sugars": "52.643",
+    "starch": "0",
+    "polyols": "0.056",
+    "fibre": "1.73",
+    "protein": "6.28",
+    "sodium": "0.0943",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S580300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

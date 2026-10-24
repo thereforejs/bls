@@ -1,0 +1,44 @@
+{
+  "code": "X1A8050",
+  "name": {
+    "de": "Matjessalat mit Roter Bete, Apfel, Kartoffeln und Mayonnaise",
+    "en": "Matjes herring salad with beetrot, apple, potatoes and mayonnaise"
+  },
+  "per100g": {
+    "fat": "7.6",
+    "saturates": "1.02",
+    "monounsaturates": "3.95",
+    "polyunsaturates": "1.94",
+    "carbohydrate": "8",
+    "sugars": "4.6",
+    "starch": "3",
+    "polyols": "0.1",
+    "fibre": "1.4",
+    "protein": "5.1",
+    "sodium": "1.161",
+    "alcohol": "0.01",
+    "organicAcids": "0.95"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A8050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

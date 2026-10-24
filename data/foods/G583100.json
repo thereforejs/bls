@@ -1,0 +1,44 @@
+{
+  "code": "G583100",
+  "name": {
+    "de": "Chayote roh",
+    "en": "Chayote raw"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.025",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.048",
+    "carbohydrate": "5.81",
+    "sugars": "5.1",
+    "starch": "0.7",
+    "polyols": "0.008",
+    "fibre": "3.43",
+    "protein": "0.78",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G583100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

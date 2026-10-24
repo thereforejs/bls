@@ -1,0 +1,44 @@
+{
+  "code": "V250132",
+  "name": {
+    "de": "Wildschwein Fleisch, gekocht",
+    "en": "Wild boar meat, boiled"
+  },
+  "per100g": {
+    "fat": "11.81",
+    "saturates": "4.125",
+    "monounsaturates": "5.734",
+    "polyunsaturates": "0.908",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.405",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V250132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

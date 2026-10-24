@@ -1,0 +1,44 @@
+{
+  "code": "X262712",
+  "name": {
+    "de": "Karottensalat (roh) mit Zitronenmarinade",
+    "en": "Carrot salad (raw) with lemon marinade"
+  },
+  "per100g": {
+    "fat": "11.2",
+    "saturates": "0.88",
+    "monounsaturates": "6.36",
+    "polyunsaturates": "3.04",
+    "carbohydrate": "5.05",
+    "sugars": "4.97",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "0.68",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0.73"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X262712",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

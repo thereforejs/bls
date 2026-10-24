@@ -1,0 +1,44 @@
+{
+  "code": "X434543",
+  "name": {
+    "de": "Semmelklößchen",
+    "en": "Small white bread dumplings"
+  },
+  "per100g": {
+    "fat": "22.33",
+    "saturates": "12.501",
+    "monounsaturates": "5.477",
+    "polyunsaturates": "1.127",
+    "carbohydrate": "19.06",
+    "sugars": "1.76",
+    "starch": "17.3",
+    "polyols": "0.003",
+    "fibre": "1.63",
+    "protein": "9.02",
+    "sodium": "0.391",
+    "alcohol": "0",
+    "organicAcids": "0.105"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X434543",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

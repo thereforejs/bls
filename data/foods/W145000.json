@@ -1,0 +1,44 @@
+{
+  "code": "W145000",
+  "name": {
+    "de": "Rindersalami",
+    "en": "Beef salami"
+  },
+  "per100g": {
+    "fat": "34.14",
+    "saturates": "16.061",
+    "monounsaturates": "13.98",
+    "polyunsaturates": "1.067",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "21.63",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W145000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

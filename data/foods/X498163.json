@@ -1,0 +1,44 @@
+{
+  "code": "X498163",
+  "name": {
+    "de": "Biersuppe gesüßt, gebunden mit Stärke",
+    "en": "Beer soup sweetened, thickened with starch"
+  },
+  "per100g": {
+    "fat": "2.6",
+    "saturates": "1.31",
+    "monounsaturates": "0.74",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "10.06",
+    "sugars": "7.5",
+    "starch": "2.555",
+    "polyols": "0",
+    "fibre": "0.016",
+    "protein": "2.4",
+    "sodium": "0.019",
+    "alcohol": "0.587",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X498163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

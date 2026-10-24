@@ -1,0 +1,44 @@
+{
+  "code": "M021000",
+  "name": {
+    "de": "Ziegenmilch mind. 3 % Fett",
+    "en": "Goat's milk min. 3 % fat"
+  },
+  "per100g": {
+    "fat": "3.92",
+    "saturates": "2.552",
+    "monounsaturates": "0.8472",
+    "polyunsaturates": "0.132111",
+    "carbohydrate": "4.2",
+    "sugars": "4.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.615",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.189"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M021000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

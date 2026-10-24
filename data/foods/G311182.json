@@ -1,0 +1,44 @@
+{
+  "code": "G311182",
+  "name": {
+    "de": "Blumenkohl gebraten ohne Fett (Pfanne)",
+    "en": "Cauliflower fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.56",
+    "saturates": "0.085",
+    "monounsaturates": "0.0134",
+    "polyunsaturates": "0.276",
+    "carbohydrate": "10.65",
+    "sugars": "4.32",
+    "starch": "0.364",
+    "polyols": "5.97",
+    "fibre": "5.8",
+    "protein": "4.848",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0.548"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G311182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

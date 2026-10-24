@@ -1,0 +1,44 @@
+{
+  "code": "U863142",
+  "name": {
+    "de": "Schaf Bug/Schulter, fett, geschmort ohne Fett",
+    "en": "Sheep shoulder, fat, braised without fat"
+  },
+  "per100g": {
+    "fat": "31.2",
+    "saturates": "14.252",
+    "monounsaturates": "12.292",
+    "polyunsaturates": "1.112",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.5",
+    "sodium": "0.091",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U863142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

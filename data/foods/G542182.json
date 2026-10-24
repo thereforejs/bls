@@ -1,0 +1,44 @@
+{
+  "code": "G542182",
+  "name": {
+    "de": "Gemüsepaprika gelb, gebraten ohne Fett (Pfanne)",
+    "en": "Sweet pepper yellow, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.339",
+    "saturates": "0.0867",
+    "monounsaturates": "0.006",
+    "polyunsaturates": "0.1445",
+    "carbohydrate": "7.495",
+    "sugars": "7.495",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "3.729",
+    "protein": "1.356",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G542182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

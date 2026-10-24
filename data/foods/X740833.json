@@ -1,0 +1,44 @@
+{
+  "code": "X740833",
+  "name": {
+    "de": "Teigwaren eifrei, mit Tomatensauce (aus frischen Tomaten) mit Sardellen",
+    "en": "Pasta egg-free, with tomato sauce (of fresh tomatoes) with anchovies"
+  },
+  "per100g": {
+    "fat": "4.4",
+    "saturates": "0.46",
+    "monounsaturates": "2.14",
+    "polyunsaturates": "1.24",
+    "carbohydrate": "18.73",
+    "sugars": "2.13",
+    "starch": "16.598",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "4.3",
+    "sodium": "0.266",
+    "alcohol": "0",
+    "organicAcids": "0.155"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X740833",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

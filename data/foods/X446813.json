@@ -1,0 +1,44 @@
+{
+  "code": "X446813",
+  "name": {
+    "de": "Rote-Bete-Suppe mit Apfel und Meerrettich",
+    "en": "Beetroot soup with apple and horseradish"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.8",
+    "monounsaturates": "0.236",
+    "polyunsaturates": "0.05",
+    "carbohydrate": "3.4",
+    "sugars": "3.28",
+    "starch": "0.117",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "0.82",
+    "sodium": "0.216",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X446813",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

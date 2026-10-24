@@ -1,0 +1,44 @@
+{
+  "code": "X469743",
+  "name": {
+    "de": "Chili con carne einfach",
+    "en": "Chilli con carne simple"
+  },
+  "per100g": {
+    "fat": "10.1",
+    "saturates": "3.5",
+    "monounsaturates": "4.4",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "8",
+    "sugars": "2.3",
+    "starch": "5",
+    "polyols": "0.018",
+    "fibre": "4.3",
+    "protein": "11.7",
+    "sodium": "0.237",
+    "alcohol": "0.01",
+    "organicAcids": "0.116"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

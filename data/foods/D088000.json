@@ -1,0 +1,44 @@
+{
+  "code": "D088000",
+  "name": {
+    "de": "Wiener Tortenboden kakaohaltig (dunkel)",
+    "en": "Viennese sponge cake base containing cocoa (dark)"
+  },
+  "per100g": {
+    "fat": "16.29",
+    "saturates": "8.74",
+    "monounsaturates": "4.31",
+    "polyunsaturates": "1.02",
+    "carbohydrate": "44",
+    "sugars": "26.848",
+    "starch": "17.2",
+    "polyols": "0",
+    "fibre": "1.97",
+    "protein": "8.99",
+    "sodium": "0.091",
+    "alcohol": "0",
+    "organicAcids": "0.0113"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D088000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

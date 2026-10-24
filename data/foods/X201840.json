@@ -1,0 +1,44 @@
+{
+  "code": "X201840",
+  "name": {
+    "de": "Gurkensalat mit Essigmarinade",
+    "en": "Cucumber salad with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "9.43",
+    "saturates": "0.71",
+    "monounsaturates": "5.34",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "1.61",
+    "sugars": "1.6",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "0.87",
+    "sodium": "0.073",
+    "alcohol": "0.006",
+    "organicAcids": "0.68"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X201840",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

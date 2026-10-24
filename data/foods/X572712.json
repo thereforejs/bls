@@ -1,0 +1,44 @@
+{
+  "code": "X572712",
+  "name": {
+    "de": "Grünkohl gedünstet (mit Fett und Salz)",
+    "en": "Curly kale stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.29",
+    "saturates": "0.35",
+    "monounsaturates": "2.19",
+    "polyunsaturates": "1.31",
+    "carbohydrate": "3.7",
+    "sugars": "1.95",
+    "starch": "1.6",
+    "polyols": "0.12",
+    "fibre": "5.7",
+    "protein": "3.02",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": "0.154"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X572712",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

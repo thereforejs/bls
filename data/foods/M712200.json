@@ -1,0 +1,44 @@
+{
+  "code": "M712200",
+  "name": {
+    "de": "Schichtkäse mind. 10 % Fett i. Tr.",
+    "en": "Layered cheese min. 10 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "2.42",
+    "saturates": "1.535",
+    "monounsaturates": "0.574",
+    "polyunsaturates": "0.181",
+    "carbohydrate": "4.14",
+    "sugars": "4.14",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.441",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.919"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M712200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

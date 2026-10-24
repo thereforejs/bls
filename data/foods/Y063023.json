@@ -1,0 +1,44 @@
+{
+  "code": "Y063023",
+  "name": {
+    "de": "Leberpastete/Leberpudding",
+    "en": "Liver pate/liver pudding"
+  },
+  "per100g": {
+    "fat": "12",
+    "saturates": "3.6",
+    "monounsaturates": "4.61",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "6",
+    "sugars": "0.5",
+    "starch": "5",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "15.91",
+    "sodium": "0.485",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y063023",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

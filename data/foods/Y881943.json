@@ -1,0 +1,44 @@
+{
+  "code": "Y881943",
+  "name": {
+    "de": "Quarkpudding",
+    "en": "Quark pudding"
+  },
+  "per100g": {
+    "fat": "13.8",
+    "saturates": "5.1",
+    "monounsaturates": "5.41",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "25.6",
+    "sugars": "16.3",
+    "starch": "9.24",
+    "polyols": "0.048",
+    "fibre": "1.5",
+    "protein": "12.2",
+    "sodium": "0.07",
+    "alcohol": "0",
+    "organicAcids": "0.695"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y881943",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

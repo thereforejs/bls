@@ -1,0 +1,44 @@
+{
+  "code": "Y910030",
+  "name": {
+    "de": "Pommes frites mit Ketchup",
+    "en": "Potato chips with ketchup"
+  },
+  "per100g": {
+    "fat": "8.96",
+    "saturates": "0.68",
+    "monounsaturates": "4.99",
+    "polyunsaturates": "2.38",
+    "carbohydrate": "29.47",
+    "sugars": "4.66",
+    "starch": "24.81",
+    "polyols": "0",
+    "fibre": "2.36",
+    "protein": "3.05",
+    "sodium": "0.4435",
+    "alcohol": "0",
+    "organicAcids": "0.191"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y910030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

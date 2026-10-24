@@ -1,0 +1,44 @@
+{
+  "code": "R411000",
+  "name": {
+    "de": "Kutterhilfsmittel (E 450)",
+    "en": "Cutter additives phosphate-based (E 450)"
+  },
+  "per100g": {
+    "fat": null,
+    "saturates": null,
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "0",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R411000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

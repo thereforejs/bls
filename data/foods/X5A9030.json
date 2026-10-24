@@ -1,0 +1,44 @@
+{
+  "code": "X5A9030",
+  "name": {
+    "de": "Röstzwiebeln",
+    "en": "Fried onions"
+  },
+  "per100g": {
+    "fat": "9.5",
+    "saturates": "0.69",
+    "monounsaturates": "5.23",
+    "polyunsaturates": "2.57",
+    "carbohydrate": "15.13",
+    "sugars": "7.29",
+    "starch": "7.84",
+    "polyols": "0",
+    "fibre": "2.3",
+    "protein": "2.47",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.306"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A9030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

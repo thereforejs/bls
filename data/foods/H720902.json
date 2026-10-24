@@ -1,0 +1,44 @@
+{
+  "code": "H720902",
+  "name": {
+    "de": "Kichererbse reif, Konserve, abgetropft",
+    "en": "Chickpea mature, canned, drained"
+  },
+  "per100g": {
+    "fat": "2.7",
+    "saturates": "0.363",
+    "monounsaturates": "0.604",
+    "polyunsaturates": "1.29",
+    "carbohydrate": "15.5",
+    "sugars": "1.2",
+    "starch": "14.3",
+    "polyols": "0",
+    "fibre": "9.8",
+    "protein": "7.5",
+    "sodium": "0.225",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H720902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

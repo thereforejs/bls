@@ -1,0 +1,44 @@
+{
+  "code": "Y992060",
+  "name": {
+    "de": "Vanillecremeeis mit Schlagsahne und Früchten (Konserve)",
+    "en": "Vanilla ice cream (with egg) with whipped cream and fruit (canned)"
+  },
+  "per100g": {
+    "fat": "11.29",
+    "saturates": "5.88",
+    "monounsaturates": "3.01",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "12.56",
+    "sugars": "12.37",
+    "starch": "0.154",
+    "polyols": "0.034",
+    "fibre": "0.5",
+    "protein": "2.2",
+    "sodium": "0.023",
+    "alcohol": "0",
+    "organicAcids": "0.214"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y992060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y261013",
+  "name": {
+    "de": "Kalbsbraten mit Weißwein-Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Veal roast with white wine-cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "0.9",
+    "monounsaturates": "1.9",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "2.9",
+    "sugars": "1",
+    "starch": "1.88",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "13.2",
+    "sodium": "0.229",
+    "alcohol": "0.1",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y261013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

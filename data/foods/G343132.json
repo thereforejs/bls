@@ -1,0 +1,44 @@
+{
+  "code": "G343132",
+  "name": {
+    "de": "Wirsing gekocht",
+    "en": "Savoy cabbage boiled"
+  },
+  "per100g": {
+    "fat": "0.282",
+    "saturates": "0.05",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.17",
+    "carbohydrate": "3.6",
+    "sugars": "3.1",
+    "starch": "0.432",
+    "polyols": "0.11",
+    "fibre": "2.6",
+    "protein": "2.452",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.131"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G343132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

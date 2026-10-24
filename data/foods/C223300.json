@@ -1,0 +1,44 @@
+{
+  "code": "C223300",
+  "name": {
+    "de": "Roggen Mehl, Type 1150",
+    "en": "Rye flour, Type 1150"
+  },
+  "per100g": {
+    "fat": "1.14",
+    "saturates": "0.12",
+    "monounsaturates": "0.15",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "61.74",
+    "sugars": "1.4757",
+    "starch": "60.26",
+    "polyols": "0",
+    "fibre": "14.82",
+    "protein": "8.03",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C223300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

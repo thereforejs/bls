@@ -1,0 +1,44 @@
+{
+  "code": "D9A5000",
+  "name": {
+    "de": "Vollkornhaselnusskuchen (Rührmasse)",
+    "en": "Wholemeal hazelnut cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "27",
+    "saturates": "7.76",
+    "monounsaturates": "14.33",
+    "polyunsaturates": "4",
+    "carbohydrate": "37",
+    "sugars": "20.463",
+    "starch": "16.5",
+    "polyols": "0",
+    "fibre": "4.5",
+    "protein": "8.53",
+    "sodium": "0.16",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

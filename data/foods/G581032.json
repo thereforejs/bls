@@ -1,0 +1,44 @@
+{
+  "code": "G581032",
+  "name": {
+    "de": "Kürbis Hokkaido (C. maxima) gekocht",
+    "en": "Hokkaido pumpkin boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.047",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.097",
+    "carbohydrate": "5.298",
+    "sugars": "4.59",
+    "starch": "0.7",
+    "polyols": "0.008",
+    "fibre": "0.806",
+    "protein": "1.4",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

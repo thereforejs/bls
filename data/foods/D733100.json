@@ -1,0 +1,44 @@
+{
+  "code": "D733100",
+  "name": {
+    "de": "Nusstaler (Mürbeteig)",
+    "en": "Nut rounds (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "31.47",
+    "saturates": "12.34",
+    "monounsaturates": "14.6",
+    "polyunsaturates": "1.96",
+    "carbohydrate": "50.5",
+    "sugars": "19.069",
+    "starch": "31.4",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "8.14",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": "0.0178"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D733100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

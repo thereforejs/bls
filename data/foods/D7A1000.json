@@ -1,0 +1,44 @@
+{
+  "code": "D7A1000",
+  "name": {
+    "de": "Biskuitplätzchen mit Fruchtfüllung schokoliert",
+    "en": "Sponge cake biscuits with fruit filling and chocolate icing"
+  },
+  "per100g": {
+    "fat": "7.1",
+    "saturates": "3.69",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "61.1",
+    "sugars": "50.6",
+    "starch": "10.44",
+    "polyols": "0.017",
+    "fibre": "2.9",
+    "protein": "4.8",
+    "sodium": "0.033",
+    "alcohol": "0.1",
+    "organicAcids": "0.437"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

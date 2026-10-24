@@ -1,0 +1,44 @@
+{
+  "code": "K750262",
+  "name": {
+    "de": "Mischpilze tiefgefroren, gebacken",
+    "en": "Mixed mushrooms deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.068",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3.76",
+    "sugars": "1.69",
+    "starch": "0",
+    "polyols": "2.07",
+    "fibre": "8.86",
+    "protein": "6.1",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K750262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

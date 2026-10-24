@@ -1,0 +1,44 @@
+{
+  "code": "C311000",
+  "name": {
+    "de": "Grünkern ganzes Korn, roh",
+    "en": "Green spelt whole grain, raw"
+  },
+  "per100g": {
+    "fat": "2.68",
+    "saturates": "0.396",
+    "monounsaturates": "0.636",
+    "polyunsaturates": "1.25",
+    "carbohydrate": "59.18",
+    "sugars": "2.48354",
+    "starch": "56.7",
+    "polyols": "0",
+    "fibre": "12.16",
+    "protein": "11.07",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C311000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

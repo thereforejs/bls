@@ -1,0 +1,44 @@
+{
+  "code": "X536463",
+  "name": {
+    "de": "Rosenkohl mit Käse überbacken",
+    "en": "Brussels sprouts with cheese gratinated"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "2.6",
+    "monounsaturates": "1.45",
+    "polyunsaturates": "0.49",
+    "carbohydrate": "3.24",
+    "sugars": "1.36",
+    "starch": "1.74",
+    "polyols": "0.14",
+    "fibre": "3.4",
+    "protein": "5.1",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0.299"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X536463",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C241132",
+  "name": {
+    "de": "Einkorn ganzes Korn, gekocht",
+    "en": "Einkorn wheat whole grain, boiled"
+  },
+  "per100g": {
+    "fat": "1.45",
+    "saturates": "0.14",
+    "monounsaturates": "0.31",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "31.44",
+    "sugars": "0.62799",
+    "starch": "30.81",
+    "polyols": "0",
+    "fibre": "5.37",
+    "protein": "7.43",
+    "sodium": "0.0003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C241132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

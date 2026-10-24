@@ -1,0 +1,44 @@
+{
+  "code": "V250272",
+  "name": {
+    "de": "Wildschwein Fleisch, tiefgefroren, gegrillt",
+    "en": "Wild boar meat, deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "11.848",
+    "saturates": "4.138",
+    "monounsaturates": "5.752",
+    "polyunsaturates": "0.911",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.644",
+    "sodium": "0.118",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V250272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

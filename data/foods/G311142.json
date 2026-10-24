@@ -1,0 +1,44 @@
+{
+  "code": "G311142",
+  "name": {
+    "de": "Blumenkohl gedämpft",
+    "en": "Cauliflower steamed"
+  },
+  "per100g": {
+    "fat": "0.277",
+    "saturates": "0.042",
+    "monounsaturates": "0.0067",
+    "polyunsaturates": "0.137",
+    "carbohydrate": "5.28",
+    "sugars": "2.14",
+    "starch": "0.18",
+    "polyols": "2.96",
+    "fibre": "2.8",
+    "protein": "2.399",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.243"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G311142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

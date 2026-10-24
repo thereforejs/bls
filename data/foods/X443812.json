@@ -1,0 +1,44 @@
+{
+  "code": "X443812",
+  "name": {
+    "de": "Karotten im Backteig (mit Bier) frittiert",
+    "en": "Carrots in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "13.31",
+    "saturates": "1.4",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "3.43",
+    "carbohydrate": "20.79",
+    "sugars": "4.364",
+    "starch": "16.43",
+    "polyols": "0",
+    "fibre": "3.2",
+    "protein": "5",
+    "sodium": "0.181",
+    "alcohol": "0.231",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X443812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

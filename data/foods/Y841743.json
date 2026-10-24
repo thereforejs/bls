@@ -1,0 +1,44 @@
+{
+  "code": "Y841743",
+  "name": {
+    "de": "Pflaumenkompott/Zwetschgenkompott",
+    "en": "Plum compote"
+  },
+  "per100g": {
+    "fat": "0.121",
+    "saturates": "0.016",
+    "monounsaturates": "0.0368",
+    "polyunsaturates": "0.056",
+    "carbohydrate": "15.57",
+    "sugars": "13.71",
+    "starch": "0",
+    "polyols": "1.863",
+    "fibre": "1.2",
+    "protein": "0.21",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.89"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

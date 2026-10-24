@@ -1,0 +1,44 @@
+{
+  "code": "D7B8300",
+  "name": {
+    "de": "Spritzgebäck (Rührmasse) mit Nougatfüllung, schokoliert",
+    "en": "Spritz biscuits (cake batter) with nougat filling and chocolate icing"
+  },
+  "per100g": {
+    "fat": "28.7",
+    "saturates": "15.8",
+    "monounsaturates": "8.2",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "52.7",
+    "sugars": "28.8",
+    "starch": "23.9",
+    "polyols": "0",
+    "fibre": "3.49",
+    "protein": "6.3",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B8300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y6A3000",
+  "name": {
+    "de": "Rotbarschauflauf mit Kartoffeln und Spinat",
+    "en": "Redfish casserole with potatoes and spinach"
+  },
+  "per100g": {
+    "fat": "10.73",
+    "saturates": "4.11",
+    "monounsaturates": "3.84",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "6.3",
+    "sugars": "1",
+    "starch": "5.29",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "8.8",
+    "sodium": "0.198",
+    "alcohol": "0",
+    "organicAcids": "0.138"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y6A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

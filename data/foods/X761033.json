@@ -1,0 +1,44 @@
+{
+  "code": "X761033",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli, vegetarisch gefüllt, mit gekochtem Gemüse in Grundsauce hell/weiß",
+    "en": "Fresh egg pasta Ravioli vegetarian filled, with boiled vegetables in white basic sauce"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "1.4",
+    "monounsaturates": "1.02",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "10.2",
+    "sugars": "1.63",
+    "starch": "8.5",
+    "polyols": "0.02",
+    "fibre": "1.5",
+    "protein": "4.6",
+    "sodium": "0.175",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X761033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

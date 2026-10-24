@@ -1,0 +1,44 @@
+{
+  "code": "D1A1300",
+  "name": {
+    "de": "Zwetschgen-Streuselkuchen (Hefeteig)",
+    "en": "Blue plum crumble cake (yeast dough)"
+  },
+  "per100g": {
+    "fat": "6.02",
+    "saturates": "3.61",
+    "monounsaturates": "1.32",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "30",
+    "sugars": "11.96",
+    "starch": "16",
+    "polyols": "1.676",
+    "fibre": "2.3",
+    "protein": "3.34",
+    "sodium": "0.016",
+    "alcohol": "0",
+    "organicAcids": "0.81"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D1A1300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

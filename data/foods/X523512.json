@@ -1,0 +1,44 @@
+{
+  "code": "X523512",
+  "name": {
+    "de": "Mangold gedünstet (mit Fett und Salz)",
+    "en": "Chard stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "5.226",
+    "saturates": "0.39",
+    "monounsaturates": "2.85",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "0.881",
+    "sugars": "0.697",
+    "starch": "0.184",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "1.87",
+    "sodium": "0.3278",
+    "alcohol": "0",
+    "organicAcids": "0.063"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X523512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U941100",
+  "name": {
+    "de": "Königsberger Klopse, Konserve",
+    "en": "\"Königsberger Klopse\" meatballs, canned"
+  },
+  "per100g": {
+    "fat": "12.53",
+    "saturates": "5.76",
+    "monounsaturates": "4.92",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "3.28",
+    "sugars": "0.019",
+    "starch": "3.26",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "9.38",
+    "sodium": "0.667",
+    "alcohol": "0",
+    "organicAcids": "0.012"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U941100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

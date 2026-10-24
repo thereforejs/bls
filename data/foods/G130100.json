@@ -1,0 +1,44 @@
+{
+  "code": "G130100",
+  "name": {
+    "de": "Rucola roh",
+    "en": "Rocket raw"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.066",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.166",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": null,
+    "fibre": "1.7",
+    "protein": "3.6",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G130100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

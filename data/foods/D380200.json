@@ -1,0 +1,44 @@
+{
+  "code": "D380200",
+  "name": {
+    "de": "Käsetorte (Mürbeteig)",
+    "en": "Cheese torte (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "12.1",
+    "saturates": "6.56",
+    "monounsaturates": "3.07",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "28.9",
+    "sugars": "17.48",
+    "starch": "11.4",
+    "polyols": "0",
+    "fibre": "0.69",
+    "protein": "8.4",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": "0.52"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D380200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

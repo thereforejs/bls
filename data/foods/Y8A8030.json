@@ -1,0 +1,44 @@
+{
+  "code": "Y8A8030",
+  "name": {
+    "de": "Mürbeteig gesüßt, roh",
+    "en": "Shortcrust pastry sweetened, raw"
+  },
+  "per100g": {
+    "fat": "22.28",
+    "saturates": "14.36",
+    "monounsaturates": "5.03",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "49.6",
+    "sugars": "13.462",
+    "starch": "36.1",
+    "polyols": "0",
+    "fibre": "2.67",
+    "protein": "6.89",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.0061"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A8030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

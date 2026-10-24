@@ -1,0 +1,44 @@
+{
+  "code": "X699412",
+  "name": {
+    "de": "Folienkartoffeln gebacken",
+    "en": "Jacket potatoes baked"
+  },
+  "per100g": {
+    "fat": "0.105",
+    "saturates": "0.035",
+    "monounsaturates": "0.017",
+    "polyunsaturates": "0.013",
+    "carbohydrate": "19.35",
+    "sugars": "1.53",
+    "starch": "17.823",
+    "polyols": "0",
+    "fibre": "1.489",
+    "protein": "2.15",
+    "sodium": "0.17",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X699412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

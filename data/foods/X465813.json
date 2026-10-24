@@ -1,0 +1,44 @@
+{
+  "code": "X465813",
+  "name": {
+    "de": "Grüne-Bohnen-Eintopf mit Gemüsebrühe, Kartoffeln, Birne und Speck",
+    "en": "Green bean stew with vegetable stock, potatoes, pears and bacon"
+  },
+  "per100g": {
+    "fat": "4.6",
+    "saturates": "1.8",
+    "monounsaturates": "1.89",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "7",
+    "sugars": "2",
+    "starch": "5",
+    "polyols": "0.26",
+    "fibre": "1.1",
+    "protein": "1.6",
+    "sodium": "0.251",
+    "alcohol": "0.001",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X465813",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

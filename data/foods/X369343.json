@@ -1,0 +1,44 @@
+{
+  "code": "X369343",
+  "name": {
+    "de": "Weinschaumsauce/Weinchaudeau",
+    "en": "Creamy wine sauce/Wine chadeau"
+  },
+  "per100g": {
+    "fat": "3",
+    "saturates": "0.82",
+    "monounsaturates": "1.15",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "18.58",
+    "sugars": "18.58",
+    "starch": "0",
+    "polyols": "0.005",
+    "fibre": "0.006",
+    "protein": "3.7",
+    "sodium": "0.048",
+    "alcohol": "1.66",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X369343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

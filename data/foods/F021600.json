@@ -1,0 +1,44 @@
+{
+  "code": "F021600",
+  "name": {
+    "de": "Roter Mehrfruchtsaft angereichert mit Vitaminen (Roter Multivitaminsaft)",
+    "en": "Red multi-fruit juice fortified with vitamins (red multivitamin juice)"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.035",
+    "monounsaturates": "0.038",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "9.9",
+    "sugars": "9.2",
+    "starch": "0.003",
+    "polyols": "0.65",
+    "fibre": "0.3",
+    "protein": "0.7",
+    "sodium": "0.003",
+    "alcohol": "0.024",
+    "organicAcids": "1.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F021600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

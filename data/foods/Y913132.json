@@ -1,0 +1,44 @@
+{
+  "code": "Y913132",
+  "name": {
+    "de": "Bockwurst mit Kartoffelsalat und Senf",
+    "en": "Bockwurst with potato salad and mustard"
+  },
+  "per100g": {
+    "fat": "14.9",
+    "saturates": "3.3",
+    "monounsaturates": "7.65",
+    "polyunsaturates": "2.85",
+    "carbohydrate": "6.54",
+    "sugars": "0.77",
+    "starch": "5.77",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "5.4",
+    "sodium": "0.4",
+    "alcohol": "0.003",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y913132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F301152",
+  "name": {
+    "de": "Erdbeere gedünstet",
+    "en": "Strawberry stewed"
+  },
+  "per100g": {
+    "fat": "0.421",
+    "saturates": "0.033",
+    "monounsaturates": "0.0661",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "6.229",
+    "sugars": "6.166",
+    "starch": "0",
+    "polyols": "0.063",
+    "fibre": "2.1",
+    "protein": "0.863",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F301152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

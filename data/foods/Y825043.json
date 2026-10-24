@@ -1,0 +1,44 @@
+{
+  "code": "Y825043",
+  "name": {
+    "de": "Schokoladenauflauf",
+    "en": "Chocolate casserole"
+  },
+  "per100g": {
+    "fat": "16.81",
+    "saturates": "8.17",
+    "monounsaturates": "6.08",
+    "polyunsaturates": "1.12",
+    "carbohydrate": "27.2",
+    "sugars": "18.78",
+    "starch": "8.4",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "7.1",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.029"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y825043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

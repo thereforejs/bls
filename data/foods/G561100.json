@@ -1,0 +1,46 @@
+{
+  "code": "G561100",
+  "name": {
+    "de": "Tomate roh",
+    "en": "Tomato raw"
+  },
+  "per100g": {
+    "fat": "0.11",
+    "saturates": "0.0216",
+    "monounsaturates": "0.0106",
+    "polyunsaturates": "0.0441",
+    "carbohydrate": "3.25",
+    "sugars": "3.25",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "0.95",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.387"
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G561100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

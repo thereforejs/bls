@@ -1,0 +1,44 @@
+{
+  "code": "Y692212",
+  "name": {
+    "de": "Fischklößchen mit Rotbarsch gegart",
+    "en": "Small fishcakes with redfish cooked"
+  },
+  "per100g": {
+    "fat": "3.73",
+    "saturates": "0.864",
+    "monounsaturates": "1.39",
+    "polyunsaturates": "0.788",
+    "carbohydrate": "3.564",
+    "sugars": "0.263",
+    "starch": "3.301",
+    "polyols": "0",
+    "fibre": "0.279",
+    "protein": "11.6",
+    "sodium": "0.258",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y692212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

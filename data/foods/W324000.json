@@ -1,0 +1,44 @@
+{
+  "code": "W324000",
+  "name": {
+    "de": "Kalbsleberwurst grob, mit Schweinefleisch",
+    "en": "Veal liver sausage coarsely minced, with pork"
+  },
+  "per100g": {
+    "fat": "18.3",
+    "saturates": "7.3",
+    "monounsaturates": "6",
+    "polyunsaturates": "2",
+    "carbohydrate": "1.02",
+    "sugars": "0.42",
+    "starch": "0.6",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "14.5",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.006"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W324000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

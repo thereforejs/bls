@@ -1,0 +1,44 @@
+{
+  "code": "T207272",
+  "name": {
+    "de": "Köhler/Seelachs, tiefgefroren, gegrillt",
+    "en": "Saithe/pollack, deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "1.427",
+    "saturates": "0.233",
+    "monounsaturates": "0.264",
+    "polyunsaturates": "0.347",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.507",
+    "sodium": "0.092",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T207272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

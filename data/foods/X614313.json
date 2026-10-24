@@ -1,0 +1,44 @@
+{
+  "code": "X614313",
+  "name": {
+    "de": "Kartoffelschichtspeise mit Sauerkraut und Kochschinken, überbacken",
+    "en": "Potato layer dish with sauerkraut and boiled ham, gratinated"
+  },
+  "per100g": {
+    "fat": "3.6",
+    "saturates": "1.4",
+    "monounsaturates": "1.4",
+    "polyunsaturates": "0.44",
+    "carbohydrate": "7.29",
+    "sugars": "1.27",
+    "starch": "5.98",
+    "polyols": "0.037",
+    "fibre": "2.1",
+    "protein": "5.2",
+    "sodium": "0.323",
+    "alcohol": "0.02",
+    "organicAcids": "0.858"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X614313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

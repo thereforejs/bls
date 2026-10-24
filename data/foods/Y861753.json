@@ -1,0 +1,44 @@
+{
+  "code": "Y861753",
+  "name": {
+    "de": "Schokoladenpudding, Flammeri, zubereitet aus Pulver und Milch 3,5 % Fett",
+    "en": "Chocolate pudding made from powder with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "2.1",
+    "monounsaturates": "0.8",
+    "polyunsaturates": "0.024",
+    "carbohydrate": "17.4",
+    "sugars": "12.1",
+    "starch": "5.3",
+    "polyols": "0",
+    "fibre": "0.45",
+    "protein": "3.56",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0.052"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y861753",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

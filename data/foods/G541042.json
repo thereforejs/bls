@@ -1,0 +1,44 @@
+{
+  "code": "G541042",
+  "name": {
+    "de": "Gemüsepaprika grün, geschmort ohne Fett",
+    "en": "Sweet pepper green, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.261",
+    "saturates": "0.065",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.111",
+    "carbohydrate": "7.56",
+    "sugars": "7.15",
+    "starch": "0",
+    "polyols": "0.41",
+    "fibre": "2.2",
+    "protein": "1.175",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G541042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

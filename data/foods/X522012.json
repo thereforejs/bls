@@ -1,0 +1,44 @@
+{
+  "code": "X522012",
+  "name": {
+    "de": "Blattspinat gedünstet (mit Fett und Salz)",
+    "en": "Leaf spinach stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "5.759",
+    "saturates": "0.42",
+    "monounsaturates": "3.13",
+    "polyunsaturates": "1.66",
+    "carbohydrate": "1.08",
+    "sugars": "0.87",
+    "starch": "0.211",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "2.401",
+    "sodium": "0.187",
+    "alcohol": "0",
+    "organicAcids": "0.072"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X522012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X6A2000",
+  "name": {
+    "de": "Süßkartoffelpüree (ohne Salz, geeignet für Beikost)",
+    "en": "Sweet potato puree (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "4.792",
+    "saturates": "0.31",
+    "monounsaturates": "2.52",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "17.6",
+    "sugars": "4.5",
+    "starch": "12.831",
+    "polyols": "0.28",
+    "fibre": "2.101",
+    "protein": "1.084",
+    "sodium": "0.004",
+    "alcohol": "0.003",
+    "organicAcids": "0.076"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

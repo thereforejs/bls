@@ -1,0 +1,44 @@
+{
+  "code": "D312900",
+  "name": {
+    "de": "Trüffeltorte (Schoko-Wasserbiskuit)",
+    "en": "Truffle torte (chocolate water sponge cake)"
+  },
+  "per100g": {
+    "fat": "17.49",
+    "saturates": "9.6",
+    "monounsaturates": "5.06",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "42.9",
+    "sugars": "30.7",
+    "starch": "12.2",
+    "polyols": "0",
+    "fibre": "3.37",
+    "protein": "6.79",
+    "sodium": "0.081",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D312900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

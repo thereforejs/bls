@@ -1,0 +1,44 @@
+{
+  "code": "Y611410",
+  "name": {
+    "de": "Sahnehering",
+    "en": "Pickled herring fillet, in cream sauce"
+  },
+  "per100g": {
+    "fat": "11.3",
+    "saturates": "3.3",
+    "monounsaturates": "5",
+    "polyunsaturates": "2.05",
+    "carbohydrate": "2.1",
+    "sugars": "2.1",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.44",
+    "sodium": "2.33",
+    "alcohol": "0",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y611410",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

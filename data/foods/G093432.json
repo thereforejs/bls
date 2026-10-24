@@ -1,0 +1,44 @@
+{
+  "code": "G093432",
+  "name": {
+    "de": "Suppengrün/Suppenkraut, getrocknet, gekocht",
+    "en": "Mirepoix dried, boiled"
+  },
+  "per100g": {
+    "fat": "0.583",
+    "saturates": "0.119",
+    "monounsaturates": "0.099",
+    "polyunsaturates": "0.176",
+    "carbohydrate": "10",
+    "sugars": "8.6",
+    "starch": "1",
+    "polyols": "0.06",
+    "fibre": "5",
+    "protein": "2.738",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G093432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X9A3060",
+  "name": {
+    "de": "Pastete (Mürbeteig) mit Champignon-Käsefüllung, gebacken",
+    "en": "Pate (shortcrust pastry) with button mushroom-cheese filling, baked"
+  },
+  "per100g": {
+    "fat": "19.58",
+    "saturates": "10.51",
+    "monounsaturates": "5.29",
+    "polyunsaturates": "1.35",
+    "carbohydrate": "20",
+    "sugars": "0.3",
+    "starch": "18.7",
+    "polyols": "1.03",
+    "fibre": "2.1",
+    "protein": "10.6",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

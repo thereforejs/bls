@@ -1,0 +1,46 @@
+{
+  "code": "B314000",
+  "name": {
+    "de": "Weizentoastbrot/Buttertoastbrot",
+    "en": "Wheat toast/butter toast"
+  },
+  "per100g": {
+    "fat": "3.59",
+    "saturates": "2.186",
+    "monounsaturates": "0.7825",
+    "polyunsaturates": "0.4218",
+    "carbohydrate": "46.8",
+    "sugars": "3.7",
+    "starch": "43.1",
+    "polyols": "0",
+    "fibre": "3.947",
+    "protein": "8.29",
+    "sodium": "0.598",
+    "alcohol": null,
+    "organicAcids": "0.22"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B314000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X357312",
+  "name": {
+    "de": "Cocktail-Dressing",
+    "en": "Cocktail dressing"
+  },
+  "per100g": {
+    "fat": "42.95",
+    "saturates": "5.58",
+    "monounsaturates": "22.88",
+    "polyunsaturates": "10.34",
+    "carbohydrate": "6.58",
+    "sugars": "6.49",
+    "starch": "0.09",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "1.7",
+    "sodium": "0.444",
+    "alcohol": "0.007",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X357312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

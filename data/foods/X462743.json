@@ -1,0 +1,44 @@
+{
+  "code": "X462743",
+  "name": {
+    "de": "Schusterpfanne auf Köthener-Art (mit Kartoffeln, Schweinenacken und Birnen) gebacken",
+    "en": "Stew \"Köthen\" style with potatoes, pork neck and pears, baked in oven"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "1.6",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.45",
+    "carbohydrate": "8.48",
+    "sugars": "1.73",
+    "starch": "6.33",
+    "polyols": "0.42",
+    "fibre": "0.9",
+    "protein": "6.22",
+    "sodium": "0.187",
+    "alcohol": "0",
+    "organicAcids": "0.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X462743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

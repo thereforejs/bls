@@ -1,0 +1,44 @@
+{
+  "code": "D740400",
+  "name": {
+    "de": "Kartoffelhörnchen (Mürbeteig)",
+    "en": "Potato crescent roll (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "8.5",
+    "saturates": "4.7",
+    "monounsaturates": "2.02",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "58.1",
+    "sugars": "26.2",
+    "starch": "31.9",
+    "polyols": "0.007",
+    "fibre": "2.9",
+    "protein": "6",
+    "sodium": "0.272",
+    "alcohol": "0",
+    "organicAcids": "0.205"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D740400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

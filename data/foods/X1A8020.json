@@ -1,0 +1,44 @@
+{
+  "code": "X1A8020",
+  "name": {
+    "de": "Heringssalat mit Apfel und Essigmarinade",
+    "en": "Herring salad with apple and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "13.7",
+    "saturates": "1.83",
+    "monounsaturates": "7.23",
+    "polyunsaturates": "3.49",
+    "carbohydrate": "2.4",
+    "sugars": "2.16",
+    "starch": "0.11",
+    "polyols": "0.1",
+    "fibre": "0.5",
+    "protein": "8.67",
+    "sodium": "2.097",
+    "alcohol": "0.007",
+    "organicAcids": "1.61"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A8020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

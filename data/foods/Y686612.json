@@ -1,0 +1,44 @@
+{
+  "code": "Y686612",
+  "name": {
+    "de": "Tintenfischringe im Backteig frittiert, mit Tsatsiki",
+    "en": "Cuttlefish rings in beer batter deep-fried, with tsatsiki"
+  },
+  "per100g": {
+    "fat": "9",
+    "saturates": "1.79",
+    "monounsaturates": "4.26",
+    "polyunsaturates": "2.09",
+    "carbohydrate": "8.6",
+    "sugars": "1",
+    "starch": "7.65",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "10.1",
+    "sodium": "0.253",
+    "alcohol": "0.109",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y686612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

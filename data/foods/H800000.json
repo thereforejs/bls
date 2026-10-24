@@ -1,0 +1,44 @@
+{
+  "code": "H800000",
+  "name": {
+    "de": "Mandeldrink ungesüßt",
+    "en": "Almond drink unsweetened"
+  },
+  "per100g": {
+    "fat": "2.159",
+    "saturates": "0.186",
+    "monounsaturates": "1.432",
+    "polyunsaturates": "0.3858",
+    "carbohydrate": "0.2",
+    "sugars": "0.173",
+    "starch": "0.03",
+    "polyols": null,
+    "fibre": "0.13",
+    "protein": "0.87",
+    "sodium": "0.051004396",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H800000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

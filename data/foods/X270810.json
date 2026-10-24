@@ -1,0 +1,44 @@
+{
+  "code": "X270810",
+  "name": {
+    "de": "Fruchtsalat gesüßt",
+    "en": "Fruit salad sweetened"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.074",
+    "monounsaturates": "0.044",
+    "polyunsaturates": "0.154",
+    "carbohydrate": "12.6",
+    "sugars": "11.41",
+    "starch": "0.497",
+    "polyols": "0.7",
+    "fibre": "2.2",
+    "protein": "0.76",
+    "sodium": "0.001",
+    "alcohol": "0.04",
+    "organicAcids": "0.77"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X270810",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

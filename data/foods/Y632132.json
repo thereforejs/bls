@@ -1,0 +1,44 @@
+{
+  "code": "Y632132",
+  "name": {
+    "de": "Hamburger Speckscholle, gebraten",
+    "en": "Plaice fried with bacon"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "2.11",
+    "monounsaturates": "2.53",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "2.12",
+    "sugars": "0.36",
+    "starch": "1.76",
+    "polyols": "0",
+    "fibre": "0.23",
+    "protein": "18.9",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y632132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

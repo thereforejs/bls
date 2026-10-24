@@ -1,0 +1,44 @@
+{
+  "code": "T615600",
+  "name": {
+    "de": "Rotbarsch/Goldbarsch, geräuchert",
+    "en": "Ocean perch/redfish, smoked"
+  },
+  "per100g": {
+    "fat": "5.5",
+    "saturates": "1.033",
+    "monounsaturates": "2.8048",
+    "polyunsaturates": "1.3545",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.8",
+    "sodium": "0.553",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T615600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

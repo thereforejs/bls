@@ -1,0 +1,44 @@
+{
+  "code": "X1A1040",
+  "name": {
+    "de": "Grüner-Spargel-Salat (gegart) mit Essigmarinade",
+    "en": "Green asparagus salad (cooked) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "10.72",
+    "saturates": "0.8",
+    "monounsaturates": "6.01",
+    "polyunsaturates": "2.98",
+    "carbohydrate": "7.46",
+    "sugars": "7.16",
+    "starch": "0.16",
+    "polyols": "0.14",
+    "fibre": "2.7",
+    "protein": "3.27",
+    "sodium": "0.084",
+    "alcohol": "0.002",
+    "organicAcids": "0.96"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A1040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

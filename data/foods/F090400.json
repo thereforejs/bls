@@ -1,0 +1,44 @@
+{
+  "code": "F090400",
+  "name": {
+    "de": "Fruchtmischung getrocknet (Trockenfrucht-Mix)",
+    "en": "Mixed fruit dried"
+  },
+  "per100g": {
+    "fat": "0.35",
+    "saturates": "0.052",
+    "monounsaturates": "0.058",
+    "polyunsaturates": "0.024",
+    "carbohydrate": "55.5",
+    "sugars": "52.2",
+    "starch": "0.19",
+    "polyols": "3.152",
+    "fibre": "8.7",
+    "protein": "2.58",
+    "sodium": "0.0303",
+    "alcohol": "0",
+    "organicAcids": "4.254"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F090400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

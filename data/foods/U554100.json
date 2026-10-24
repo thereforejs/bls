@@ -1,0 +1,44 @@
+{
+  "code": "U554100",
+  "name": {
+    "de": "Schwein Gulasch (Restbug) roh",
+    "en": "Pork goulash (shoulder strips) raw"
+  },
+  "per100g": {
+    "fat": "3.83",
+    "saturates": "1.22",
+    "monounsaturates": "1.57",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.51",
+    "sodium": "0.0617",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U554100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

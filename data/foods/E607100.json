@@ -1,0 +1,44 @@
+{
+  "code": "E607100",
+  "name": {
+    "de": "Grießklößchen getrocknet",
+    "en": "Semolina dumplings dried"
+  },
+  "per100g": {
+    "fat": "17.22",
+    "saturates": "8.87",
+    "monounsaturates": "4.48",
+    "polyunsaturates": "1.3",
+    "carbohydrate": "45.97",
+    "sugars": "9.43",
+    "starch": "36.54",
+    "polyols": "0",
+    "fibre": "2.61",
+    "protein": "21.67",
+    "sodium": "0.529",
+    "alcohol": "0",
+    "organicAcids": "0.131"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E607100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

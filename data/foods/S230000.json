@@ -1,0 +1,44 @@
+{
+  "code": "S230000",
+  "name": {
+    "de": "Rahmeis/Sahneeis",
+    "en": "Ice cream cream-based"
+  },
+  "per100g": {
+    "fat": "24.04",
+    "saturates": "12.07",
+    "monounsaturates": "6.62",
+    "polyunsaturates": "1",
+    "carbohydrate": "12.46",
+    "sugars": "12.46",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.6",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0.104"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S230000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

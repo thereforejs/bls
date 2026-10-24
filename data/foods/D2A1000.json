@@ -1,0 +1,44 @@
+{
+  "code": "D2A1000",
+  "name": {
+    "de": "Himbeertörtchen (Mürbeteig) mit Sahne und Mandelblättchen",
+    "en": "Raspberry tartlet (shortcrust pastry) with whipped cream and almond flakes"
+  },
+  "per100g": {
+    "fat": "16",
+    "saturates": "8.56",
+    "monounsaturates": "4.38",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "27.6",
+    "sugars": "12.9",
+    "starch": "14.73",
+    "polyols": "0.003",
+    "fibre": "3.5",
+    "protein": "4.4",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.922"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D2A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

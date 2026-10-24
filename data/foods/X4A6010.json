@@ -1,0 +1,44 @@
+{
+  "code": "X4A6010",
+  "name": {
+    "de": "Grüne Erbsensuppe St. Germain",
+    "en": "Green pea soup \"St. Germain\""
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.3",
+    "monounsaturates": "0.6",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "5.6",
+    "sugars": "0.8",
+    "starch": "4.78",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "2.7",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.136"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A6010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

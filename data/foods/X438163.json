@@ -1,0 +1,44 @@
+{
+  "code": "X438163",
+  "name": {
+    "de": "Markklößchen",
+    "en": "Small marrow dumplings"
+  },
+  "per100g": {
+    "fat": "26.05",
+    "saturates": "11.775",
+    "monounsaturates": "10.623",
+    "polyunsaturates": "1.211",
+    "carbohydrate": "25.41",
+    "sugars": "2.3",
+    "starch": "23.11",
+    "polyols": "0.003",
+    "fibre": "2.1",
+    "protein": "9.57",
+    "sodium": "0.412",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X438163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

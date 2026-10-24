@@ -1,0 +1,44 @@
+{
+  "code": "S622600",
+  "name": {
+    "de": "Pralinen gefüllt mit Karamellcreme",
+    "en": "Pralines filled with caramel cream"
+  },
+  "per100g": {
+    "fat": "17.05",
+    "saturates": "9.35",
+    "monounsaturates": "6.12",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "68.7",
+    "sugars": "60.82",
+    "starch": "7.88",
+    "polyols": "0",
+    "fibre": "0.82",
+    "protein": "3.72",
+    "sodium": "0.1885",
+    "alcohol": "0",
+    "organicAcids": "0.285"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S622600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

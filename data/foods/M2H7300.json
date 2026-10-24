@@ -1,0 +1,44 @@
+{
+  "code": "M2H7300",
+  "name": {
+    "de": "Milchshake 3,5 % Fett, mit Kakao/Schokolade, gesüßt",
+    "en": "Milkshake 3.5 % fat, with cocoa/chocolate, sweetened"
+  },
+  "per100g": {
+    "fat": "3.5",
+    "saturates": "2.3",
+    "monounsaturates": "0.8",
+    "polyunsaturates": "0.025",
+    "carbohydrate": "7.6",
+    "sugars": "7.55",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.386",
+    "protein": "3.7",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.056"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2H7300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

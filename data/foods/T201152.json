@@ -1,0 +1,44 @@
+{
+  "code": "T201152",
+  "name": {
+    "de": "Brosme/Lumb, gedünstet",
+    "en": "Cusk stewed"
+  },
+  "per100g": {
+    "fat": "0.524",
+    "saturates": "0.14",
+    "monounsaturates": "0.141",
+    "polyunsaturates": "0.183",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.446",
+    "sodium": "0.114",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T201152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

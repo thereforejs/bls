@@ -1,0 +1,44 @@
+{
+  "code": "X987112",
+  "name": {
+    "de": "Pizzabaguette mit Kochschinken und Käse überbacken",
+    "en": "Pizza baguette with boiled ham and cheese gratinated"
+  },
+  "per100g": {
+    "fat": "10.03",
+    "saturates": "6.18",
+    "monounsaturates": "2.62",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "16",
+    "sugars": "2",
+    "starch": "14",
+    "polyols": "0.003",
+    "fibre": "1.4",
+    "protein": "15.7",
+    "sodium": "0.476",
+    "alcohol": "0",
+    "organicAcids": "0.61"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X987112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

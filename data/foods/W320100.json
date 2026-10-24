@@ -1,0 +1,44 @@
+{
+  "code": "W320100",
+  "name": {
+    "de": "Leberrolle",
+    "en": "Liver roll (liver sausage)"
+  },
+  "per100g": {
+    "fat": "18.56",
+    "saturates": "7.09",
+    "monounsaturates": "6.49",
+    "polyunsaturates": "2.14",
+    "carbohydrate": "0.52",
+    "sugars": "0.17",
+    "starch": "0.35",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "17",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W320100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

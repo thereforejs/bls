@@ -1,0 +1,44 @@
+{
+  "code": "X651013",
+  "name": {
+    "de": "Kartoffeln geschält, roh gebraten",
+    "en": "Potatoes raw, peeled, fried"
+  },
+  "per100g": {
+    "fat": "12.753",
+    "saturates": "0.88",
+    "monounsaturates": "6.62",
+    "polyunsaturates": "3.15",
+    "carbohydrate": "22.601",
+    "sugars": "1.136",
+    "starch": "21.465",
+    "polyols": "0",
+    "fibre": "2.81",
+    "protein": "2.88",
+    "sodium": "0.0035",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

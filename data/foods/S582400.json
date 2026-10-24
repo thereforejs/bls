@@ -1,0 +1,44 @@
+{
+  "code": "S582400",
+  "name": {
+    "de": "Teigschnitte gefüllt mit Milchcreme",
+    "en": "Sponge cake slice filled with milk cream"
+  },
+  "per100g": {
+    "fat": "27.8",
+    "saturates": "13.6",
+    "monounsaturates": "9.8",
+    "polyunsaturates": "2.8",
+    "carbohydrate": "34",
+    "sugars": "24.4",
+    "starch": "9.6",
+    "polyols": "0",
+    "fibre": "1.11",
+    "protein": "8",
+    "sodium": "0.242",
+    "alcohol": "0",
+    "organicAcids": "0.156"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S582400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

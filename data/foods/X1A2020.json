@@ -1,0 +1,44 @@
+{
+  "code": "X1A2020",
+  "name": {
+    "de": "Kartoffelsalat mit Mayonnaise",
+    "en": "Potato salad with mayonnaise"
+  },
+  "per100g": {
+    "fat": "11.4",
+    "saturates": "1",
+    "monounsaturates": "6.42",
+    "polyunsaturates": "3.04",
+    "carbohydrate": "10.14",
+    "sugars": "1.11",
+    "starch": "9.03",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "1.6",
+    "sodium": "0.152",
+    "alcohol": "0.005",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A2020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

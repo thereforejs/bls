@@ -1,0 +1,44 @@
+{
+  "code": "B255700",
+  "name": {
+    "de": "Weizenmischbrot mit Kümmel",
+    "en": "Wheat-rye bread (> 50 % and < 90 % wheat) with caraway seeds"
+  },
+  "per100g": {
+    "fat": "0.84",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "43",
+    "sugars": "0.5628",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "6.36",
+    "protein": "7.03",
+    "sodium": "0.48",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B255700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

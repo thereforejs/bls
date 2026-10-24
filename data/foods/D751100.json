@@ -1,0 +1,44 @@
+{
+  "code": "D751100",
+  "name": {
+    "de": "Hobelspäne/Räderkuchen (Rührmasse) frittiert",
+    "en": "\"Hobelspäne\" pastry (cake batter) deep-fried"
+  },
+  "per100g": {
+    "fat": "16.1",
+    "saturates": "8",
+    "monounsaturates": "4.3",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "44.2",
+    "sugars": "10.51",
+    "starch": "33.7",
+    "polyols": "0",
+    "fibre": "2.48",
+    "protein": "7.09",
+    "sodium": "0.204",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D751100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W349000",
+  "name": {
+    "de": "Roter Presskopf",
+    "en": "Red brawn"
+  },
+  "per100g": {
+    "fat": "16.38",
+    "saturates": "5.83",
+    "monounsaturates": "6.3",
+    "polyunsaturates": "1.638",
+    "carbohydrate": "0.32",
+    "sugars": "0.2",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "18.86",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.006"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W349000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

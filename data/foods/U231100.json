@@ -1,0 +1,44 @@
+{
+  "code": "U231100",
+  "name": {
+    "de": "Rind Hals/Kamm/Nacken, roh",
+    "en": "Beef neck/chuck, raw"
+  },
+  "per100g": {
+    "fat": "8.05",
+    "saturates": "3.615",
+    "monounsaturates": "3.68",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.25",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U231100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

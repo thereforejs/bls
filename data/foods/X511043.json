@@ -1,0 +1,44 @@
+{
+  "code": "X511043",
+  "name": {
+    "de": "Champignons gedünstet, in Grundsauce hell/weiß mit Sahne",
+    "en": "Button mushrooms stewed, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "2.5",
+    "monounsaturates": "1.15",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "4",
+    "sugars": "0.7",
+    "starch": "0.6",
+    "polyols": "2.66",
+    "fibre": "2",
+    "protein": "4.03",
+    "sodium": "0.121",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X511043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

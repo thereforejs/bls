@@ -1,0 +1,44 @@
+{
+  "code": "Y874012",
+  "name": {
+    "de": "Vanillepudding, Flammeri, zubereitet aus Pulver und Milch 3,5 % Fett, mit Früchten und Süßstoff",
+    "en": "Vanilla pudding made from powder with milk 3.5 % fat, with fruit and artificial sweetener"
+  },
+  "per100g": {
+    "fat": "2.22",
+    "saturates": "1.355",
+    "monounsaturates": "0.496",
+    "polyunsaturates": "0.092",
+    "carbohydrate": "9.13",
+    "sugars": "5.35",
+    "starch": "3.636",
+    "polyols": "0.14",
+    "fibre": "0.8",
+    "protein": "2.5",
+    "sodium": "0.043",
+    "alcohol": "0.003",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y874012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

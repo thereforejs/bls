@@ -1,0 +1,44 @@
+{
+  "code": "X530143",
+  "name": {
+    "de": "Bayerisches Kraut gedünstet",
+    "en": "Bavarian white cabbage stewed"
+  },
+  "per100g": {
+    "fat": "3.712",
+    "saturates": "0.27",
+    "monounsaturates": "2.06",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "3.84",
+    "sugars": "3.74",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "2.2",
+    "protein": "1.009",
+    "sodium": "0.071",
+    "alcohol": "0.001",
+    "organicAcids": "0.37"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X530143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

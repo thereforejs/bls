@@ -1,0 +1,44 @@
+{
+  "code": "U583232",
+  "name": {
+    "de": "Schwein Kochfleisch (Bauch) tiefgefroren, gekocht",
+    "en": "Pork meat for boiling (belly) deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "29.64",
+    "saturates": "10.61",
+    "monounsaturates": "11.46",
+    "polyunsaturates": "2.82",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.49",
+    "sodium": "0.0386",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U583232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

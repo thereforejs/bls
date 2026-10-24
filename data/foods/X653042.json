@@ -1,0 +1,44 @@
+{
+  "code": "X653042",
+  "name": {
+    "de": "Kartoffelkroketten mit Käse",
+    "en": "Potato croquettes with cheese"
+  },
+  "per100g": {
+    "fat": "12",
+    "saturates": "1.48",
+    "monounsaturates": "6.37",
+    "polyunsaturates": "3",
+    "carbohydrate": "27.26",
+    "sugars": "0.99",
+    "starch": "26.27",
+    "polyols": "0.001",
+    "fibre": "2.82",
+    "protein": "6.3",
+    "sodium": "0.127",
+    "alcohol": "0",
+    "organicAcids": "0.029"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X653042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K280200",
+  "name": {
+    "de": "Kartoffelsticks",
+    "en": "Potato sticks"
+  },
+  "per100g": {
+    "fat": "31.5",
+    "saturates": "2.634",
+    "monounsaturates": "24.605",
+    "polyunsaturates": "3.008",
+    "carbohydrate": "46.52",
+    "sugars": "2.17",
+    "starch": "44.35",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "6.5",
+    "sodium": "0.72",
+    "alcohol": "0",
+    "organicAcids": "0.697"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K280200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

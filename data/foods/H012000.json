@@ -1,0 +1,44 @@
+{
+  "code": "H012000",
+  "name": {
+    "de": "Sojalecithin",
+    "en": "Soya bean lecithin"
+  },
+  "per100g": {
+    "fat": "83",
+    "saturates": "11.67",
+    "monounsaturates": "7.03",
+    "polyunsaturates": "34.4",
+    "carbohydrate": "3.2",
+    "sugars": "3.2",
+    "starch": null,
+    "polyols": null,
+    "fibre": "0",
+    "protein": "0",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H012000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

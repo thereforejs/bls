@@ -1,0 +1,44 @@
+{
+  "code": "X545063",
+  "name": {
+    "de": "Spargel gekocht (ohne Sauce)",
+    "en": "Asparagus boiled (without sauce)"
+  },
+  "per100g": {
+    "fat": "0.152",
+    "saturates": "0.0272",
+    "monounsaturates": "0.00567",
+    "polyunsaturates": "0.0729",
+    "carbohydrate": "3.93",
+    "sugars": "3.75",
+    "starch": "0.089",
+    "polyols": "0.09",
+    "fibre": "1.4",
+    "protein": "1.912",
+    "sodium": "0.091",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X545063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

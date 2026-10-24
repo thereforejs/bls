@@ -1,0 +1,44 @@
+{
+  "code": "M406700",
+  "name": {
+    "de": "Fontina mind. 50 % Fett i. Tr.",
+    "en": "Fontina cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "31.1",
+    "saturates": "20.1",
+    "monounsaturates": "8",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.6",
+    "sodium": "0.78",
+    "alcohol": "0",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M406700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

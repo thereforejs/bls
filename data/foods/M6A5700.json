@@ -1,0 +1,44 @@
+{
+  "code": "M6A5700",
+  "name": {
+    "de": "Weichkäse aus Schafmilch, mind. 45 % Fett i. Tr.",
+    "en": "Soft cheese made from sheep's milk, min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "22.66",
+    "saturates": "16.23",
+    "monounsaturates": "4",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "0.6",
+    "sugars": "0.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.86",
+    "sodium": "0.591",
+    "alcohol": "0",
+    "organicAcids": "0.332"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M6A5700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

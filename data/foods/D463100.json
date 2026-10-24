@@ -1,0 +1,44 @@
+{
+  "code": "D463100",
+  "name": {
+    "de": "Dresdner Stollen (Hefeteig) mit Alkohol",
+    "en": "Dresden stollen (yeast dough) with alcohol"
+  },
+  "per100g": {
+    "fat": "17.6",
+    "saturates": "10.7",
+    "monounsaturates": "4.82",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "46.2",
+    "sugars": "34",
+    "starch": "12",
+    "polyols": "0.205",
+    "fibre": "7.6",
+    "protein": "6.3",
+    "sodium": "0.2801",
+    "alcohol": "0.2",
+    "organicAcids": "0.93"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D463100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

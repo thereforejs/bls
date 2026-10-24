@@ -1,0 +1,44 @@
+{
+  "code": "X518743",
+  "name": {
+    "de": "Gemüse mit Käsesauce überbacken",
+    "en": "Vegetables with cheese sauce gratinated"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "4",
+    "monounsaturates": "1.95",
+    "polyunsaturates": "0.41",
+    "carbohydrate": "3.8",
+    "sugars": "2.37",
+    "starch": "0.8",
+    "polyols": "0.6",
+    "fibre": "1.7",
+    "protein": "3.7",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X518743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

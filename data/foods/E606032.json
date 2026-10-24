@@ -1,0 +1,44 @@
+{
+  "code": "E606032",
+  "name": {
+    "de": "Semmelknödel gekocht",
+    "en": "White bread dumplings boiled"
+  },
+  "per100g": {
+    "fat": "4.05",
+    "saturates": "1.8",
+    "monounsaturates": "1.17",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "22.03",
+    "sugars": "2.44",
+    "starch": "19.59",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "7.04",
+    "sodium": "0.357",
+    "alcohol": "0",
+    "organicAcids": "0.022"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E606032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X434243",
+  "name": {
+    "de": "Grießklößchen, Suppeneinlage",
+    "en": "Small semolina dumplings as soup garnish"
+  },
+  "per100g": {
+    "fat": "5.7",
+    "saturates": "2.77",
+    "monounsaturates": "1.52",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "17.59",
+    "sugars": "1.46",
+    "starch": "16.13",
+    "polyols": "0",
+    "fibre": "1.23",
+    "protein": "6.93",
+    "sodium": "0.227",
+    "alcohol": "0",
+    "organicAcids": "0.015"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X434243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U050132",
+  "name": {
+    "de": "Rind/Schwein, Hackfleisch gemischt, gekocht",
+    "en": "Beef/pork, mince mixed, boiled"
+  },
+  "per100g": {
+    "fat": "25.88",
+    "saturates": "10.73",
+    "monounsaturates": "11.384",
+    "polyunsaturates": "1.322",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.11",
+    "sodium": "0.078",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U050132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

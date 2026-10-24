@@ -1,0 +1,44 @@
+{
+  "code": "D7B2100",
+  "name": {
+    "de": "Butterkekse/Butterplätzchen (Mürbeteig) mit Nougatfüllung, schokoliert",
+    "en": "Shortbread biscuits with nougat filling and chocolate icing"
+  },
+  "per100g": {
+    "fat": "20.9",
+    "saturates": "11.3",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "65.8",
+    "sugars": "46.9",
+    "starch": "18.9",
+    "polyols": "0.013",
+    "fibre": "2.49",
+    "protein": "6.43",
+    "sodium": "0.174",
+    "alcohol": "0",
+    "organicAcids": "0.094"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B2100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

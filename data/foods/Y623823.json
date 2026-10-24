@@ -1,0 +1,44 @@
+{
+  "code": "Y623823",
+  "name": {
+    "de": "Seelachsfilet gedämpft, mit Kräutersauce von heller/weißer Grundsauce",
+    "en": "Saithe fillet steamed, with herb sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "5.8",
+    "saturates": "2.5",
+    "monounsaturates": "1.79",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "2.05",
+    "sugars": "0.78",
+    "starch": "1.27",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "8.45",
+    "sodium": "0.211",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y623823",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

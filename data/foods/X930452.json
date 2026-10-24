@@ -1,0 +1,44 @@
+{
+  "code": "X930452",
+  "name": {
+    "de": "Speckpfannkuchen gebraten",
+    "en": "Bacon pancakes fried"
+  },
+  "per100g": {
+    "fat": "14.61",
+    "saturates": "3.45",
+    "monounsaturates": "6.12",
+    "polyunsaturates": "2.45",
+    "carbohydrate": "24.8",
+    "sugars": "2.16",
+    "starch": "22.6",
+    "polyols": "0",
+    "fibre": "1.67",
+    "protein": "10.21",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X930452",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

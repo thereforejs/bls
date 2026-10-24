@@ -1,0 +1,44 @@
+{
+  "code": "X820852",
+  "name": {
+    "de": "Reis mit gedünstetem Gemüse und Kochschinken",
+    "en": "Rice with stewed vegetables and boiled ham"
+  },
+  "per100g": {
+    "fat": "2.24",
+    "saturates": "0.25",
+    "monounsaturates": "1.18",
+    "polyunsaturates": "0.58",
+    "carbohydrate": "17.5",
+    "sugars": "0.9",
+    "starch": "16.5",
+    "polyols": "0.14",
+    "fibre": "1",
+    "protein": "3.83",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X820852",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

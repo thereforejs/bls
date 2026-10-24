@@ -1,0 +1,44 @@
+{
+  "code": "B226800",
+  "name": {
+    "de": "Roggenbrot mit Nüssen",
+    "en": "Rye bread with nuts"
+  },
+  "per100g": {
+    "fat": "3.97",
+    "saturates": "0.37",
+    "monounsaturates": "1.61",
+    "polyunsaturates": "1.74",
+    "carbohydrate": "38",
+    "sugars": "0.992",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "8.8",
+    "protein": "6.12",
+    "sodium": "0.453",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B226800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

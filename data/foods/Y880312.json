@@ -1,0 +1,44 @@
+{
+  "code": "Y880312",
+  "name": {
+    "de": "Quarkspeise mit Ananas",
+    "en": "Quark dish with pineapple"
+  },
+  "per100g": {
+    "fat": "5.06",
+    "saturates": "2.751",
+    "monounsaturates": "1.299",
+    "polyunsaturates": "0.127",
+    "carbohydrate": "12.33",
+    "sugars": "12.33",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.29",
+    "protein": "5.95",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0.497"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y880312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

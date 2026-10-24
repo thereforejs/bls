@@ -1,0 +1,44 @@
+{
+  "code": "X3A7010",
+  "name": {
+    "de": "Pesto rosso",
+    "en": "Pesto rosso"
+  },
+  "per100g": {
+    "fat": "39.2",
+    "saturates": "5.5",
+    "monounsaturates": "24.8",
+    "polyunsaturates": "5.1",
+    "carbohydrate": "19.3",
+    "sugars": "19.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "8.7",
+    "protein": "10.2",
+    "sodium": "0.142",
+    "alcohol": "0",
+    "organicAcids": "2.303"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A7010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

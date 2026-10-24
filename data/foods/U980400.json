@@ -1,0 +1,44 @@
+{
+  "code": "U980400",
+  "name": {
+    "de": "Gulaschsuppe Konserve",
+    "en": "Goulash soup canned"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "2.34",
+    "monounsaturates": "2.49",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "4",
+    "sugars": "1.3",
+    "starch": "3",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "7.9",
+    "sodium": "0.534",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U980400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

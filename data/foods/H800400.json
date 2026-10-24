@@ -1,0 +1,44 @@
+{
+  "code": "H800400",
+  "name": {
+    "de": "Mandeldrink gesüßt, aromatisiert, angereichert mit Vitaminen und Calcium",
+    "en": "Almond drink sweetened, flavoured, fortified with vitamins and calcium"
+  },
+  "per100g": {
+    "fat": "2.097",
+    "saturates": "0.18",
+    "monounsaturates": "1.391",
+    "polyunsaturates": "0.3747",
+    "carbohydrate": "3.08",
+    "sugars": "3.05",
+    "starch": "0.03",
+    "polyols": null,
+    "fibre": "0.13",
+    "protein": "0.84",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H800400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

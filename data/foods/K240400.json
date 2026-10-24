@@ -1,0 +1,44 @@
+{
+  "code": "K240400",
+  "name": {
+    "de": "Kartoffelkloß (aus rohen Kartoffeln) Trockenprodukt",
+    "en": "Potato dumpling (from raw potatoes) dehydrated product"
+  },
+  "per100g": {
+    "fat": "0.227",
+    "saturates": "0.08",
+    "monounsaturates": "0.035",
+    "polyunsaturates": "0.031",
+    "carbohydrate": "70.7",
+    "sugars": "0",
+    "starch": "70.7",
+    "polyols": "0",
+    "fibre": "5.67",
+    "protein": "6.03",
+    "sodium": "1.39",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K240400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

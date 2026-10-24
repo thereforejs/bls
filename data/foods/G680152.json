@@ -1,0 +1,44 @@
+{
+  "code": "G680152",
+  "name": {
+    "de": "Rettich gedünstet",
+    "en": "Radish stewed"
+  },
+  "per100g": {
+    "fat": "0.147",
+    "saturates": "0.032",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.072",
+    "carbohydrate": "2.91",
+    "sugars": "1.942",
+    "starch": "0.78947",
+    "polyols": "0.14",
+    "fibre": "1.2",
+    "protein": "1.029",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.308"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G680152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

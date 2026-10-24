@@ -1,0 +1,44 @@
+{
+  "code": "X962162",
+  "name": {
+    "de": "Butternockerln",
+    "en": "Butter dumplings"
+  },
+  "per100g": {
+    "fat": "17.63",
+    "saturates": "9.9",
+    "monounsaturates": "4.3",
+    "polyunsaturates": "0.98",
+    "carbohydrate": "27.23",
+    "sugars": "0.35",
+    "starch": "26.88",
+    "polyols": "0",
+    "fibre": "2.14",
+    "protein": "9.18",
+    "sodium": "0.217",
+    "alcohol": "0",
+    "organicAcids": "0.0147"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X962162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

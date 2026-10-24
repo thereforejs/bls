@@ -1,0 +1,44 @@
+{
+  "code": "D7A7300",
+  "name": {
+    "de": "Mohn-Plunder",
+    "en": "Danish pastry with poppy seeds"
+  },
+  "per100g": {
+    "fat": "23.5",
+    "saturates": "9.54",
+    "monounsaturates": "7.17",
+    "polyunsaturates": "6.1",
+    "carbohydrate": "45",
+    "sugars": "14.77",
+    "starch": "30",
+    "polyols": "0.002",
+    "fibre": "5.26",
+    "protein": "10.59",
+    "sodium": "0.336",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "R942000",
+  "name": {
+    "de": "Tortenguss klar (zubereitet mit Wasser und Zucker) für Gebäck/Torten",
+    "en": "Gelatin glaze for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "0.003",
+    "saturates": "0",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0.001",
+    "carbohydrate": "12.057",
+    "sugars": "8.537",
+    "starch": "3.52",
+    "polyols": "0",
+    "fibre": "0.033",
+    "protein": "0.015",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R942000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

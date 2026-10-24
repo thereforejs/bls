@@ -1,0 +1,44 @@
+{
+  "code": "D614000",
+  "name": {
+    "de": "Müslikekse glutenfrei",
+    "en": "Muesli biscuits gluten-free"
+  },
+  "per100g": {
+    "fat": "20.219",
+    "saturates": "9.76",
+    "monounsaturates": "5.02",
+    "polyunsaturates": "3.18",
+    "carbohydrate": "55.2",
+    "sugars": "29.481",
+    "starch": "25.6",
+    "polyols": "0.153",
+    "fibre": "2.815",
+    "protein": "5.992",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D614000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

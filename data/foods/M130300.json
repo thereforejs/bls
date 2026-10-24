@@ -1,0 +1,44 @@
+{
+  "code": "M130300",
+  "name": {
+    "de": "Kefir mind. 3,5 % Fett",
+    "en": "Kefir min. 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "3.5",
+    "saturates": "2.301",
+    "monounsaturates": "0.878",
+    "polyunsaturates": "0.109",
+    "carbohydrate": "4.13",
+    "sugars": "4.13",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.164",
+    "sodium": "0.046",
+    "alcohol": "0.0012",
+    "organicAcids": "0.894"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M130300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

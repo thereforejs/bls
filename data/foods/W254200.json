@@ -1,0 +1,44 @@
+{
+  "code": "W254200",
+  "name": {
+    "de": "Käseschinkenwurst",
+    "en": "Ham bologna with cheese"
+  },
+  "per100g": {
+    "fat": "11.02",
+    "saturates": "4.35",
+    "monounsaturates": "3.84",
+    "polyunsaturates": "1.19",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "14.86",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.027"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W254200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

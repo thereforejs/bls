@@ -1,0 +1,44 @@
+{
+  "code": "G430132",
+  "name": {
+    "de": "Gemüsefenchel gekocht",
+    "en": "Fennel/Florence fennel, boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.044",
+    "monounsaturates": "0.052",
+    "polyunsaturates": "0.037",
+    "carbohydrate": "3.43",
+    "sugars": "2.97",
+    "starch": "0",
+    "polyols": "0.46",
+    "fibre": "3.4",
+    "protein": "1.4",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G430132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K282292",
+  "name": {
+    "de": "Kartoffelkroketten tiefgefroren, frittiert",
+    "en": "Potato croquettes deep-frozen, deep-fried"
+  },
+  "per100g": {
+    "fat": "21.91",
+    "saturates": "3.9",
+    "monounsaturates": "9.2",
+    "polyunsaturates": "7",
+    "carbohydrate": "24.16",
+    "sugars": "1.2",
+    "starch": "22.96",
+    "polyols": "0.001",
+    "fibre": "2.65",
+    "protein": "5.12",
+    "sodium": "0.48",
+    "alcohol": "0",
+    "organicAcids": "0.032"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K282292",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

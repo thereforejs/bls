@@ -1,0 +1,44 @@
+{
+  "code": "X562043",
+  "name": {
+    "de": "Karotten/Möhren, gedünstet (mit Fett und Salz)",
+    "en": "Carrots stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "0.3",
+    "monounsaturates": "2.28",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "5.04",
+    "sugars": "4.96",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "0.73",
+    "sodium": "0.169",
+    "alcohol": "0",
+    "organicAcids": "0.299"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X562043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

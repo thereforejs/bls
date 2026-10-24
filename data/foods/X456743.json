@@ -1,0 +1,44 @@
+{
+  "code": "X456743",
+  "name": {
+    "de": "Ochsenschwanzsuppe gebunden",
+    "en": "Oxtail soup thickened"
+  },
+  "per100g": {
+    "fat": "7.2",
+    "saturates": "2.9",
+    "monounsaturates": "3.12",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "3",
+    "sugars": "1.5",
+    "starch": "1.45",
+    "polyols": "0.02",
+    "fibre": "1",
+    "protein": "7.8",
+    "sodium": "0.129",
+    "alcohol": "0.45",
+    "organicAcids": "0.163"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X456743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

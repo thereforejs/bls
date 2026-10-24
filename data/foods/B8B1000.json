@@ -1,0 +1,44 @@
+{
+  "code": "B8B1000",
+  "name": {
+    "de": "Mehrkornknusperbrot angereichert mit Vitaminen und Spurenelementen",
+    "en": "Multigrain crackerbread, fortified with vitamins and trace elements"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.2",
+    "monounsaturates": "0.5",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "66.4",
+    "sugars": "3.1",
+    "starch": "63.3",
+    "polyols": "0",
+    "fibre": "12",
+    "protein": "10.7",
+    "sodium": "0.52",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8B1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

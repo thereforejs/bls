@@ -1,0 +1,44 @@
+{
+  "code": "S244300",
+  "name": {
+    "de": "Speiseeis (Frucht, Schoko) gemischt",
+    "en": "Ice cream mixed (chocolate, fruit )"
+  },
+  "per100g": {
+    "fat": "5.31",
+    "saturates": "2.22",
+    "monounsaturates": "1.124",
+    "polyunsaturates": "1.617",
+    "carbohydrate": "29.9",
+    "sugars": "27",
+    "starch": "2.07",
+    "polyols": "0.011",
+    "fibre": "1.5",
+    "protein": "1.96",
+    "sodium": "0.019",
+    "alcohol": "0",
+    "organicAcids": "0.348"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S244300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

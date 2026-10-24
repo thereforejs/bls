@@ -1,0 +1,44 @@
+{
+  "code": "D461300",
+  "name": {
+    "de": "Bienenstich (Hefeteig)",
+    "en": "Bee sting cake (yeast dough)"
+  },
+  "per100g": {
+    "fat": "19.34",
+    "saturates": "9.6",
+    "monounsaturates": "6.12",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "32",
+    "sugars": "16.47",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "6.44",
+    "sodium": "0.045",
+    "alcohol": "0",
+    "organicAcids": "0.045"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D461300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y583312",
+  "name": {
+    "de": "Putenschnitzel paniert, gebraten",
+    "en": "Turkey schnitzel breaded, fried"
+  },
+  "per100g": {
+    "fat": "9.1",
+    "saturates": "1.12",
+    "monounsaturates": "4.67",
+    "polyunsaturates": "2.34",
+    "carbohydrate": "7.07",
+    "sugars": "0.68",
+    "starch": "6.39",
+    "polyols": "0.001",
+    "fibre": "0.63",
+    "protein": "22.72",
+    "sodium": "0.175",
+    "alcohol": "0.002",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y583312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

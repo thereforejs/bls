@@ -1,0 +1,44 @@
+{
+  "code": "X9A3030",
+  "name": {
+    "de": "Frühlingsrollen vegetarisch gefüllt mit Gemüse, frittiert",
+    "en": "Spring rolls vegetarian filled with vegetables, deep-fried"
+  },
+  "per100g": {
+    "fat": "14.6",
+    "saturates": "1.08",
+    "monounsaturates": "7.9",
+    "polyunsaturates": "4",
+    "carbohydrate": "28.8",
+    "sugars": "2.7",
+    "starch": "25.89",
+    "polyols": "0.22",
+    "fibre": "4.1",
+    "protein": "6.2",
+    "sodium": "0.188",
+    "alcohol": "0.01",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U255132",
+  "name": {
+    "de": "Rind Brustkern/Mittelbrust, gekocht",
+    "en": "Beef brisket/centre cut, boiled"
+  },
+  "per100g": {
+    "fat": "17.491",
+    "saturates": "8.1",
+    "monounsaturates": "8.25",
+    "polyunsaturates": "0.613",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.878",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U255132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

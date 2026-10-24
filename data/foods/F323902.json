@@ -1,0 +1,44 @@
+{
+  "code": "F323902",
+  "name": {
+    "de": "Johannisbeere schwarz, gezuckert, Konserve, abgetropft",
+    "en": "Black currant sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.117",
+    "saturates": "0.014",
+    "monounsaturates": "0.012",
+    "polyunsaturates": "0.0582",
+    "carbohydrate": "15.77",
+    "sugars": "15.77",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "1.6",
+    "protein": "0.698",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.746"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F323902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

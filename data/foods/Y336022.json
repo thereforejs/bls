@@ -1,0 +1,44 @@
+{
+  "code": "Y336022",
+  "name": {
+    "de": "Schaschlik (mit Schweinefleisch) gegrillt",
+    "en": "Shashlik with pork grilled"
+  },
+  "per100g": {
+    "fat": "8.27",
+    "saturates": "2.16",
+    "monounsaturates": "3.78",
+    "polyunsaturates": "1.29",
+    "carbohydrate": "3.82",
+    "sugars": "3.74",
+    "starch": "0.01",
+    "polyols": "0.07",
+    "fibre": "1.1",
+    "protein": "16.22",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y336022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

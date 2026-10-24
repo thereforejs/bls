@@ -1,0 +1,44 @@
+{
+  "code": "W982600",
+  "name": {
+    "de": "Getrüffelte Zungenpastete mit Champignons und Mürbeteig, gebacken",
+    "en": "Truffled tongue pate with button mushrooms and shortcrust pastry, baked"
+  },
+  "per100g": {
+    "fat": "16.03",
+    "saturates": "6.77",
+    "monounsaturates": "5.1",
+    "polyunsaturates": "1.54",
+    "carbohydrate": "7.84",
+    "sugars": "0.211",
+    "starch": "7.16",
+    "polyols": "0.47",
+    "fibre": "1.2",
+    "protein": "14.59",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W982600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

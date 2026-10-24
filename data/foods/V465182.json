@@ -1,0 +1,44 @@
+{
+  "code": "V465182",
+  "name": {
+    "de": "Ente Schenkel, mit Haut, gebraten ohne Fett (Pfanne)",
+    "en": "Duck leg, with skin, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "10.88",
+    "saturates": "3.61",
+    "monounsaturates": "5.16",
+    "polyunsaturates": "1.41",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.23",
+    "sodium": "0.133",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V465182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

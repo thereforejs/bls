@@ -1,0 +1,44 @@
+{
+  "code": "K270022",
+  "name": {
+    "de": "Gnocchi gedämpft",
+    "en": "Gnocchi steamed"
+  },
+  "per100g": {
+    "fat": "0.587",
+    "saturates": "0.04",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "29.13",
+    "sugars": "0.373",
+    "starch": "28.76",
+    "polyols": "0",
+    "fibre": "1.769",
+    "protein": "3.731",
+    "sodium": "0.25",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K270022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

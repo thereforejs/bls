@@ -1,0 +1,47 @@
+{
+  "code": "S582600",
+  "name": {
+    "de": "Vollmilchschokoladen-Riegel gefüllt mit Milchcreme",
+    "en": "Whole milk chocolate bar filled with milk cream"
+  },
+  "per100g": {
+    "fat": "40.26",
+    "saturates": "22.63",
+    "monounsaturates": "13.86",
+    "polyunsaturates": "1.549",
+    "carbohydrate": "39.39",
+    "sugars": "39.39",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "6.67",
+    "protein": "7.51",
+    "sodium": "0.079",
+    "alcohol": null,
+    "organicAcids": "0.458"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S582600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

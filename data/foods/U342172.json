@@ -1,0 +1,44 @@
+{
+  "code": "U342172",
+  "name": {
+    "de": "Kalb Schnitzel (Keule) gegrillt",
+    "en": "Veal schnitzel (round) grilled"
+  },
+  "per100g": {
+    "fat": "0.915",
+    "saturates": "0.382",
+    "monounsaturates": "0.344",
+    "polyunsaturates": "0.061",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.854",
+    "sodium": "0.099",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U342172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

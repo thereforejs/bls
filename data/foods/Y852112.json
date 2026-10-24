@@ -1,0 +1,44 @@
+{
+  "code": "Y852112",
+  "name": {
+    "de": "Fruchtkompott gemischt, ungesüßt",
+    "en": "Mixed fruit compote unsweetened"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.075",
+    "monounsaturates": "0.064",
+    "polyunsaturates": "0.127",
+    "carbohydrate": "10.6",
+    "sugars": "9.574",
+    "starch": "0.099",
+    "polyols": "0.9",
+    "fibre": "1.2",
+    "protein": "0.646",
+    "sodium": "0.002",
+    "alcohol": "0.002",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y852112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

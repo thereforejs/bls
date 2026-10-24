@@ -1,0 +1,44 @@
+{
+  "code": "M6A6800",
+  "name": {
+    "de": "Salzlakenkäse aus Schafmilch, mind. 45 % Fett i. Tr.",
+    "en": "Brine cheese made from sheep's milk, min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "24.09",
+    "saturates": "15.173",
+    "monounsaturates": "3.296",
+    "polyunsaturates": "0.5919",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.445",
+    "sodium": "0.957",
+    "alcohol": "0",
+    "organicAcids": "1.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M6A6800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

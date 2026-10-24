@@ -1,0 +1,44 @@
+{
+  "code": "R459000",
+  "name": {
+    "de": "Backhefe frisch (Frischbackhefe)",
+    "en": "Baker's yeast fresh, pressed"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.158",
+    "monounsaturates": "0.679",
+    "polyunsaturates": "0.003",
+    "carbohydrate": "10",
+    "sugars": "0",
+    "starch": "10",
+    "polyols": null,
+    "fibre": "5.18",
+    "protein": "16.7",
+    "sodium": "0.034",
+    "alcohol": null,
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R459000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

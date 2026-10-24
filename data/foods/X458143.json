@@ -1,0 +1,44 @@
+{
+  "code": "X458143",
+  "name": {
+    "de": "Geflügelcremesuppe (Huhn)",
+    "en": "Cream of chicken soup"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "3.1",
+    "monounsaturates": "2.4",
+    "polyunsaturates": "1.48",
+    "carbohydrate": "1.53",
+    "sugars": "0.108",
+    "starch": "1.36",
+    "polyols": "0.06",
+    "fibre": "0.1",
+    "protein": "8.2",
+    "sodium": "0.248",
+    "alcohol": "0",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X458143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

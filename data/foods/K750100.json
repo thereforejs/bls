@@ -1,0 +1,44 @@
+{
+  "code": "K750100",
+  "name": {
+    "de": "Mischpilze roh",
+    "en": "Mixed mushrooms raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.041",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "2.16",
+    "sugars": "0.97",
+    "starch": "0",
+    "polyols": "1.19",
+    "fibre": "5.1",
+    "protein": "3.5",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K750100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

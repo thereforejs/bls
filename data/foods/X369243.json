@@ -1,0 +1,44 @@
+{
+  "code": "X369243",
+  "name": {
+    "de": "Rotweinsauce süß",
+    "en": "Red wine sauce sweet"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.001",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.003",
+    "carbohydrate": "12.9",
+    "sugars": "12.12",
+    "starch": "0.757",
+    "polyols": "0.025",
+    "fibre": "0.008",
+    "protein": "0.008",
+    "sodium": "0.002",
+    "alcohol": "3.2",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X369243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

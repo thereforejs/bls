@@ -1,0 +1,44 @@
+{
+  "code": "U184132",
+  "name": {
+    "de": "Rind Kochfleisch (Bug) gekocht",
+    "en": "Beef meat for boiling (shoulder) boiled"
+  },
+  "per100g": {
+    "fat": "6.211",
+    "saturates": "2.724",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.406",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U184132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

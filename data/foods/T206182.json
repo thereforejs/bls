@@ -1,0 +1,44 @@
+{
+  "code": "T206182",
+  "name": {
+    "de": "Schellfisch gebraten ohne Fett (Pfanne)",
+    "en": "Haddock fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.65",
+    "saturates": "0.111",
+    "monounsaturates": "0.084",
+    "polyunsaturates": "0.241",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.3",
+    "sodium": "0.072",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T206182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G342162",
+  "name": {
+    "de": "Weißkohl gebacken",
+    "en": "White cabbage baked"
+  },
+  "per100g": {
+    "fat": "0.224",
+    "saturates": "0.0393",
+    "monounsaturates": "0.0057",
+    "polyunsaturates": "0.133",
+    "carbohydrate": "5.33",
+    "sugars": "5.17",
+    "starch": "0",
+    "polyols": "0.16",
+    "fibre": "3.5",
+    "protein": "1.626",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0.232"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G342162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y363323",
+  "name": {
+    "de": "Schweinerücken geschmort, mit Gemüse und Sauce",
+    "en": "Pork loin braised, with vegetables and sauce"
+  },
+  "per100g": {
+    "fat": "7.9",
+    "saturates": "1.7",
+    "monounsaturates": "3.6",
+    "polyunsaturates": "1.45",
+    "carbohydrate": "3.9",
+    "sugars": "1.52",
+    "starch": "2.3",
+    "polyols": "0.05",
+    "fibre": "1.3",
+    "protein": "9.4",
+    "sodium": "0.18",
+    "alcohol": "0",
+    "organicAcids": "0.088"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y363323",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

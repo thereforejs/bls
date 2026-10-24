@@ -1,0 +1,44 @@
+{
+  "code": "Y692123",
+  "name": {
+    "de": "Fischklößchen mit Rotbarsch gegart und Gemüsesauce von heller/weißer Grundsauce",
+    "en": "Small fishcakes with redfish cooked and vegetable sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "1.1",
+    "monounsaturates": "0.81",
+    "polyunsaturates": "0.37",
+    "carbohydrate": "3.8",
+    "sugars": "1.7",
+    "starch": "2.1",
+    "polyols": "0.02",
+    "fibre": "1.2",
+    "protein": "5.2",
+    "sodium": "0.215",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y692123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

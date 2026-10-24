@@ -1,0 +1,44 @@
+{
+  "code": "Y564523",
+  "name": {
+    "de": "Hühnerragout mit Gemüse",
+    "en": "Chicken ragout with vegetables"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "1.1",
+    "monounsaturates": "0.5",
+    "polyunsaturates": "0.23",
+    "carbohydrate": "3.7",
+    "sugars": "1.8",
+    "starch": "1.31",
+    "polyols": "0.56",
+    "fibre": "1.4",
+    "protein": "9.3",
+    "sodium": "0.127",
+    "alcohol": "0",
+    "organicAcids": "0.133"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y564523",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

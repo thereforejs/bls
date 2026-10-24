@@ -1,0 +1,44 @@
+{
+  "code": "Y623612",
+  "name": {
+    "de": "Seelachsfilet gedünstet (mit Fett und Salz)",
+    "en": "Saithe fillet stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "5.7",
+    "saturates": "0.84",
+    "monounsaturates": "2.63",
+    "polyunsaturates": "1.77",
+    "carbohydrate": "0.06",
+    "sugars": "0.06",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.103",
+    "protein": "17.511",
+    "sodium": "0.2758",
+    "alcohol": "0",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y623612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

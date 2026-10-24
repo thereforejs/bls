@@ -1,0 +1,44 @@
+{
+  "code": "Y251323",
+  "name": {
+    "de": "Kalbsroulade gebraten, mit Grundsauce dunkel/braun",
+    "en": "Veal olive fried, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "10.3",
+    "saturates": "2.7",
+    "monounsaturates": "5.1",
+    "polyunsaturates": "1.79",
+    "carbohydrate": "3.23",
+    "sugars": "0.97",
+    "starch": "2.26",
+    "polyols": "0.002",
+    "fibre": "0.5",
+    "protein": "12.12",
+    "sodium": "0.453",
+    "alcohol": "0",
+    "organicAcids": "0.214"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y251323",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

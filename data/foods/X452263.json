@@ -1,0 +1,44 @@
+{
+  "code": "X452263",
+  "name": {
+    "de": "Suppe aus Eierteigwaren mit Hühnerfleisch",
+    "en": "Soup of egg pasta with chicken"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "0.9",
+    "monounsaturates": "0.9",
+    "polyunsaturates": "0.674",
+    "carbohydrate": "2.89",
+    "sugars": "0.08",
+    "starch": "2.813",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "4.6",
+    "sodium": "0.317",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X452263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B6A3200",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Sonnenblumenkernen",
+    "en": "Wholemeal rye crispbread with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "9.39",
+    "saturates": "0.93",
+    "monounsaturates": "2.49",
+    "polyunsaturates": "5.15",
+    "carbohydrate": "49.8",
+    "sugars": "2.168",
+    "starch": "47.6",
+    "polyols": "0",
+    "fibre": "17.42",
+    "protein": "12.21",
+    "sodium": "0.5347",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A3200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G581802",
+  "name": {
+    "de": "Kürbis gesäuert, abgetropft",
+    "en": "Pumpkin pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.123",
+    "saturates": "0.033",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.06",
+    "carbohydrate": "24.22",
+    "sugars": "23.66",
+    "starch": "0.543",
+    "polyols": "0.006",
+    "fibre": "3.449",
+    "protein": "1.042",
+    "sodium": "0.175",
+    "alcohol": "0.018",
+    "organicAcids": "1.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

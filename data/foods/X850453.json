@@ -1,0 +1,44 @@
+{
+  "code": "X850453",
+  "name": {
+    "de": "Schinkenrisotto",
+    "en": "Risotto with ham"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "0.4",
+    "monounsaturates": "2.14",
+    "polyunsaturates": "1.01",
+    "carbohydrate": "22.5",
+    "sugars": "0.91",
+    "starch": "21.6",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "4.97",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X850453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

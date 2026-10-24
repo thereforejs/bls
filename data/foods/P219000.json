@@ -1,0 +1,44 @@
+{
+  "code": "P219000",
+  "name": {
+    "de": "Eiswein",
+    "en": "Ice wine"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "23.06",
+    "sugars": "23.05",
+    "starch": "0",
+    "polyols": "0.006",
+    "fibre": "0",
+    "protein": "0.077",
+    "sodium": "0.0015",
+    "alcohol": "6.7",
+    "organicAcids": "0.428"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P219000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B526000",
+  "name": {
+    "de": "Roggenbrötchen mit Ölsamen",
+    "en": "Rye roll with oilseeds"
+  },
+  "per100g": {
+    "fat": "5.17",
+    "saturates": "1.12",
+    "monounsaturates": "1.61",
+    "polyunsaturates": "1.99",
+    "carbohydrate": "45",
+    "sugars": "0.86",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "8.83",
+    "protein": "9.1",
+    "sodium": "0.528",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B526000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

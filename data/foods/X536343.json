@@ -1,0 +1,44 @@
+{
+  "code": "X536343",
+  "name": {
+    "de": "Rosenkohl gekocht, mit Käsesauce von Bechamelsauce",
+    "en": "Brussels sprouts boiled, with cheese sauce from Bechamel sauce"
+  },
+  "per100g": {
+    "fat": "4.6",
+    "saturates": "3",
+    "monounsaturates": "0.94",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "3.27",
+    "sugars": "1.73",
+    "starch": "1.46",
+    "polyols": "0.08",
+    "fibre": "2.1",
+    "protein": "4.29",
+    "sodium": "0.181",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X536343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

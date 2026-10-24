@@ -1,0 +1,44 @@
+{
+  "code": "X243450",
+  "name": {
+    "de": "Fenchelsalat (roh) mit Zitronenmarinade",
+    "en": "Fennel salad (raw) with lemon marinade"
+  },
+  "per100g": {
+    "fat": "10.2",
+    "saturates": "0.76",
+    "monounsaturates": "5.8",
+    "polyunsaturates": "2.77",
+    "carbohydrate": "2.83",
+    "sugars": "2.46",
+    "starch": "0.01",
+    "polyols": "0.36",
+    "fibre": "2.6",
+    "protein": "1.12",
+    "sodium": "0.088",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X243450",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

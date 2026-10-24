@@ -1,0 +1,44 @@
+{
+  "code": "X556422",
+  "name": {
+    "de": "Tomaten mit Hackfleischfüllung, gebacken",
+    "en": "Tomatoes with minced meat filling, baked"
+  },
+  "per100g": {
+    "fat": "11.75",
+    "saturates": "3.99",
+    "monounsaturates": "5.27",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "4",
+    "sugars": "2.5",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "10.58",
+    "sodium": "0.157",
+    "alcohol": "0",
+    "organicAcids": "0.309"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X556422",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

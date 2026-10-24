@@ -1,0 +1,44 @@
+{
+  "code": "Y870912",
+  "name": {
+    "de": "Rotweincreme abgeschlagen (mit Gelatine)",
+    "en": "Red wine cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "0.76",
+    "monounsaturates": "1.06",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "13.38",
+    "sugars": "13.38",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0.004",
+    "protein": "4.6",
+    "sodium": "0.057",
+    "alcohol": "0.56",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y870912",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

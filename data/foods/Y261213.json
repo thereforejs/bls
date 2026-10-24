@@ -1,0 +1,44 @@
+{
+  "code": "Y261213",
+  "name": {
+    "de": "Kalbsbrust mit Hackfleischfüllung, gebraten im Ofen, mit Sauce",
+    "en": "Veal brisket with minced meat filling, fried in oven, with sauce"
+  },
+  "per100g": {
+    "fat": "18.5",
+    "saturates": "6.1",
+    "monounsaturates": "8.1",
+    "polyunsaturates": "2.17",
+    "carbohydrate": "2",
+    "sugars": "0.4",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "17.89",
+    "sodium": "0.25",
+    "alcohol": "0",
+    "organicAcids": "0.022"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y261213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

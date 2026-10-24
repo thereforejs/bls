@@ -1,6 +1,7 @@
 name: CI
 
 # Every push to main and every PR: the same gates as locally (vp check, vp test, vp pack).
+# src/foods is generated from data/foods and not checked in, so every job generates it first.
 # Tests run on every supported Node version (>= 22).
 on:
   push:
@@ -27,6 +28,7 @@ jobs:
           node-version: 24
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      - run: pnpm exec vp run generate
       - run: pnpm exec vp check
 
   test:
@@ -45,6 +47,7 @@ jobs:
           node-version: ${{ matrix.node }}
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      - run: pnpm exec vp run generate
       - run: pnpm exec vp test run
 
   build:
@@ -59,4 +62,5 @@ jobs:
           node-version: 24
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      - run: pnpm exec vp run generate
       - run: pnpm exec vp pack

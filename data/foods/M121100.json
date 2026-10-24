@@ -1,0 +1,44 @@
+{
+  "code": "M121100",
+  "name": {
+    "de": "Dickmilch/Sauermilch, entrahmt, max. 0,5 % Fett",
+    "en": "Soured milk (thick) skimmed, max. 0.5 % fat"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.068",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.004",
+    "carbohydrate": "5.2",
+    "sugars": "5.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.2",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M121100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

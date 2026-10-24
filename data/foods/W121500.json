@@ -1,0 +1,44 @@
+{
+  "code": "W121500",
+  "name": {
+    "de": "Teewurst fettreduziert",
+    "en": "Teewurst sausage spreadable, reduced-fat"
+  },
+  "per100g": {
+    "fat": "12.56",
+    "saturates": "4.6",
+    "monounsaturates": "4.68",
+    "polyunsaturates": "1.46",
+    "carbohydrate": "0.1",
+    "sugars": "0",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "21.63",
+    "sodium": "1.17",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W121500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

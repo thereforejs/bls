@@ -1,0 +1,44 @@
+{
+  "code": "Y243132",
+  "name": {
+    "de": "Kalbfleischspieße gegrillt",
+    "en": "Veal skewer grilled"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.44",
+    "monounsaturates": "1.86",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "5.1",
+    "sugars": "5.1",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "10.8",
+    "sodium": "0.239",
+    "alcohol": "0.008",
+    "organicAcids": "0.41"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y243132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

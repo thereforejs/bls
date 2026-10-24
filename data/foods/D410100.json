@@ -1,0 +1,44 @@
+{
+  "code": "D410100",
+  "name": {
+    "de": "Biskuitschnitte mit Vanillebuttercreme",
+    "en": "Sponge cake square with vanilla butter cream"
+  },
+  "per100g": {
+    "fat": "20.3",
+    "saturates": "12.44",
+    "monounsaturates": "4.59",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "24.4",
+    "sugars": "17.2",
+    "starch": "7.24",
+    "polyols": "0.001",
+    "fibre": "0.4",
+    "protein": "4.4",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0.072"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D410100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

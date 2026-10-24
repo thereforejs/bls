@@ -1,0 +1,44 @@
+{
+  "code": "X365543",
+  "name": {
+    "de": "Aprikosensauce von getrockneten Früchten",
+    "en": "Apricot sauce from dried fruit"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.004",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0.011",
+    "carbohydrate": "15.68",
+    "sugars": "13.4",
+    "starch": "1.22",
+    "polyols": "1.057",
+    "fibre": "1.31",
+    "protein": "0.6",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "1.97"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X365543",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

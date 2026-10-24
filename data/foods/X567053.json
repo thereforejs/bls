@@ -1,0 +1,44 @@
+{
+  "code": "X567053",
+  "name": {
+    "de": "Rote-Bete-Gemüse süß/sauer, gedünstet",
+    "en": "Beetroot sweet-and-sour stewed"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "0.3",
+    "monounsaturates": "1.85",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "5.26",
+    "sugars": "5.26",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "1.28",
+    "sodium": "0.124",
+    "alcohol": "0.004",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X567053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

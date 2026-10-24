@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4030",
+  "name": {
+    "de": "Grießbrei (als Dessert) mit Schokoladensauce",
+    "en": "Semolina pudding (as dessert) with chocolate sauce"
+  },
+  "per100g": {
+    "fat": "4.13",
+    "saturates": "2.56",
+    "monounsaturates": "0.97",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "13.6",
+    "sugars": "7.85",
+    "starch": "5.7",
+    "polyols": "0",
+    "fibre": "0.38",
+    "protein": "4.24",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

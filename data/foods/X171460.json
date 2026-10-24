@@ -1,0 +1,44 @@
+{
+  "code": "X171460",
+  "name": {
+    "de": "Grüne-Bohnen-Salat (gegart) mit warmer Essigmarinade",
+    "en": "Green bean salad (cooked) with warm vinegar marinade"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "0.3",
+    "monounsaturates": "2.11",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "2.8",
+    "sugars": "1.94",
+    "starch": "0.7",
+    "polyols": "0.19",
+    "fibre": "1.4",
+    "protein": "1.62",
+    "sodium": "0.169",
+    "alcohol": "0.008",
+    "organicAcids": "0.75"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X171460",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

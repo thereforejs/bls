@@ -1,0 +1,44 @@
+{
+  "code": "D7A7510",
+  "name": {
+    "de": "Quark-Frucht-Plunder",
+    "en": "Danish pastry with quark and fruit"
+  },
+  "per100g": {
+    "fat": "20.1",
+    "saturates": "10.42",
+    "monounsaturates": "7.05",
+    "polyunsaturates": "2.22",
+    "carbohydrate": "40",
+    "sugars": "11.4",
+    "starch": "29",
+    "polyols": "0.061",
+    "fibre": "2.25",
+    "protein": "8.13",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7510",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

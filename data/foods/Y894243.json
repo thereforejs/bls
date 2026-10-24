@@ -1,0 +1,44 @@
+{
+  "code": "Y894243",
+  "name": {
+    "de": "Schaumeierkuchen (Omelette souffle) gebraten",
+    "en": "Omelette souffle fried"
+  },
+  "per100g": {
+    "fat": "14.9",
+    "saturates": "6.52",
+    "monounsaturates": "4.65",
+    "polyunsaturates": "1.59",
+    "carbohydrate": "19.99",
+    "sugars": "17.536",
+    "starch": "2.45",
+    "polyols": "0",
+    "fibre": "0.19",
+    "protein": "9.3",
+    "sodium": "0.105",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y894243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

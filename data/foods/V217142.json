@@ -1,0 +1,44 @@
+{
+  "code": "V217142",
+  "name": {
+    "de": "Hirsch Rücken, geschmort ohne Fett",
+    "en": "Venison saddle, braised without fat"
+  },
+  "per100g": {
+    "fat": "3.66",
+    "saturates": "1.389",
+    "monounsaturates": null,
+    "polyunsaturates": "0.713",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.808",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V217142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

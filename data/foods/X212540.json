@@ -1,0 +1,44 @@
+{
+  "code": "X212540",
+  "name": {
+    "de": "Endiviensalat mit Saure-Sahne-Dressing",
+    "en": "Endive salad with sour cream dressing"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "2",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "3.1",
+    "sugars": "3.1",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "1.97",
+    "sodium": "0.24",
+    "alcohol": "0",
+    "organicAcids": "0.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X212540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

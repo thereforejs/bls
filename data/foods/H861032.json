@@ -1,0 +1,44 @@
+{
+  "code": "H861032",
+  "name": {
+    "de": "Tofu gargezogen",
+    "en": "Tofu poached"
+  },
+  "per100g": {
+    "fat": "4.794",
+    "saturates": "0.787",
+    "monounsaturates": "0.997",
+    "polyunsaturates": "2.918",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "1.184",
+    "protein": "14.128",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H861032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

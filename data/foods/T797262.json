@@ -1,0 +1,44 @@
+{
+  "code": "T797262",
+  "name": {
+    "de": "Venusmuschel tiefgefroren, gratiniert ohne Fett (Ofen)",
+    "en": "Venus clam deep-frozen, gratinated without fat (oven)"
+  },
+  "per100g": {
+    "fat": "1.07",
+    "saturates": "0.21",
+    "monounsaturates": "0.081",
+    "polyunsaturates": "0.196",
+    "carbohydrate": "1.6",
+    "sugars": "0",
+    "starch": "1.6",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16",
+    "sodium": "0.366",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T797262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

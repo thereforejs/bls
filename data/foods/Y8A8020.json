@@ -1,0 +1,44 @@
+{
+  "code": "Y8A8020",
+  "name": {
+    "de": "Hefeteig gesüßt, mit Wasser, roh",
+    "en": "Yeast dough sweetened, with water, raw"
+  },
+  "per100g": {
+    "fat": "9.34",
+    "saturates": "0.88",
+    "monounsaturates": "4.98",
+    "polyunsaturates": "2.55",
+    "carbohydrate": "45",
+    "sugars": "7.146",
+    "starch": "38",
+    "polyols": "0",
+    "fibre": "2.95",
+    "protein": "7.11",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A8020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

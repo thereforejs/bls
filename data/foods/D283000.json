@@ -1,0 +1,44 @@
+{
+  "code": "D283000",
+  "name": {
+    "de": "Pfirsichtörtchen (Mürbeteig) mit Klarguss und Sahne",
+    "en": "Peach tartlet (shortcrust pastry) with gelatin glaze and whipped cream"
+  },
+  "per100g": {
+    "fat": "12.26",
+    "saturates": "7.38",
+    "monounsaturates": "2.79",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "25.47",
+    "sugars": "11.51",
+    "starch": "13.59",
+    "polyols": "0.37",
+    "fibre": "1.6",
+    "protein": "2.9",
+    "sodium": "0.018",
+    "alcohol": "0",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D283000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

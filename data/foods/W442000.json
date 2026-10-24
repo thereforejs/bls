@@ -1,0 +1,44 @@
+{
+  "code": "W442000",
+  "name": {
+    "de": "Schwarzwälder Schinken, Rohpökelware, geräuchert",
+    "en": "Black Forest ham, raw cured, smoked"
+  },
+  "per100g": {
+    "fat": "21.9",
+    "saturates": "7.827",
+    "monounsaturates": "9.448",
+    "polyunsaturates": "2.216",
+    "carbohydrate": "0.13",
+    "sugars": "0.13",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.5",
+    "sodium": "2.14",
+    "alcohol": "0",
+    "organicAcids": "1.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W442000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X2A1090",
+  "name": {
+    "de": "Rettichsalat mit Essigmarinade",
+    "en": "Radish salad with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "8.75",
+    "saturates": "0.65",
+    "monounsaturates": "4.98",
+    "polyunsaturates": "2.42",
+    "carbohydrate": "2.44",
+    "sugars": "1.65",
+    "starch": "0.65",
+    "polyols": "0.11",
+    "fibre": "1",
+    "protein": "0.88",
+    "sodium": "0.084",
+    "alcohol": "0.006",
+    "organicAcids": "0.69"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X2A1090",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

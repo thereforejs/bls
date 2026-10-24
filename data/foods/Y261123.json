@@ -1,0 +1,44 @@
+{
+  "code": "Y261123",
+  "name": {
+    "de": "Kalbsrahmbraten mit Sauce",
+    "en": "Veal roast with cream sauce"
+  },
+  "per100g": {
+    "fat": "6.7",
+    "saturates": "2.4",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "3",
+    "sugars": "1.4",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "13.5",
+    "sodium": "0.208",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y261123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

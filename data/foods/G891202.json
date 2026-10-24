@@ -1,0 +1,44 @@
+{
+  "code": "G891202",
+  "name": {
+    "de": "Senfgurke gesäuert, abgetropft",
+    "en": "Mustard cucumber pickled, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.198",
+    "saturates": "0.068",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.087",
+    "carbohydrate": "7.97",
+    "sugars": "7.97",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "1.052",
+    "sodium": "0.487",
+    "alcohol": "0.018",
+    "organicAcids": "1.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G891202",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

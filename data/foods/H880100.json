@@ -1,0 +1,44 @@
+{
+  "code": "H880100",
+  "name": {
+    "de": "Sonnenblumenkernaufstrich, Brotaufstrich pflanzlich",
+    "en": "Sunflower seed spread"
+  },
+  "per100g": {
+    "fat": "27.75",
+    "saturates": "2.448",
+    "monounsaturates": "11.45",
+    "polyunsaturates": "12.63",
+    "carbohydrate": "7.84",
+    "sugars": "6.66",
+    "starch": "1.1",
+    "polyols": "0.084",
+    "fibre": "4.65",
+    "protein": "4.15",
+    "sodium": "0.4495",
+    "alcohol": "0",
+    "organicAcids": "0.489"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H880100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y846653",
+  "name": {
+    "de": "Milchreis mit Milch 3,5 % Fett und Aprikosenkompott",
+    "en": "Rice pudding with milk 3.5 % fat and apricot compote"
+  },
+  "per100g": {
+    "fat": "2.34",
+    "saturates": "1.427",
+    "monounsaturates": "0.545",
+    "polyunsaturates": "0.088",
+    "carbohydrate": "19.7",
+    "sugars": "7.36",
+    "starch": "12.2",
+    "polyols": "0.188",
+    "fibre": "0.8",
+    "protein": "3.7",
+    "sodium": "0.031",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y846653",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

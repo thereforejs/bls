@@ -1,0 +1,44 @@
+{
+  "code": "Y880050",
+  "name": {
+    "de": "Quarkspeise einfach, mit Erdbeeren",
+    "en": "Quark dish simple, with strawberries"
+  },
+  "per100g": {
+    "fat": "1.24",
+    "saturates": "0.75",
+    "monounsaturates": "0.281",
+    "polyunsaturates": "0.081",
+    "carbohydrate": "10.63",
+    "sugars": "10.62",
+    "starch": "0",
+    "polyols": "0.013",
+    "fibre": "0.4",
+    "protein": "6.23",
+    "sodium": "0.026",
+    "alcohol": "0",
+    "organicAcids": "0.703"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y880050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

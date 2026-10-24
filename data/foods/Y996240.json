@@ -1,0 +1,44 @@
+{
+  "code": "Y996240",
+  "name": {
+    "de": "Erdbeercremeeis",
+    "en": "Strawberry ice cream (with egg)"
+  },
+  "per100g": {
+    "fat": "6.43",
+    "saturates": "3.21",
+    "monounsaturates": "1.76",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "16.96",
+    "sugars": "16.94",
+    "starch": "0",
+    "polyols": "0.015",
+    "fibre": "0.5",
+    "protein": "3.5",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0.295"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y996240",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

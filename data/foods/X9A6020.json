@@ -1,0 +1,44 @@
+{
+  "code": "X9A6020",
+  "name": {
+    "de": "Blätterteig (mit Butter) roh",
+    "en": "Puff pastry (with butter) raw"
+  },
+  "per100g": {
+    "fat": "35.67",
+    "saturates": "23.3",
+    "monounsaturates": "8.05",
+    "polyunsaturates": "1.58",
+    "carbohydrate": "29.75",
+    "sugars": "0.382",
+    "starch": "29.37",
+    "polyols": "0",
+    "fibre": "2.18",
+    "protein": "5.2",
+    "sodium": "0.078",
+    "alcohol": "0",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A6020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D772100",
+  "name": {
+    "de": "Schinkenhörnchen (Quarkblätterteig)",
+    "en": "Ham crescent (puff pastry)"
+  },
+  "per100g": {
+    "fat": "32.62",
+    "saturates": "19.99",
+    "monounsaturates": "7.44",
+    "polyunsaturates": "1",
+    "carbohydrate": "23.15",
+    "sugars": "0.97",
+    "starch": "22.18",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "11.62",
+    "sodium": "0.274",
+    "alcohol": "0",
+    "organicAcids": "0.443"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D772100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

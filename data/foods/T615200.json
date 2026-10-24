@@ -1,0 +1,44 @@
+{
+  "code": "T615200",
+  "name": {
+    "de": "Rotbarsch/Goldbarsch, tiefgefroren",
+    "en": "Ocean perch/redfish, deep-frozen"
+  },
+  "per100g": {
+    "fat": "3.47",
+    "saturates": "0.712",
+    "monounsaturates": "1.283",
+    "polyunsaturates": "0.824",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.3",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T615200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

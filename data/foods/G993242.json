@@ -1,0 +1,44 @@
+{
+  "code": "G993242",
+  "name": {
+    "de": "Gemüsemischung mexikanische Art, tiefgefroren, geschmort ohne Fett",
+    "en": "Mixed vegetables Mexican style, deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.07",
+    "monounsaturates": "0.041",
+    "polyunsaturates": "0.133",
+    "carbohydrate": "8.9",
+    "sugars": "4",
+    "starch": "4.4",
+    "polyols": "0.1",
+    "fibre": "5.2",
+    "protein": "3.9",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G993242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

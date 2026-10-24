@@ -1,0 +1,44 @@
+{
+  "code": "X060160",
+  "name": {
+    "de": "Baguette-Brötchen mit Tomate-Mozzarella",
+    "en": "Baguette roll with tomato-mozzarella"
+  },
+  "per100g": {
+    "fat": "10.41",
+    "saturates": "6.79",
+    "monounsaturates": "2.33",
+    "polyunsaturates": "0.44",
+    "carbohydrate": "16",
+    "sugars": "1.5",
+    "starch": "15",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "9.5",
+    "sodium": "0.305",
+    "alcohol": "0",
+    "organicAcids": "0.267"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X060160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

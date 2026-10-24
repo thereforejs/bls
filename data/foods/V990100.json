@@ -1,0 +1,44 @@
+{
+  "code": "V990100",
+  "name": {
+    "de": "Geflügel Frikadelle, roh",
+    "en": "Poultry patty, raw"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.685",
+    "monounsaturates": "1.09",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "4",
+    "sugars": "0.6",
+    "starch": "3",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "14.8",
+    "sodium": "0.504",
+    "alcohol": "0",
+    "organicAcids": "0.023"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V990100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

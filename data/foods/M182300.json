@@ -1,0 +1,44 @@
+{
+  "code": "M182300",
+  "name": {
+    "de": "Kondensmilch teilentrahmt, mind. 1 % bis < 7,5 % Fett",
+    "en": "Evaporated milk semi-skimmed, min. 1 % to < 7.5 % fat"
+  },
+  "per100g": {
+    "fat": "4.1",
+    "saturates": "2.49",
+    "monounsaturates": "0.11",
+    "polyunsaturates": "0.09",
+    "carbohydrate": "10.3",
+    "sugars": "10.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "7.6",
+    "sodium": "0.112",
+    "alcohol": "0",
+    "organicAcids": "0.209"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M182300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

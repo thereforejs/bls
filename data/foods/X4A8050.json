@@ -1,0 +1,44 @@
+{
+  "code": "X4A8050",
+  "name": {
+    "de": "Linsensuppe mit Gemüse und Wiener Würstchen",
+    "en": "Lentil soup with vegetables and Vienna sausages"
+  },
+  "per100g": {
+    "fat": "5.5",
+    "saturates": "1",
+    "monounsaturates": "1.58",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "9",
+    "sugars": "1.2",
+    "starch": "8",
+    "polyols": "0.01",
+    "fibre": "2.8",
+    "protein": "5.78",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A8050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

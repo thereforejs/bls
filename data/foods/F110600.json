@@ -1,0 +1,47 @@
+{
+  "code": "F110600",
+  "name": {
+    "de": "Apfelsaft",
+    "en": "Apple juice"
+  },
+  "per100g": {
+    "fat": null,
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "10.585",
+    "sugars": "9.585",
+    "starch": null,
+    "polyols": "1",
+    "fibre": "0.31",
+    "protein": "0.097",
+    "sodium": "0.006",
+    "alcohol": "0.031",
+    "organicAcids": "0.766"
+  },
+  "marks": {
+    "fat": "<LOD or <LOQ",
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F110600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

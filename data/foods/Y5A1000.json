@@ -1,0 +1,44 @@
+{
+  "code": "Y5A1000",
+  "name": {
+    "de": "Hähnchenbrustfilet mit Cornflakes paniert, gebraten",
+    "en": "Chicken breast fillet with cornflakes breading, fried"
+  },
+  "per100g": {
+    "fat": "8.13",
+    "saturates": "1.02",
+    "monounsaturates": "4.01",
+    "polyunsaturates": "2.01",
+    "carbohydrate": "6.13",
+    "sugars": "0.11",
+    "starch": "6.02",
+    "polyols": "0",
+    "fibre": "0.38",
+    "protein": "23.14",
+    "sodium": "0.208",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y5A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

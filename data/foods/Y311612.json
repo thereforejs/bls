@@ -1,0 +1,44 @@
+{
+  "code": "Y311612",
+  "name": {
+    "de": "Schweinemedaillon natur, gebraten",
+    "en": "Pork medaillon fried"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.3",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.6",
+    "sodium": "0.2473",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y311612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

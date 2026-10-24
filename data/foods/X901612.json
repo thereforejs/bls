@@ -1,0 +1,44 @@
+{
+  "code": "X901612",
+  "name": {
+    "de": "Porridge ungesüßt, mit Milch 3,5 % Fett und Kakaopulver",
+    "en": "Porridge unsweetened, with milk 3.5 % fat and cocoa powder"
+  },
+  "per100g": {
+    "fat": "4.92",
+    "saturates": "2.532",
+    "monounsaturates": "1.278",
+    "polyunsaturates": "0.611",
+    "carbohydrate": "14.9",
+    "sugars": "4.22",
+    "starch": "10.7",
+    "polyols": "0",
+    "fibre": "2.214",
+    "protein": "6.36",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X901612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

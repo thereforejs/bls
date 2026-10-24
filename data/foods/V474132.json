@@ -1,0 +1,44 @@
+{
+  "code": "V474132",
+  "name": {
+    "de": "Gans Fleisch, mit Haut, gekocht",
+    "en": "Goose meat, with skin, boiled"
+  },
+  "per100g": {
+    "fat": "19.929",
+    "saturates": "5.606",
+    "monounsaturates": "10.473",
+    "polyunsaturates": "2.096",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.186",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V474132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

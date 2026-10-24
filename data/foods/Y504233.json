@@ -1,0 +1,44 @@
+{
+  "code": "Y504233",
+  "name": {
+    "de": "Wildgulasch mit Steinpilzen und Wildsauce von dunkler/brauner Grundsauce",
+    "en": "Game goulash with porcini mushrooms and game sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "5",
+    "saturates": "0.97",
+    "monounsaturates": "2.07",
+    "polyunsaturates": "1.13",
+    "carbohydrate": "3.1",
+    "sugars": "1.6",
+    "starch": "1.11",
+    "polyols": "0.42",
+    "fibre": "1.8",
+    "protein": "16",
+    "sodium": "0.231",
+    "alcohol": "0.6",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y504233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

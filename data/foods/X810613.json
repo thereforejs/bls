@@ -1,0 +1,44 @@
+{
+  "code": "X810613",
+  "name": {
+    "de": "Reisbrei gesüßt, mit Milch 3,5 % Fett",
+    "en": "Rice porridge sweetened, with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "5.66",
+    "saturates": "3.23",
+    "monounsaturates": "1.44",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "14.4",
+    "sugars": "5.55",
+    "starch": "8.9",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "5",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0.052"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X810613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

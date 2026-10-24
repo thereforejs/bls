@@ -1,0 +1,44 @@
+{
+  "code": "S560400",
+  "name": {
+    "de": "Zartbitter-/Halbbitterschokolade, mit Haselnüssen",
+    "en": "Bittersweet/semisweet chocolate, with hazelnuts"
+  },
+  "per100g": {
+    "fat": "40.34",
+    "saturates": "15.92",
+    "monounsaturates": "20.6",
+    "polyunsaturates": "2.428",
+    "carbohydrate": "38.3",
+    "sugars": "36.2",
+    "starch": "2.1",
+    "polyols": "0",
+    "fibre": "8.9",
+    "protein": "9.03",
+    "sodium": "0.0065",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S560400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

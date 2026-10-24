@@ -1,0 +1,44 @@
+{
+  "code": "E438082",
+  "name": {
+    "de": "Eier-Frischteigwaren gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Fresh egg pasta boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "2.34",
+    "saturates": "0.47",
+    "monounsaturates": "0.85",
+    "polyunsaturates": "0.58",
+    "carbohydrate": "30.25",
+    "sugars": "0.249",
+    "starch": "30",
+    "polyols": "0",
+    "fibre": "2.18",
+    "protein": "7.41",
+    "sodium": "0.123",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E438082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

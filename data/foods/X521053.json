@@ -1,0 +1,44 @@
+{
+  "code": "X521053",
+  "name": {
+    "de": "Spinat gedünstet, in Grundsauce hell/weiß",
+    "en": "Spinach stewed, in white basic sauce"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.8",
+    "monounsaturates": "0.26",
+    "polyunsaturates": "0.17",
+    "carbohydrate": "1.78",
+    "sugars": "0.83",
+    "starch": "0.95",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "2.04",
+    "sodium": "0.127",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X521053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

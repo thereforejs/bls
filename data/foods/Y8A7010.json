@@ -1,0 +1,44 @@
+{
+  "code": "Y8A7010",
+  "name": {
+    "de": "Pfannkuchen/Eierkuchen, mit Milch 3,5 % Fett und Rosinen, gebraten",
+    "en": "Pancakes with milk 3.5 % fat and raisins, fried"
+  },
+  "per100g": {
+    "fat": "11",
+    "saturates": "5.6",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "33.4",
+    "sugars": "13.4",
+    "starch": "19.95",
+    "polyols": "0.067",
+    "fibre": "1.9",
+    "protein": "7.8",
+    "sodium": "0.079",
+    "alcohol": "0",
+    "organicAcids": "0.324"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A7010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

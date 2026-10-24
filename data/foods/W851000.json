@@ -1,0 +1,44 @@
+{
+  "code": "W851000",
+  "name": {
+    "de": "Schweinefleischsülze",
+    "en": "Jellied pork"
+  },
+  "per100g": {
+    "fat": "2.1",
+    "saturates": "0.6",
+    "monounsaturates": "0.86",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "0.06",
+    "sugars": "0.06",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "23.5",
+    "sodium": "0.628",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W851000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

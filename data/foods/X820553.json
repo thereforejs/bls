@@ -1,0 +1,44 @@
+{
+  "code": "X820553",
+  "name": {
+    "de": "Reis mit gedünsteten Tomaten",
+    "en": "Rice with stewed tomatoes"
+  },
+  "per100g": {
+    "fat": "1.151",
+    "saturates": "0.09",
+    "monounsaturates": "0.61",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "19.2",
+    "sugars": "1.18",
+    "starch": "18",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "2.154",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.107"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X820553",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

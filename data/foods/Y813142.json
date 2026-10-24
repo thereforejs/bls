@@ -1,0 +1,44 @@
+{
+  "code": "Y813142",
+  "name": {
+    "de": "Savarin (getränkt mit Weißwein)",
+    "en": "\"Savarin\" (yeast ring cake, drizzled with white wine)"
+  },
+  "per100g": {
+    "fat": "10.89",
+    "saturates": "5.96",
+    "monounsaturates": "2.84",
+    "polyunsaturates": "0.87",
+    "carbohydrate": "36",
+    "sugars": "9.55",
+    "starch": "26",
+    "polyols": "0.002",
+    "fibre": "2.07",
+    "protein": "7.8",
+    "sodium": "0.056",
+    "alcohol": "1.93",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y813142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

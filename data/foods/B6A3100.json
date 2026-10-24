@@ -1,0 +1,44 @@
+{
+  "code": "B6A3100",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Sesam",
+    "en": "Wholemeal rye crispbread with sesame seeds"
+  },
+  "per100g": {
+    "fat": "6.04",
+    "saturates": "0.855",
+    "monounsaturates": "2.068",
+    "polyunsaturates": "2.418",
+    "carbohydrate": "53.81",
+    "sugars": "1.836",
+    "starch": "51.97",
+    "polyols": "0",
+    "fibre": "19.07",
+    "protein": "10.48",
+    "sodium": "0.52",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A3100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

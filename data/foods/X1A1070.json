@@ -1,0 +1,44 @@
+{
+  "code": "X1A1070",
+  "name": {
+    "de": "Weißkrautsalat (gegart) mit rohem Mix aus Apfel-Karotte-Sellerie und Essigmarinade",
+    "en": "White cabbage salad (cooked) with raw apple-carrot-celeriac mix and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "7.67",
+    "saturates": "0.59",
+    "monounsaturates": "4.29",
+    "polyunsaturates": "2.14",
+    "carbohydrate": "4.6",
+    "sugars": "4.22",
+    "starch": "0.13",
+    "polyols": "0.2",
+    "fibre": "2.5",
+    "protein": "0.96",
+    "sodium": "0.128",
+    "alcohol": "0.007",
+    "organicAcids": "0.57"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A1070",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

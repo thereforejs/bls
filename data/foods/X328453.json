@@ -1,0 +1,44 @@
+{
+  "code": "X328453",
+  "name": {
+    "de": "Sardellensauce von heller/weißer Grundsauce",
+    "en": "Anchovy sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "5.4",
+    "saturates": "3",
+    "monounsaturates": "1.26",
+    "polyunsaturates": "0.41",
+    "carbohydrate": "3.4",
+    "sugars": "0.62",
+    "starch": "2.78",
+    "polyols": "0",
+    "fibre": "0.21",
+    "protein": "2.45",
+    "sodium": "0.799",
+    "alcohol": "0",
+    "organicAcids": "0.0046"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X328453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

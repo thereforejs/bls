@@ -1,0 +1,44 @@
+{
+  "code": "X450212",
+  "name": {
+    "de": "Kartoffelsuppe sauer, gebunden",
+    "en": "Potato soup sour, thickened"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.1",
+    "monounsaturates": "0.92",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "10",
+    "sugars": "1",
+    "starch": "9",
+    "polyols": "0.002",
+    "fibre": "0.7",
+    "protein": "1.07",
+    "sodium": "0.179",
+    "alcohol": "0.003",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X450212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

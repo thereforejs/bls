@@ -1,0 +1,44 @@
+{
+  "code": "D471600",
+  "name": {
+    "de": "Gerollte Marzipan-Nuss-Schnitten (Quark-Öl-Teig)",
+    "en": "Swiss roll, filled with marzipan and nuts (quark oil dough)"
+  },
+  "per100g": {
+    "fat": "22.1",
+    "saturates": "5.4",
+    "monounsaturates": "11.39",
+    "polyunsaturates": "3.5",
+    "carbohydrate": "42.8",
+    "sugars": "26.7",
+    "starch": "15.9",
+    "polyols": "0.161",
+    "fibre": "3.5",
+    "protein": "7.7",
+    "sodium": "0.239",
+    "alcohol": "0",
+    "organicAcids": "0.82"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D471600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

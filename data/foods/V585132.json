@@ -1,0 +1,44 @@
+{
+  "code": "V585132",
+  "name": {
+    "de": "Lamm Bries, gekocht",
+    "en": "Lamb sweetbread, boiled"
+  },
+  "per100g": {
+    "fat": "3.28",
+    "saturates": "1.7",
+    "monounsaturates": null,
+    "polyunsaturates": "0.229",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.4",
+    "sodium": "0.044",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V585132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

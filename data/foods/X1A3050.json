@@ -1,0 +1,44 @@
+{
+  "code": "X1A3050",
+  "name": {
+    "de": "Reissalat mit Gemüse, Kochschinken und Essigmarinade",
+    "en": "Rice salad with vegetables, boiled ham and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "6.96",
+    "saturates": "0.66",
+    "monounsaturates": "3.84",
+    "polyunsaturates": "1.81",
+    "carbohydrate": "6.8",
+    "sugars": "2.28",
+    "starch": "4.2",
+    "polyols": "0.34",
+    "fibre": "1.2",
+    "protein": "4.94",
+    "sodium": "0.283",
+    "alcohol": "0.01",
+    "organicAcids": "0.79"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A3050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

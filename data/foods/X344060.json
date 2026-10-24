@@ -1,0 +1,44 @@
+{
+  "code": "X344060",
+  "name": {
+    "de": "Mayonnaise-Dressing",
+    "en": "Mayonnaise dressing"
+  },
+  "per100g": {
+    "fat": "32.44",
+    "saturates": "3.4",
+    "monounsaturates": "17.63",
+    "polyunsaturates": "8.24",
+    "carbohydrate": "5.01",
+    "sugars": "4.94",
+    "starch": "0.07",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "6.7",
+    "sodium": "0.411",
+    "alcohol": "0.003",
+    "organicAcids": "0.55"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X344060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

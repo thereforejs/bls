@@ -1,0 +1,44 @@
+{
+  "code": "T121100",
+  "name": {
+    "de": "Thunfisch roh",
+    "en": "Tuna raw"
+  },
+  "per100g": {
+    "fat": "5.52",
+    "saturates": "1.559",
+    "monounsaturates": "1.723",
+    "polyunsaturates": "1.328",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.4",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T121100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

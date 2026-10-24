@@ -1,0 +1,44 @@
+{
+  "code": "G761252",
+  "name": {
+    "de": "Zuckererbse tiefgefroren, gedünstet",
+    "en": "Sugar pea deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "5",
+    "sugars": "3.62",
+    "starch": "1.4",
+    "polyols": null,
+    "fibre": "2",
+    "protein": "4.3",
+    "sodium": "0.017",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G761252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

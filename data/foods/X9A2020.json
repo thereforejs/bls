@@ -1,0 +1,44 @@
+{
+  "code": "X9A2020",
+  "name": {
+    "de": "Hirsebrei ungesüßt, mit Mandeldrink",
+    "en": "Millet porridge unsweetened, with almond drink"
+  },
+  "per100g": {
+    "fat": "1.9",
+    "saturates": "0.22",
+    "monounsaturates": "0.95",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "15.12",
+    "sugars": "0.236",
+    "starch": "14.88",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "3.11",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A2020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

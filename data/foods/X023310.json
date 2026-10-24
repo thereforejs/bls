@@ -1,0 +1,44 @@
+{
+  "code": "X023310",
+  "name": {
+    "de": "Baguette-Brötchen mit Ei und Remoulade",
+    "en": "Baguette roll with egg and remoulade sauce"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "1.7",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "1.45",
+    "carbohydrate": "24",
+    "sugars": "1.1",
+    "starch": "23",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "11.5",
+    "sodium": "0.36",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X023310",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

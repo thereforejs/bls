@@ -1,0 +1,44 @@
+{
+  "code": "X6A1000",
+  "name": {
+    "de": "Kartoffeln gekocht, mit gebratenem Hähnchenfleisch und Kräutersauce von Bechamelsauce",
+    "en": "Potatoes boiled, with fried chicken and herb sauce from Bechamel sauce"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "1.1",
+    "monounsaturates": "0.45",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "10.18",
+    "sugars": "1.04",
+    "starch": "9.14",
+    "polyols": "0",
+    "fibre": "0.78",
+    "protein": "8.83",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0.009"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

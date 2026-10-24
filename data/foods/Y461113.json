@@ -1,0 +1,44 @@
+{
+  "code": "Y461113",
+  "name": {
+    "de": "Lammbraten mit Rotweinsauce von dunkler/brauner Grundsauce",
+    "en": "Lamb roast with red wine sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "5.4",
+    "saturates": "1.2",
+    "monounsaturates": "0.7",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "2",
+    "sugars": "0.7",
+    "starch": "1",
+    "polyols": "0.02",
+    "fibre": "0.6",
+    "protein": "16.83",
+    "sodium": "0.22",
+    "alcohol": "0.11",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y461113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

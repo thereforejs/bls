@@ -1,0 +1,44 @@
+{
+  "code": "K701132",
+  "name": {
+    "de": "Champignon gekocht",
+    "en": "Button mushroom boiled"
+  },
+  "per100g": {
+    "fat": "0.374",
+    "saturates": "0.0658",
+    "monounsaturates": "0.00826",
+    "polyunsaturates": "0.18685",
+    "carbohydrate": "4",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": "3.74",
+    "fibre": "2.9",
+    "protein": "4.99",
+    "sodium": "0.04697",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

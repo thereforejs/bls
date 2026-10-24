@@ -1,0 +1,44 @@
+{
+  "code": "C223200",
+  "name": {
+    "de": "Roggen Mehl, Type 997",
+    "en": "Rye flour, Type 997"
+  },
+  "per100g": {
+    "fat": "1.05",
+    "saturates": "0.11",
+    "monounsaturates": "0.14",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "63.73",
+    "sugars": "1.2982",
+    "starch": "62.43",
+    "polyols": "0",
+    "fibre": "12.7",
+    "protein": "7.74",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C223200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

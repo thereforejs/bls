@@ -1,0 +1,44 @@
+{
+  "code": "X533042",
+  "name": {
+    "de": "Chinakohl gedünstet, mit geriebenem Käse",
+    "en": "Chinese white cabbage stewed, with grated cheese"
+  },
+  "per100g": {
+    "fat": "4.32",
+    "saturates": "0.53",
+    "monounsaturates": "2.25",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "1.4",
+    "sugars": "1.25",
+    "starch": "0.01",
+    "polyols": "0.14",
+    "fibre": "1.7",
+    "protein": "2.1",
+    "sodium": "0.135",
+    "alcohol": "0",
+    "organicAcids": "0.136"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X533042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

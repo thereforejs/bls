@@ -1,0 +1,44 @@
+{
+  "code": "D431400",
+  "name": {
+    "de": "Donauwellen (Rührmasse)",
+    "en": "\"Donau-Wellen\" cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "20.23",
+    "saturates": "12.01",
+    "monounsaturates": "5.02",
+    "polyunsaturates": "0.83",
+    "carbohydrate": "27.7",
+    "sugars": "16.1",
+    "starch": "11.4",
+    "polyols": "0.248",
+    "fibre": "1.91",
+    "protein": "4.55",
+    "sodium": "0.075",
+    "alcohol": "0",
+    "organicAcids": "0.185"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

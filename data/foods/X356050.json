@@ -1,0 +1,44 @@
+{
+  "code": "X356050",
+  "name": {
+    "de": "Quarkdressing",
+    "en": "Quark dressing"
+  },
+  "per100g": {
+    "fat": "1.15",
+    "saturates": "0.76",
+    "monounsaturates": "0.288",
+    "polyunsaturates": "0.041",
+    "carbohydrate": "3.61",
+    "sugars": "3.59",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "8.35",
+    "sodium": "0.184",
+    "alcohol": "0.009",
+    "organicAcids": "1.59"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X356050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

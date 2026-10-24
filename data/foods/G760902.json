@@ -1,0 +1,44 @@
+{
+  "code": "G760902",
+  "name": {
+    "de": "Erbse grün, Konserve, abgetropft",
+    "en": "Pea green, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.485",
+    "saturates": "0.088",
+    "monounsaturates": "0.033",
+    "polyunsaturates": "0.266",
+    "carbohydrate": "6.628",
+    "sugars": "4.343",
+    "starch": "2.285",
+    "polyols": "0",
+    "fibre": "5.19",
+    "protein": "4.985",
+    "sodium": "0.115",
+    "alcohol": "0",
+    "organicAcids": "0.077"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G760902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

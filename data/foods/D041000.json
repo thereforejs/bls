@@ -1,0 +1,44 @@
+{
+  "code": "D041000",
+  "name": {
+    "de": "Erdnussflips",
+    "en": "Peanut puffs"
+  },
+  "per100g": {
+    "fat": "25",
+    "saturates": "3.5",
+    "monounsaturates": "11.3",
+    "polyunsaturates": "7.6",
+    "carbohydrate": "43.6",
+    "sugars": "2.5",
+    "starch": "41.1",
+    "polyols": "0",
+    "fibre": "8.9",
+    "protein": "15.2",
+    "sodium": "0.556",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D041000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

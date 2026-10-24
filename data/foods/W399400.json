@@ -1,0 +1,44 @@
+{
+  "code": "W399400",
+  "name": {
+    "de": "Französische Schweinefleischterrine gebacken",
+    "en": "French pork terrine baked"
+  },
+  "per100g": {
+    "fat": "27.78",
+    "saturates": "10.37",
+    "monounsaturates": "9.34",
+    "polyunsaturates": "3.3",
+    "carbohydrate": "0.21",
+    "sugars": "0.09",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "18.67",
+    "sodium": "0.7032",
+    "alcohol": "0",
+    "organicAcids": "0.008"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W399400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

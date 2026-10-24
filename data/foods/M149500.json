@@ -1,0 +1,44 @@
+{
+  "code": "M149500",
+  "name": {
+    "de": "Schafjoghurt",
+    "en": "Yogurt made from sheep's milk"
+  },
+  "per100g": {
+    "fat": "6.2",
+    "saturates": "3.5",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "4.02",
+    "sugars": "4.02",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.87",
+    "sodium": "0.0389",
+    "alcohol": "0",
+    "organicAcids": "1.041"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M149500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

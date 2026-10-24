@@ -1,0 +1,44 @@
+{
+  "code": "X3A8010",
+  "name": {
+    "de": "Marinade mit Gemüsebrühe für Kartoffelsalat",
+    "en": "Marinade with vegetable stock for potato salad"
+  },
+  "per100g": {
+    "fat": "9",
+    "saturates": "0.7",
+    "monounsaturates": "5.15",
+    "polyunsaturates": "2.44",
+    "carbohydrate": "2.35",
+    "sugars": "2.33",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "0.47",
+    "sodium": "0.324",
+    "alcohol": "0.015",
+    "organicAcids": "1.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A8010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

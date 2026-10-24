@@ -1,0 +1,44 @@
+{
+  "code": "U020200",
+  "name": {
+    "de": "Schwein Hackfleisch, tiefgefroren",
+    "en": "Pork mince, deep-frozen"
+  },
+  "per100g": {
+    "fat": "22.14",
+    "saturates": "7.391",
+    "monounsaturates": "8.395",
+    "polyunsaturates": "2.456",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.88",
+    "sodium": "0.0527",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U020200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H910200",
+  "name": {
+    "de": "Tofu-Bratlinge gebraten ohne Fett (Pfanne)",
+    "en": "Tofu burgers fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "6.17",
+    "saturates": "0.9",
+    "monounsaturates": "1.9",
+    "polyunsaturates": "3",
+    "carbohydrate": "16.8",
+    "sugars": "2.31",
+    "starch": "14.5",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "9.34",
+    "sodium": "0.504",
+    "alcohol": "0",
+    "organicAcids": "0.134"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H910200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

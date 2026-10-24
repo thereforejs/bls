@@ -1,0 +1,44 @@
+{
+  "code": "Y067643",
+  "name": {
+    "de": "Gänseleberpastete in der Kastenform gegart",
+    "en": "Goose liver pate (cooked in a loaf tin)"
+  },
+  "per100g": {
+    "fat": "12.24",
+    "saturates": "4.4",
+    "monounsaturates": "3.293",
+    "polyunsaturates": "0.812",
+    "carbohydrate": "1.209",
+    "sugars": "0.161",
+    "starch": "1.048",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.7",
+    "sodium": "0.9",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y067643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

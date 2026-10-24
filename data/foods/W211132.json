@@ -1,0 +1,44 @@
+{
+  "code": "W211132",
+  "name": {
+    "de": "Bockwurst gargezogen",
+    "en": "Bockwurst poached"
+  },
+  "per100g": {
+    "fat": "22.05",
+    "saturates": "8.07",
+    "monounsaturates": "10.19",
+    "polyunsaturates": "2.56",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "12.576",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W211132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

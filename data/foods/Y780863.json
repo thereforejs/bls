@@ -1,0 +1,44 @@
+{
+  "code": "Y780863",
+  "name": {
+    "de": "Camembert paniert, frittiert",
+    "en": "Camembert cheese breaded, deep-fried"
+  },
+  "per100g": {
+    "fat": "22.07",
+    "saturates": "11.13",
+    "monounsaturates": "7.21",
+    "polyunsaturates": "2.07",
+    "carbohydrate": "5.09",
+    "sugars": "0.48",
+    "starch": "4.61",
+    "polyols": "0.001",
+    "fibre": "0.39",
+    "protein": "18.41",
+    "sodium": "0.505",
+    "alcohol": "0",
+    "organicAcids": "0.082"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y780863",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

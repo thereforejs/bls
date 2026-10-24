@@ -1,0 +1,44 @@
+{
+  "code": "Y395222",
+  "name": {
+    "de": "Schweinerippchen gekocht",
+    "en": "Pork spare ribs boiled"
+  },
+  "per100g": {
+    "fat": "28.34",
+    "saturates": "10.145",
+    "monounsaturates": "10.976",
+    "polyunsaturates": "2.707",
+    "carbohydrate": "0.813",
+    "sugars": "0.813",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.52",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y395222",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

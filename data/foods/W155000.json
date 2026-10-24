@@ -1,0 +1,44 @@
+{
+  "code": "W155000",
+  "name": {
+    "de": "Aalrauchmettwurst",
+    "en": "Aalrauchmettwurst sausage firm"
+  },
+  "per100g": {
+    "fat": "29.57",
+    "saturates": "11.3",
+    "monounsaturates": "13.03",
+    "polyunsaturates": "3.27",
+    "carbohydrate": "0.21",
+    "sugars": "0",
+    "starch": "0.21",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "22.6",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W155000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "R941000",
+  "name": {
+    "de": "Kirschfüllung für Gebäck/Torten",
+    "en": "Cherry filling for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "0.24",
+    "saturates": "0.029",
+    "monounsaturates": "0.036",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "18.32",
+    "sugars": "13.61",
+    "starch": "3.856",
+    "polyols": "0.849",
+    "fibre": "0.6",
+    "protein": "0.73",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R941000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

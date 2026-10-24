@@ -1,0 +1,44 @@
+{
+  "code": "X4B3010",
+  "name": {
+    "de": "Maultaschen (mit Schweinebrät), Suppeneinlage",
+    "en": "Pork mince-filled pasta squares as soup garnish"
+  },
+  "per100g": {
+    "fat": "5.39",
+    "saturates": "1.29",
+    "monounsaturates": "2.33",
+    "polyunsaturates": "1",
+    "carbohydrate": "11.89",
+    "sugars": "0.74",
+    "starch": "11.15",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "5.2",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.017"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4B3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

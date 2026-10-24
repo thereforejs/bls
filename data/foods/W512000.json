@@ -1,0 +1,44 @@
+{
+  "code": "W512000",
+  "name": {
+    "de": "Kasseler Rippenspeer, Kochpökelware, geräuchert",
+    "en": "Pork loin spare ribs, cooked cured, smoked"
+  },
+  "per100g": {
+    "fat": "6.82",
+    "saturates": "2.301",
+    "monounsaturates": "2.442",
+    "polyunsaturates": "0.569",
+    "carbohydrate": "0.437",
+    "sugars": "0.437",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.07",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W512000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

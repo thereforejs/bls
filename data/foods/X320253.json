@@ -1,0 +1,44 @@
+{
+  "code": "X320253",
+  "name": {
+    "de": "Bechamelsauce mit Milch 3,5 % Fett",
+    "en": "Bechamel sauce with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "8.01",
+    "saturates": "5.08",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "7.24",
+    "sugars": "4.26",
+    "starch": "2.98",
+    "polyols": "0",
+    "fibre": "0.22",
+    "protein": "4.21",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "0.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X320253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

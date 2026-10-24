@@ -1,0 +1,44 @@
+{
+  "code": "X1A8060",
+  "name": {
+    "de": "Thunfischsalat mit Mayonnaise, gestreckt mit Joghurt",
+    "en": "Tuna salad with mayonnaise, diluted with yogurt"
+  },
+  "per100g": {
+    "fat": "13.6",
+    "saturates": "1.8",
+    "monounsaturates": "7.6",
+    "polyunsaturates": "3.8",
+    "carbohydrate": "1.71",
+    "sugars": "1.7",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "12",
+    "sodium": "0.372",
+    "alcohol": "0.001",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A8060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

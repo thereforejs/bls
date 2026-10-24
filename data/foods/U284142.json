@@ -1,0 +1,44 @@
+{
+  "code": "U284142",
+  "name": {
+    "de": "Rind Hüfte, geschmort ohne Fett",
+    "en": "Beef rump, braised without fat"
+  },
+  "per100g": {
+    "fat": "2.85",
+    "saturates": "1.235",
+    "monounsaturates": "1.231",
+    "polyunsaturates": "0.151",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "31.5",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U284142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W231862",
+  "name": {
+    "de": "Kalbfleischkäse gebraten ohne Fett (Ofen)",
+    "en": "Veal fleischkaese sausage with pork, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "33.54",
+    "saturates": "13.06",
+    "monounsaturates": "13.92",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "0.13",
+    "sugars": "0",
+    "starch": "0.13",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "14.95",
+    "sodium": "0.83",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W231862",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

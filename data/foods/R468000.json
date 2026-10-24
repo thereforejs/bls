@@ -1,0 +1,44 @@
+{
+  "code": "R468000",
+  "name": {
+    "de": "Gelatine/Speisegelatine",
+    "en": "Gelatine"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.042",
+    "monounsaturates": "0.0464",
+    "polyunsaturates": "0.0039",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "0",
+    "protein": "85.1",
+    "sodium": "0.165",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R468000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "F312100",
+  "name": {
+    "de": "Weintraube weiß, roh",
+    "en": "Grape white, raw"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.045",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.102",
+    "carbohydrate": "15.54",
+    "sugars": "15.54",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "0.7",
+    "sodium": "0.001",
+    "alcohol": null,
+    "organicAcids": "1.33"
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F312100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

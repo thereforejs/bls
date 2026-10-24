@@ -1,0 +1,44 @@
+{
+  "code": "B416800",
+  "name": {
+    "de": "Weizenvollkornbrötchen mit Nüssen",
+    "en": "Wholemeal wheat roll with nuts"
+  },
+  "per100g": {
+    "fat": "6.84",
+    "saturates": "1.188",
+    "monounsaturates": "2.691",
+    "polyunsaturates": "2.508",
+    "carbohydrate": "45",
+    "sugars": "1.4",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "9.4",
+    "protein": "10.7",
+    "sodium": "0.541",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B416800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H739400",
+  "name": {
+    "de": "Gartenbohne reif",
+    "en": "Haricot bean mature"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.251",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "45.751",
+    "sugars": "2.03",
+    "starch": "38.98365",
+    "polyols": null,
+    "fibre": "23.24",
+    "protein": "22.6185",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H739400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

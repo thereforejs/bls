@@ -1,0 +1,44 @@
+{
+  "code": "B421000",
+  "name": {
+    "de": "Roggenvollkornbrötchen",
+    "en": "Wholemeal rye roll"
+  },
+  "per100g": {
+    "fat": "2.86",
+    "saturates": "0.85",
+    "monounsaturates": "0.99",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "43",
+    "sugars": "1.213",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "13.76",
+    "protein": "7.56",
+    "sodium": "0.569",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B421000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

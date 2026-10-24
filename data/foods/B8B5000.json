@@ -1,0 +1,44 @@
+{
+  "code": "B8B5000",
+  "name": {
+    "de": "Weizenknusperbrot (mit Butter)",
+    "en": "Wheat crackerbread (made with butter)"
+  },
+  "per100g": {
+    "fat": "5.81",
+    "saturates": "3.14",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "0.62",
+    "carbohydrate": "71.8",
+    "sugars": "1.448",
+    "starch": "70.4",
+    "polyols": "0",
+    "fibre": "5.28",
+    "protein": "11.93",
+    "sodium": "0.123",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8B5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

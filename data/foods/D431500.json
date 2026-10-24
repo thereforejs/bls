@@ -1,0 +1,44 @@
+{
+  "code": "D431500",
+  "name": {
+    "de": "Baumkuchen/Grillkuchen/Schichtkuchen (Rührmasse)",
+    "en": "Layer cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "27.38",
+    "saturates": "15.27",
+    "monounsaturates": "7.57",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "46.3",
+    "sugars": "30.3",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "2.58",
+    "protein": "6.2",
+    "sodium": "0.122",
+    "alcohol": "0",
+    "organicAcids": "0.017"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

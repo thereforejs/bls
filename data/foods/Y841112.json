@@ -1,0 +1,44 @@
+{
+  "code": "Y841112",
+  "name": {
+    "de": "Erdbeerkompott mit Süßstoff",
+    "en": "Strawberry compote with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.365",
+    "saturates": "0.029",
+    "monounsaturates": "0.057",
+    "polyunsaturates": "0.216",
+    "carbohydrate": "6.883",
+    "sugars": "6.591",
+    "starch": "0.237",
+    "polyols": "0.055",
+    "fibre": "1.9",
+    "protein": "0.845",
+    "sodium": "0.008",
+    "alcohol": "0.001",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

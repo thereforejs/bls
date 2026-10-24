@@ -1,0 +1,48 @@
+{
+  "code": "W241000",
+  "name": {
+    "de": "Gelbwurst",
+    "en": "Gelbwurst sausage (uncured)"
+  },
+  "per100g": {
+    "fat": "27.7",
+    "saturates": "10.528",
+    "monounsaturates": "12.606",
+    "polyunsaturates": "3.277",
+    "carbohydrate": "0.25",
+    "sugars": "0.24",
+    "starch": null,
+    "polyols": "0.006",
+    "fibre": null,
+    "protein": "11.55",
+    "sodium": "1",
+    "alcohol": null,
+    "organicAcids": "0.627"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W241000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

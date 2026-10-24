@@ -1,0 +1,44 @@
+{
+  "code": "U020242",
+  "name": {
+    "de": "Schwein Hackfleisch, tiefgefroren, geschmort ohne Fett",
+    "en": "Pork mince, deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "31.36",
+    "saturates": "10.471",
+    "monounsaturates": "11.893",
+    "polyunsaturates": "3.479",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.71",
+    "sodium": "0.0527",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U020242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

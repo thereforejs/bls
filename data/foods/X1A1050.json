@@ -1,0 +1,44 @@
+{
+  "code": "X1A1050",
+  "name": {
+    "de": "Rote-Bete-Salat (gegart) mit Zitronenmarinade",
+    "en": "Beetroot salad (cooked) with lemon marinade"
+  },
+  "per100g": {
+    "fat": "8.2",
+    "saturates": "0.61",
+    "monounsaturates": "4.65",
+    "polyunsaturates": "2.25",
+    "carbohydrate": "5.88",
+    "sugars": "5.85",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "1.67",
+    "sodium": "0.179",
+    "alcohol": "0",
+    "organicAcids": "0.37"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A1050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

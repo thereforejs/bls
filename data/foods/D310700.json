@@ -1,0 +1,44 @@
+{
+  "code": "D310700",
+  "name": {
+    "de": "Biskuitrolle/Biskuitroulade, mit Zitronensahnecreme",
+    "en": "Sponge cake roll, filled with lemon-cream"
+  },
+  "per100g": {
+    "fat": "8",
+    "saturates": "3.6",
+    "monounsaturates": "2.33",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "30.77",
+    "sugars": "21.067",
+    "starch": "9.7",
+    "polyols": "0",
+    "fibre": "0.64",
+    "protein": "5.6",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D310700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

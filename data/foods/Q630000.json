@@ -1,0 +1,47 @@
+{
+  "code": "Q630000",
+  "name": {
+    "de": "Süßrahmbutter",
+    "en": "Sweet cream butter"
+  },
+  "per100g": {
+    "fat": "82.5",
+    "saturates": "55.651",
+    "monounsaturates": "18.225",
+    "polyunsaturates": "2.878",
+    "carbohydrate": "0.6",
+    "sugars": "0.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "0.59",
+    "sodium": "0.012",
+    "alcohol": null,
+    "organicAcids": "0.0243"
+  },
+  "marks": {
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q630000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

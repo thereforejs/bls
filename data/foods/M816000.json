@@ -1,0 +1,44 @@
+{
+  "code": "M816000",
+  "name": {
+    "de": "Schmelzkäsezubereitung 45 - 52 % Fett i. Tr., mit Nüssen",
+    "en": "Processed cheese preparation 45 - 52 % fat in dry matter, with nuts"
+  },
+  "per100g": {
+    "fat": "27.22",
+    "saturates": "15.283",
+    "monounsaturates": "6.286",
+    "polyunsaturates": "4.49",
+    "carbohydrate": "5.1",
+    "sugars": "5.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "12.12",
+    "sodium": "0.8542",
+    "alcohol": "0",
+    "organicAcids": "0.789"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M816000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

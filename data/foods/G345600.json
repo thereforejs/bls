@@ -1,0 +1,44 @@
+{
+  "code": "G345600",
+  "name": {
+    "de": "Gemüsesaft aus Sauerkraut",
+    "en": "Sauerkraut juice"
+  },
+  "per100g": {
+    "fat": "0.248",
+    "saturates": "0.058",
+    "monounsaturates": "0.097",
+    "polyunsaturates": "0.051",
+    "carbohydrate": "0.79",
+    "sugars": "0.616",
+    "starch": "0.08",
+    "polyols": "0.098",
+    "fibre": "0.214",
+    "protein": "0.956",
+    "sodium": "0.428",
+    "alcohol": "0.256",
+    "organicAcids": "2.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G345600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

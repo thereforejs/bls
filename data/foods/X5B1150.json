@@ -1,0 +1,44 @@
+{
+  "code": "X5B1150",
+  "name": {
+    "de": "Gemüse-Kartoffel-Getreide-Brei, mit Karotte und Haferflocken (ohne Salz, geeignet für Beikost)",
+    "en": "Vegetable-potato-cereal purree, with carrot and oat flakes (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "4.74",
+    "saturates": "0.41",
+    "monounsaturates": "2.59",
+    "polyunsaturates": "1.31",
+    "carbohydrate": "11.2",
+    "sugars": "5.086",
+    "starch": "5.9",
+    "polyols": "0.224",
+    "fibre": "2.1",
+    "protein": "1.357",
+    "sodium": "0.012",
+    "alcohol": "0.007",
+    "organicAcids": "0.354"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5B1150",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y646132",
+  "name": {
+    "de": "Felchenfilet in Mandelkruste gebacken",
+    "en": "Whitefish fillet baked in almond crust"
+  },
+  "per100g": {
+    "fat": "12.075",
+    "saturates": "1.43",
+    "monounsaturates": "6.69",
+    "polyunsaturates": "2.9",
+    "carbohydrate": "0.63",
+    "sugars": "0.59",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "27.119",
+    "sodium": "0.328",
+    "alcohol": "0",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y646132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

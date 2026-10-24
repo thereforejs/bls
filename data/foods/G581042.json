@@ -1,0 +1,44 @@
+{
+  "code": "G581042",
+  "name": {
+    "de": "Kürbis Hokkaido (C. maxima) geschmort ohne Fett",
+    "en": "Hokkaido pumpkin braised without fat"
+  },
+  "per100g": {
+    "fat": "0.218",
+    "saturates": "0.051",
+    "monounsaturates": "0.019",
+    "polyunsaturates": "0.105",
+    "carbohydrate": "5.821",
+    "sugars": "5.043",
+    "starch": "0.769",
+    "polyols": "0.009",
+    "fibre": "0.857",
+    "protein": "1.523",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

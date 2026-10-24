@@ -1,0 +1,44 @@
+{
+  "code": "X339153",
+  "name": {
+    "de": "Rotweinsauce von dunkler/brauner Grundsauce",
+    "en": "Red wine sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.6",
+    "saturates": "0.4",
+    "monounsaturates": "2.6",
+    "polyunsaturates": "1.22",
+    "carbohydrate": "5.28",
+    "sugars": "0.63",
+    "starch": "4.65",
+    "polyols": "0.003",
+    "fibre": "0.4",
+    "protein": "1.02",
+    "sodium": "0.218",
+    "alcohol": "0.42",
+    "organicAcids": "0.078"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X339153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

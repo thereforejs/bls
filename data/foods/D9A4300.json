@@ -1,0 +1,44 @@
+{
+  "code": "D9A4300",
+  "name": {
+    "de": "Mohn-Vollkornplunder",
+    "en": "Wholemeal Danish pastry with poppy seed"
+  },
+  "per100g": {
+    "fat": "22.7",
+    "saturates": "9.14",
+    "monounsaturates": "6.75",
+    "polyunsaturates": "6",
+    "carbohydrate": "40",
+    "sugars": "13.95",
+    "starch": "26",
+    "polyols": "0.002",
+    "fibre": "7.23",
+    "protein": "10.45",
+    "sodium": "0.32",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A4300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

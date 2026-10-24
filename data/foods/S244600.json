@@ -1,0 +1,44 @@
+{
+  "code": "S244600",
+  "name": {
+    "de": "Speiseeis (Frucht, Karamell, Nuss, Vanille) gemischt",
+    "en": "Ice cream mixed (fruit, vanilla, nut, caramel)"
+  },
+  "per100g": {
+    "fat": "7.97",
+    "saturates": "4.98",
+    "monounsaturates": "1.92",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "25.6",
+    "sugars": "22.8",
+    "starch": "2.37",
+    "polyols": "0.004",
+    "fibre": "0.7",
+    "protein": "2.5",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0.238"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S244600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

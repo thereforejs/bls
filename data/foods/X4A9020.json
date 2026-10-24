@@ -1,0 +1,44 @@
+{
+  "code": "X4A9020",
+  "name": {
+    "de": "Wirsing-Eintopf mit Gemüsebrühe, Kartoffeln und Karotten",
+    "en": "Savoy cabbage stew with vegetable stock, potatoes and carrots"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.1",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.23",
+    "carbohydrate": "6",
+    "sugars": "2.9",
+    "starch": "3",
+    "polyols": "0.06",
+    "fibre": "1.5",
+    "protein": "1.66",
+    "sodium": "0.13",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A9020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

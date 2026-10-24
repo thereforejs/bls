@@ -1,0 +1,44 @@
+{
+  "code": "W410400",
+  "name": {
+    "de": "Schwein Schinkenspeck, Rohpökelware, geräuchert",
+    "en": "Pork bacon (ham) raw cured, smoked"
+  },
+  "per100g": {
+    "fat": "3.95",
+    "saturates": "1.304",
+    "monounsaturates": "1.58",
+    "polyunsaturates": "0.341",
+    "carbohydrate": "0.492",
+    "sugars": "0.492",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.82",
+    "sodium": "1.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W410400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

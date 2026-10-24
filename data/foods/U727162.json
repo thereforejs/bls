@@ -1,0 +1,44 @@
+{
+  "code": "U727162",
+  "name": {
+    "de": "Lamm Kotelett, gebraten ohne Fett (Ofen)",
+    "en": "Lamb chop (loin) fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "20.19",
+    "saturates": "9.21",
+    "monounsaturates": "7.845",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.897",
+    "sodium": "0.081",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U727162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

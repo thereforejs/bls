@@ -1,0 +1,44 @@
+{
+  "code": "U512172",
+  "name": {
+    "de": "Schwein Filetmedaillon, mariniert, gegrillt",
+    "en": "Pork fillet medaillon, marinated, grilled"
+  },
+  "per100g": {
+    "fat": "7.2",
+    "saturates": "0.8",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "0.14",
+    "sugars": "0.13",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "26.5",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.091"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U512172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

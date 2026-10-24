@@ -1,0 +1,44 @@
+{
+  "code": "C317032",
+  "name": {
+    "de": "Grünkern Grütze, gekocht",
+    "en": "Green spelt groats, boiled"
+  },
+  "per100g": {
+    "fat": "0.74",
+    "saturates": "0.11",
+    "monounsaturates": "0.18",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "16.44",
+    "sugars": "0.68987",
+    "starch": "15.75",
+    "polyols": "0",
+    "fibre": "3.38",
+    "protein": "3.08",
+    "sodium": "0.0002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C317032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

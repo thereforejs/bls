@@ -1,0 +1,44 @@
+{
+  "code": "D771200",
+  "name": {
+    "de": "Aprikosenteilchen (Blätterteig)",
+    "en": "Apricot pastry (puff pastry)"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "6.68",
+    "monounsaturates": "7.28",
+    "polyunsaturates": "2.54",
+    "carbohydrate": "28.3",
+    "sugars": "13.6",
+    "starch": "14.46",
+    "polyols": "0.24",
+    "fibre": "1.9",
+    "protein": "3",
+    "sodium": "0.093",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

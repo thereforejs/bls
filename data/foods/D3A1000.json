@@ -1,0 +1,44 @@
+{
+  "code": "D3A1000",
+  "name": {
+    "de": "Biskuitrolle/Biskuitroulade, mit Himbeersahnecreme",
+    "en": "Sponge cake roll, filled with raspberry-cream"
+  },
+  "per100g": {
+    "fat": "10.4",
+    "saturates": "4.88",
+    "monounsaturates": "2.93",
+    "polyunsaturates": "0.65",
+    "carbohydrate": "29.3",
+    "sugars": "21.4",
+    "starch": "7.86",
+    "polyols": "0.001",
+    "fibre": "1.6",
+    "protein": "5.6",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D3A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M2I3200",
+  "name": {
+    "de": "Milchmischgetränk 1,5 % Fett, mit Kaffee und Süßungsmitteln",
+    "en": "Milk drink 1.5 % fat, with coffee and artificial sweeteners"
+  },
+  "per100g": {
+    "fat": "1",
+    "saturates": "0.65",
+    "monounsaturates": "0.22",
+    "polyunsaturates": "0.02",
+    "carbohydrate": "3.6",
+    "sugars": "3.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.06285",
+    "protein": "2.4",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2I3200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

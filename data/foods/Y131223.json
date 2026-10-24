@@ -1,0 +1,44 @@
+{
+  "code": "Y131223",
+  "name": {
+    "de": "Roastbeef gebraten im Ofen, mit Sauce",
+    "en": "Roast beef fried in oven, with sauce"
+  },
+  "per100g": {
+    "fat": "7",
+    "saturates": "1.9",
+    "monounsaturates": "2.9",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "0.76",
+    "sugars": "0.00278",
+    "starch": "0.76",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "24.98",
+    "sodium": "0.228",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y131223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

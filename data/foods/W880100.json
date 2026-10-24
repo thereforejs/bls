@@ -1,0 +1,44 @@
+{
+  "code": "W880100",
+  "name": {
+    "de": "Leberwurst Konserve",
+    "en": "Liver sausage high quality, canned"
+  },
+  "per100g": {
+    "fat": "33.15",
+    "saturates": "12.13",
+    "monounsaturates": "13.17",
+    "polyunsaturates": "3.55",
+    "carbohydrate": "2.05",
+    "sugars": "1.915",
+    "starch": "0.12",
+    "polyols": "0.018",
+    "fibre": "0",
+    "protein": "12.3",
+    "sodium": "0.75",
+    "alcohol": "0",
+    "organicAcids": "0.322"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W880100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

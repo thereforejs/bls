@@ -1,0 +1,44 @@
+{
+  "code": "B406700",
+  "name": {
+    "de": "Vollkornbrötchen mit Kürbiskernen",
+    "en": "Wholemeal roll with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "5.59",
+    "saturates": "1.279",
+    "monounsaturates": "1.653",
+    "polyunsaturates": "2.129",
+    "carbohydrate": "45",
+    "sugars": "1.4",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "10.37",
+    "protein": "11.2",
+    "sodium": "0.541",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B406700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

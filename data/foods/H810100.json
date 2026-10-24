@@ -1,0 +1,44 @@
+{
+  "code": "H810100",
+  "name": {
+    "de": "Erdnuss geröstet, im Teigmantel",
+    "en": "Peanut roasted, crispy coated"
+  },
+  "per100g": {
+    "fat": "30.5",
+    "saturates": "7.2",
+    "monounsaturates": "14.8",
+    "polyunsaturates": "5.31",
+    "carbohydrate": "40.7",
+    "sugars": "6.7",
+    "starch": "34",
+    "polyols": "0",
+    "fibre": "5.1",
+    "protein": "15.3",
+    "sodium": "0.69",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H810100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

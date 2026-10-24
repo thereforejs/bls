@@ -1,0 +1,44 @@
+{
+  "code": "D9A3000",
+  "name": {
+    "de": "Vollkornmürbeteig süß roh",
+    "en": "Wholemeal shortcrust pastry, sweetened, raw"
+  },
+  "per100g": {
+    "fat": "26.31",
+    "saturates": "10.34",
+    "monounsaturates": "11.275",
+    "polyunsaturates": "4.147",
+    "carbohydrate": "44.85",
+    "sugars": "16.078",
+    "starch": "28.77",
+    "polyols": "0",
+    "fibre": "5.78",
+    "protein": "6.64",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

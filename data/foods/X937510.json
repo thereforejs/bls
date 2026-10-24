@@ -1,0 +1,44 @@
+{
+  "code": "X937510",
+  "name": {
+    "de": "Erdbeermilch mit Milch 1,5 % Fett",
+    "en": "Strawberry milk with milk 1.5 % fat"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.612",
+    "monounsaturates": "0.23",
+    "polyunsaturates": "0.107",
+    "carbohydrate": "7.96",
+    "sugars": "7.94",
+    "starch": "0",
+    "polyols": "0.021",
+    "fibre": "0.7",
+    "protein": "2.37",
+    "sodium": "0.021",
+    "alcohol": "0",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X937510",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

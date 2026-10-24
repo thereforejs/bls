@@ -1,0 +1,44 @@
+{
+  "code": "V575100",
+  "name": {
+    "de": "Lamm Niere, roh",
+    "en": "Lamb kidney, raw"
+  },
+  "per100g": {
+    "fat": "2.54",
+    "saturates": "0.77",
+    "monounsaturates": "0.338",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.1",
+    "sodium": "0.159",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V575100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

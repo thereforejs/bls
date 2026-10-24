@@ -1,0 +1,44 @@
+{
+  "code": "K290100",
+  "name": {
+    "de": "Kartoffelchips energiereduziert",
+    "en": "Potato crisps/potato chips, calorie-reduced"
+  },
+  "per100g": {
+    "fat": "21.5",
+    "saturates": "9.34",
+    "monounsaturates": "8.61",
+    "polyunsaturates": "2.5",
+    "carbohydrate": "57.9",
+    "sugars": "1.5",
+    "starch": "56.4",
+    "polyols": "0",
+    "fibre": "5.9",
+    "protein": "6.2",
+    "sodium": "0.73",
+    "alcohol": "0",
+    "organicAcids": "0.697"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K290100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

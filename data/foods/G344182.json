@@ -1,0 +1,44 @@
+{
+  "code": "G344182",
+  "name": {
+    "de": "Spitzkohl gebraten ohne Fett (Pfanne)",
+    "en": "Pointed cabbage fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.34",
+    "saturates": "0.042",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "8.56",
+    "sugars": "8.3",
+    "starch": "0",
+    "polyols": "0.26",
+    "fibre": "5.7",
+    "protein": "2.28",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.372"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G344182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

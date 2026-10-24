@@ -1,0 +1,44 @@
+{
+  "code": "T410262",
+  "name": {
+    "de": "Lachs tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Salmon deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "11.875",
+    "saturates": "2.542",
+    "monounsaturates": "3.766",
+    "polyunsaturates": "3.67",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.777",
+    "sodium": "0.0327",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T410262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

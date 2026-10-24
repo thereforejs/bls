@@ -1,0 +1,44 @@
+{
+  "code": "X351140",
+  "name": {
+    "de": "Zitronenmarinade für Salat",
+    "en": "Lemon marinade for salad"
+  },
+  "per100g": {
+    "fat": "44",
+    "saturates": "3.2",
+    "monounsaturates": "25.29",
+    "polyunsaturates": "12.04",
+    "carbohydrate": "0.75",
+    "sugars": "0.72",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "0.18",
+    "sodium": "0.294",
+    "alcohol": "0.001",
+    "organicAcids": "1.65"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X351140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

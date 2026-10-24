@@ -1,0 +1,44 @@
+{
+  "code": "D7A5600",
+  "name": {
+    "de": "Schokobrötchen (Hefeteig)",
+    "en": "Roll with chocolate chips (yeast dough)"
+  },
+  "per100g": {
+    "fat": "14.33",
+    "saturates": "8.56",
+    "monounsaturates": "3.61",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "50",
+    "sugars": "15.5",
+    "starch": "35",
+    "polyols": "0",
+    "fibre": "4.08",
+    "protein": "8.31",
+    "sodium": "0.111",
+    "alcohol": "0",
+    "organicAcids": "0.023"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A5600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

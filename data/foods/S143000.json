@@ -1,0 +1,44 @@
+{
+  "code": "S143000",
+  "name": {
+    "de": "Maronenkrem",
+    "en": "Sweet chestnut cream (spread)"
+  },
+  "per100g": {
+    "fat": "0.737",
+    "saturates": "0.111",
+    "monounsaturates": "0.393",
+    "polyunsaturates": "0.194",
+    "carbohydrate": "57.327",
+    "sugars": "47.171",
+    "starch": "10.156",
+    "polyols": "0",
+    "fibre": "3.281",
+    "protein": "1.112",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S143000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

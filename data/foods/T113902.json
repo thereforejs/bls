@@ -1,0 +1,44 @@
+{
+  "code": "T113902",
+  "name": {
+    "de": "Rollmops Konserve, abgetropft",
+    "en": "Herring fillet rolled, pickled, canned, drained"
+  },
+  "per100g": {
+    "fat": "4.426",
+    "saturates": "1.148",
+    "monounsaturates": "1.425",
+    "polyunsaturates": "1.324",
+    "carbohydrate": "5.62",
+    "sugars": "5.62",
+    "starch": "0.0009",
+    "polyols": "0.002",
+    "fibre": "0.19",
+    "protein": "8",
+    "sodium": "0.429",
+    "alcohol": "0",
+    "organicAcids": "1.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T113902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "E605200",
+  "name": {
+    "de": "Schupfnudeln schwäbisch, roh",
+    "en": "Finger-shaped pasta Swabian style, raw"
+  },
+  "per100g": {
+    "fat": "2.52",
+    "saturates": "0.4",
+    "monounsaturates": "1.04",
+    "polyunsaturates": "0.65",
+    "carbohydrate": "33.26",
+    "sugars": "0.421",
+    "starch": "32.84",
+    "polyols": "0",
+    "fibre": "2.58",
+    "protein": "6.81",
+    "sodium": "0.476",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E605200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

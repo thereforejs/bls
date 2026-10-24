@@ -1,0 +1,44 @@
+{
+  "code": "X3A4000",
+  "name": {
+    "de": "Gorgonzolasauce",
+    "en": "Gorgonzola sauce"
+  },
+  "per100g": {
+    "fat": "22.1",
+    "saturates": "12.4",
+    "monounsaturates": "6.18",
+    "polyunsaturates": "1.17",
+    "carbohydrate": "1",
+    "sugars": "1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.101",
+    "protein": "9.23",
+    "sodium": "0.571",
+    "alcohol": "0",
+    "organicAcids": "0.296"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

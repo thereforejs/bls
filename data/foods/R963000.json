@@ -1,0 +1,44 @@
+{
+  "code": "R963000",
+  "name": {
+    "de": "Brotaufstrich Ei-Kräuter",
+    "en": "Egg-herb spread"
+  },
+  "per100g": {
+    "fat": "21.86",
+    "saturates": "2.9",
+    "monounsaturates": "11.24",
+    "polyunsaturates": "5.16",
+    "carbohydrate": "4.5",
+    "sugars": "2.53",
+    "starch": "1.97",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "9.5",
+    "sodium": "0.693",
+    "alcohol": "0.003",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R963000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

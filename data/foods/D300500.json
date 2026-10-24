@@ -1,0 +1,44 @@
+{
+  "code": "D300500",
+  "name": {
+    "de": "Linzer Torte (Mürbeteig)",
+    "en": "Linzer torte (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "29.7",
+    "saturates": "12.78",
+    "monounsaturates": "10.84",
+    "polyunsaturates": "3",
+    "carbohydrate": "42.4",
+    "sugars": "26.7",
+    "starch": "15.7",
+    "polyols": "0.005",
+    "fibre": "3.5",
+    "protein": "8.9",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D300500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

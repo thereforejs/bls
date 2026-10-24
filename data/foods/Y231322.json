@@ -1,0 +1,44 @@
+{
+  "code": "Y231322",
+  "name": {
+    "de": "Wiener Schnitzel gebraten",
+    "en": "Viennese schnitzel fried"
+  },
+  "per100g": {
+    "fat": "8.5",
+    "saturates": "1.14",
+    "monounsaturates": "4.39",
+    "polyunsaturates": "2.03",
+    "carbohydrate": "9.48",
+    "sugars": "0.91",
+    "starch": "8.57",
+    "polyols": "0.001",
+    "fibre": "0.79",
+    "protein": "18.74",
+    "sodium": "0.254",
+    "alcohol": "0.001",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y231322",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

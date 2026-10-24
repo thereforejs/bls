@@ -1,0 +1,44 @@
+{
+  "code": "Y672513",
+  "name": {
+    "de": "Hecht gebraten im Ofen badische Art",
+    "en": "Pike fried in oven Baden style"
+  },
+  "per100g": {
+    "fat": "6.5",
+    "saturates": "2.9",
+    "monounsaturates": "1.6",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "1.4",
+    "sugars": "1",
+    "starch": "0.43",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "14.7",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y672513",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

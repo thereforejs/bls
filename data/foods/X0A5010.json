@@ -1,0 +1,44 @@
+{
+  "code": "X0A5010",
+  "name": {
+    "de": "Müsli gesüßt, mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Muesli sweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "4.1",
+    "saturates": "1.65",
+    "monounsaturates": "1.09",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "15.3",
+    "sugars": "7.93",
+    "starch": "7.2",
+    "polyols": "0.1",
+    "fibre": "2.3",
+    "protein": "4.85",
+    "sodium": "0.026",
+    "alcohol": "0.01",
+    "organicAcids": "0.83"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A5010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

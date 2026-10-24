@@ -1,0 +1,44 @@
+{
+  "code": "W272400",
+  "name": {
+    "de": "Trüffelmosaikpastete",
+    "en": "Truffled mosaic pate"
+  },
+  "per100g": {
+    "fat": "12.34",
+    "saturates": "4.38",
+    "monounsaturates": "4.41",
+    "polyunsaturates": "1.43",
+    "carbohydrate": "0.18",
+    "sugars": "0.118",
+    "starch": "0.06",
+    "polyols": "0",
+    "fibre": "0.43",
+    "protein": "14.1",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W272400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B723500",
+  "name": {
+    "de": "Laugengebäck mit Käse",
+    "en": "Lye pastry (pretzels) with cheese"
+  },
+  "per100g": {
+    "fat": "3.4",
+    "saturates": "1.28",
+    "monounsaturates": "1.17",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "51",
+    "sugars": "1.4",
+    "starch": "49",
+    "polyols": "0",
+    "fibre": "3.51",
+    "protein": "9.2",
+    "sodium": "0.529",
+    "alcohol": "0",
+    "organicAcids": "0.008"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B723500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

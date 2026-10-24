@@ -1,0 +1,44 @@
+{
+  "code": "G470182",
+  "name": {
+    "de": "Porree/Lauch, gebraten ohne Fett (Pfanne)",
+    "en": "Leek fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.397",
+    "saturates": "0.071",
+    "monounsaturates": "0.0156",
+    "polyunsaturates": "0.165",
+    "carbohydrate": "8",
+    "sugars": "6.1",
+    "starch": "2",
+    "polyols": null,
+    "fibre": "3.5",
+    "protein": "3.397",
+    "sodium": "0.0008",
+    "alcohol": "0",
+    "organicAcids": "0.352"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G470182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

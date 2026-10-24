@@ -1,0 +1,44 @@
+{
+  "code": "D314200",
+  "name": {
+    "de": "Mokkabuttercremetorte (Biskuit) mit Alkohol",
+    "en": "Mocha butter cream torte (sponge cake) with alcohol"
+  },
+  "per100g": {
+    "fat": "17",
+    "saturates": "10.1",
+    "monounsaturates": "3.9",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "24",
+    "sugars": "16",
+    "starch": "8.3",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "5.1",
+    "sodium": "0.056",
+    "alcohol": "0.23",
+    "organicAcids": "0.043"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D314200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

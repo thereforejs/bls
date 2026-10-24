@@ -1,0 +1,44 @@
+{
+  "code": "W364400",
+  "name": {
+    "de": "Zungenpresskopf",
+    "en": "Tongue brawn"
+  },
+  "per100g": {
+    "fat": "14.68",
+    "saturates": "5.073",
+    "monounsaturates": "5.45",
+    "polyunsaturates": "1.53",
+    "carbohydrate": "0.17",
+    "sugars": "0.05",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "19.63",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W364400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

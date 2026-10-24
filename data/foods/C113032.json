@@ -1,0 +1,44 @@
+{
+  "code": "C113032",
+  "name": {
+    "de": "Weizen Flocken, gekocht",
+    "en": "Wheat flakes, boiled"
+  },
+  "per100g": {
+    "fat": "0.31",
+    "saturates": "0.052",
+    "monounsaturates": "0.032",
+    "polyunsaturates": "0.138",
+    "carbohydrate": "10.02",
+    "sugars": "0.179",
+    "starch": "9.841",
+    "polyols": "0",
+    "fibre": "2.244",
+    "protein": "2.1679",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C113032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

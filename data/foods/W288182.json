@@ -1,0 +1,44 @@
+{
+  "code": "W288182",
+  "name": {
+    "de": "Geflügelmortadella gebraten ohne Fett (Pfanne)",
+    "en": "Poultry mortadella fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "22.669",
+    "saturates": "8.688",
+    "monounsaturates": "7.718",
+    "polyunsaturates": "3.316",
+    "carbohydrate": "0.011",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.011",
+    "fibre": "0.6",
+    "protein": "15.398",
+    "sodium": "1.035",
+    "alcohol": "0",
+    "organicAcids": "2.324"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W288182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

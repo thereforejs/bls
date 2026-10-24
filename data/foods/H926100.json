@@ -1,0 +1,44 @@
+{
+  "code": "H926100",
+  "name": {
+    "de": "Soja-Bratlinge gebraten ohne Fett (Pfanne)",
+    "en": "Soya burgers fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "20.13",
+    "saturates": "2.1",
+    "monounsaturates": "6.1",
+    "polyunsaturates": "11",
+    "carbohydrate": "6",
+    "sugars": "3.2",
+    "starch": "3",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "20.1",
+    "sodium": "0.694",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H926100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

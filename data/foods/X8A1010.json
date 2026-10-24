@@ -1,0 +1,44 @@
+{
+  "code": "X8A1010",
+  "name": {
+    "de": "Reisflockenbrei ungesüßt, mit Wasser, Apfelsaft und Rapsöl",
+    "en": "Rice flakes porridge unsweetened, with water, apple juice and rapeseed oil"
+  },
+  "per100g": {
+    "fat": "3.422",
+    "saturates": "0.26",
+    "monounsaturates": "1.94",
+    "polyunsaturates": "0.95",
+    "carbohydrate": "21.7",
+    "sugars": "1.64",
+    "starch": "19.9",
+    "polyols": "0.163",
+    "fibre": "0.7",
+    "protein": "2.069",
+    "sodium": "0.004",
+    "alcohol": "0.005",
+    "organicAcids": "0.125"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X8A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

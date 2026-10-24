@@ -1,0 +1,44 @@
+{
+  "code": "W870600",
+  "name": {
+    "de": "Fleischwurst Konserve",
+    "en": "Bologna canned"
+  },
+  "per100g": {
+    "fat": "28.3",
+    "saturates": "11.043",
+    "monounsaturates": "12.551",
+    "polyunsaturates": "3.483",
+    "carbohydrate": "0.25",
+    "sugars": "0.24",
+    "starch": "0",
+    "polyols": "0.006",
+    "fibre": "0",
+    "protein": "12.11",
+    "sodium": "0.975",
+    "alcohol": "0",
+    "organicAcids": "0.627"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W870600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

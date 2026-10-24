@@ -1,0 +1,44 @@
+{
+  "code": "U883262",
+  "name": {
+    "de": "Schaf Keule, fett, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Sheep leg, fat, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "20.3",
+    "saturates": "9.251",
+    "monounsaturates": "7.977",
+    "polyunsaturates": "0.723",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.1",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U883262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

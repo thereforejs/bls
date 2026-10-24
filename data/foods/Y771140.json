@@ -1,0 +1,44 @@
+{
+  "code": "Y771140",
+  "name": {
+    "de": "Schnittlauchquark (aus Sahnequark)",
+    "en": "Quark, min. 40 % fat in dry matter, with chives"
+  },
+  "per100g": {
+    "fat": "9.18",
+    "saturates": "5.046",
+    "monounsaturates": "2.312",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "2.94",
+    "sugars": "2.94",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "8.84",
+    "sodium": "0.183",
+    "alcohol": "0",
+    "organicAcids": "0.643"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y771140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

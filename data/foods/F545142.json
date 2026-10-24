@@ -1,0 +1,44 @@
+{
+  "code": "F545142",
+  "name": {
+    "de": "Kochbanane geschmort ohne Fett",
+    "en": "Plantain braised without fat"
+  },
+  "per100g": {
+    "fat": "0.09",
+    "saturates": "0.142",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.019",
+    "carbohydrate": "36.8",
+    "sugars": "9.6",
+    "starch": "27.2",
+    "polyols": "0",
+    "fibre": "2.8",
+    "protein": "1.46",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.711"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F545142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X444253",
+  "name": {
+    "de": "Lauchcremesuppe",
+    "en": "Cream of leek soup"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "2.4",
+    "monounsaturates": "1.111",
+    "polyunsaturates": "0.146",
+    "carbohydrate": "4",
+    "sugars": "2.4",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "1.4",
+    "sodium": "0.146",
+    "alcohol": "0",
+    "organicAcids": "0.105"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X444253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W143000",
+  "name": {
+    "de": "Salami Ungarische Art",
+    "en": "Salami Hungarian-type"
+  },
+  "per100g": {
+    "fat": "33.08",
+    "saturates": "12.5",
+    "monounsaturates": "14.5",
+    "polyunsaturates": "3.85",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "21.81",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W143000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

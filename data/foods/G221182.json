@@ -1,0 +1,44 @@
+{
+  "code": "G221182",
+  "name": {
+    "de": "Bleichsellerie gebraten ohne Fett (Pfanne)",
+    "en": "Stalk celery fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3",
+    "sugars": "2.8",
+    "starch": "0",
+    "polyols": "0.208",
+    "fibre": "4.817",
+    "protein": "2.264",
+    "sodium": "0.147",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G221182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

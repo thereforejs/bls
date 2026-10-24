@@ -1,0 +1,44 @@
+{
+  "code": "B426000",
+  "name": {
+    "de": "Roggenvollkornbrötchen mit Ölsamen",
+    "en": "Wholemeal rye roll with oilseeds"
+  },
+  "per100g": {
+    "fat": "5.17",
+    "saturates": "1.12",
+    "monounsaturates": "1.65",
+    "polyunsaturates": "2",
+    "carbohydrate": "40",
+    "sugars": "1.224",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "13.43",
+    "protein": "8.44",
+    "sodium": "0.529",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B426000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

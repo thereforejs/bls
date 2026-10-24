@@ -1,0 +1,44 @@
+{
+  "code": "B406500",
+  "name": {
+    "de": "Vollkornbrötchen mit Sonnenblumenkernen",
+    "en": "Wholemeal roll with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "5.68",
+    "saturates": "1.11",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "2.35",
+    "carbohydrate": "45",
+    "sugars": "1.7",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "10.24",
+    "protein": "10.7",
+    "sodium": "0.541",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B406500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

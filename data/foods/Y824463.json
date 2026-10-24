@@ -1,0 +1,44 @@
+{
+  "code": "Y824463",
+  "name": {
+    "de": "Kirschplotzer (mit Weißwein) gebacken",
+    "en": "Cherry souffle (with white wine)"
+  },
+  "per100g": {
+    "fat": "15.787",
+    "saturates": "6.04",
+    "monounsaturates": "7.25",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "23.6",
+    "sugars": "17.97",
+    "starch": "4.7",
+    "polyols": "0.88",
+    "fibre": "2.4",
+    "protein": "4.6",
+    "sodium": "0.083",
+    "alcohol": "0.13",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y824463",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y036752",
+  "name": {
+    "de": "Kalbfleischklößchen gebraten im Ofen",
+    "en": "Small veal meatballs fried in oven"
+  },
+  "per100g": {
+    "fat": "12.9",
+    "saturates": "5.65",
+    "monounsaturates": "5.79",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "3.75",
+    "sugars": "0.68",
+    "starch": "3.07",
+    "polyols": "0.001",
+    "fibre": "0.4",
+    "protein": "23.72",
+    "sodium": "0.456",
+    "alcohol": "0",
+    "organicAcids": "0.037"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036752",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "G995000",
+  "name": {
+    "de": "Nori-Blatt geröstet",
+    "en": "Sushi nori (toasted)"
+  },
+  "per100g": {
+    "fat": "4.36",
+    "saturates": "0.888",
+    "monounsaturates": "0.794",
+    "polyunsaturates": "1.299",
+    "carbohydrate": "1.76",
+    "sugars": "0.48",
+    "starch": "1.28",
+    "polyols": "0",
+    "fibre": "30.6",
+    "protein": "38.26",
+    "sodium": "0.732",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G995000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

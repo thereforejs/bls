@@ -1,0 +1,44 @@
+{
+  "code": "G581062",
+  "name": {
+    "de": "Kürbis Hokkaido (C. maxima) gebacken",
+    "en": "Hokkaido pumpkin baked"
+  },
+  "per100g": {
+    "fat": "0.235",
+    "saturates": "0.055",
+    "monounsaturates": "0.021",
+    "polyunsaturates": "0.114",
+    "carbohydrate": "6.233",
+    "sugars": "5.4",
+    "starch": "0.824",
+    "polyols": "0.009",
+    "fibre": "0.918",
+    "protein": "1.647",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

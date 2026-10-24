@@ -1,0 +1,44 @@
+{
+  "code": "B516000",
+  "name": {
+    "de": "Weizenbrötchen mit Ölsamen",
+    "en": "Wheat roll with oilseeds"
+  },
+  "per100g": {
+    "fat": "3.96",
+    "saturates": "1",
+    "monounsaturates": "1.28",
+    "polyunsaturates": "1.35",
+    "carbohydrate": "54",
+    "sugars": "1.9",
+    "starch": "52",
+    "polyols": "0",
+    "fibre": "4.43",
+    "protein": "9.8",
+    "sodium": "0.565",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B516000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

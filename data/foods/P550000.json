@@ -1,0 +1,44 @@
+{
+  "code": "P550000",
+  "name": {
+    "de": "Kaffeelikör/Kakaolikör, klar",
+    "en": "Coffee/cocoa liqueur, without milk/cream"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": null,
+    "monounsaturates": null,
+    "polyunsaturates": null,
+    "carbohydrate": "46",
+    "sugars": "46",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.1",
+    "sodium": "0.009",
+    "alcohol": "20.76",
+    "organicAcids": "0.565"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P550000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "M7A6800",
+  "name": {
+    "de": "Mascarpone mind. 80 % Fett i. Tr.",
+    "en": "Mascarpone min. 80 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "40.33",
+    "saturates": "26.963",
+    "monounsaturates": "9.216",
+    "polyunsaturates": "1.374",
+    "carbohydrate": "3.38",
+    "sugars": "3.38",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "4.5",
+    "sodium": "0.0435",
+    "alcohol": null,
+    "organicAcids": "0.16"
+  },
+  "marks": {
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M7A6800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

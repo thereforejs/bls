@@ -1,0 +1,44 @@
+{
+  "code": "W221372",
+  "name": {
+    "de": "Currybratwurst gegrillt",
+    "en": "Curry-Bratwurst grilled"
+  },
+  "per100g": {
+    "fat": "21.17",
+    "saturates": "7.42",
+    "monounsaturates": "7.71",
+    "polyunsaturates": "2.45",
+    "carbohydrate": "0.05",
+    "sugars": "0",
+    "starch": "0.05",
+    "polyols": "0",
+    "fibre": "0.02",
+    "protein": "12.28",
+    "sodium": "0.7363",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W221372",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

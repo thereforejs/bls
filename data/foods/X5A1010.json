@@ -1,0 +1,44 @@
+{
+  "code": "X5A1010",
+  "name": {
+    "de": "Gemüsewaffeln pikant",
+    "en": "Vegetable wafers savoury"
+  },
+  "per100g": {
+    "fat": "6.9",
+    "saturates": "1.62",
+    "monounsaturates": "2.89",
+    "polyunsaturates": "1.43",
+    "carbohydrate": "18.56",
+    "sugars": "2.66",
+    "starch": "15.9",
+    "polyols": "0",
+    "fibre": "4.02",
+    "protein": "9.44",
+    "sodium": "0.19",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y173833",
+  "name": {
+    "de": "Saures Rinderlebergeschnetzeltes mit Sauce",
+    "en": "Beef liver ragout sour with sauce"
+  },
+  "per100g": {
+    "fat": "9.3",
+    "saturates": "1.6",
+    "monounsaturates": "4.1",
+    "polyunsaturates": "2.05",
+    "carbohydrate": "5.84",
+    "sugars": "0.32",
+    "starch": "5.52",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "14.6",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y173833",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

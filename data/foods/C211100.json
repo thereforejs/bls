@@ -1,0 +1,44 @@
+{
+  "code": "C211100",
+  "name": {
+    "de": "Weizen Vollkornschrot",
+    "en": "Wheat coarse meal"
+  },
+  "per100g": {
+    "fat": "1.833",
+    "saturates": "0.227",
+    "monounsaturates": "0.202",
+    "polyunsaturates": "0.869",
+    "carbohydrate": "59.213",
+    "sugars": "1.053",
+    "starch": "58.16",
+    "polyols": "0",
+    "fibre": "13.26",
+    "protein": "12.8125",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C211100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

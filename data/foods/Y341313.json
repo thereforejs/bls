@@ -1,0 +1,44 @@
+{
+  "code": "Y341313",
+  "name": {
+    "de": "Debreziner Bohnengulasch (mit Schweinefleisch)",
+    "en": "\"Debreziner\" bean goulash with pork"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "0.77",
+    "monounsaturates": "2.42",
+    "polyunsaturates": "1.01",
+    "carbohydrate": "2.3",
+    "sugars": "1.75",
+    "starch": "0.4",
+    "polyols": "0.13",
+    "fibre": "1.1",
+    "protein": "10.52",
+    "sodium": "0.125",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y341313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

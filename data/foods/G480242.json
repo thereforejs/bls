@@ -1,0 +1,44 @@
+{
+  "code": "G480242",
+  "name": {
+    "de": "Speisezwiebel tiefgefroren, geschmort ohne Fett",
+    "en": "Onion deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.207",
+    "saturates": "0.0346",
+    "monounsaturates": "0.0208",
+    "polyunsaturates": "0.0714",
+    "carbohydrate": "8.35",
+    "sugars": "8.35",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "1.589",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0.352"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Q210000",
+  "name": {
+    "de": "Erdnussöl",
+    "en": "Peanut oil"
+  },
+  "per100g": {
+    "fat": "99.9",
+    "saturates": "16.7",
+    "monounsaturates": "54.1",
+    "polyunsaturates": "23.7",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q210000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

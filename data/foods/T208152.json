@@ -1,0 +1,44 @@
+{
+  "code": "T208152",
+  "name": {
+    "de": "Merlan/Wittling, gedünstet",
+    "en": "Whiting stewed"
+  },
+  "per100g": {
+    "fat": "1.25",
+    "saturates": "0.223",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.4",
+    "sodium": "0.082",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T208152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

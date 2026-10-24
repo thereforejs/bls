@@ -1,0 +1,44 @@
+{
+  "code": "D6A4000",
+  "name": {
+    "de": "Florentiner (Mandelmasse)",
+    "en": "Florentine biscuits (almond mass)"
+  },
+  "per100g": {
+    "fat": "39.48",
+    "saturates": "14.08",
+    "monounsaturates": "17.21",
+    "polyunsaturates": "4.6",
+    "carbohydrate": "31.5",
+    "sugars": "30.8",
+    "starch": "0.63",
+    "polyols": "0",
+    "fibre": "5.8",
+    "protein": "10.65",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.039"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D6A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

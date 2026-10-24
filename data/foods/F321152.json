@@ -1,0 +1,44 @@
+{
+  "code": "F321152",
+  "name": {
+    "de": "Johannisbeere rot, gedünstet",
+    "en": "Red currant stewed"
+  },
+  "per100g": {
+    "fat": "0.211",
+    "saturates": "0.041",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.077",
+    "carbohydrate": "4.52",
+    "sugars": "4.52",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "3.7",
+    "protein": "1.514",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "2.495"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F321152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

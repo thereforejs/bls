@@ -1,0 +1,44 @@
+{
+  "code": "E470032",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli (Gemüsefüllung) gekocht",
+    "en": "Fresh egg pasta Ravioli (vegetable filling) boiled"
+  },
+  "per100g": {
+    "fat": "2.08",
+    "saturates": "0.3",
+    "monounsaturates": "0.5",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "24.5",
+    "sugars": "0.77",
+    "starch": "23.7",
+    "polyols": "0.001",
+    "fibre": "2",
+    "protein": "4.99",
+    "sodium": "0.139",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E470032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

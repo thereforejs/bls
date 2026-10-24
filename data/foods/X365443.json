@@ -1,0 +1,44 @@
+{
+  "code": "X365443",
+  "name": {
+    "de": "Hagebuttensauce aus Konfitüre",
+    "en": "Rose hip sauce of jam"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.011",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.076",
+    "carbohydrate": "44.5",
+    "sugars": "43.4",
+    "starch": "1.075",
+    "polyols": "0.019",
+    "fibre": "0.7",
+    "protein": "0.3",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.507"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X365443",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

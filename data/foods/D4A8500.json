@@ -1,0 +1,44 @@
+{
+  "code": "D4A8500",
+  "name": {
+    "de": "Nusskuchen vegan (Rührmasse)",
+    "en": "Nut cake vegan (cake batter)"
+  },
+  "per100g": {
+    "fat": "25.87",
+    "saturates": "3.75",
+    "monounsaturates": "16.68",
+    "polyunsaturates": "4.21",
+    "carbohydrate": "40.3",
+    "sugars": "21.613",
+    "starch": "18.7",
+    "polyols": "0",
+    "fibre": "4.2",
+    "protein": "7.33",
+    "sodium": "0.195",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A8500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

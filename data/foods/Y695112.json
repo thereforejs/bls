@@ -1,0 +1,44 @@
+{
+  "code": "Y695112",
+  "name": {
+    "de": "Fischstäbchen (mit Alaska-Seelachs) gebraten",
+    "en": "Fish fingers (with Alaska pollock) fried"
+  },
+  "per100g": {
+    "fat": "15.409",
+    "saturates": "1.73",
+    "monounsaturates": "5.85",
+    "polyunsaturates": "6.87",
+    "carbohydrate": "15.57",
+    "sugars": "1.04",
+    "starch": "14.53",
+    "polyols": "0.002",
+    "fibre": "0.867",
+    "protein": "13.121",
+    "sodium": "0.271",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y695112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

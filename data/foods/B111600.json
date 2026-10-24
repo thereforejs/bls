@@ -1,0 +1,44 @@
+{
+  "code": "B111600",
+  "name": {
+    "de": "Weizenvollkornbrot mit Sonnenblumenkernen",
+    "en": "Wholemeal wheat bread with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "3.37",
+    "saturates": "0.35",
+    "monounsaturates": "0.78",
+    "polyunsaturates": "1.78",
+    "carbohydrate": "38",
+    "sugars": "1.2",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "7.73",
+    "protein": "9.3",
+    "sodium": "0.449",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B111600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

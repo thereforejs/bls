@@ -1,0 +1,44 @@
+{
+  "code": "D660100",
+  "name": {
+    "de": "Makronen/Mandelmakronen",
+    "en": "Macaroons"
+  },
+  "per100g": {
+    "fat": "20.9",
+    "saturates": "1.78",
+    "monounsaturates": "13.2",
+    "polyunsaturates": "4.6",
+    "carbohydrate": "46.59",
+    "sugars": "46.481",
+    "starch": "0.11",
+    "polyols": "0",
+    "fibre": "4.5",
+    "protein": "12.3",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D660100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X434442",
+  "name": {
+    "de": "Weißbrotwürfel geröstet in Butter (Croutons)",
+    "en": "Croutons, white bread cubes toasted in butter"
+  },
+  "per100g": {
+    "fat": "32.43",
+    "saturates": "19.793",
+    "monounsaturates": "7.136",
+    "polyunsaturates": "1.021",
+    "carbohydrate": "40.84",
+    "sugars": "3.43",
+    "starch": "37.4",
+    "polyols": "0.007",
+    "fibre": "3.21",
+    "protein": "7.44",
+    "sodium": "0.46",
+    "alcohol": "0",
+    "organicAcids": "0.211"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X434442",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

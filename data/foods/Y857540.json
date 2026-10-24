@@ -1,0 +1,44 @@
+{
+  "code": "Y857540",
+  "name": {
+    "de": "Erdbeerschnee",
+    "en": "Strawberry froth"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.023",
+    "monounsaturates": "0.037",
+    "polyunsaturates": "0.148",
+    "carbohydrate": "22.091",
+    "sugars": "22.057",
+    "starch": "0",
+    "polyols": "0.034",
+    "fibre": "1.1",
+    "protein": "2.4",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.91"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y857540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

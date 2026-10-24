@@ -1,0 +1,44 @@
+{
+  "code": "X454713",
+  "name": {
+    "de": "Haferschleim",
+    "en": "Oat gruel"
+  },
+  "per100g": {
+    "fat": "0.386",
+    "saturates": "0.078",
+    "monounsaturates": "0.137",
+    "polyunsaturates": "0.156",
+    "carbohydrate": "3.1",
+    "sugars": "0.043",
+    "starch": "3.1",
+    "polyols": "0",
+    "fibre": "0.638",
+    "protein": "0.768",
+    "sodium": "0.0136",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X454713",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

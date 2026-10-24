@@ -1,0 +1,44 @@
+{
+  "code": "D411200",
+  "name": {
+    "de": "Rehrücken (Wiener Boden hell)",
+    "en": "Mock saddle of venison cake (Viennese sponge cake light)"
+  },
+  "per100g": {
+    "fat": "32.26",
+    "saturates": "14.63",
+    "monounsaturates": "11.91",
+    "polyunsaturates": "2.9",
+    "carbohydrate": "38.5",
+    "sugars": "29.1",
+    "starch": "9.4",
+    "polyols": "0",
+    "fibre": "4.8",
+    "protein": "9.76",
+    "sodium": "0.108",
+    "alcohol": "0",
+    "organicAcids": "0.012"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D411200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

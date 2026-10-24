@@ -1,0 +1,44 @@
+{
+  "code": "X3A7020",
+  "name": {
+    "de": "Salsa verde",
+    "en": "Salsa verde"
+  },
+  "per100g": {
+    "fat": "50.7",
+    "saturates": "6",
+    "monounsaturates": "37.6",
+    "polyunsaturates": "3.9",
+    "carbohydrate": "2",
+    "sugars": "0.38",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "2.06",
+    "protein": "2.18",
+    "sodium": "0.486",
+    "alcohol": "0.008",
+    "organicAcids": "0.79"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A7020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

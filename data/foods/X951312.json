@@ -1,0 +1,44 @@
+{
+  "code": "X951312",
+  "name": {
+    "de": "Hirse gedünstet (mit Fett und Salz)",
+    "en": "Millet stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.78",
+    "saturates": "0.48",
+    "monounsaturates": "2.34",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "24.8",
+    "sugars": "0.213",
+    "starch": "24.59",
+    "polyols": "0",
+    "fibre": "1.26",
+    "protein": "4.37",
+    "sodium": "0.0881",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X951312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

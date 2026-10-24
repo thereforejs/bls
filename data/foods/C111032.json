@@ -1,0 +1,44 @@
+{
+  "code": "C111032",
+  "name": {
+    "de": "Weizen ganzes Korn, gekocht",
+    "en": "Wheat whole grain, boiled"
+  },
+  "per100g": {
+    "fat": "0.927",
+    "saturates": "0.156",
+    "monounsaturates": "0.0967",
+    "polyunsaturates": "0.4128",
+    "carbohydrate": "31.6",
+    "sugars": "0.56",
+    "starch": "31.04",
+    "polyols": "0",
+    "fibre": "7.077",
+    "protein": "6.8381",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C111032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

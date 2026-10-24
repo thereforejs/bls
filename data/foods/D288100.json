@@ -1,0 +1,44 @@
+{
+  "code": "D288100",
+  "name": {
+    "de": "Pfirsichtorte (Mürbeteig) mit Klarguss",
+    "en": "Peach torte (shortcrust pastry) with gelatin glaze"
+  },
+  "per100g": {
+    "fat": "9.15",
+    "saturates": "5.63",
+    "monounsaturates": "2.01",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "23.15",
+    "sugars": "10.32",
+    "starch": "12.33",
+    "polyols": "0.5",
+    "fibre": "1.7",
+    "protein": "2.7",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D288100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

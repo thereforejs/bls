@@ -1,0 +1,44 @@
+{
+  "code": "X468263",
+  "name": {
+    "de": "Hamburger National (Steckrüben-Kartoffel-Eintopf mit Poularde)",
+    "en": "Swede-potato stew with poulard \"Hamburg National\""
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "0.4",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "5",
+    "sugars": "1.4",
+    "starch": "4",
+    "polyols": "0.04",
+    "fibre": "1",
+    "protein": "4",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.133"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X468263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M502600",
+  "name": {
+    "de": "Edelpilzkäse mind. 45 % Fett i. Tr.",
+    "en": "Blue cheese min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "28.06",
+    "saturates": "18.221",
+    "monounsaturates": "6.123",
+    "polyunsaturates": "0.642",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.65",
+    "sodium": "0.747",
+    "alcohol": "0",
+    "organicAcids": "0.57"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M502600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

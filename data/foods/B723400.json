@@ -1,0 +1,44 @@
+{
+  "code": "B723400",
+  "name": {
+    "de": "Laugengebäck mit Sonnenblumenkernen",
+    "en": "Lye pastry (pretzels) with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "3.58",
+    "saturates": "1.03",
+    "monounsaturates": "1.23",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "50",
+    "sugars": "1.4",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "3.51",
+    "protein": "9",
+    "sodium": "0.514",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B723400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

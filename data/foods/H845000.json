@@ -1,0 +1,44 @@
+{
+  "code": "H845000",
+  "name": {
+    "de": "Sojakochcreme",
+    "en": "Plant-based cream alternative, made from soya (for boiling and refining)"
+  },
+  "per100g": {
+    "fat": "15.7",
+    "saturates": "1.6",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "5.07",
+    "carbohydrate": "1.4",
+    "sugars": "0",
+    "starch": "1.4",
+    "polyols": null,
+    "fibre": "0.5",
+    "protein": "2.2",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H845000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

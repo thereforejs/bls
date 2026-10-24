@@ -1,0 +1,44 @@
+{
+  "code": "B561400",
+  "name": {
+    "de": "Dinkelbrötchen mit Sonnenblumenkernen",
+    "en": "Spelt roll with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "5.44",
+    "saturates": "1.08",
+    "monounsaturates": "1.69",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "50",
+    "sugars": "1.2",
+    "starch": "49",
+    "polyols": "0",
+    "fibre": "5",
+    "protein": "11.2",
+    "sodium": "0.543",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B561400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

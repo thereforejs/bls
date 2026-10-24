@@ -1,0 +1,44 @@
+{
+  "code": "X5A8040",
+  "name": {
+    "de": "Käsealternative Mozzarella-Art, vegan",
+    "en": "Cheese alternative Mozzarella style, vegan"
+  },
+  "per100g": {
+    "fat": "19.4",
+    "saturates": "1.8",
+    "monounsaturates": "9.6",
+    "polyunsaturates": "5.93",
+    "carbohydrate": "1.3",
+    "sugars": "0",
+    "starch": "1.3",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "1.8",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A8040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y261422",
+  "name": {
+    "de": "Kalbsbrust gedünstet, mit Grundsauce dunkel/braun",
+    "en": "Veal brisket stewed, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "14.4",
+    "saturates": "4.7",
+    "monounsaturates": "6.2",
+    "polyunsaturates": "1.77",
+    "carbohydrate": "2.78",
+    "sugars": "0.66",
+    "starch": "2.12",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "13.95",
+    "sodium": "0.225",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y261422",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

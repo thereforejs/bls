@@ -1,0 +1,44 @@
+{
+  "code": "D7A7700",
+  "name": {
+    "de": "Kalter Hund (Kekskuchen ohne Backen)",
+    "en": "\"Kalter Hund\" biscuits cake without baking"
+  },
+  "per100g": {
+    "fat": "30.7",
+    "saturates": "25.2",
+    "monounsaturates": "3.11",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "47.9",
+    "sugars": "35",
+    "starch": "12.9",
+    "polyols": "0.009",
+    "fibre": "2.95",
+    "protein": "4.41",
+    "sodium": "0.114",
+    "alcohol": "0",
+    "organicAcids": "0.068"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

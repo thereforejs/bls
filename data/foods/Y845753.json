@@ -1,0 +1,44 @@
+{
+  "code": "Y845753",
+  "name": {
+    "de": "Apfelkompott mit Karamellsauce",
+    "en": "Apple compote with caramel sauce"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.78",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "13.4",
+    "sugars": "12.2",
+    "starch": "0.905",
+    "polyols": "0.3",
+    "fibre": "0.937",
+    "protein": "1.3",
+    "sodium": "0.012",
+    "alcohol": "0.003",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y845753",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

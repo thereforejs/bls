@@ -1,0 +1,44 @@
+{
+  "code": "U204000",
+  "name": {
+    "de": "Rind Fleisch, grob entsehnt, sichtbarer Fettanteil max. 10 % (R III) roh",
+    "en": "Beef meat, tendons coarsly removed, visible fat content max. 10 % (R III) raw"
+  },
+  "per100g": {
+    "fat": "12.25",
+    "saturates": "5.509",
+    "monounsaturates": "5.71",
+    "polyunsaturates": "0.314",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.93",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U204000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X611143",
+  "name": {
+    "de": "Bouillonkartoffeln (mit Fleischbrühe)",
+    "en": "Bouillon potatoes (with meat stock)"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.0096",
+    "monounsaturates": "0.0011",
+    "polyunsaturates": "0.011",
+    "carbohydrate": "12.595",
+    "sugars": "0.636",
+    "starch": "11.959",
+    "polyols": null,
+    "fibre": "1.014",
+    "protein": "1.48",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X611143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X4B1000",
+  "name": {
+    "de": "Pfirsichkaltschale gebunden mit Stärke",
+    "en": "Cold peach soup thickened with starch"
+  },
+  "per100g": {
+    "fat": "0.081",
+    "saturates": "0.008",
+    "monounsaturates": "0.025",
+    "polyunsaturates": "0.033",
+    "carbohydrate": "13.57",
+    "sugars": "11.71",
+    "starch": "1.112",
+    "polyols": "0.75",
+    "fibre": "1.3",
+    "protein": "0.7",
+    "sodium": "0.001",
+    "alcohol": "0.002",
+    "organicAcids": "0.71"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4B1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H310100",
+  "name": {
+    "de": "Kürbiskern",
+    "en": "Pumpkin seed"
+  },
+  "per100g": {
+    "fat": "46.34",
+    "saturates": "7.692",
+    "monounsaturates": "12.979",
+    "polyunsaturates": "23.012",
+    "carbohydrate": "2.81",
+    "sugars": "1.34",
+    "starch": "1.47",
+    "polyols": null,
+    "fibre": "8.66",
+    "protein": "35.49",
+    "sodium": "0.0277",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H310100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

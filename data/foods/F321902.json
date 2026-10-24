@@ -1,0 +1,44 @@
+{
+  "code": "F321902",
+  "name": {
+    "de": "Johannisbeere rot, gezuckert, Konserve, abgetropft",
+    "en": "Red currant sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.106",
+    "saturates": "0.022",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "14.58",
+    "sugars": "14.58",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "1.6",
+    "protein": "0.729",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.673"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F321902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

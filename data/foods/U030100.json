@@ -1,0 +1,44 @@
+{
+  "code": "U030100",
+  "name": {
+    "de": "Kalb Hackfleisch, roh",
+    "en": "Veal mince, raw"
+  },
+  "per100g": {
+    "fat": "12.515",
+    "saturates": "5.63",
+    "monounsaturates": "5.716",
+    "polyunsaturates": "0.465",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.112",
+    "sodium": "0.083",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U030100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

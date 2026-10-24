@@ -1,0 +1,44 @@
+{
+  "code": "Y814110",
+  "name": {
+    "de": "Apfel-Bananen-Birnensalat mit Honig gesüßt",
+    "en": "Apple-banana-pear salad sweetened with honey"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.11",
+    "monounsaturates": "0.032",
+    "polyunsaturates": "0.155",
+    "carbohydrate": "15.1",
+    "sugars": "13.16",
+    "starch": "0.917",
+    "polyols": "1",
+    "fibre": "2.2",
+    "protein": "0.71",
+    "sodium": "0.001",
+    "alcohol": "0.06",
+    "organicAcids": "0.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y814110",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

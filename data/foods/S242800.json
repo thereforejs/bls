@@ -1,0 +1,44 @@
+{
+  "code": "S242800",
+  "name": {
+    "de": "Speiseeis Vanille, mit Eierlikör",
+    "en": "Vanilla ice cream with egg liqueur"
+  },
+  "per100g": {
+    "fat": "9.78",
+    "saturates": "6.7",
+    "monounsaturates": "1.94",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "23.2",
+    "sugars": "19.2",
+    "starch": "3.96",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "2.58",
+    "sodium": "0.043",
+    "alcohol": "1.84",
+    "organicAcids": "0.491"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S242800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

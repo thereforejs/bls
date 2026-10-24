@@ -1,0 +1,44 @@
+{
+  "code": "Y333831",
+  "name": {
+    "de": "Schweineschnitzel natur, gebraten, mit Grundsauce dunkel/braun",
+    "en": "Pork schnitzel fried, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "0.7",
+    "monounsaturates": "1.9",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "2.18",
+    "sugars": "0.00797",
+    "starch": "2.17",
+    "polyols": "0",
+    "fibre": "0.18",
+    "protein": "20.19",
+    "sodium": "0.225",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y333831",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

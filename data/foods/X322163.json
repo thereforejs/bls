@@ -1,0 +1,44 @@
+{
+  "code": "X322163",
+  "name": {
+    "de": "Pilzsauce von heller/weißer Grundsauce",
+    "en": "Mushroom sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "3",
+    "monounsaturates": "1.16",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3.77",
+    "sugars": "1.36",
+    "starch": "2.09",
+    "polyols": "0.32",
+    "fibre": "1.6",
+    "protein": "1.7",
+    "sodium": "0.224",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X322163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

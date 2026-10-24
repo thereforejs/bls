@@ -1,0 +1,44 @@
+{
+  "code": "B516700",
+  "name": {
+    "de": "Weizenbrötchen mit Kürbiskernen",
+    "en": "Wheat roll with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "5.17",
+    "saturates": "1.23",
+    "monounsaturates": "1.59",
+    "polyunsaturates": "1.94",
+    "carbohydrate": "52",
+    "sugars": "1.9",
+    "starch": "50",
+    "polyols": "0",
+    "fibre": "4.41",
+    "protein": "10.7",
+    "sodium": "0.544",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B516700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

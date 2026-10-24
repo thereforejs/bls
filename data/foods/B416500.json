@@ -1,0 +1,44 @@
+{
+  "code": "B416500",
+  "name": {
+    "de": "Weizenvollkornbrötchen mit Sonnenblumenkernen",
+    "en": "Wholemeal wheat roll with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "5.75",
+    "saturates": "1.12",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "2.38",
+    "carbohydrate": "46",
+    "sugars": "1.4",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "9.42",
+    "protein": "11.2",
+    "sodium": "0.542",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B416500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

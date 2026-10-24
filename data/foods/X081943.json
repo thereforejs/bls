@@ -1,0 +1,44 @@
+{
+  "code": "X081943",
+  "name": {
+    "de": "Käsebrot überbacken (\"Welsh rarebit\")",
+    "en": "Cheese toast baked \"Welsh rarebit\""
+  },
+  "per100g": {
+    "fat": "17.69",
+    "saturates": "9",
+    "monounsaturates": "5.4",
+    "polyunsaturates": "1",
+    "carbohydrate": "18.64",
+    "sugars": "0.69",
+    "starch": "17.95",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "19.2",
+    "sodium": "0.734",
+    "alcohol": "0",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X081943",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

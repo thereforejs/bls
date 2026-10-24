@@ -1,0 +1,44 @@
+{
+  "code": "Y273012",
+  "name": {
+    "de": "Kalbsleber gebraten, mit gebratenen Zwiebeln",
+    "en": "Veal liver fried, with fried onions"
+  },
+  "per100g": {
+    "fat": "2.59",
+    "saturates": "0.44",
+    "monounsaturates": "0.93",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "9.25",
+    "sugars": "2.9",
+    "starch": "6.35",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "13.83",
+    "sodium": "0.207",
+    "alcohol": "0",
+    "organicAcids": "0.123"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y273012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

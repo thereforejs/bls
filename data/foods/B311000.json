@@ -1,0 +1,46 @@
+{
+  "code": "B311000",
+  "name": {
+    "de": "Weizenbrot/Weißbrot",
+    "en": "White bread/wheat bread"
+  },
+  "per100g": {
+    "fat": "2.97",
+    "saturates": "0.685",
+    "monounsaturates": "0.837",
+    "polyunsaturates": "0.468",
+    "carbohydrate": "50.54",
+    "sugars": "3.97",
+    "starch": "46.56",
+    "polyols": "0.009",
+    "fibre": "4",
+    "protein": "8.69",
+    "sodium": "0.5682",
+    "alcohol": null,
+    "organicAcids": "0.22"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B311000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

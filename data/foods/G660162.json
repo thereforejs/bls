@@ -1,0 +1,44 @@
+{
+  "code": "G660162",
+  "name": {
+    "de": "Knollensellerie gebacken",
+    "en": "Celeriac baked"
+  },
+  "per100g": {
+    "fat": "0.388",
+    "saturates": "0.078",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.204",
+    "carbohydrate": "3.26",
+    "sugars": "2.483",
+    "starch": "0.518",
+    "polyols": "0.26",
+    "fibre": "4.9",
+    "protein": "1.824",
+    "sodium": "0.091",
+    "alcohol": "0",
+    "organicAcids": "0.508"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G660162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

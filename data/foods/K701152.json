@@ -1,0 +1,44 @@
+{
+  "code": "K701152",
+  "name": {
+    "de": "Champignon gedünstet",
+    "en": "Button mushroom stewed"
+  },
+  "per100g": {
+    "fat": "0.386",
+    "saturates": "0.0679",
+    "monounsaturates": "0.00854",
+    "polyunsaturates": "0.19299",
+    "carbohydrate": "4.2",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": "3.85",
+    "fibre": "2.7",
+    "protein": "5.15",
+    "sodium": "0.05821",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X700212",
+  "name": {
+    "de": "Eier-Frischteigwaren, rot, selbstgemacht, roh",
+    "en": "Fresh egg pasta, red, homemade, raw"
+  },
+  "per100g": {
+    "fat": "5.1",
+    "saturates": "0.95",
+    "monounsaturates": "2.16",
+    "polyunsaturates": "1.18",
+    "carbohydrate": "40.3",
+    "sugars": "0.8",
+    "starch": "39.49",
+    "polyols": "0",
+    "fibre": "3.1",
+    "protein": "9.9",
+    "sodium": "0.409",
+    "alcohol": "0",
+    "organicAcids": "0.039"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X700212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G670152",
+  "name": {
+    "de": "Wurzelpetersilie gedünstet",
+    "en": "Parsley root stewed"
+  },
+  "per100g": {
+    "fat": "0.461",
+    "saturates": "0.075",
+    "monounsaturates": "0.0313",
+    "polyunsaturates": "0.2471",
+    "carbohydrate": "13.5",
+    "sugars": "5.931",
+    "starch": "6.5",
+    "polyols": "0.804",
+    "fibre": "2.088",
+    "protein": "2.824",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0.47"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G670152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

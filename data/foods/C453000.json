@@ -1,0 +1,44 @@
+{
+  "code": "C453000",
+  "name": {
+    "de": "Reis Mehl",
+    "en": "Rice flour"
+  },
+  "per100g": {
+    "fat": "0.65",
+    "saturates": "0.137",
+    "monounsaturates": "0.236",
+    "polyunsaturates": "0.244",
+    "carbohydrate": "77.1",
+    "sugars": "0.28",
+    "starch": "76.8",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "7.198",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C453000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

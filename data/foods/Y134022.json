@@ -1,0 +1,44 @@
+{
+  "code": "Y134022",
+  "name": {
+    "de": "Rinderrumpsteak gebraten",
+    "en": "Beef rump steak fried"
+  },
+  "per100g": {
+    "fat": "7.26",
+    "saturates": "2.55",
+    "monounsaturates": "3.07",
+    "polyunsaturates": "0.58",
+    "carbohydrate": "0.02",
+    "sugars": "0",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "28.7",
+    "sodium": "0.279",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y134022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

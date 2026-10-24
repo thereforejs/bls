@@ -1,0 +1,44 @@
+{
+  "code": "X061410",
+  "name": {
+    "de": "Laugenbrezel mit Butter",
+    "en": "Pretzel with butter"
+  },
+  "per100g": {
+    "fat": "24.936",
+    "saturates": "14.75",
+    "monounsaturates": "5.49",
+    "polyunsaturates": "0.96",
+    "carbohydrate": "36",
+    "sugars": "1.1",
+    "starch": "35",
+    "polyols": "0",
+    "fibre": "2.747",
+    "protein": "7.014",
+    "sodium": "0.827",
+    "alcohol": "0",
+    "organicAcids": "0.0227"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X061410",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

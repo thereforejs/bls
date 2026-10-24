@@ -1,0 +1,44 @@
+{
+  "code": "D6A1000",
+  "name": {
+    "de": "Basler Leckerli",
+    "en": "Basler Leckerli (hard spice biscuit)"
+  },
+  "per100g": {
+    "fat": "6.9",
+    "saturates": "0.6",
+    "monounsaturates": "4.22",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "72.3",
+    "sugars": "51.7",
+    "starch": "20.4",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "6.15",
+    "sodium": "0.067",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D6A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

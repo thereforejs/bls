@@ -1,0 +1,44 @@
+{
+  "code": "B256000",
+  "name": {
+    "de": "Weizenmischbrot mit Ölsamen",
+    "en": "Wheat-rye bread (> 50 % and < 90 % wheat) with oilseeds"
+  },
+  "per100g": {
+    "fat": "3.01",
+    "saturates": "0.37",
+    "monounsaturates": "0.75",
+    "polyunsaturates": "1.52",
+    "carbohydrate": "41",
+    "sugars": "0.626",
+    "starch": "40",
+    "polyols": "0",
+    "fibre": "6.67",
+    "protein": "7.98",
+    "sodium": "0.46",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B256000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

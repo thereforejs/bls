@@ -1,0 +1,44 @@
+{
+  "code": "G620282",
+  "name": {
+    "de": "Karotte/Möhre, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Carrot deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.78",
+    "saturates": "0.1813",
+    "monounsaturates": "0.2021",
+    "polyunsaturates": "0.146",
+    "carbohydrate": "11.983",
+    "sugars": "11.796",
+    "starch": "0.1874",
+    "polyols": "0",
+    "fibre": "5.7",
+    "protein": "1.389",
+    "sodium": "0.0398",
+    "alcohol": "0",
+    "organicAcids": "0.835"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

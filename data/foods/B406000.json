@@ -1,0 +1,44 @@
+{
+  "code": "B406000",
+  "name": {
+    "de": "Vollkornbrötchen mit Ölsamen",
+    "en": "Wholemeal roll with oilseeds"
+  },
+  "per100g": {
+    "fat": "5.54",
+    "saturates": "1.18",
+    "monounsaturates": "1.67",
+    "polyunsaturates": "2.17",
+    "carbohydrate": "45",
+    "sugars": "1.5",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "10.59",
+    "protein": "10.7",
+    "sodium": "0.543",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B406000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

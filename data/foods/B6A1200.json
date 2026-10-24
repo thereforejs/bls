@@ -1,0 +1,44 @@
+{
+  "code": "B6A1200",
+  "name": {
+    "de": "Weizenvollkornknäckebrot mit Müslizutaten, gesüßt",
+    "en": "Wholemeal wheat crispbread with muesli ingredients, sweetened"
+  },
+  "per100g": {
+    "fat": "18.1",
+    "saturates": "3.6",
+    "monounsaturates": "7.3",
+    "polyunsaturates": "5.8",
+    "carbohydrate": "50",
+    "sugars": "13.8",
+    "starch": "36",
+    "polyols": "0.111",
+    "fibre": "10.1",
+    "protein": "13.6",
+    "sodium": "0.188",
+    "alcohol": "0",
+    "organicAcids": "0.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A1200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F563100",
+  "name": {
+    "de": "Feijoa/Ananas-Guave, roh",
+    "en": "Feijoa/pineapple guava, raw"
+  },
+  "per100g": {
+    "fat": "0.42",
+    "saturates": "0.103",
+    "monounsaturates": "0.056",
+    "polyunsaturates": "0.136",
+    "carbohydrate": "8.4",
+    "sugars": "8.2",
+    "starch": "0.2",
+    "polyols": null,
+    "fibre": "6.4",
+    "protein": "0.8",
+    "sodium": "0.003",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F563100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

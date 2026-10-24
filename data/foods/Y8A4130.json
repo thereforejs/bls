@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4130",
+  "name": {
+    "de": "Vanilleflammeri/Vanillepudding (als Dessert) mit Schokoladensauce",
+    "en": "Vanilla pudding (as dessert) with chocolate sauce"
+  },
+  "per100g": {
+    "fat": "5.35",
+    "saturates": "2.97",
+    "monounsaturates": "1.42",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "17.6",
+    "sugars": "10.87",
+    "starch": "6.7",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "4.4",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.061"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4130",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

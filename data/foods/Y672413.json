@@ -1,0 +1,44 @@
+{
+  "code": "Y672413",
+  "name": {
+    "de": "Hecht gedünstet, mit Weißweinsauce von heller/weißer Grundsauce und saurer Sahne",
+    "en": "Pike stewed, with white wine sauce from white basic sauce and sour cream"
+  },
+  "per100g": {
+    "fat": "6.1",
+    "saturates": "1.1",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "1.9",
+    "sugars": "0.9",
+    "starch": "0.3",
+    "polyols": "0.67",
+    "fibre": "0.5",
+    "protein": "11.3",
+    "sodium": "0.18",
+    "alcohol": "0.08",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y672413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "Q830000",
+  "name": {
+    "de": "Hühnerfett",
+    "en": "Chicken fat"
+  },
+  "per100g": {
+    "fat": "100",
+    "saturates": "29.118",
+    "monounsaturates": "41.655",
+    "polyunsaturates": "28.04",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": null,
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {
+    "protein": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q830000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

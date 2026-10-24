@@ -1,0 +1,44 @@
+{
+  "code": "D9A4200",
+  "name": {
+    "de": "Marzipan-Vollkornplunder",
+    "en": "Wholemeal Danish pastry with marzipan"
+  },
+  "per100g": {
+    "fat": "31.3",
+    "saturates": "11.91",
+    "monounsaturates": "13.86",
+    "polyunsaturates": "4.8",
+    "carbohydrate": "43",
+    "sugars": "22.838",
+    "starch": "20",
+    "polyols": "0",
+    "fibre": "5.03",
+    "protein": "8.12",
+    "sodium": "0.224",
+    "alcohol": "0",
+    "organicAcids": "0.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A4200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

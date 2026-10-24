@@ -1,0 +1,44 @@
+{
+  "code": "X358140",
+  "name": {
+    "de": "Joghurt-Sahnesauce mit Kräutern für Salat",
+    "en": "Yogurt-cream sauce with herbs for salad"
+  },
+  "per100g": {
+    "fat": "6.7",
+    "saturates": "3.7",
+    "monounsaturates": "2",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "3.8",
+    "sugars": "3.8",
+    "starch": "0.004",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "3.16",
+    "sodium": "0.16",
+    "alcohol": "0",
+    "organicAcids": "1.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X358140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

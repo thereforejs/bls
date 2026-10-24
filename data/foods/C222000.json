@@ -1,0 +1,44 @@
+{
+  "code": "C222000",
+  "name": {
+    "de": "Roggen Backschrot, Type 1800",
+    "en": "Rye coarse meal, Type 1800"
+  },
+  "per100g": {
+    "fat": "1.37",
+    "saturates": "0.14",
+    "monounsaturates": "0.2",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "55.91",
+    "sugars": "1.846",
+    "starch": "54.06",
+    "polyols": "0",
+    "fibre": "19.86",
+    "protein": "9",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C222000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

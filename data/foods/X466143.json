@@ -1,0 +1,44 @@
+{
+  "code": "X466143",
+  "name": {
+    "de": "Weißkraut-Eintopf mit Hammelfleisch",
+    "en": "White cabbage stew with mutton"
+  },
+  "per100g": {
+    "fat": "8.4",
+    "saturates": "2.7",
+    "monounsaturates": "3.78",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "5.1",
+    "sugars": "5",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "2.3",
+    "protein": "4.5",
+    "sodium": "0.206",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X466143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

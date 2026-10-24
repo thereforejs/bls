@@ -1,0 +1,44 @@
+{
+  "code": "X518412",
+  "name": {
+    "de": "Karotten und Erbsen gedünstet (mit Fett und Salz)",
+    "en": "Carrots and peas stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.33",
+    "saturates": "0.29",
+    "monounsaturates": "1.77",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "7.333",
+    "sugars": "3.619",
+    "starch": "3.714",
+    "polyols": "0",
+    "fibre": "3.1",
+    "protein": "2.4",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0.307"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X518412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

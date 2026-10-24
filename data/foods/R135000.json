@@ -1,0 +1,44 @@
+{
+  "code": "R135000",
+  "name": {
+    "de": "Senf süß",
+    "en": "Mustard sweet"
+  },
+  "per100g": {
+    "fat": "5.37",
+    "saturates": "0.4",
+    "monounsaturates": "3.06",
+    "polyunsaturates": "1.71",
+    "carbohydrate": "25.1",
+    "sugars": "25",
+    "starch": "0.14",
+    "polyols": "0",
+    "fibre": "3.5",
+    "protein": "4.25",
+    "sodium": "1.0098",
+    "alcohol": "0",
+    "organicAcids": "1.344"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R135000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

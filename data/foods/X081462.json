@@ -1,0 +1,44 @@
+{
+  "code": "X081462",
+  "name": {
+    "de": "Toast mit Kochschinken, Käse und Tomaten, gebacken",
+    "en": "Toast with boiled ham, cheese and tomatoes, baked"
+  },
+  "per100g": {
+    "fat": "11.49",
+    "saturates": "7.352",
+    "monounsaturates": "2.81",
+    "polyunsaturates": "0.395",
+    "carbohydrate": "8.66",
+    "sugars": "1.69",
+    "starch": "6.974",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "15.9",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.264"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X081462",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

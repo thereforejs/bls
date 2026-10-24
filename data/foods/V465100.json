@@ -1,0 +1,44 @@
+{
+  "code": "V465100",
+  "name": {
+    "de": "Ente Schenkel, mit Haut, roh",
+    "en": "Duck leg, with skin, raw"
+  },
+  "per100g": {
+    "fat": "15.96",
+    "saturates": "5.3",
+    "monounsaturates": "7.57",
+    "polyunsaturates": "2.06",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.17",
+    "sodium": "0.103",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V465100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

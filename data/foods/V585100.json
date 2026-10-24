@@ -1,0 +1,44 @@
+{
+  "code": "V585100",
+  "name": {
+    "de": "Lamm Bries, roh",
+    "en": "Lamb sweetbread, raw"
+  },
+  "per100g": {
+    "fat": "3.16",
+    "saturates": "1.6",
+    "monounsaturates": null,
+    "polyunsaturates": "0.22",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.2",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V585100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

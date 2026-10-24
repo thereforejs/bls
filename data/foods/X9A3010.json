@@ -1,0 +1,44 @@
+{
+  "code": "X9A3010",
+  "name": {
+    "de": "Blätterteigtaschen gefüllt mit Käse und Kochschinken, gebacken",
+    "en": "Puff pastry pockets filled with cheese and boiled ham, baked"
+  },
+  "per100g": {
+    "fat": "25.8",
+    "saturates": "11.8",
+    "monounsaturates": "10",
+    "polyunsaturates": "2.93",
+    "carbohydrate": "15.6",
+    "sugars": "0.8",
+    "starch": "14.78",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "16",
+    "sodium": "0.66",
+    "alcohol": "0",
+    "organicAcids": "0.647"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

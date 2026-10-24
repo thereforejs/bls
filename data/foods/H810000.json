@@ -1,0 +1,44 @@
+{
+  "code": "H810000",
+  "name": {
+    "de": "Studentenfutter",
+    "en": "Fruit and nut mix"
+  },
+  "per100g": {
+    "fat": "32.2",
+    "saturates": "4.3",
+    "monounsaturates": "17",
+    "polyunsaturates": "8.6",
+    "carbohydrate": "32.3",
+    "sugars": "29.6",
+    "starch": "2.3",
+    "polyols": "0.401",
+    "fibre": "6.2",
+    "protein": "12.3",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "1.767"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H810000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y171113",
+  "name": {
+    "de": "Rinderherz gedünstet, mit Sauce",
+    "en": "Beef heart, stewed, with sauce"
+  },
+  "per100g": {
+    "fat": "12.5",
+    "saturates": "4",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "1.42",
+    "carbohydrate": "1",
+    "sugars": "1",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0.5",
+    "protein": "17.3",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y171113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

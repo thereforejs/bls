@@ -1,0 +1,44 @@
+{
+  "code": "V913200",
+  "name": {
+    "de": "Pastete von Hasenfleisch, gebacken",
+    "en": "Pate made from rabbit, baked"
+  },
+  "per100g": {
+    "fat": "12.07",
+    "saturates": "5.6",
+    "monounsaturates": "3.05",
+    "polyunsaturates": "0.83",
+    "carbohydrate": "7.9",
+    "sugars": "0.07",
+    "starch": "7.8",
+    "polyols": "0",
+    "fibre": "0.62",
+    "protein": "19.27",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.0046"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V913200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

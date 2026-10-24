@@ -1,0 +1,44 @@
+{
+  "code": "B517700",
+  "name": {
+    "de": "Weizenbrötchen mit Quark",
+    "en": "Wheat roll with quark"
+  },
+  "per100g": {
+    "fat": "2.68",
+    "saturates": "0.85",
+    "monounsaturates": "0.9",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "56",
+    "sugars": "2.1",
+    "starch": "53",
+    "polyols": "0",
+    "fibre": "4.15",
+    "protein": "10.2",
+    "sodium": "0.578",
+    "alcohol": "0",
+    "organicAcids": "0.068"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B517700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

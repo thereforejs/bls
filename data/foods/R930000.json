@@ -1,0 +1,44 @@
+{
+  "code": "R930000",
+  "name": {
+    "de": "Vanillebuttercreme eihaltig, gestreckt, für Gebäck/Torten",
+    "en": "Vanilla butter cream with egg, light, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "20.77",
+    "saturates": "12.88",
+    "monounsaturates": "4.66",
+    "polyunsaturates": "0.59",
+    "carbohydrate": "22.5",
+    "sugars": "18.2",
+    "starch": "4.335",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "2.7",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R930000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

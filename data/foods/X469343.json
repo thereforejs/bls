@@ -1,0 +1,44 @@
+{
+  "code": "X469343",
+  "name": {
+    "de": "Holländischer Eintopf (mit Kartoffeln, Karotten und Mettwürstchen)",
+    "en": "Dutch stew (with potatoes, carrots and small Mettwurst sausages)"
+  },
+  "per100g": {
+    "fat": "7.1",
+    "saturates": "2.6",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "7.58",
+    "sugars": "3.44",
+    "starch": "4.14",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "6.59",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.175"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

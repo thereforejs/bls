@@ -1,0 +1,44 @@
+{
+  "code": "Y580033",
+  "name": {
+    "de": "Pute gefüllt, gebraten im Ofen, mit Grundsauce dunkel/braun",
+    "en": "Turkey filled, fried in oven, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "11.4",
+    "saturates": "2.3",
+    "monounsaturates": "5.1",
+    "polyunsaturates": "2.87",
+    "carbohydrate": "3.32",
+    "sugars": "0.29",
+    "starch": "3.03",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "15.66",
+    "sodium": "0.28",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y580033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

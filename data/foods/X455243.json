@@ -1,0 +1,44 @@
+{
+  "code": "X455243",
+  "name": {
+    "de": "Brotsuppe (Schwarzbrot) aufgebrüht mit Gemüsebrühe",
+    "en": "Bread soup (brown bread) with vegetable stock"
+  },
+  "per100g": {
+    "fat": "2",
+    "saturates": "0.3",
+    "monounsaturates": "1.05",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "5.06",
+    "sugars": "1.18",
+    "starch": "3.88",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "0.9",
+    "sodium": "0.301",
+    "alcohol": "0",
+    "organicAcids": "0.012"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X455243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

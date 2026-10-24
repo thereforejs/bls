@@ -1,0 +1,44 @@
+{
+  "code": "V593800",
+  "name": {
+    "de": "Schwein Zunge, Kochpökelware",
+    "en": "Pork tongue, cooked cured"
+  },
+  "per100g": {
+    "fat": "12.87",
+    "saturates": "4.207",
+    "monounsaturates": "4.425",
+    "polyunsaturates": "1.396",
+    "carbohydrate": "0.618",
+    "sugars": "0.618",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.88",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V593800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

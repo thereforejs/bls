@@ -1,0 +1,44 @@
+{
+  "code": "X356250",
+  "name": {
+    "de": "Quark-Meerrettich-Dressing",
+    "en": "Quark-horseradish dressing"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.72",
+    "monounsaturates": "0.273",
+    "polyunsaturates": "0.048",
+    "carbohydrate": "4.06",
+    "sugars": "3.85",
+    "starch": "0.21",
+    "polyols": "0",
+    "fibre": "0.25",
+    "protein": "8.21",
+    "sodium": "0.174",
+    "alcohol": "0.008",
+    "organicAcids": "1.55"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X356250",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

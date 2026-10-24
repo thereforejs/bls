@@ -1,0 +1,44 @@
+{
+  "code": "Y692423",
+  "name": {
+    "de": "Fisch-Curry mit Seelachs und Erdnüssen",
+    "en": "Fish curry with saithe and peanuts"
+  },
+  "per100g": {
+    "fat": "6.9",
+    "saturates": "1.4",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "1.65",
+    "carbohydrate": "2.3",
+    "sugars": "2.2",
+    "starch": "0.09",
+    "polyols": "0.01",
+    "fibre": "0.5",
+    "protein": "12",
+    "sodium": "0.188",
+    "alcohol": "0",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y692423",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

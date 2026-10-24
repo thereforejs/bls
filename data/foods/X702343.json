@@ -1,0 +1,44 @@
+{
+  "code": "X702343",
+  "name": {
+    "de": "Vollkorn-Eier-Frischteigwaren mit Roquefortsauce",
+    "en": "Fresh wholemeal egg pasta with Roquefort sauce"
+  },
+  "per100g": {
+    "fat": "19.03",
+    "saturates": "9.06",
+    "monounsaturates": "5.68",
+    "polyunsaturates": "1.58",
+    "carbohydrate": "10.8",
+    "sugars": "0.963",
+    "starch": "9.84",
+    "polyols": "0",
+    "fibre": "2.08",
+    "protein": "8.79",
+    "sodium": "0.414",
+    "alcohol": "0",
+    "organicAcids": "0.171"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X702343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

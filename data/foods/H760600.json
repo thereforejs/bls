@@ -1,0 +1,44 @@
+{
+  "code": "H760600",
+  "name": {
+    "de": "Sojabohne reif, geröstet ohne Fett (Sojakerne)",
+    "en": "Soya bean mature (soya kernel) roasted without fat"
+  },
+  "per100g": {
+    "fat": "18.64",
+    "saturates": "2.398",
+    "monounsaturates": "3.8",
+    "polyunsaturates": "10.949",
+    "carbohydrate": "6.7",
+    "sugars": "6.1",
+    "starch": "0.632",
+    "polyols": null,
+    "fibre": "22.408",
+    "protein": "38.2",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H760600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

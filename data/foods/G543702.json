@@ -1,0 +1,44 @@
+{
+  "code": "G543702",
+  "name": {
+    "de": "Gemüsepaprika rot, gegrillt, in Öl, Konserve, abgetropft",
+    "en": "Sweet pepper red, grilled, in oil, canned, drained"
+  },
+  "per100g": {
+    "fat": "19.778",
+    "saturates": "1.44",
+    "monounsaturates": "11.34",
+    "polyunsaturates": "5.41",
+    "carbohydrate": "6.64",
+    "sugars": "6.64",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.366",
+    "protein": "1.026",
+    "sodium": "0.503",
+    "alcohol": "0",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G543702",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

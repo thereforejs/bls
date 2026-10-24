@@ -1,0 +1,44 @@
+{
+  "code": "X931152",
+  "name": {
+    "de": "Pfannkuchen/Eierkuchen, gebraten, gefüllt mit gedünstetem Mischgemüse",
+    "en": "Pancakes fried, filled with stewed mixed vegetables"
+  },
+  "per100g": {
+    "fat": "6.7",
+    "saturates": "1",
+    "monounsaturates": "3.13",
+    "polyunsaturates": "1.54",
+    "carbohydrate": "14.8",
+    "sugars": "2.69",
+    "starch": "12.1",
+    "polyols": "0.04",
+    "fibre": "2.3",
+    "protein": "4.6",
+    "sodium": "0.131",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X931152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T822500",
+  "name": {
+    "de": "Heringsfilet in Senfcreme, Konserve",
+    "en": "Herring fillet in mustard cream, canned"
+  },
+  "per100g": {
+    "fat": "11.47",
+    "saturates": "1.85",
+    "monounsaturates": "5.22",
+    "polyunsaturates": "3.31",
+    "carbohydrate": "3.17",
+    "sugars": "2.17",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "10.5",
+    "sodium": "0.519",
+    "alcohol": "0.002",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T822500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

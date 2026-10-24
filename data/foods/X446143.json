@@ -1,0 +1,44 @@
+{
+  "code": "X446143",
+  "name": {
+    "de": "Karottencremesuppe",
+    "en": "Cream of carrot soup"
+  },
+  "per100g": {
+    "fat": "1.9",
+    "saturates": "1.1",
+    "monounsaturates": "0.434",
+    "polyunsaturates": "0.064",
+    "carbohydrate": "2.92",
+    "sugars": "2.88",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "0.53",
+    "sodium": "0.204",
+    "alcohol": "0",
+    "organicAcids": "0.153"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X446143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

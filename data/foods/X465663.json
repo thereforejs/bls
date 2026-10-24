@@ -1,0 +1,44 @@
+{
+  "code": "X465663",
+  "name": {
+    "de": "Grüne-Bohnen-Eintopf mit Gemüsebrühe, Kartoffeln und Hammelfleisch",
+    "en": "Green bean stew with vegetable stock, potatoes and mutton"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "2.1",
+    "monounsaturates": "1.64",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "6",
+    "sugars": "1.3",
+    "starch": "5",
+    "polyols": "0.08",
+    "fibre": "1",
+    "protein": "3.8",
+    "sodium": "0.171",
+    "alcohol": "0.001",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X465663",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

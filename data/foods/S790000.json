@@ -1,0 +1,44 @@
+{
+  "code": "S790000",
+  "name": {
+    "de": "Kakaomasse",
+    "en": "Cocoa mass"
+  },
+  "per100g": {
+    "fat": "65.915",
+    "saturates": "39.7",
+    "monounsaturates": "21.36",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "4.6",
+    "sugars": "0.382",
+    "starch": "4.2",
+    "polyols": "0",
+    "fibre": "11.186",
+    "protein": "9.609",
+    "sodium": "0.124",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S790000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

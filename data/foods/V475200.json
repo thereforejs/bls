@@ -1,0 +1,44 @@
+{
+  "code": "V475200",
+  "name": {
+    "de": "Gans Schenkel, mit Haut, tiefgefroren",
+    "en": "Goose leg, with skin, deep-frozen"
+  },
+  "per100g": {
+    "fat": "18.073",
+    "saturates": "5.084",
+    "monounsaturates": "9.497",
+    "polyunsaturates": "1.899",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.17",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V475200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

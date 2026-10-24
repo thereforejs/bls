@@ -1,0 +1,44 @@
+{
+  "code": "X545612",
+  "name": {
+    "de": "Spargel gekocht (mit Fett und Salz)",
+    "en": "Asparagus boiled (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.88",
+    "saturates": "0.37",
+    "monounsaturates": "2.72",
+    "polyunsaturates": "1.37",
+    "carbohydrate": "4.11",
+    "sugars": "3.93",
+    "starch": "0.093",
+    "polyols": "0.09",
+    "fibre": "1.4",
+    "protein": "2.013",
+    "sodium": "0.202",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X545612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

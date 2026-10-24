@@ -1,0 +1,44 @@
+{
+  "code": "D720500",
+  "name": {
+    "de": "Sahne-Windbeutel (Brandmasse) mit Kirschen",
+    "en": "Cream puff (choux pastry) filled with cherries"
+  },
+  "per100g": {
+    "fat": "12.9",
+    "saturates": "6.76",
+    "monounsaturates": "3.37",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "18.5",
+    "sugars": "9.7",
+    "starch": "8.46",
+    "polyols": "0.354",
+    "fibre": "0.7",
+    "protein": "3.68",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D720500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

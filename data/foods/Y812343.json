@@ -1,0 +1,44 @@
+{
+  "code": "Y812343",
+  "name": {
+    "de": "Grießschnitten gebraten, mit Zucker und Zimt",
+    "en": "Semolina slices fried, with sugar and cinnamon"
+  },
+  "per100g": {
+    "fat": "13.7",
+    "saturates": "3.73",
+    "monounsaturates": "6.02",
+    "polyunsaturates": "2.5",
+    "carbohydrate": "18.31",
+    "sugars": "8.43",
+    "starch": "9.88",
+    "polyols": "0.001",
+    "fibre": "0.68",
+    "protein": "6.2",
+    "sodium": "0.109",
+    "alcohol": "0",
+    "organicAcids": "0.071"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y812343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

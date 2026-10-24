@@ -1,0 +1,44 @@
+{
+  "code": "D771800",
+  "name": {
+    "de": "Croissant (Hefeblätterteig/Plunderteig) gefüllt mit Marzipan",
+    "en": "Danish pastry croissant, filled with marzipan"
+  },
+  "per100g": {
+    "fat": "25.6",
+    "saturates": "12.63",
+    "monounsaturates": "9.16",
+    "polyunsaturates": "2.9",
+    "carbohydrate": "44",
+    "sugars": "13.2",
+    "starch": "31",
+    "polyols": "0",
+    "fibre": "2.77",
+    "protein": "7.8",
+    "sodium": "0.292",
+    "alcohol": "0",
+    "organicAcids": "0.016"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

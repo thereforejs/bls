@@ -1,0 +1,44 @@
+{
+  "code": "B276700",
+  "name": {
+    "de": "Roggenmischbrot mit Kürbiskernen",
+    "en": "Rye-wheat bread (> 50 % and < 90 % rye) with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "3.05",
+    "saturates": "0.47",
+    "monounsaturates": "0.75",
+    "polyunsaturates": "1.49",
+    "carbohydrate": "41",
+    "sugars": "0.741",
+    "starch": "40",
+    "polyols": "0",
+    "fibre": "7.3",
+    "protein": "7.98",
+    "sodium": "0.472",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B276700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F607100",
+  "name": {
+    "de": "Clementine roh",
+    "en": "Clementine raw"
+  },
+  "per100g": {
+    "fat": "0.15",
+    "saturates": "0.02",
+    "monounsaturates": "0.04",
+    "polyunsaturates": "0.06",
+    "carbohydrate": "9.19",
+    "sugars": "9.19",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "0.85",
+    "sodium": "0.001",
+    "alcohol": "0.021",
+    "organicAcids": "1.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F607100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

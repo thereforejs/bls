@@ -1,0 +1,44 @@
+{
+  "code": "E612032",
+  "name": {
+    "de": "Teigwaren eifrei, glutenfrei, gekocht",
+    "en": "Pasta egg-free, gluten-free, boiled"
+  },
+  "per100g": {
+    "fat": "0.965",
+    "saturates": "0.13",
+    "monounsaturates": "0.306",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "28.4",
+    "sugars": "0.45",
+    "starch": "27.9",
+    "polyols": "0",
+    "fibre": "3.201",
+    "protein": "3.659",
+    "sodium": "0",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E612032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

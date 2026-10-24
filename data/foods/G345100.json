@@ -1,0 +1,44 @@
+{
+  "code": "G345100",
+  "name": {
+    "de": "Sauerkraut abgetropft, roh",
+    "en": "Sauerkraut drained, raw"
+  },
+  "per100g": {
+    "fat": "0.31",
+    "saturates": "0.072",
+    "monounsaturates": "0.121",
+    "polyunsaturates": "0.064",
+    "carbohydrate": "0.99",
+    "sugars": "0.77",
+    "starch": "0.1",
+    "polyols": "0.123",
+    "fibre": "2.14",
+    "protein": "1.125",
+    "sodium": "0.476",
+    "alcohol": "0.16",
+    "organicAcids": "2.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G345100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

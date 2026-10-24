@@ -1,0 +1,44 @@
+{
+  "code": "M604700",
+  "name": {
+    "de": "Münster mind. 50 % Fett i. Tr.",
+    "en": "Muenster cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "26.3",
+    "saturates": "16.23",
+    "monounsaturates": "6.336",
+    "polyunsaturates": "0.473",
+    "carbohydrate": "0.01",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "20.9",
+    "sodium": "0.9",
+    "alcohol": "0",
+    "organicAcids": "0.606"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M604700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

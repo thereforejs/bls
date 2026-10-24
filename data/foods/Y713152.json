@@ -1,0 +1,44 @@
+{
+  "code": "Y713152",
+  "name": {
+    "de": "Eier im Ausbackteig gebraten",
+    "en": "Eggs in frying batter fried"
+  },
+  "per100g": {
+    "fat": "13.54",
+    "saturates": "2.6",
+    "monounsaturates": "6.18",
+    "polyunsaturates": "2.77",
+    "carbohydrate": "9.6",
+    "sugars": "0.89",
+    "starch": "8.7",
+    "polyols": "0",
+    "fibre": "0.64",
+    "protein": "11.56",
+    "sodium": "0.192",
+    "alcohol": "0",
+    "organicAcids": "0.009"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y713152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

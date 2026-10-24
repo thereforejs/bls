@@ -1,0 +1,44 @@
+{
+  "code": "H862200",
+  "name": {
+    "de": "Miso/Sojabohnenpaste",
+    "en": "Miso/soya bean paste"
+  },
+  "per100g": {
+    "fat": "10.5",
+    "saturates": "1.6",
+    "monounsaturates": "1.8",
+    "polyunsaturates": "6.3",
+    "carbohydrate": "6.2",
+    "sugars": "6.2",
+    "starch": null,
+    "polyols": null,
+    "fibre": "6",
+    "protein": "10.6",
+    "sodium": "4.3",
+    "alcohol": null,
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H862200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X3A3000",
+  "name": {
+    "de": "Jägersauce mit Wildpilzmischung/Pilzragout für Jägerschnitzel",
+    "en": "Mixed mushroom sauce/mushroom ragout for pork schnitzel"
+  },
+  "per100g": {
+    "fat": "8.9",
+    "saturates": "5.4",
+    "monounsaturates": "1.9",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "3",
+    "sugars": "1.6",
+    "starch": "0.03",
+    "polyols": "1.34",
+    "fibre": "5.83",
+    "protein": "4.5",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W352000",
+  "name": {
+    "de": "Zungenblutwurst",
+    "en": "Tongue blood sausage"
+  },
+  "per100g": {
+    "fat": "20.76",
+    "saturates": "7.6",
+    "monounsaturates": "8.49",
+    "polyunsaturates": "2.43",
+    "carbohydrate": "0.16",
+    "sugars": "0.1",
+    "starch": "0.06",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "17.44",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W352000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

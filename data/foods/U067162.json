@@ -1,0 +1,44 @@
+{
+  "code": "U067162",
+  "name": {
+    "de": "Kalbskäsebrät mit Schweinefleisch, gebraten ohne Fett (Ofen)",
+    "en": "Leberkase sausage meat from veal with pork, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "25.5",
+    "saturates": "9.2",
+    "monounsaturates": "9.1",
+    "polyunsaturates": "3.2",
+    "carbohydrate": "0.11",
+    "sugars": "0",
+    "starch": "0.11",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "14.4",
+    "sodium": "0.917",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U067162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

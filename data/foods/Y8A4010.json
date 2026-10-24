@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4010",
+  "name": {
+    "de": "Grießbrei (als Dessert) mit Karamellsauce",
+    "en": "Semolina pudding (as dessert) with caramel sauce"
+  },
+  "per100g": {
+    "fat": "3.66",
+    "saturates": "2.11",
+    "monounsaturates": "0.88",
+    "polyunsaturates": "0.15",
+    "carbohydrate": "15.94",
+    "sugars": "11.16",
+    "starch": "4.78",
+    "polyols": "0",
+    "fibre": "0.23",
+    "protein": "4",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.052"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

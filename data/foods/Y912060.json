@@ -1,0 +1,44 @@
+{
+  "code": "Y912060",
+  "name": {
+    "de": "Frikadelle mit Brötchen und Tomatenketchup",
+    "en": "Meatball with roll and tomato ketchup"
+  },
+  "per100g": {
+    "fat": "13.53",
+    "saturates": "3.89",
+    "monounsaturates": "4.44",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "19.85",
+    "sugars": "2.19",
+    "starch": "17.66",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "15.51",
+    "sodium": "0.413",
+    "alcohol": "0",
+    "organicAcids": "0.083"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y912060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

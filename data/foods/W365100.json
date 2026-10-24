@@ -1,0 +1,44 @@
+{
+  "code": "W365100",
+  "name": {
+    "de": "Schweinekümmelmagen",
+    "en": "Schweinekümmelmagen pork brawn with caraway seeds"
+  },
+  "per100g": {
+    "fat": "6.77",
+    "saturates": "2.27",
+    "monounsaturates": "2.65",
+    "polyunsaturates": "0.944",
+    "carbohydrate": "0.16",
+    "sugars": "0",
+    "starch": "0.16",
+    "polyols": "0",
+    "fibre": "0.09",
+    "protein": "23.65",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W365100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

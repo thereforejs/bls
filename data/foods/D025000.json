@@ -1,0 +1,44 @@
+{
+  "code": "D025000",
+  "name": {
+    "de": "Vollkornzwieback ungesüßt",
+    "en": "Wholemeal rusk unsweetened"
+  },
+  "per100g": {
+    "fat": "9.1",
+    "saturates": "2.3",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "3.2",
+    "carbohydrate": "62",
+    "sugars": "0.747",
+    "starch": "61",
+    "polyols": "0",
+    "fibre": "11.71",
+    "protein": "13.07",
+    "sodium": "0.469",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D025000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

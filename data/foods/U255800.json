@@ -1,0 +1,44 @@
+{
+  "code": "U255800",
+  "name": {
+    "de": "Rind Brustkern/Mittelbrust, Rohpökelware",
+    "en": "Beef brisket/centre cut, raw cured"
+  },
+  "per100g": {
+    "fat": "12.506",
+    "saturates": "5.791",
+    "monounsaturates": "5.898",
+    "polyunsaturates": "0.438",
+    "carbohydrate": "0.47",
+    "sugars": "0.47",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.484",
+    "sodium": "1.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U255800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

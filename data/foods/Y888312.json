@@ -1,0 +1,44 @@
+{
+  "code": "Y888312",
+  "name": {
+    "de": "Süßkirschkompott zuckerreduziert",
+    "en": "Sweet cherry compote sugar-reduced"
+  },
+  "per100g": {
+    "fat": "0.246",
+    "saturates": "0.055",
+    "monounsaturates": "0.067",
+    "polyunsaturates": "0.073",
+    "carbohydrate": "16.58",
+    "sugars": "15.25",
+    "starch": "0",
+    "polyols": "1.33",
+    "fibre": "1.5",
+    "protein": "0.717",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.445"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y888312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

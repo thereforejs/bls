@@ -1,0 +1,44 @@
+{
+  "code": "G341142",
+  "name": {
+    "de": "Rotkohl geschmort ohne Fett",
+    "en": "Red cabbage braised without fat"
+  },
+  "per100g": {
+    "fat": "0.318",
+    "saturates": "0.0592",
+    "monounsaturates": "0.0116",
+    "polyunsaturates": "0.172",
+    "carbohydrate": "6.664",
+    "sugars": "6.535",
+    "starch": "0.129",
+    "polyols": null,
+    "fibre": "4.5",
+    "protein": "2.763",
+    "sodium": "0.019",
+    "alcohol": "0",
+    "organicAcids": "0.312"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G341142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

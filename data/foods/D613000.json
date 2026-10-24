@@ -1,0 +1,44 @@
+{
+  "code": "D613000",
+  "name": {
+    "de": "Zitronenkekse glutenfrei",
+    "en": "Lemon biscuits gluten-free"
+  },
+  "per100g": {
+    "fat": "19.603",
+    "saturates": "11.864",
+    "monounsaturates": "4.349",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "60.41",
+    "sugars": "22.995",
+    "starch": "37.415",
+    "polyols": "0",
+    "fibre": "4.578",
+    "protein": "4.427",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.0189"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D613000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

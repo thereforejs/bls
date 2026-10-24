@@ -1,0 +1,44 @@
+{
+  "code": "X200350",
+  "name": {
+    "de": "Tomaten-Gurkensalat mit Joghurtmarinade",
+    "en": "Tomato-cucumber salad with yogurt marinade"
+  },
+  "per100g": {
+    "fat": "0.95",
+    "saturates": "0.24",
+    "monounsaturates": "0.39",
+    "polyunsaturates": "0.22",
+    "carbohydrate": "2.82",
+    "sugars": "2.82",
+    "starch": "0.001",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "1.21",
+    "sodium": "0.03",
+    "alcohol": "0.001",
+    "organicAcids": "0.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X200350",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

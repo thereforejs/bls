@@ -1,0 +1,44 @@
+{
+  "code": "S440000",
+  "name": {
+    "de": "Gelee-Früchte",
+    "en": "Jelly fruit"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "78.6",
+    "sugars": "70.3",
+    "starch": "0",
+    "polyols": "0.155",
+    "fibre": "0.048",
+    "protein": "0.015",
+    "sodium": "0.004",
+    "alcohol": "0.005",
+    "organicAcids": "0.118"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S440000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

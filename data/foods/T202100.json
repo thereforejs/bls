@@ -1,0 +1,44 @@
+{
+  "code": "T202100",
+  "name": {
+    "de": "Leng roh",
+    "en": "Ling raw"
+  },
+  "per100g": {
+    "fat": "0.62",
+    "saturates": "0.15",
+    "monounsaturates": "0.132",
+    "polyunsaturates": "0.114",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T202100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

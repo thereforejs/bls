@@ -1,0 +1,44 @@
+{
+  "code": "G561802",
+  "name": {
+    "de": "Tomate gesäuert, abgetropft",
+    "en": "Tomato pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.098",
+    "saturates": "0.0193",
+    "monounsaturates": "0.0095",
+    "polyunsaturates": "0.0395",
+    "carbohydrate": "6.71",
+    "sugars": "6.71",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "0.846",
+    "sodium": "0.451",
+    "alcohol": "0.018",
+    "organicAcids": "1.98"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G561802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

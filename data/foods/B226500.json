@@ -1,0 +1,44 @@
+{
+  "code": "B226500",
+  "name": {
+    "de": "Roggenbrot mit Sonnenblumenkernen",
+    "en": "Rye bread with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "3.04",
+    "saturates": "0.29",
+    "monounsaturates": "0.76",
+    "polyunsaturates": "1.62",
+    "carbohydrate": "38",
+    "sugars": "1.001",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "8.78",
+    "protein": "6.59",
+    "sodium": "0.453",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B226500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

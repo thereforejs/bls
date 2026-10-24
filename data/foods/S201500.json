@@ -1,0 +1,44 @@
+{
+  "code": "S201500",
+  "name": {
+    "de": "Speiseeis Kaffee, in Waffeltüte",
+    "en": "Coffee ice cream, in waffle cone"
+  },
+  "per100g": {
+    "fat": "10.2",
+    "saturates": "4.91",
+    "monounsaturates": "3.08",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "23.1",
+    "sugars": "17.4",
+    "starch": "5.7",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "4.7",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0.042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S201500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

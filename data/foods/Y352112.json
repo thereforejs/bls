@@ -1,0 +1,44 @@
+{
+  "code": "Y352112",
+  "name": {
+    "de": "Schweinebraten mit Grundsauce dunkel/braun",
+    "en": "Pork roast with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "11.7",
+    "saturates": "3.6",
+    "monounsaturates": "5.1",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "2.2",
+    "sugars": "0.9",
+    "starch": "1.24",
+    "polyols": "0.01",
+    "fibre": "0.8",
+    "protein": "17.2",
+    "sodium": "0.218",
+    "alcohol": "0",
+    "organicAcids": "0.056"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y352112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F091902",
+  "name": {
+    "de": "Fruchtmischung/Fruchtcocktail, in Fruchtsaft, Konserve, abgetropft",
+    "en": "Fruit mix/fruit cocktail, in juice, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.041",
+    "monounsaturates": "0.072",
+    "polyunsaturates": "0.126",
+    "carbohydrate": "10.6",
+    "sugars": "8.9",
+    "starch": "0",
+    "polyols": "1.65",
+    "fibre": "2.5",
+    "protein": "0.8",
+    "sodium": "0.003",
+    "alcohol": "0.022",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F091902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

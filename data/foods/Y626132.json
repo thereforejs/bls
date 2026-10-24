@@ -1,0 +1,44 @@
+{
+  "code": "Y626132",
+  "name": {
+    "de": "Leng paniert, gebraten",
+    "en": "Ling breaded, fried"
+  },
+  "per100g": {
+    "fat": "8",
+    "saturates": "0.97",
+    "monounsaturates": "4.14",
+    "polyunsaturates": "2.02",
+    "carbohydrate": "6.09",
+    "sugars": "0.65",
+    "starch": "5.44",
+    "polyols": "0",
+    "fibre": "0.54",
+    "protein": "17.06",
+    "sodium": "0.254",
+    "alcohol": "0.001",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y626132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

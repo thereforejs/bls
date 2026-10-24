@@ -1,0 +1,44 @@
+{
+  "code": "F921900",
+  "name": {
+    "de": "Apfelkompott/Apfelmus, gezuckert, Konserve",
+    "en": "Apple sauce/apple compote, sugared, canned"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.02",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "20.32",
+    "sugars": "19.2",
+    "starch": "0.495",
+    "polyols": "0.63",
+    "fibre": "1.827",
+    "protein": "0.22",
+    "sodium": "0.003",
+    "alcohol": "0.006",
+    "organicAcids": "0.237"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F921900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

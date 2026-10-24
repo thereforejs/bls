@@ -1,0 +1,44 @@
+{
+  "code": "P350000",
+  "name": {
+    "de": "Fruchtwein (Obstwein)",
+    "en": "Fruit wine"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "4",
+    "sugars": "4",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.004",
+    "alcohol": "3.8",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P350000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

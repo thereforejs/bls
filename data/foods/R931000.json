@@ -1,0 +1,44 @@
+{
+  "code": "R931000",
+  "name": {
+    "de": "Schokoladenbuttercreme eihaltig, gestreckt, für Gebäck/Torten",
+    "en": "Chocolate butter cream with egg, light, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "21.89",
+    "saturates": "13.52",
+    "monounsaturates": "5.2",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "25.2",
+    "sugars": "21",
+    "starch": "4.175",
+    "polyols": "0",
+    "fibre": "0.94",
+    "protein": "3.1",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.045"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R931000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

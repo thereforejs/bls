@@ -1,0 +1,44 @@
+{
+  "code": "D431700",
+  "name": {
+    "de": "Orangenkuchen (Rührmasse)",
+    "en": "Orange cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "21.3",
+    "saturates": "12.85",
+    "monounsaturates": "4.87",
+    "polyunsaturates": "0.82",
+    "carbohydrate": "42.8",
+    "sugars": "23.585",
+    "starch": "19.2",
+    "polyols": "0",
+    "fibre": "1.31",
+    "protein": "5.55",
+    "sodium": "0.11",
+    "alcohol": "0.001",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

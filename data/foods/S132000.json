@@ -1,0 +1,44 @@
+{
+  "code": "S132000",
+  "name": {
+    "de": "Konfitüre extra",
+    "en": "Jam extra quality"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.0156",
+    "monounsaturates": "0.0314",
+    "polyunsaturates": "0.118",
+    "carbohydrate": "56.3",
+    "sugars": "56.3",
+    "starch": "0",
+    "polyols": "0.03",
+    "fibre": "1.1",
+    "protein": "0.4",
+    "sodium": "0.003",
+    "alcohol": "0.2",
+    "organicAcids": "0.794"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S132000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

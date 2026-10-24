@@ -1,0 +1,44 @@
+{
+  "code": "G332902",
+  "name": {
+    "de": "Rosenkohl Konserve, abgetropft",
+    "en": "Brussels sprouts canned, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.0311",
+    "monounsaturates": "0.0048",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "2.2",
+    "sugars": "2.1",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "2.969",
+    "protein": "2.736",
+    "sodium": "0.213",
+    "alcohol": "0",
+    "organicAcids": "0.242"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G332902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

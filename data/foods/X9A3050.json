@@ -1,0 +1,44 @@
+{
+  "code": "X9A3050",
+  "name": {
+    "de": "Grissini",
+    "en": "Grissini"
+  },
+  "per100g": {
+    "fat": "13",
+    "saturates": "1.4",
+    "monounsaturates": "4.8",
+    "polyunsaturates": "6",
+    "carbohydrate": "44",
+    "sugars": "1.11",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "7.05",
+    "protein": "11.63",
+    "sodium": "0.23",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

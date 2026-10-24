@@ -1,0 +1,44 @@
+{
+  "code": "Y271133",
+  "name": {
+    "de": "Kalbsherz gefüllt, gedünstet, mit Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Veal heart filled, stewed, with cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "11.1",
+    "saturates": "3.1",
+    "monounsaturates": "3.6",
+    "polyunsaturates": "1.76",
+    "carbohydrate": "5.5",
+    "sugars": "0.9",
+    "starch": "4.59",
+    "polyols": "0.01",
+    "fibre": "0.7",
+    "protein": "13.4",
+    "sodium": "0.418",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y271133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

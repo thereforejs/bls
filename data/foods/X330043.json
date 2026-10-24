@@ -1,0 +1,44 @@
+{
+  "code": "X330043",
+  "name": {
+    "de": "Grundsauce dunkel/braun (von Fleischbrühe)",
+    "en": "Basic sauce brown (from meat stock)"
+  },
+  "per100g": {
+    "fat": "5.4",
+    "saturates": "0.4",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "1.44",
+    "carbohydrate": "5.53",
+    "sugars": "0.02043",
+    "starch": "5.51",
+    "polyols": "0",
+    "fibre": "0.42",
+    "protein": "1.14",
+    "sodium": "0.257",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X330043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

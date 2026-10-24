@@ -1,0 +1,44 @@
+{
+  "code": "X326353",
+  "name": {
+    "de": "Paprikasauce von Bechamelsauce",
+    "en": "Sweet pepper sauce from Bechamel sauce"
+  },
+  "per100g": {
+    "fat": "6.1",
+    "saturates": "3.9",
+    "monounsaturates": "1.32",
+    "polyunsaturates": "0.15",
+    "carbohydrate": "5.34",
+    "sugars": "2.42",
+    "starch": "2.92",
+    "polyols": "0",
+    "fibre": "0.22",
+    "protein": "2.46",
+    "sodium": "0.195",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X326353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

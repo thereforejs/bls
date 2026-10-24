@@ -1,0 +1,44 @@
+{
+  "code": "W881300",
+  "name": {
+    "de": "Hausmacher Blutwurst Konserve",
+    "en": "Homemade blood sausage canned"
+  },
+  "per100g": {
+    "fat": "28.81",
+    "saturates": "10.8",
+    "monounsaturates": "12.42",
+    "polyunsaturates": "3.42",
+    "carbohydrate": "0.36",
+    "sugars": "0.23",
+    "starch": "0.13",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "15.37",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.005"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W881300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

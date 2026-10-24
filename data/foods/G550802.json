@@ -1,0 +1,44 @@
+{
+  "code": "G550802",
+  "name": {
+    "de": "Pfefferschote gesäuert, abgetropft",
+    "en": "Chilli pepper pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.03",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.111",
+    "carbohydrate": "9.16",
+    "sugars": "9.02",
+    "starch": "0",
+    "polyols": "0.14",
+    "fibre": "1.5",
+    "protein": "1.8",
+    "sodium": "0.479",
+    "alcohol": "0.018",
+    "organicAcids": "1.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G550802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

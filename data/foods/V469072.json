@@ -1,0 +1,44 @@
+{
+  "code": "V469072",
+  "name": {
+    "de": "Ente Fleisch, mit Haut, mariniert, gegrillt",
+    "en": "Duck meat with skin marinated, grilled"
+  },
+  "per100g": {
+    "fat": "20.42",
+    "saturates": "5.98",
+    "monounsaturates": "10",
+    "polyunsaturates": "3.08",
+    "carbohydrate": "0.18",
+    "sugars": "0.18",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "23.35",
+    "sodium": "0.507",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V469072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

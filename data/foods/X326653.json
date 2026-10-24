@@ -1,0 +1,44 @@
+{
+  "code": "X326653",
+  "name": {
+    "de": "Kümmelsauce von heller/weißer Grundsauce",
+    "en": "Caraway seed sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "2.6",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "3.62",
+    "sugars": "0.83",
+    "starch": "2.79",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "0.79",
+    "sodium": "0.296",
+    "alcohol": "0.001",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X326653",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

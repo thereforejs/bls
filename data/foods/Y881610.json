@@ -1,0 +1,44 @@
+{
+  "code": "Y881610",
+  "name": {
+    "de": "Quarkspeise mit Himbeeren",
+    "en": "Quark dish with raspberries"
+  },
+  "per100g": {
+    "fat": "4.87",
+    "saturates": "2.606",
+    "monounsaturates": "1.239",
+    "polyunsaturates": "0.173",
+    "carbohydrate": "10",
+    "sugars": "10",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "1.3",
+    "protein": "5.8",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.953"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y881610",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y271033",
+  "name": {
+    "de": "Kalbsherz geschmort, mit Sahnesauce",
+    "en": "Veal heart braised, with cream sauce"
+  },
+  "per100g": {
+    "fat": "9.5",
+    "saturates": "2.9",
+    "monounsaturates": "2.6",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "3.3",
+    "sugars": "1.2",
+    "starch": "2.09",
+    "polyols": "0.02",
+    "fibre": "1.1",
+    "protein": "11.88",
+    "sodium": "0.273",
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y271033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

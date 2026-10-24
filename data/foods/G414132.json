@@ -1,0 +1,44 @@
+{
+  "code": "G414132",
+  "name": {
+    "de": "Gemüseartischocke/Kardone, gekocht",
+    "en": "Cardoon boiled"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.013",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.27",
+    "sugars": "3.05",
+    "starch": "0.221",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "0.9",
+    "sodium": "0.172",
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G414132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

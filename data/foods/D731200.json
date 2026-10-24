@@ -1,0 +1,44 @@
+{
+  "code": "D731200",
+  "name": {
+    "de": "Apple-Pie (Mürbeteig)",
+    "en": "Apple pie (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "11.14",
+    "saturates": "6.87",
+    "monounsaturates": "2.42",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "22.3",
+    "sugars": "10.7",
+    "starch": "11",
+    "polyols": "0.55",
+    "fibre": "2.37",
+    "protein": "2.1",
+    "sodium": "0.028",
+    "alcohol": "0.004",
+    "organicAcids": "0.343"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D731200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

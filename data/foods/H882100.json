@@ -1,0 +1,44 @@
+{
+  "code": "H882100",
+  "name": {
+    "de": "Frischecreme/Streichcreme, Basis Mandeln, vegan",
+    "en": "Plant-based soft cream cheese alternative, almond-based, vegan"
+  },
+  "per100g": {
+    "fat": "21.6",
+    "saturates": "11.59",
+    "monounsaturates": "6.56",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "0.78",
+    "sugars": "0.732",
+    "starch": "0.05",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "4.481",
+    "sodium": "0.2889",
+    "alcohol": "0",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H882100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

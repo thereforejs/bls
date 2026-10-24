@@ -1,0 +1,44 @@
+{
+  "code": "H230400",
+  "name": {
+    "de": "Kastanienmehl",
+    "en": "Sweet chestnut flour"
+  },
+  "per100g": {
+    "fat": "3.244",
+    "saturates": "0.487",
+    "monounsaturates": "1.728",
+    "polyunsaturates": "0.856",
+    "carbohydrate": "70.354",
+    "sugars": "23.736",
+    "starch": "46.618",
+    "polyols": null,
+    "fibre": "14.293",
+    "protein": "4.995",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H230400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

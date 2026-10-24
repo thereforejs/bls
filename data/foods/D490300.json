@@ -1,0 +1,44 @@
+{
+  "code": "D490300",
+  "name": {
+    "de": "Blätterteig (mit Ei) gebacken",
+    "en": "Puff pastry with egg, baked"
+  },
+  "per100g": {
+    "fat": "46.64",
+    "saturates": "29.22",
+    "monounsaturates": "10.16",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "39.69",
+    "sugars": "0.527",
+    "starch": "39.16",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "8",
+    "sodium": "0.047",
+    "alcohol": "0.001",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D490300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

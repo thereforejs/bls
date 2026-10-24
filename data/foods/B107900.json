@@ -1,0 +1,44 @@
+{
+  "code": "B107900",
+  "name": {
+    "de": "Vollkornbrot mit Quark",
+    "en": "Wholemeal bread with quark"
+  },
+  "per100g": {
+    "fat": "1.02",
+    "saturates": "0.126",
+    "monounsaturates": "0.136",
+    "polyunsaturates": "0.466",
+    "carbohydrate": "38",
+    "sugars": "1.05",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "10.04",
+    "protein": "7.92",
+    "sodium": "0.481",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B107900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

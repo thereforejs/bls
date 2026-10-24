@@ -1,0 +1,44 @@
+{
+  "code": "X421363",
+  "name": {
+    "de": "Rinderkraftbrühe mit Eierstich",
+    "en": "Beef consomme with diced egg custard"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.427",
+    "monounsaturates": "0.324",
+    "polyunsaturates": "0.105",
+    "carbohydrate": "0.31",
+    "sugars": "0.31",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "1.5",
+    "sodium": "0.227",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X421363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

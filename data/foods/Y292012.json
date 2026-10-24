@@ -1,0 +1,44 @@
+{
+  "code": "Y292012",
+  "name": {
+    "de": "Kalbfleisch gekocht (mit Fett und Salz)",
+    "en": "Veal boiled (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "22.719",
+    "saturates": "8.16",
+    "monounsaturates": "9.3",
+    "polyunsaturates": "2.28",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.058",
+    "sodium": "0.335",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y292012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

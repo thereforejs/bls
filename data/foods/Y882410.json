@@ -1,0 +1,44 @@
+{
+  "code": "Y882410",
+  "name": {
+    "de": "Quark (Magerstufe) mit Konfitüre",
+    "en": "Quark (< 10 % fat in dry matter) with jam"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.101",
+    "monounsaturates": "0.042",
+    "polyunsaturates": "0.027",
+    "carbohydrate": "11",
+    "sugars": "11",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0.2",
+    "protein": "10.3",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0.876"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y882410",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

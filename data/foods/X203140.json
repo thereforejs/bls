@@ -1,0 +1,44 @@
+{
+  "code": "X203140",
+  "name": {
+    "de": "Waldorfsalat mit Mayonnaise mit Zitronensaft",
+    "en": "Waldorf salad with mayonnaise (with lemon juice)"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "2.6",
+    "monounsaturates": "7.13",
+    "polyunsaturates": "5.68",
+    "carbohydrate": "4.6",
+    "sugars": "4.04",
+    "starch": "0.4",
+    "polyols": "0.2",
+    "fibre": "2.8",
+    "protein": "2.1",
+    "sodium": "0.105",
+    "alcohol": "0.005",
+    "organicAcids": "0.59"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X203140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

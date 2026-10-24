@@ -1,0 +1,44 @@
+{
+  "code": "U642372",
+  "name": {
+    "de": "Schwein Bauch (wie gewachsen) mariniert, gegrillt",
+    "en": "Pork belly (untrimmed) marinated, grilled"
+  },
+  "per100g": {
+    "fat": "38.32",
+    "saturates": "11.95",
+    "monounsaturates": "15.99",
+    "polyunsaturates": "4.77",
+    "carbohydrate": "0.14",
+    "sugars": "0.13",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "21.95",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.096"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U642372",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

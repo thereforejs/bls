@@ -1,0 +1,44 @@
+{
+  "code": "B723600",
+  "name": {
+    "de": "Laugengebäck mit Käse und Schinkenspeck",
+    "en": "Lye pastry (pretzels) with cheese and bacon"
+  },
+  "per100g": {
+    "fat": "3.41",
+    "saturates": "1.28",
+    "monounsaturates": "1.18",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "50",
+    "sugars": "1.4",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "3.48",
+    "protein": "9.3",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.008"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B723600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

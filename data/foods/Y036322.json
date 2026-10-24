@@ -1,0 +1,44 @@
+{
+  "code": "Y036322",
+  "name": {
+    "de": "Königsberger Klopse",
+    "en": "\"Königsberger Klopse\" meatballs"
+  },
+  "per100g": {
+    "fat": "12.2",
+    "saturates": "4.562",
+    "monounsaturates": "5.04",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "3.64",
+    "sugars": "0.71",
+    "starch": "2.93",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "16.49",
+    "sodium": "0.285",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036322",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

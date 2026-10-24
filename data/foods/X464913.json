@@ -1,0 +1,44 @@
+{
+  "code": "X464913",
+  "name": {
+    "de": "Kichererbsen-Tomaten-Eintopf",
+    "en": "Chickpea-tomato stew"
+  },
+  "per100g": {
+    "fat": "4.4",
+    "saturates": "1.2",
+    "monounsaturates": "1.53",
+    "polyunsaturates": "1.13",
+    "carbohydrate": "9",
+    "sugars": "1.7",
+    "starch": "7",
+    "polyols": "0.46",
+    "fibre": "5.2",
+    "protein": "4.7",
+    "sodium": "0.121",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X464913",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

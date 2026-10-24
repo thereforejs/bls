@@ -1,0 +1,44 @@
+{
+  "code": "C412182",
+  "name": {
+    "de": "Grünkern Vollkornschrot gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Green spelt coarse meal, boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.51",
+    "saturates": "0.06",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "11.44",
+    "sugars": "0.48012",
+    "starch": "10.96",
+    "polyols": "0",
+    "fibre": "2.42",
+    "protein": "2.21",
+    "sodium": "0.0001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C412182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

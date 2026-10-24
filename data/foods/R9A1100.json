@@ -1,0 +1,44 @@
+{
+  "code": "R9A1100",
+  "name": {
+    "de": "Himbeersahnecreme für Gebäck/Torten",
+    "en": "Raspberry cream for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "13.7",
+    "saturates": "7.231",
+    "monounsaturates": "3.555",
+    "polyunsaturates": "0.415",
+    "carbohydrate": "17.5",
+    "sugars": "17.5",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "1.7",
+    "protein": "2.1",
+    "sodium": "0.017",
+    "alcohol": "0",
+    "organicAcids": "0.95"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}
