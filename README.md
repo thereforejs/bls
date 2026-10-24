@@ -31,11 +31,16 @@ const byCode: Record<string, Food> = foods;
 const food = byCode[code]; // undefined for an unknown code
 ```
 
-Values are grams per 100 g as exact decimal text; `null` means the BLS has no value, never 0.
+Values are grams per 100 g as exact decimal text; `null` means no source has a value, never 0.
 
 A few foods carry values that contradict each other in the source, such as saturated fatty acids
 above the fat. They ship unchanged and are listed in [`data/open-issues.json`](./data/open-issues.json);
 `@thereforejs/nutrition` refuses them until they are resolved.
+
+## Contributing
+
+Corrections and new foods are welcome, each value with its source. See
+[CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Source
 
