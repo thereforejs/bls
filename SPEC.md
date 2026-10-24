@@ -101,8 +101,12 @@ are never validated with `[A-Z]\d{6}`.
 - **Sodium** from mg to g: a decimal shift by three places, exact.
 - **Names** verbatim, including slashes and qualifiers ("Weizenbrot/Weißbrot",
   "Roquefort mind. 50 % Fett i. Tr.").
-- **`<LOD`, `<LOQ`, `TR`:** neither zero nor missing (documentation 4.4). How they ship is open
-  (question 3).
+- **`<LOD`, `<LOQ`, `<LOD or <LOQ`, `TR`:** neither zero nor missing (documentation 4.4). The value
+  is `null`, and the mark ships next to it, so the application sees why the value is absent and
+  decides itself (e.g. `0` for a fat below the limit of detection). The package never turns a mark
+  into a number: `TR` is above 0 by definition. Measured 2026-10-24 in the 13 nutrients: `<LOD` 198,
+  `TR` 57, `<LOD or <LOQ` 36, `<LOQ` 18, only in fat, starch, fibre, sodium, alcohol and protein
+  (Apfel getrocknet: fat `<LOD`). The field name is settled with the output shape (section 5).
 
 ---
 
@@ -202,6 +206,7 @@ Listed:
 - German and English names (2026-10-24).
 - Missing is `null`, never `0`; a real `0` stays `0` (2026-10-24).
 - Sodium only, no NACL; no energy (2026-10-24).
+- `<LOD`, `<LOQ`, `TR` ship as `null` with their mark next to it, never as a number (2026-10-24).
 - Name `@thereforejs/bls`, repo `thereforejs/bls`, a Vite+ library like nutrition (2026-10-24).
 
 ---
@@ -213,8 +218,7 @@ Listed:
    A written confirmation from the Max Rubner-Institut (bls.karlsruhe@mri.bund.de) settles it before
    publishing. Building is fine without it.
 2. **Names per language:** how the German and English names are split so one can be tree-shaken away.
-3. **`<LOD`, `<LOQ`, `TR`:** how they ship. Declaration nutrients: `<LOD` 198, `TR` 95,
-   `<LOD or <LOQ` 36, `<LOQ` 18. TR means detected, amount unknown but above 0 (documentation 4.4).
+3. ~~`<LOD`, `<LOQ`, `TR`~~: decided 2026-10-24, `null` with the mark next to it (section 4).
 4. **A part above its whole** (section 8): fix, `null`, or keep and let nutrition refuse.
 5. **Water (WATER):** not needed by nutrition; ship it or not.
 6. **Group entry names** per letter.
