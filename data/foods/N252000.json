@@ -8,7 +8,7 @@
     "fat": "0",
     "saturates": "0",
     "monounsaturates": "0",
-    "polyunsaturates": "0.001",
+    "polyunsaturates": "0",
     "carbohydrate": "9",
     "sugars": "9",
     "starch": "0",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "N252000",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "usda-fndds-2024",
+      "id": "2710567",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }
