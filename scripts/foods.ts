@@ -1,5 +1,6 @@
 import { decimal, multiply, toDecimalString } from "@thereforejs/decy";
 import type { Food, Mark, Nutrient } from "../src/food.ts";
+import { MARKS } from "./nutrients.ts";
 import { shortestDecimal } from "./decimal.ts";
 
 // SPEC 3.1: nutrition's key, the BLS column and the unit the column must carry.
@@ -18,8 +19,6 @@ const NUTRIENTS: Record<Nutrient, readonly [string, "g" | "mg"]> = {
   alcohol: ["ALC", "g"],
   organicAcids: ["OA", "g"],
 };
-
-const MARKS: readonly Mark[] = ["<LOD", "<LOQ", "<LOD or <LOQ", "TR"];
 
 /** The foods of the BLS sheet, header row first, in the order of the sheet. */
 export function toFoods(rows: (string | undefined)[][]): Food[] {

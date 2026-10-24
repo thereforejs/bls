@@ -1,11 +1,12 @@
-# bls: specification
+# foods: specification
 
-The Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut, the German food composition database)
-prepared as exact, tree-shakable data for
-[`@thereforejs/nutrition`](https://github.com/thereforejs/nutrition).
+An open, maintained food composition database as exact, tree-shakable data for
+[`@thereforejs/nutrition`](https://github.com/thereforejs/nutrition). It starts from the
+Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut) and grows from other openly licensed
+sources and contributions, every value with its source.
 
-**This package is not published by the Max Rubner-Institut.** It is an unofficial preparation of the
-BLS 4.0 data under CC BY 4.0 (section 10).
+**This package is not published by the Max Rubner-Institut.** It contains data derived from the BLS 4.0
+under CC BY 4.0 (section 10).
 
 **Where this document and a secondary source disagree, this document wins; where it is unsure, it says
 so.** Open points are listed in section 12, never guessed.
@@ -14,15 +15,17 @@ so.** Open points are listed in section 12, never guessed.
 
 ## 1. What it is, and what it is not
 
-**It is** a data package: per BLS food its code, its German and English name, and its values per
-100 g in exactly the shape nutrition's input takes, so an application writes
-`{ amount: 500, per100g: rye.per100g }`.
+**It is** a data package: per food its code, its German and English name, its values per 100 g in
+exactly the shape nutrition's input takes, so an application writes
+`{ amount: 500, per100g: rye.per100g }`, and where each value comes from.
 
 **It is not:**
 
 - a calculator. It calculates nothing; nutrition does;
-- a repair shop. It prepares the source, it never fixes a value, fills a gap or guesses. Filling gaps
-  from another database is the application's job;
+- a guess. Every value comes from a real, openly licensed source with its entry id, or from a lab
+  report; nothing is estimated;
+- a copy of one source. A value that a source gets wrong is replaced from another one, with its
+  source, never silently;
 - a dependency of nutrition, or dependent on it. An application imports both and passes the values
   through.
 
@@ -30,8 +33,9 @@ so.** Open points are listed in section 12, never guessed.
 
 ## 2. Principles
 
-- **It prepares, it never repairs.** Every value is the source's value. A value that is not taken over
-  unchanged is listed in the build report (section 8), never changed silently.
+- **Every value has its source.** A value comes from a registered, openly licensed source with its
+  entry id, never estimated. A value replaced from another source says so in the food's `sources`;
+  nothing is changed silently (decided 2026-10-24, replacing "it prepares, it never repairs").
 - **Missing is not zero.** A BLS `-` becomes `null`, never `0` (BLS 4.0 documentation, section 4.3:
   "Ein fehlender Wert ist nicht gleichbedeutend mit Null"). A real `0`, including "Logische Null"
   (4.2.10), stays `0`.
@@ -112,14 +116,14 @@ are never validated with `[A-Z]\d{6}`.
 
 ## 5. Output
 
-One entry point, `@thereforejs/bls`. Every food is a named export under its BLS code, typed `Food`:
+One entry point, `@thereforejs/foods`. Every food is a named export under its BLS code, typed `Food`:
 
 ```ts
-import { C131000 } from "@thereforejs/bls"; // Hafer ganzes Korn, roh
+import { C131000 } from "@thereforejs/foods"; // Hafer ganzes Korn, roh
 // { code: "C131000", name: { de, en }, per100g: { fat: "7.09", ..., sodium: "0.008" }, marks: {} }
 
-import * as bls from "@thereforejs/bls"; // an application that picks foods at runtime
-const food = bls[code];
+import * as foods from "@thereforejs/foods"; // an application that picks foods at runtime
+const food = foods[code];
 ```
 
 - `per100g`: nutrition's keys as exact decimal text, or `null` (section 4).
@@ -179,16 +183,29 @@ source, not a copy of the BLS). `vp run import:bls` seeded it from `BLS_4_0_Date
 and only ever adds missing files. `vp run generate` renders the ignored `src/foods/*.ts` from it, in
 CI and before packing; the same data gives byte-identical files. Formatter and linter skip
 `src/foods/`; the tests check it. Sources are registered in `src/sources.ts`, shipped as
-`@thereforejs/bls/sources`.
+`@thereforejs/foods/sources`.
 
-The build is to print a report of everything it did not take over unchanged. Cleaned artefacts are
-silent. Listed:
+### Checks
 
-- every mark (`<LOD`, `<LOQ`, `TR`) in a shipped nutrient;
-- every food nutrition would refuse: a part above its whole (saturates, mono-, polyunsaturates above
-  fat; sugars, starch, polyols above carbohydrate), a value above 100 g. Measured 2026-10-24: saturates
-  above fat 42 times, mono-unsaturates 33, polyunsaturates 42 (Kochbanane roh: 0.116 saturates in
-  0.07 fat); sugars, starch and polyols never exceed carbohydrate. What ships is open (question 4).
+`scripts/check.ts` checks every file of `data/foods` (`vp run generate` refuses to generate on any
+error, and the tests run the same check):
+
+- shape: an identifier as code, a German and an English name, exactly nutrition's 13 keys, decimal
+  text or `null`, at least one source;
+- values: the shortest plain decimal, never negative; a mark only next to a `null`, and only a mark of
+  the BLS documentation 4.4;
+- sources: every nutrient from exactly one entry, every entry with its id and a source registered in
+  `src/sources.ts`, every registered source under an open license (`LICENSES`);
+- contradictions, which nutrition refuses: a part above its whole (saturates, mono-, polyunsaturates
+  above fat; sugars, starch, polyols above carbohydrate) and any value above 100 g.
+
+Contradictions that are known and not yet resolved are listed in `data/open-issues.json`. A new one
+fails the check, and so does a listed one that is resolved but still listed, so the list only ever
+shrinks on purpose. Seeded 2026-10-24 with the BLS 4.0: 117 contradictions in 52 foods (saturates
+above fat 42, mono-unsaturates 33, polyunsaturates 42; Kochbanane roh 0.116 saturates in 0.07 fat),
+none in carbohydrate, no value above 100 g.
+
+`vp run generate` reports the number of marks (309) and of foods with open contradictions (52).
 
 ---
 
@@ -235,7 +252,9 @@ silent. Listed:
 - `<LOD`, `<LOQ`, `TR` ship as `null` with their mark next to it, never as a number (2026-10-24).
 - One entry point, one named export per food under its BLS code, both names on every food; groups only
   as internal files (2026-10-24).
-- Name `@thereforejs/bls`, repo `thereforejs/bls`, a Vite+ library like nutrition (2026-10-24).
+- Name `@thereforejs/bls`, repo `thereforejs/bls`, a Vite+ library like nutrition (2026-10-24); renamed
+  the same day to `@thereforejs/foods`, repo `thereforejs/foods`: the BLS is its first source, not
+  all of it, and the name must not suggest a publication of the MRI.
 
 ---
 
@@ -247,7 +266,8 @@ silent. Listed:
    publishing. Building is fine without it.
 2. ~~Names per language~~: decided 2026-10-24, both names on every food (section 5).
 3. ~~`<LOD`, `<LOQ`, `TR`~~: decided 2026-10-24, `null` with the mark next to it (section 4).
-4. **A part above its whole** (section 8): fix, `null`, or keep and let nutrition refuse.
+4. ~~A part above its whole~~: decided 2026-10-24, listed in `data/open-issues.json` and resolved from
+   other open sources (section 8).
 5. **Water (WATER):** not needed by nutrition; ship it or not.
 6. ~~Group entry names~~: decided 2026-10-24, one entry with an export per food (sections 5, 6).
 7. ~~License statement~~: decided 2026-10-24, `"license": "MIT AND CC-BY-4.0"`, both named in the README.
