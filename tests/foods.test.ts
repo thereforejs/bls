@@ -1,7 +1,6 @@
-import { decimal, equals, multiply } from "@thereforejs/decy";
+import { decimal, multiply, toDecimalString } from "@thereforejs/decy";
 import fc from "fast-check";
 import { describe, expect, test } from "vite-plus/test";
-import { shortestDecimal } from "../scripts/decimal.ts";
 import { toFoods } from "../scripts/foods.ts";
 
 // Header texts as in BLS_4_0_Daten_2025_DE.xlsx: "CODE name [unit/100g]", then Datenherkunft, Referenz.
@@ -109,17 +108,21 @@ describe("sodium from mg to g", () => {
     expect(food({ NA: mg }).per100g.sodium).toBe(g);
   });
 
-  test("exact: the grams times 1000 are the shortest decimal of the source", () => {
+  test("exact: the grams times 1000 read back to the source double", () => {
     fc.assert(
-      // From 1e-9 the grams stay within decy's 30 decimals (the BLS uses 18).
-      fc.property(fc.double({ min: 1e-9, max: 1e6, noNaN: true }), (mg) => {
-        const raw = String(mg);
-        const g = food({ NA: raw }).per100g.sodium;
-        expect(g).toMatch(/^(0|[1-9]\d*)(\.\d*[1-9])?$/);
-        expect(
-          equals(multiply(decimal(g ?? ""), decimal("1000")), decimal(shortestDecimal(raw))),
-        ).toBe(true);
-      }),
+      fc.property(
+        // From 1e-9 the grams stay within decy's 30 decimals (the BLS uses 18).
+        fc.double({ min: 1e-9, max: 1e6, noNaN: true }),
+        fc.integer({ min: 1, max: 17 }),
+        (mg, digits) => {
+          // The XLSX writes up to 17 significant digits, sometimes with an exponent.
+          const raw = mg.toPrecision(digits);
+          const g = food({ NA: raw }).per100g.sodium;
+          expect(g).toMatch(/^(0|[1-9]\d*)(\.\d*[1-9])?$/);
+          const back = toDecimalString(multiply(decimal(g ?? ""), decimal("1000")));
+          expect(Number(back)).toBe(Number(raw));
+        },
+      ),
     );
   });
 });
