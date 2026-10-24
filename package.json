@@ -1,47 +1,52 @@
 {
-  "name": "bls",
+  "name": "@thereforejs/bls",
   "version": "0.0.0",
-  "description": "A starter for creating a TypeScript package.",
-  "homepage": "https://github.com/author/library#readme",
+  "description": "Unofficial preparation of the Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut) as exact, tree-shakable nutrient data for @thereforejs/nutrition",
+  "keywords": [
+    "bls",
+    "bundeslebensmittelschluessel",
+    "food-composition",
+    "lmiv",
+    "max-rubner-institut",
+    "nutrient-database",
+    "nutrition",
+    "nutrition-declaration"
+  ],
+  "homepage": "https://github.com/thereforejs/bls#readme",
   "bugs": {
-    "url": "https://github.com/author/library/issues"
+    "url": "https://github.com/thereforejs/bls/issues"
   },
-  "license": "MIT",
-  "author": "Author Name <author.name@mail.com>",
+  "license": "MIT AND CC-BY-4.0",
+  "author": "Florian Heuberger",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/author/library.git"
+    "url": "git+https://github.com/thereforejs/bls.git"
   },
   "files": [
     "dist"
   ],
   "type": "module",
+  "sideEffects": false,
   "exports": {
     ".": "./dist/index.mjs",
     "./package.json": "./package.json"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "scripts": {
     "build": "vp pack",
     "dev": "vp pack --watch",
     "test": "vp test",
     "check": "vp check",
-    "prepublishOnly": "vp run build",
+    "prepack": "vp check && vp test run && vp pack",
     "prepare": "vp config"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
-    "bumpp": "^12.3.0",
     "typescript": "^7.0.2",
     "vite-plus": "catalog:"
   },
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "12.15.0",
-      "onFail": "download"
-    }
-  }
+  "packageManager": "pnpm@12.15.0"
 }
