@@ -6,9 +6,9 @@
   },
   "per100g": {
     "fat": "0",
-    "saturates": "0.002",
-    "monounsaturates": "0.001",
-    "polyunsaturates": "0.004",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
     "carbohydrate": "2.2",
     "sugars": "2.2",
     "starch": "0",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "N251000",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "usda-fndds-2024",
+      "id": "2710567",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

@@ -5,10 +5,10 @@
     "en": "Chinese spinach stewed"
   },
   "per100g": {
-    "fat": "0.35",
-    "saturates": "0.092",
-    "monounsaturates": "0.99",
-    "polyunsaturates": "0.156",
+    "fat": "0.18",
+    "saturates": "0.05",
+    "monounsaturates": "0.041",
+    "polyunsaturates": "0.08",
     "carbohydrate": "0.98",
     "sugars": "0.79",
     "starch": "0.194",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "G212152",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "usda-sr-legacy",
+      "id": "169202",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

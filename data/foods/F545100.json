@@ -5,10 +5,10 @@
     "en": "Plantain raw"
   },
   "per100g": {
-    "fat": "0.07",
-    "saturates": "0.116",
-    "monounsaturates": "0.009",
-    "polyunsaturates": "0.015",
+    "fat": "0.3",
+    "saturates": "0.1",
+    "monounsaturates": null,
+    "polyunsaturates": "0.1",
     "carbohydrate": "29.5",
     "sugars": "7.7",
     "starch": "21.8",
@@ -19,16 +19,14 @@
     "alcohol": "0",
     "organicAcids": "0.569"
   },
-  "marks": {},
+  "marks": {
+    "monounsaturates": "TR"
+  },
   "sources": [
     {
       "source": "bls-4.0",
       "id": "F545100",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +37,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "cofid-2021",
+      "id": "13-323",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

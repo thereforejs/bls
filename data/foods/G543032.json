@@ -6,9 +6,9 @@
   },
   "per100g": {
     "fat": "0.1",
-    "saturates": "0.0326",
-    "monounsaturates": "0.0025",
-    "polyunsaturates": "0.1077",
+    "saturates": "0.03",
+    "monounsaturates": null,
+    "polyunsaturates": "0.06",
     "carbohydrate": "3.312",
     "sugars": "3.312",
     "starch": null,
@@ -21,17 +21,14 @@
   },
   "marks": {
     "starch": "<LOD",
-    "sodium": "<LOD or <LOQ"
+    "sodium": "<LOD or <LOQ",
+    "monounsaturates": "TR"
   },
   "sources": [
     {
       "source": "bls-4.0",
       "id": "G543032",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -42,6 +39,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "cofid-2021",
+      "id": "13-525",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

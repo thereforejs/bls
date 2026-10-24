@@ -5,10 +5,10 @@
     "en": "Mulled wine"
   },
   "per100g": {
-    "fat": "0",
-    "saturates": "0.008",
-    "monounsaturates": "0.002",
-    "polyunsaturates": "0.017",
+    "fat": "0.2",
+    "saturates": "0.06",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.02",
     "carbohydrate": "8.21",
     "sugars": "8.18",
     "starch": "0",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "P281000",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "cofid-2021",
+      "id": "17-812",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

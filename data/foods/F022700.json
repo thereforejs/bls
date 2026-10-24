@@ -5,10 +5,10 @@
     "en": "Mixed fruit nectar, fortified with vitamins (multivitamin nectar)"
   },
   "per100g": {
-    "fat": "0",
-    "saturates": "0.006",
-    "monounsaturates": "0.002",
-    "polyunsaturates": "0.005",
+    "fat": "0.06",
+    "saturates": "0.014",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.011",
     "carbohydrate": "10.36",
     "sugars": "10.075",
     "starch": "0",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "F022700",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "usda-fndds-2024",
+      "id": "2709340",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

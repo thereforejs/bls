@@ -5,10 +5,10 @@
     "en": "Plantain boiled"
   },
   "per100g": {
-    "fat": "0.08",
-    "saturates": "0.124",
-    "monounsaturates": "0.01",
-    "polyunsaturates": "0.016",
+    "fat": "0.2",
+    "saturates": "0.1",
+    "monounsaturates": null,
+    "polyunsaturates": "0.1",
     "carbohydrate": "25.4",
     "sugars": "6.6",
     "starch": "18.8",
@@ -19,16 +19,14 @@
     "alcohol": "0",
     "organicAcids": "0.306"
   },
-  "marks": {},
+  "marks": {
+    "monounsaturates": "TR"
+  },
   "sources": [
     {
       "source": "bls-4.0",
       "id": "F545132",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +37,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "cofid-2021",
+      "id": "13-324",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

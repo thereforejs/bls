@@ -54,5 +54,12 @@ Nährstoffdatenbank. Karlsruhe. DOI: [10.25826/Data20251217-134202-0](https://do
 ## License
 
 - Code: [MIT](./LICENSE)
-- Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), Max Rubner-Institut as publisher,
-  changes listed above.
+- Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), Max Rubner-Institut as publisher of
+  the BLS 4.0, changes listed above.
+- Values replaced from other sources name their source in the food's `sources`; the full list with
+  citations is exported as `@thereforejs/foods/sources`:
+  - McCance and Widdowson's Composition of Foods Integrated Dataset 2021, Public Health England.
+    Contains public sector information licensed under the
+    [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+  - USDA FoodData Central (SR Legacy, Survey Foods/FNDDS), U.S. Department of Agriculture,
+    Agricultural Research Service, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).

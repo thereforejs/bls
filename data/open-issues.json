@@ -1,36 +1,10 @@
 {
-  "F012700": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "F013700": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "F022700": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "F023700": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "F545100": ["saturates exceeds fat"],
-  "F545132": ["saturates exceeds fat"],
   "F545142": ["saturates exceeds fat"],
   "F545152": ["saturates exceeds fat"],
   "F545162": ["saturates exceeds fat"],
   "F545182": ["saturates exceeds fat"],
   "F545400": ["saturates exceeds fat"],
-  "G212100": ["monounsaturates exceeds fat"],
-  "G212152": ["monounsaturates exceeds fat"],
   "G212182": ["monounsaturates exceeds fat"],
-  "G543032": ["polyunsaturates exceeds fat"],
-  "G543802": ["polyunsaturates exceeds fat"],
   "N001000": ["saturates exceeds fat", "polyunsaturates exceeds fat"],
   "N220000": [
     "saturates exceeds fat",
@@ -38,27 +12,6 @@
     "polyunsaturates exceeds fat"
   ],
   "N250000": ["polyunsaturates exceeds fat"],
-  "N251000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "N252000": ["polyunsaturates exceeds fat"],
-  "N253000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "N259000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "N260000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
   "N261700": [
     "saturates exceeds fat",
     "monounsaturates exceeds fat",
@@ -111,11 +64,6 @@
     "monounsaturates exceeds fat",
     "polyunsaturates exceeds fat"
   ],
-  "P281000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
   "P288300": [
     "saturates exceeds fat",
     "monounsaturates exceeds fat",
@@ -126,29 +74,13 @@
     "monounsaturates exceeds fat",
     "polyunsaturates exceeds fat"
   ],
-  "P9A6000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
   "P9A7100": ["saturates exceeds fat", "polyunsaturates exceeds fat"],
   "P9A8100": ["polyunsaturates exceeds fat"],
-  "P9B4000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
-  "S342000": [
-    "saturates exceeds fat",
-    "monounsaturates exceeds fat",
-    "polyunsaturates exceeds fat"
-  ],
   "S475100": [
     "saturates exceeds fat",
     "monounsaturates exceeds fat",
     "polyunsaturates exceeds fat"
   ],
-  "T800100": ["polyunsaturates exceeds fat"],
   "X365062": [
     "saturates exceeds fat",
     "monounsaturates exceeds fat",

@@ -5,10 +5,10 @@
     "en": "Cocktail, Tequila sunrise"
   },
   "per100g": {
-    "fat": "0",
-    "saturates": "0.003",
-    "monounsaturates": "0.001",
-    "polyunsaturates": "0.01",
+    "fat": "0.23",
+    "saturates": "0.009",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.02",
     "carbohydrate": "5.594",
     "sugars": "5.594",
     "starch": "0",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "P9A6000",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "usda-fndds-2024",
+      "id": "2710678",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }

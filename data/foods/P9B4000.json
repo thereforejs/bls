@@ -5,10 +5,10 @@
     "en": "Cocktail, Margarita"
   },
   "per100g": {
-    "fat": "0",
-    "saturates": "0.008",
+    "fat": "0.08",
+    "saturates": "0.006",
     "monounsaturates": "0.002",
-    "polyunsaturates": "0.017",
+    "polyunsaturates": "0.015",
     "carbohydrate": "2.4",
     "sugars": "2.4",
     "starch": "0",
@@ -25,10 +25,6 @@
       "source": "bls-4.0",
       "id": "P9B4000",
       "nutrients": [
-        "fat",
-        "saturates",
-        "monounsaturates",
-        "polyunsaturates",
         "carbohydrate",
         "sugars",
         "starch",
@@ -39,6 +35,11 @@
         "alcohol",
         "organicAcids"
       ]
+    },
+    {
+      "source": "usda-fndds-2024",
+      "id": "2710638",
+      "nutrients": ["fat", "saturates", "monounsaturates", "polyunsaturates"]
     }
   ]
 }
