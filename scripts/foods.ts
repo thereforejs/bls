@@ -1,7 +1,6 @@
-import { decimal, multiply, toDecimalString } from "@thereforejs/decy";
 import type { Food, Mark, Nutrient } from "../src/food.ts";
 import { MARKS } from "./nutrients.ts";
-import { shortestDecimal } from "./decimal.ts";
+import { gramsFromMilligrams, shortestDecimal } from "./decimal.ts";
 
 // SPEC 3.1: nutrition's key, the BLS column and the unit the column must carry.
 const NUTRIENTS: Record<Nutrient, readonly [string, "g" | "mg"]> = {
@@ -75,8 +74,5 @@ function grams(raw: string | undefined, unit: string, cell: string): string {
       cause: error,
     });
   }
-  if (unit === "g") return value;
-  // mg to g is exact in decy. The product keeps at least 3 decimals ("0.250", "10.000"), so only
-  // zeros behind the point are trimmed.
-  return toDecimalString(multiply(decimal(value), decimal("0.001"))).replace(/\.?0+$/, "");
+  return unit === "g" ? value : gramsFromMilligrams(value);
 }

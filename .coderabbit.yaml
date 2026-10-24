@@ -48,6 +48,19 @@ reviews:
         - Tree-shaking (SPEC 7): no module may hold a collection of all groups or all languages; a map
           like `{ de, en }` pulls everything into every bundle. Named exports only.
         - No `any`, no `as never`, no dead guards. Imports from vite-plus, never from vite or vitest.
+    - path: "data/foods/*.json"
+      instructions: |
+        A contribution to the food data (CONTRIBUTING.md). Check every changed value against the
+        source entry named in `sources` where the source is reachable, and flag a value without a
+        source entry, a value that looks estimated or rounded by the contributor, or a whole (fat,
+        carbohydrate) changed without its parts. A new food uses our id scheme (group letter, "_",
+        six digits); flag any id that looks like an invented BLS code. A food that leaves
+        `data/open-issues.json` must really be consistent now.
+    - path: "src/sources.ts"
+      instructions: |
+        A new source must state an open license that allows redistribution (`LICENSES` in
+        scripts/check.ts) and the pull request must link where the publisher states it. Flag a source
+        whose license is unclear or not open, and a citation that differs from what the publisher asks.
     - path: "tests/**/*.ts"
       instructions: |
         Every rule needs a test that fails without it. Expected values come from the BLS source or are

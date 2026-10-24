@@ -1,4 +1,4 @@
-import { fromNumber, toDecimalString } from "@thereforejs/decy";
+import { decimal, fromNumber, multiply, toDecimalString } from "@thereforejs/decy";
 
 const NUMBER = /^-?\d+(\.\d+)?(E[+-]?\d+)?$/i;
 
@@ -15,4 +15,10 @@ export function shortestDecimal(raw: string): string {
     throw new Error(`${JSON.stringify(raw)} is not a number`);
   }
   return toDecimalString(fromNumber(value));
+}
+
+/** A shortest decimal in milligrams as grams, exact: a shift by three places, never a division. */
+export function gramsFromMilligrams(mg: string): string {
+  // The product keeps at least 3 decimals ("0.250", "10.000"); only zeros behind the point go.
+  return toDecimalString(multiply(decimal(mg), decimal("0.001"))).replace(/\.?0+$/, "");
 }

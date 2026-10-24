@@ -2,6 +2,7 @@ import { compare, decimal } from "@thereforejs/decy";
 import type { Food, Nutrient } from "../src/food.ts";
 import { sources } from "../src/sources.ts";
 import { shortestDecimal } from "./decimal.ts";
+import { isFoodId } from "./ids.ts";
 import { MARKS, NUTRIENTS } from "./nutrients.ts";
 
 /** `contradiction` is what nutrition would refuse; the rest is data that must not be maintained so. */
@@ -38,8 +39,7 @@ export function checkFood(food: Food): Issue[] {
 
 function checkShape({ code, name, per100g, marks, sources: entries }: Food): Issue[] {
   const wrong = (message: string): Issue[] => [{ code: "shape", message }];
-  if (typeof code !== "string" || !/^[A-Z][A-Z0-9]*$/.test(code))
-    return wrong("code is no identifier");
+  if (typeof code !== "string" || !isFoodId(code)) return wrong("code is no valid food id");
   if (typeof name?.de !== "string" || !name.de || typeof name.en !== "string" || !name.en) {
     return wrong("a German and an English name are required");
   }
@@ -97,6 +97,13 @@ function checkSources({ sources: entries }: Food): Issue[] {
   for (const key of NUTRIENTS) {
     const count = covered.get(key) ?? 0;
     if (count !== 1) issues.push({ code: "source", message: `${key} comes from ${count} sources` });
+  }
+  // A whole and its parts from different sources can contradict each other (the BLS Klippfisch).
+  const entryOf = (key: Nutrient) => entries.findIndex(({ nutrients }) => nutrients.includes(key));
+  for (const [part, whole] of PARTS) {
+    if (entryOf(part) !== entryOf(whole)) {
+      issues.push({ code: "source", message: `${part} and ${whole} come from different sources` });
+    }
   }
   return issues;
 }

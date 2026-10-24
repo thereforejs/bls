@@ -90,7 +90,13 @@ Not taken over:
 
 The first letter of the BLS code is the main food group (documentation 2.4). The documentation says
 the code "weitestgehend" follows `[letter][6 digits]`: 6,368 codes do, 772 look like `M5B1600`. Codes
-are never validated with `[A-Z]\d{6}`.
+are never validated with `[A-Z]\d{6}`. The meaning of the digits is not documented; nothing here
+relies on it.
+
+A food that has no BLS code gets our own id: its main food group, an underscore and six digits
+(`H_000001`). The underscore keeps it apart from any code the MRI could assign. `vp run food:new`
+picks the next number of the group; an id never changes and is never reused, because applications
+import foods by it. Both kinds are valid identifiers and export names (`scripts/ids.ts`).
 
 ---
 
@@ -194,8 +200,9 @@ error, and the tests run the same check):
   text or `null`, at least one source;
 - values: the shortest plain decimal, never negative; a mark only next to a `null`, and only a mark of
   the BLS documentation 4.4;
-- sources: every nutrient from exactly one entry, every entry with its id and a source registered in
-  `src/sources.ts`, every registered source under an open license (`LICENSES`);
+- sources: every nutrient from exactly one entry, a whole and its parts from the same entry, every
+  entry with its id and a source registered in `src/sources.ts`, every registered source under an
+  open license (`LICENSES`);
 - contradictions, which nutrition refuses: a part above its whole (saturates, mono-, polyunsaturates
   above fat; sugars, starch, polyols above carbohydrate) and any value above 100 g.
 
@@ -255,6 +262,12 @@ none in carbohydrate, no value above 100 g.
 - Name `@thereforejs/bls`, repo `thereforejs/bls`, a Vite+ library like nutrition (2026-10-24); renamed
   the same day to `@thereforejs/foods`, repo `thereforejs/foods`: the BLS is its first source, not
   all of it, and the name must not suggest a publication of the MRI.
+- Foods without a BLS code get our own id, group letter + `_` + six digits; people find foods by name
+  through a search (to come), software imports them by id (2026-10-24).
+- A whole and its parts (fat and fatty acids, carbohydrate and sugars, starch, polyols) come from the
+  same source entry (2026-10-24).
+- Contributions go through `vp run food:new` and `vp run food:set`, described in `CONTRIBUTING.md`; a
+  source needs an open license from `LICENSES`, a lab report counts as a source (2026-10-24).
 
 ---
 

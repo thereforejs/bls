@@ -29,6 +29,8 @@ in section 11 are not reopened without him.
 - **`data/foods/<code>.json` is the source of truth**, one file per food with its `sources`, maintained
   by hand and by contributors. Values come only from a real, openly licensed source (registered in
   `src/sources.ts`) with its entry id, or a lab report; never estimated.
+- Change data only with `vp run food:new` / `vp run food:set` (`CONTRIBUTING.md`), never by hand.
+  Our ids are group + `_` + six digits (`H_000001`); never invent a BLS-like code.
 - `vp run import:bls` seeded `data/foods` from the BLS ZIP once. It is a tool for us and only writes
   files that do not exist; it never overwrites maintained data.
 - `data/open-issues.json` lists the known contradictions (a part above its whole). The check fails on a

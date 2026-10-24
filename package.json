@@ -44,6 +44,8 @@
     "check": "vp check",
     "generate": "vpx scripts/generate.ts",
     "import:bls": "vpx scripts/import-bls.ts",
+    "food:new": "vpx scripts/food-new.ts",
+    "food:set": "vpx scripts/food-set.ts",
     "prepack": "vp run generate && vp check && vp test run && vp pack",
     "prepare": "vp config"
   },

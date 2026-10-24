@@ -106,6 +106,24 @@ describe("sources", () => {
     ).toContain("source");
   });
 
+  // A whole and its parts from different sources rebuild the contradiction of the BLS Klippfisch.
+  test.each<[Nutrient, Nutrient]>([
+    ["saturates", "fat"],
+    ["polyunsaturates", "fat"],
+    ["sugars", "carbohydrate"],
+    ["polyols", "carbohydrate"],
+  ])("%s and %s come from the same source", (part, whole) => {
+    const split = oats();
+    split.sources = [
+      { source: "bls-4.0", id: "C131000", nutrients: ALL.filter((key) => key !== part) },
+      { source: "cofid-2021", id: "11-111", nutrients: [part] },
+    ];
+    expect(checkFood(split)).toContainEqual({
+      code: "source",
+      message: `${part} and ${whole} come from different sources`,
+    });
+  });
+
   test("a source that is not registered", () => {
     expect(issues((f) => (f.sources[0]!.source = "my-guess"))).toContain("source");
   });

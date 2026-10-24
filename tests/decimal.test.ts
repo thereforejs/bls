@@ -1,6 +1,6 @@
 import fc from "fast-check";
 import { describe, expect, test } from "vite-plus/test";
-import { shortestDecimal } from "../scripts/decimal.ts";
+import { gramsFromMilligrams, shortestDecimal } from "../scripts/decimal.ts";
 
 describe("shortest decimal of a source cell", () => {
   // Artefacts as they appear in BLS_4_0_Daten_2025_DE.xlsx (SPEC 4).
@@ -60,5 +60,17 @@ describe("shortest decimal of a source cell", () => {
         },
       ),
     );
+  });
+});
+
+describe("grams from milligrams", () => {
+  test.each([
+    ["250", "0.25"],
+    ["1000", "1"],
+    ["0", "0"],
+    ["57.5", "0.0575"],
+    ["0.015", "0.000015"],
+  ])("%s mg is %s g", (mg, g) => {
+    expect(gramsFromMilligrams(mg)).toBe(g);
   });
 });
