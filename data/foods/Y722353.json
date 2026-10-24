@@ -1,0 +1,44 @@
+{
+  "code": "Y722353",
+  "name": {
+    "de": "Rührei gebraten mit Paprika",
+    "en": "Scrambled eggs fried with sweet peppers"
+  },
+  "per100g": {
+    "fat": "13.52",
+    "saturates": "2.42",
+    "monounsaturates": "6.28",
+    "polyunsaturates": "2.86",
+    "carbohydrate": "2.3",
+    "sugars": "2.29",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "10.76",
+    "sodium": "0.229",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y722353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

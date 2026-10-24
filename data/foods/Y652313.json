@@ -1,0 +1,44 @@
+{
+  "code": "Y652313",
+  "name": {
+    "de": "Schleie gedünstet, mit Senfsauce von heller/weißer Grundsauce",
+    "en": "Tench stewed, with mustard sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "3.1",
+    "saturates": "1.7",
+    "monounsaturates": "0.83",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "1.86",
+    "sugars": "0.75",
+    "starch": "1.11",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "11.29",
+    "sodium": "0.259",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y652313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

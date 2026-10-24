@@ -1,0 +1,44 @@
+{
+  "code": "Y860840",
+  "name": {
+    "de": "Vanillebuttercreme",
+    "en": "Vanilla butter cream"
+  },
+  "per100g": {
+    "fat": "46.913",
+    "saturates": "30.31",
+    "monounsaturates": "10.89",
+    "polyunsaturates": "2.03",
+    "carbohydrate": "36.916",
+    "sugars": "36.916",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "2",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.0129"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860840",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

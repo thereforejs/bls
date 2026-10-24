@@ -1,0 +1,44 @@
+{
+  "code": "Y841443",
+  "name": {
+    "de": "Aprikosenkompott",
+    "en": "Apricot compote"
+  },
+  "per100g": {
+    "fat": "0.109",
+    "saturates": "0.0086",
+    "monounsaturates": "0.053",
+    "polyunsaturates": "0.024",
+    "carbohydrate": "13.145",
+    "sugars": "12.478",
+    "starch": "0",
+    "polyols": "0.667",
+    "fibre": "1.284",
+    "protein": "0.7",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841443",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

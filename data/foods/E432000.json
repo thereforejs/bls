@@ -1,0 +1,44 @@
+{
+  "code": "E432000",
+  "name": {
+    "de": "Eierteigwaren roh",
+    "en": "Egg pasta raw"
+  },
+  "per100g": {
+    "fat": "2",
+    "saturates": "0.804",
+    "monounsaturates": "0.792",
+    "polyunsaturates": "0.347",
+    "carbohydrate": "66.093",
+    "sugars": "1.638",
+    "starch": "64.455",
+    "polyols": null,
+    "fibre": "3.38",
+    "protein": "13.2",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E432000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

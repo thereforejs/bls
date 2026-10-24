@@ -1,0 +1,44 @@
+{
+  "code": "Y827043",
+  "name": {
+    "de": "Fruchtmichel mit gemischten Früchten, gebacken",
+    "en": "Souffle with mixed fruit"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "2.49",
+    "monounsaturates": "1.73",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "26",
+    "sugars": "15.59",
+    "starch": "10.304",
+    "polyols": "0.1",
+    "fibre": "1.4",
+    "protein": "5.65",
+    "sodium": "0.183",
+    "alcohol": "0",
+    "organicAcids": "0.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y827043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

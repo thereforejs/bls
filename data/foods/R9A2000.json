@@ -1,0 +1,44 @@
+{
+  "code": "R9A2000",
+  "name": {
+    "de": "Ananas-Joghurtsahne für Gebäck/Torten",
+    "en": "Pineapple yogurt cream for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "10.1",
+    "saturates": "5.49",
+    "monounsaturates": "2.638",
+    "polyunsaturates": "0.261",
+    "carbohydrate": "14.2",
+    "sugars": "14.08",
+    "starch": "0",
+    "polyols": "0.122",
+    "fibre": "0.37",
+    "protein": "2.6",
+    "sodium": "0.023",
+    "alcohol": "0.002",
+    "organicAcids": "0.489"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

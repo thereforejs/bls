@@ -1,0 +1,44 @@
+{
+  "code": "S541600",
+  "name": {
+    "de": "Vollmilchschokolade gefüllt mit Nugat/Nougat/Noisette",
+    "en": "Whole milk chocolate filled with nougat"
+  },
+  "per100g": {
+    "fat": "32.9",
+    "saturates": "14.4",
+    "monounsaturates": "14.7",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "52.5",
+    "sugars": "51.7",
+    "starch": "0.8",
+    "polyols": "0",
+    "fibre": "2.73",
+    "protein": "6.94",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S541600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

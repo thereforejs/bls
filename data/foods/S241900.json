@@ -1,0 +1,44 @@
+{
+  "code": "S241900",
+  "name": {
+    "de": "Speiseeis Vanille, überzogen mit Schokolade und Karamell",
+    "en": "Vanilla ice cream, covered with chocolate and caramel"
+  },
+  "per100g": {
+    "fat": "14.11",
+    "saturates": "9.09",
+    "monounsaturates": "3.55",
+    "polyunsaturates": "0.44",
+    "carbohydrate": "29.96",
+    "sugars": "26.73",
+    "starch": "3.23",
+    "polyols": "0",
+    "fibre": "0.99",
+    "protein": "3.7",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.327"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

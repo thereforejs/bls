@@ -1,0 +1,46 @@
+{
+  "code": "H170100",
+  "name": {
+    "de": "Cashewkern",
+    "en": "Cashew nut"
+  },
+  "per100g": {
+    "fat": "47.1",
+    "saturates": "9.262",
+    "monounsaturates": "28.809",
+    "polyunsaturates": "8.628",
+    "carbohydrate": "26",
+    "sugars": "6.15",
+    "starch": "19.8",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "21.01",
+    "sodium": "0.01",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H170100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

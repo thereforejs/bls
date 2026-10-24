@@ -1,0 +1,46 @@
+{
+  "code": "S410000",
+  "name": {
+    "de": "Lakritze",
+    "en": "Liquorice"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.122",
+    "monounsaturates": "0.18",
+    "polyunsaturates": "0.043",
+    "carbohydrate": "70.64",
+    "sugars": "49.7",
+    "starch": "20.92",
+    "polyols": "0.019",
+    "fibre": "1.27",
+    "protein": "5.21",
+    "sodium": "0.204",
+    "alcohol": null,
+    "organicAcids": "0.271"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S410000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

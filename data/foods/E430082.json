@@ -1,0 +1,44 @@
+{
+  "code": "E430082",
+  "name": {
+    "de": "Eierteigwaren gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Egg pasta boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.929",
+    "saturates": "0.324",
+    "monounsaturates": "0.318",
+    "polyunsaturates": "0.139",
+    "carbohydrate": "25.225",
+    "sugars": "0.626",
+    "starch": "24.599",
+    "polyols": null,
+    "fibre": "1.358",
+    "protein": "5.3",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E430082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

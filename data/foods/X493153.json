@@ -1,0 +1,44 @@
+{
+  "code": "X493153",
+  "name": {
+    "de": "Holundersuppe mit Apfel und Grießklößen, gebunden",
+    "en": "Elderberry soup with apple and small semolina dumplings, thickened"
+  },
+  "per100g": {
+    "fat": "1.38",
+    "saturates": "0.34",
+    "monounsaturates": "0.19",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "11.8",
+    "sugars": "9.86",
+    "starch": "1.86",
+    "polyols": "0.1",
+    "fibre": "2",
+    "protein": "1.87",
+    "sodium": "0.022",
+    "alcohol": "0.001",
+    "organicAcids": "1.298"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X493153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

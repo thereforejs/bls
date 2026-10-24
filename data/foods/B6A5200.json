@@ -1,0 +1,44 @@
+{
+  "code": "B6A5200",
+  "name": {
+    "de": "Dinkelvollkornknäckebrot mit Ölsamen und Hartkäse",
+    "en": "Wholemeal spelt criscpread with oilseeds and hard cheese"
+  },
+  "per100g": {
+    "fat": "18.1",
+    "saturates": "4",
+    "monounsaturates": "6.6",
+    "polyunsaturates": "6.1",
+    "carbohydrate": "43",
+    "sugars": "1.2",
+    "starch": "42",
+    "polyols": "0",
+    "fibre": "8.91",
+    "protein": "17.8",
+    "sodium": "0.734",
+    "alcohol": "0",
+    "organicAcids": "0.069"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A5200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

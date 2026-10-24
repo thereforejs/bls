@@ -1,0 +1,44 @@
+{
+  "code": "Y911060",
+  "name": {
+    "de": "Hamburger",
+    "en": "Hamburger"
+  },
+  "per100g": {
+    "fat": "7.31",
+    "saturates": "2.45",
+    "monounsaturates": "3.19",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "19.72",
+    "sugars": "3.74",
+    "starch": "15.97",
+    "polyols": "0.009",
+    "fibre": "1.7",
+    "protein": "10.01",
+    "sodium": "0.504",
+    "alcohol": "0.01",
+    "organicAcids": "0.628"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y911060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

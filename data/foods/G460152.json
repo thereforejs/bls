@@ -1,0 +1,44 @@
+{
+  "code": "G460152",
+  "name": {
+    "de": "Portulak gedünstet",
+    "en": "Purslane stewed"
+  },
+  "per100g": {
+    "fat": "0.362",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0.625",
+    "sugars": "0.205",
+    "starch": "0.42",
+    "polyols": null,
+    "fibre": "1.7",
+    "protein": "1.577",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G460152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

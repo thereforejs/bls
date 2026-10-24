@@ -1,0 +1,44 @@
+{
+  "code": "S622800",
+  "name": {
+    "de": "Pralinen gefüllt mit Gewürzcreme",
+    "en": "Pralines filled with spice cream"
+  },
+  "per100g": {
+    "fat": "38.64",
+    "saturates": "18.41",
+    "monounsaturates": "15.61",
+    "polyunsaturates": "2.56",
+    "carbohydrate": "50.2",
+    "sugars": "49.8",
+    "starch": "0.4",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "5.78",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S622800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

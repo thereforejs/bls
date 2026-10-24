@@ -1,0 +1,46 @@
+{
+  "code": "H180100",
+  "name": {
+    "de": "Paranuss",
+    "en": "Brazil nut"
+  },
+  "per100g": {
+    "fat": "68.1",
+    "saturates": "16.67",
+    "monounsaturates": "21.709",
+    "polyunsaturates": "28.745",
+    "carbohydrate": "2.8",
+    "sugars": "2.39",
+    "starch": "0.4",
+    "polyols": "0",
+    "fibre": "5.8",
+    "protein": "16.96",
+    "sodium": "0.0236",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H180100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V466182",
+  "name": {
+    "de": "Ente Brust, mit Haut, gebraten ohne Fett (Pfanne)",
+    "en": "Duck breast, with skin, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "10.603",
+    "saturates": "3.522",
+    "monounsaturates": "5.033",
+    "polyunsaturates": "1.369",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.051",
+    "sodium": "0.044",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V466182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

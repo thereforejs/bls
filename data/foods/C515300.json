@@ -1,0 +1,44 @@
+{
+  "code": "C515300",
+  "name": {
+    "de": "Cornflakes gesüßt, mit Zuckerglasur und Erdnüssen",
+    "en": "Cornflakes sweetened, sugar frosted, with peanuts"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "0.6",
+    "monounsaturates": "1.8",
+    "polyunsaturates": "0.89",
+    "carbohydrate": "82.5",
+    "sugars": "33.5",
+    "starch": "48.99",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "6.2",
+    "sodium": "0.329",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C515300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

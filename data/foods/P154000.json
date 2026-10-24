@@ -1,0 +1,44 @@
+{
+  "code": "P154000",
+  "name": {
+    "de": "Kölsch",
+    "en": "Koelsch (beer from Cologne)"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.218",
+    "sugars": "0.108",
+    "starch": "2.1104",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.422",
+    "sodium": "0.0015",
+    "alcohol": "3.8796",
+    "organicAcids": "0.035"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P154000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

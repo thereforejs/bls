@@ -1,0 +1,44 @@
+{
+  "code": "M524582",
+  "name": {
+    "de": "Halloumi Grillkäse, gebraten ohne Fett (Pfanne)",
+    "en": "Halloumi cheese fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "24",
+    "saturates": "14.17",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "0.1",
+    "sugars": "0",
+    "starch": "0.1",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "21.69",
+    "sodium": "0.6595",
+    "alcohol": "0",
+    "organicAcids": "1.166"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M524582",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

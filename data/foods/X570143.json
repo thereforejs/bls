@@ -1,0 +1,44 @@
+{
+  "code": "X570143",
+  "name": {
+    "de": "Grüne Erbsen gedünstet",
+    "en": "Green peas stewed"
+  },
+  "per100g": {
+    "fat": "5.324",
+    "saturates": "0.44",
+    "monounsaturates": "2.86",
+    "polyunsaturates": "1.59",
+    "carbohydrate": "10.278",
+    "sugars": "1.157",
+    "starch": "9.121",
+    "polyols": "0",
+    "fibre": "4.2",
+    "protein": "4.9",
+    "sodium": "0.16",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X570143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

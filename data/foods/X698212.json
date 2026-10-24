@@ -1,0 +1,44 @@
+{
+  "code": "X698212",
+  "name": {
+    "de": "Kürbis-Kartoffelpüree mit Milch 1,5 % Fett",
+    "en": "Pumpkin-potato puree with milk 1.5 % fat"
+  },
+  "per100g": {
+    "fat": "2.66",
+    "saturates": "1.2",
+    "monounsaturates": "0.85",
+    "polyunsaturates": "0.29",
+    "carbohydrate": "10.75",
+    "sugars": "2.65",
+    "starch": "8.1",
+    "polyols": "0.002",
+    "fibre": "0.963",
+    "protein": "2.15",
+    "sodium": "0.129",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X698212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "M6A3700",
+  "name": {
+    "de": "Schnittkäse aus Ziegenmilch, mind. 50 % Fett i. Tr.",
+    "en": "Semi-hard cheese made from goat's milk, min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "33.63",
+    "saturates": "22.376",
+    "monounsaturates": "7.149",
+    "polyunsaturates": "1.136",
+    "carbohydrate": "0.022",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0.022",
+    "fibre": "0.42",
+    "protein": "19.16",
+    "sodium": "0.5165",
+    "alcohol": null,
+    "organicAcids": "1.14"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M6A3700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

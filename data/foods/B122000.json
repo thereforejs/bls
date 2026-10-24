@@ -1,0 +1,44 @@
+{
+  "code": "B122000",
+  "name": {
+    "de": "Roggenvollkornschrotbrot",
+    "en": "Coarse wholemeal rye bread"
+  },
+  "per100g": {
+    "fat": "1.81",
+    "saturates": "0.17",
+    "monounsaturates": "0.55",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "32.49",
+    "sugars": "4.58",
+    "starch": "27.9",
+    "polyols": "0.007",
+    "fibre": "9.62",
+    "protein": "6.04",
+    "sodium": "0.4405",
+    "alcohol": "0",
+    "organicAcids": "0.972"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B122000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

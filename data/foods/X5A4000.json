@@ -1,0 +1,44 @@
+{
+  "code": "X5A4000",
+  "name": {
+    "de": "Chicoree gedünstet, mit Käsesauce von Bechamelsauce gratiniert",
+    "en": "Chicory stewed, with cheese sauce from Bechamel sauce gratinated"
+  },
+  "per100g": {
+    "fat": "9.7",
+    "saturates": "4.8",
+    "monounsaturates": "2.97",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "3.06",
+    "sugars": "1.62",
+    "starch": "1.35",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "3.45",
+    "sodium": "0.197",
+    "alcohol": "0",
+    "organicAcids": "0.36"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

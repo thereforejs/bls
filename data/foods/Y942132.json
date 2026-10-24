@@ -1,0 +1,44 @@
+{
+  "code": "Y942132",
+  "name": {
+    "de": "Bratwurst mit Kartoffelsalat und Senf",
+    "en": "Bratwurst with potato salad and mustard"
+  },
+  "per100g": {
+    "fat": "15.2",
+    "saturates": "3.2",
+    "monounsaturates": "6.82",
+    "polyunsaturates": "2.81",
+    "carbohydrate": "6.43",
+    "sugars": "0.75",
+    "starch": "5.68",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "5.6",
+    "sodium": "0.411",
+    "alcohol": "0.003",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y942132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

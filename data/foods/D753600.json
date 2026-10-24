@@ -1,0 +1,44 @@
+{
+  "code": "D753600",
+  "name": {
+    "de": "Mandel-Zitronen-Herzen (ohne Fett und Mehl)",
+    "en": "Heart-shaped almond lemon biscuits (without fat and flour)"
+  },
+  "per100g": {
+    "fat": "23.7",
+    "saturates": "2.79",
+    "monounsaturates": "14.01",
+    "polyunsaturates": "5.1",
+    "carbohydrate": "50.1",
+    "sugars": "50",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "4.2",
+    "protein": "11.3",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.46"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D753600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

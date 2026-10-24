@@ -1,0 +1,44 @@
+{
+  "code": "X572153",
+  "name": {
+    "de": "Linsengemüse gekocht",
+    "en": "Lentils boiled with mirepoix"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.05",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.15",
+    "carbohydrate": "9",
+    "sugars": "0.9",
+    "starch": "8",
+    "polyols": "0.01",
+    "fibre": "3.9",
+    "protein": "4.707",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X572153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

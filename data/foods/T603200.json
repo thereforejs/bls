@@ -1,0 +1,44 @@
+{
+  "code": "T603200",
+  "name": {
+    "de": "Zander tiefgefroren",
+    "en": "Pike-perch deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.66",
+    "saturates": "0.146",
+    "monounsaturates": "0.167",
+    "polyunsaturates": "0.192",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T603200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

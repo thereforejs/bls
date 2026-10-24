@@ -1,0 +1,44 @@
+{
+  "code": "D650600",
+  "name": {
+    "de": "Lebkuchen schokoliert",
+    "en": "Chocolate gingerbread"
+  },
+  "per100g": {
+    "fat": "11.5",
+    "saturates": "6.566",
+    "monounsaturates": "3.829",
+    "polyunsaturates": "0.4339",
+    "carbohydrate": "64.64",
+    "sugars": "40.79",
+    "starch": "23.76",
+    "polyols": "0.092",
+    "fibre": "3.92",
+    "protein": "6.74",
+    "sodium": "0.093",
+    "alcohol": "0",
+    "organicAcids": "0.599"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D650600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

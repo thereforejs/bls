@@ -1,0 +1,44 @@
+{
+  "code": "G510162",
+  "name": {
+    "de": "Aubergine gebacken",
+    "en": "Aubergine baked"
+  },
+  "per100g": {
+    "fat": "0.212",
+    "saturates": "0.046",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.103",
+    "carbohydrate": "3.56",
+    "sugars": "3.17",
+    "starch": "0.259",
+    "polyols": "0.13",
+    "fibre": "1.6",
+    "protein": "0.671",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G510162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X566063",
+  "name": {
+    "de": "Selleriepüree",
+    "en": "Celeriac puree"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.2",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "1.9",
+    "sugars": "1.5",
+    "starch": "0.241",
+    "polyols": "0.12",
+    "fibre": "2.3",
+    "protein": "1.11",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X566063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

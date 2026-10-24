@@ -1,0 +1,44 @@
+{
+  "code": "T121162",
+  "name": {
+    "de": "Thunfisch gebraten ohne Fett (Ofen)",
+    "en": "Tuna fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "6.23",
+    "saturates": "1.76",
+    "monounsaturates": "1.943",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.3",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T121162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U271200",
+  "name": {
+    "de": "Rind Vorderhesse, tiefgefroren",
+    "en": "Beef shin/foreshank, deep-frozen"
+  },
+  "per100g": {
+    "fat": "5.3",
+    "saturates": "1.66",
+    "monounsaturates": "2.413",
+    "polyunsaturates": "0.122",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.2",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U271200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

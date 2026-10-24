@@ -1,0 +1,44 @@
+{
+  "code": "X5A4010",
+  "name": {
+    "de": "Chicoree mit Speck geschmort",
+    "en": "Chicory braised with bacon"
+  },
+  "per100g": {
+    "fat": "3.6",
+    "saturates": "1.5",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "2.6",
+    "sugars": "1.7",
+    "starch": "0.62",
+    "polyols": "0.1",
+    "fibre": "0.9",
+    "protein": "3.38",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.186"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A4010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

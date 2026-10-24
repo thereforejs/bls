@@ -1,0 +1,44 @@
+{
+  "code": "X551563",
+  "name": {
+    "de": "Auberginen-Tomaten-Paprikagemüse geschmort",
+    "en": "Aubergines braised with tomatoes and sweet peppers"
+  },
+  "per100g": {
+    "fat": "10.7",
+    "saturates": "0.84",
+    "monounsaturates": "5.98",
+    "polyunsaturates": "2.98",
+    "carbohydrate": "7.9",
+    "sugars": "7.6",
+    "starch": "0.01",
+    "polyols": "0.26",
+    "fibre": "3.2",
+    "protein": "1.59",
+    "sodium": "0.245",
+    "alcohol": "0",
+    "organicAcids": "1.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X551563",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

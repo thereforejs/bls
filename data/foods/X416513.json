@@ -1,0 +1,44 @@
+{
+  "code": "X416513",
+  "name": {
+    "de": "Gemüsebrühe mit Teigwaren eifrei",
+    "en": "Vegetable stock with pasta egg-free"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.1",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.037",
+    "carbohydrate": "3.91",
+    "sugars": "0.58",
+    "starch": "3.33",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "0.9",
+    "sodium": "0.258",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X416513",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

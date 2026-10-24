@@ -1,0 +1,44 @@
+{
+  "code": "X987212",
+  "name": {
+    "de": "Pizzabaguette mit Gemüse und Schafskäse überbacken",
+    "en": "Pizza baguette with vegetables and sheep's milk cheese gratinated"
+  },
+  "per100g": {
+    "fat": "10.8",
+    "saturates": "6.2",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "20",
+    "sugars": "2.4",
+    "starch": "18",
+    "polyols": "0.004",
+    "fibre": "1.9",
+    "protein": "9.4",
+    "sodium": "0.685",
+    "alcohol": "0",
+    "organicAcids": "0.81"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X987212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

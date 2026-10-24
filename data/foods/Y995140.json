@@ -1,0 +1,44 @@
+{
+  "code": "Y995140",
+  "name": {
+    "de": "Birne Helene",
+    "en": "Pear Helene"
+  },
+  "per100g": {
+    "fat": "10.05",
+    "saturates": "5.26",
+    "monounsaturates": "2.72",
+    "polyunsaturates": "0.42",
+    "carbohydrate": "15.9",
+    "sugars": "13.92",
+    "starch": "1.4",
+    "polyols": "0.61",
+    "fibre": "1.1",
+    "protein": "2.6",
+    "sodium": "0.027",
+    "alcohol": "0.002",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y995140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

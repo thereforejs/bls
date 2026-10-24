@@ -1,0 +1,44 @@
+{
+  "code": "Y891062",
+  "name": {
+    "de": "Pfannkuchen/Eierkuchen, mit Milch 3,5 % Fett, gebraten in Butter",
+    "en": "Pancakes with milk 3.5 % fat, fried in butter"
+  },
+  "per100g": {
+    "fat": "11.77",
+    "saturates": "6.08",
+    "monounsaturates": "2.91",
+    "polyunsaturates": "0.84",
+    "carbohydrate": "31.11",
+    "sugars": "9.54",
+    "starch": "21.57",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "8.2",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "0.032"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y891062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

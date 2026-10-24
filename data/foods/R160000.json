@@ -1,0 +1,44 @@
+{
+  "code": "R160000",
+  "name": {
+    "de": "Tomatenmark",
+    "en": "Tomato paste"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.04",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.08",
+    "carbohydrate": "13.2",
+    "sugars": "12.9",
+    "starch": "0.34",
+    "polyols": "0",
+    "fibre": "4.7",
+    "protein": "3.4",
+    "sodium": "0.32",
+    "alcohol": "0",
+    "organicAcids": "1.185"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R160000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

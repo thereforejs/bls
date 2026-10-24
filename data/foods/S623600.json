@@ -1,0 +1,44 @@
+{
+  "code": "S623600",
+  "name": {
+    "de": "Pralinen gefüllt mit Vanillecreme",
+    "en": "Pralines filled with vanilla cream"
+  },
+  "per100g": {
+    "fat": "36.08",
+    "saturates": "20.15",
+    "monounsaturates": "11.64",
+    "polyunsaturates": "2.08",
+    "carbohydrate": "52.5",
+    "sugars": "52.1",
+    "starch": "0.41",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "5.4",
+    "sodium": "0.063",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S623600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

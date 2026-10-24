@@ -1,0 +1,44 @@
+{
+  "code": "X5A2000",
+  "name": {
+    "de": "Champignons gedünstet in Essig, eingelegt in Rapsöl",
+    "en": "Button mushrooms stewed in vinegar, pickled in rapeseed oil"
+  },
+  "per100g": {
+    "fat": "13.66",
+    "saturates": "1.03",
+    "monounsaturates": "7.7",
+    "polyunsaturates": "3.78",
+    "carbohydrate": "4.2",
+    "sugars": "1.3",
+    "starch": "0",
+    "polyols": "2.87",
+    "fibre": "2.1",
+    "protein": "3.92",
+    "sodium": "0.258",
+    "alcohol": "0.003",
+    "organicAcids": "1.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

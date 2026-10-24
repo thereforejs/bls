@@ -1,0 +1,44 @@
+{
+  "code": "F303400",
+  "name": {
+    "de": "Brombeere getrocknet",
+    "en": "Blackberry dried"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "63.1",
+    "sugars": "33.7",
+    "starch": "0",
+    "polyols": "29.4",
+    "fibre": "19.7",
+    "protein": "8.02",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "5.666"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F303400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D7B5300",
+  "name": {
+    "de": "Kekse/Plätzchen, kakaohaltig (Rührmasse) mit Nougatfüllung, schokoliert",
+    "en": "Biscuits, containig cocoa (cake batter) with nougat filling and chocolate icing"
+  },
+  "per100g": {
+    "fat": "29",
+    "saturates": "15.9",
+    "monounsaturates": "8.4",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "56.4",
+    "sugars": "36.4",
+    "starch": "20",
+    "polyols": "0",
+    "fibre": "4.03",
+    "protein": "6.5",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B5300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

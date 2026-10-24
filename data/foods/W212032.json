@@ -1,0 +1,44 @@
+{
+  "code": "W212032",
+  "name": {
+    "de": "Geflügel-Wiener Würstchen gargezogen",
+    "en": "Poultry Vienna sausage poached"
+  },
+  "per100g": {
+    "fat": "17.25",
+    "saturates": "4.632",
+    "monounsaturates": "6.585",
+    "polyunsaturates": "3.794",
+    "carbohydrate": "0.97",
+    "sugars": "0.97",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.21",
+    "sodium": "0.7598",
+    "alcohol": "0.02",
+    "organicAcids": "0.718"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W212032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

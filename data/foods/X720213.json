@@ -1,0 +1,44 @@
+{
+  "code": "X720213",
+  "name": {
+    "de": "Auflauf aus Teigwaren eifrei, mit Kochschinken",
+    "en": "Casserole of pasta egg-free, with boiled ham"
+  },
+  "per100g": {
+    "fat": "8.4",
+    "saturates": "4.1",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.59",
+    "carbohydrate": "19.5",
+    "sugars": "1.4",
+    "starch": "18.12",
+    "polyols": "0",
+    "fibre": "0.98",
+    "protein": "9.9",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0.212"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X720213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

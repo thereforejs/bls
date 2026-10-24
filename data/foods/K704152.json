@@ -1,0 +1,44 @@
+{
+  "code": "K704152",
+  "name": {
+    "de": "Birkenpilz gedünstet",
+    "en": "Brown birch bolete stewed"
+  },
+  "per100g": {
+    "fat": "0.873",
+    "saturates": "0.154",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.437",
+    "carbohydrate": "4.6",
+    "sugars": "0.746",
+    "starch": null,
+    "polyols": "3.85",
+    "fibre": "9.141",
+    "protein": "6.62",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K704152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

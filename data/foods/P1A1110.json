@@ -1,0 +1,44 @@
+{
+  "code": "P1A1110",
+  "name": {
+    "de": "Weizenbier mit Fruchtnektar",
+    "en": "Wheat beer with fruit nectar"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.0024",
+    "monounsaturates": "0.00054",
+    "polyunsaturates": "0.00302",
+    "carbohydrate": "4.1",
+    "sugars": "2.05",
+    "starch": "2.053",
+    "polyols": "0.002",
+    "fibre": "0",
+    "protein": "0.561",
+    "sodium": "0.001",
+    "alcohol": "3.483",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P1A1110",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

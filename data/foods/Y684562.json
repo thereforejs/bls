@@ -1,0 +1,44 @@
+{
+  "code": "Y684562",
+  "name": {
+    "de": "Jakobsmuscheln gebraten provenzalische Art",
+    "en": "Scallops fried Provencal style"
+  },
+  "per100g": {
+    "fat": "5.1",
+    "saturates": "0.37",
+    "monounsaturates": "2.85",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "3.5",
+    "sugars": "2.6",
+    "starch": "0.86",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "6.1",
+    "sodium": "0.154",
+    "alcohol": "0.14",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y684562",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

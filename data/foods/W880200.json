@@ -1,0 +1,44 @@
+{
+  "code": "W880200",
+  "name": {
+    "de": "Kalbsleberwurst Konserve",
+    "en": "Veal liver sausage canned"
+  },
+  "per100g": {
+    "fat": "32",
+    "saturates": "12.583",
+    "monounsaturates": "13.833",
+    "polyunsaturates": "4.194",
+    "carbohydrate": "1.933",
+    "sugars": "1.915",
+    "starch": "0",
+    "polyols": "0.018",
+    "fibre": "0",
+    "protein": "13.55",
+    "sodium": "0.784",
+    "alcohol": "0",
+    "organicAcids": "0.322"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W880200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

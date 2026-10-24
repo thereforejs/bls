@@ -1,0 +1,44 @@
+{
+  "code": "T720182",
+  "name": {
+    "de": "Languste gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Spiny lobster/rock lobster/crawfish, boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.677",
+    "saturates": "0.197",
+    "monounsaturates": "0.197",
+    "polyunsaturates": "0.838",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.679",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T720182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y693312",
+  "name": {
+    "de": "Seezunge gebraten in Butter, mit Kaisergemüse und Salzkartoffeln",
+    "en": "Sole fried in butter, with stewed mixed vegetables and boiled (salted) potatoes"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.5",
+    "monounsaturates": "0.92",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "6.23",
+    "sugars": "1.33",
+    "starch": "4.62",
+    "polyols": "0.28",
+    "fibre": "1.2",
+    "protein": "8.16",
+    "sodium": "0.154",
+    "alcohol": "0",
+    "organicAcids": "0.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y693312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

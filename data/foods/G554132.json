@@ -1,0 +1,44 @@
+{
+  "code": "G554132",
+  "name": {
+    "de": "Pfefferschote rot, gekocht",
+    "en": "Chilli pepper red, boiled"
+  },
+  "per100g": {
+    "fat": "0.46",
+    "saturates": "0.043",
+    "monounsaturates": "0.025",
+    "polyunsaturates": "0.247",
+    "carbohydrate": "6.39",
+    "sugars": "6.39",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.93",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G554132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

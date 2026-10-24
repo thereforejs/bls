@@ -1,0 +1,44 @@
+{
+  "code": "Y141823",
+  "name": {
+    "de": "Rindergulasch mit Gemüse",
+    "en": "Beef goulash with vegetables"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "1",
+    "monounsaturates": "2.1",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "7",
+    "sugars": "3",
+    "starch": "4",
+    "polyols": "0.03",
+    "fibre": "1.6",
+    "protein": "8",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y141823",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

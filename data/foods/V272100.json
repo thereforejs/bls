@@ -1,0 +1,44 @@
+{
+  "code": "V272100",
+  "name": {
+    "de": "Rentier Fleisch, roh",
+    "en": "Reindeer meat, raw"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.6",
+    "monounsaturates": "0.5",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.6",
+    "sodium": "0.064",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V272100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X0A4010",
+  "name": {
+    "de": "Haferflocken gesüßt, mit Sojadrink und Fruchtmischung",
+    "en": "Oat flakes sweetened, with soya drink and mixed fruit"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.445",
+    "monounsaturates": "0.694",
+    "polyunsaturates": "0.982",
+    "carbohydrate": "20.6",
+    "sugars": "7.4",
+    "starch": "13.1",
+    "polyols": "0.1",
+    "fibre": "4",
+    "protein": "4.65",
+    "sodium": "0.011",
+    "alcohol": "0.02",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A4010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

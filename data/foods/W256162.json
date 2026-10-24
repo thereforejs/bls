@@ -1,0 +1,44 @@
+{
+  "code": "W256162",
+  "name": {
+    "de": "Leberkäse gebraten ohne Fett (Ofen)",
+    "en": "Leberkaese sausage fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "26.421",
+    "saturates": "8.9",
+    "monounsaturates": "12.55",
+    "polyunsaturates": "4.1",
+    "carbohydrate": "0.2",
+    "sugars": "0",
+    "starch": "0.2",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "13.626",
+    "sodium": "0.599",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W256162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

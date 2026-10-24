@@ -1,0 +1,44 @@
+{
+  "code": "X326513",
+  "name": {
+    "de": "Kapernsauce von heller/weißer Grundsauce",
+    "en": "Caper sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "6.9",
+    "saturates": "3.8",
+    "monounsaturates": "1.69",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "3.39",
+    "sugars": "0.8",
+    "starch": "2.59",
+    "polyols": "0",
+    "fibre": "0.28",
+    "protein": "1.4",
+    "sodium": "0.382",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X326513",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

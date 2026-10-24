@@ -1,0 +1,44 @@
+{
+  "code": "Y691432",
+  "name": {
+    "de": "Fischfrikadellen mit Seelachs gebraten",
+    "en": "Fishcakes with saithe fried"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "0.85",
+    "monounsaturates": "1.25",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "6.06",
+    "sugars": "0.96",
+    "starch": "5.1",
+    "polyols": "0.001",
+    "fibre": "0.6",
+    "protein": "15.6",
+    "sodium": "0.212",
+    "alcohol": "0",
+    "organicAcids": "0.26"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y691432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C341000",
+  "name": {
+    "de": "Mais roh",
+    "en": "Maize raw"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "0.633",
+    "monounsaturates": "1.136",
+    "polyunsaturates": "1.67",
+    "carbohydrate": "62.84",
+    "sugars": "1.39",
+    "starch": "61.45",
+    "polyols": "0",
+    "fibre": "7.7",
+    "protein": "8.656",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C341000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

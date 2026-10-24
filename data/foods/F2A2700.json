@@ -1,0 +1,44 @@
+{
+  "code": "F2A2700",
+  "name": {
+    "de": "Sauerkirschnektar mit Süßungsmitteln",
+    "en": "Sour cherry nectar with artificial sweeteners"
+  },
+  "per100g": {
+    "fat": "0.14",
+    "saturates": "0.031",
+    "monounsaturates": "0.038",
+    "polyunsaturates": "0.042",
+    "carbohydrate": "4.499",
+    "sugars": "4.184",
+    "starch": "0",
+    "polyols": "0.315",
+    "fibre": "0",
+    "protein": "0.284",
+    "sodium": "0.003",
+    "alcohol": "0.047",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F2A2700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

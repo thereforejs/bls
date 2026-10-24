@@ -1,0 +1,44 @@
+{
+  "code": "K750182",
+  "name": {
+    "de": "Mischpilze gebraten ohne Fett (Pfanne)",
+    "en": "Mixed mushrooms fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.068",
+    "monounsaturates": "0.017",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "3.55",
+    "sugars": "1.59",
+    "starch": "0",
+    "polyols": "1.96",
+    "fibre": "8.36",
+    "protein": "5.7",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K750182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

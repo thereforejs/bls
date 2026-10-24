@@ -1,0 +1,44 @@
+{
+  "code": "X167512",
+  "name": {
+    "de": "Rote-Bete-Salat (gegart) mit Essigmarinade",
+    "en": "Beetroot salad (cooked) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "10.65",
+    "saturates": "0.77",
+    "monounsaturates": "6.08",
+    "polyunsaturates": "2.92",
+    "carbohydrate": "5.16",
+    "sugars": "5.15",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "1.47",
+    "sodium": "0.118",
+    "alcohol": "0.007",
+    "organicAcids": "0.62"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X167512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

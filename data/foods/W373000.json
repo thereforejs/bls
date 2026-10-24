@@ -1,0 +1,44 @@
+{
+  "code": "W373000",
+  "name": {
+    "de": "Gemüsesülze/Gemüse-Mix in Aspik",
+    "en": "Vegetable aspic/vegetable mix in aspic"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.064",
+    "monounsaturates": "0.07",
+    "polyunsaturates": "0.115",
+    "carbohydrate": "3.82",
+    "sugars": "2.99",
+    "starch": "0.44",
+    "polyols": "0.39",
+    "fibre": "1.6",
+    "protein": "1.8",
+    "sodium": "0.702",
+    "alcohol": "0.01",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W373000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

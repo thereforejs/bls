@@ -1,0 +1,44 @@
+{
+  "code": "Y734142",
+  "name": {
+    "de": "Omelett gebraten mit Kartoffeln und Kochschinken",
+    "en": "Omelette fried with potatoes and boiled ham"
+  },
+  "per100g": {
+    "fat": "11.91",
+    "saturates": "1.82",
+    "monounsaturates": "5.93",
+    "polyunsaturates": "2.67",
+    "carbohydrate": "7.17",
+    "sugars": "0.99",
+    "starch": "6.18",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "7.96",
+    "sodium": "0.248",
+    "alcohol": "0",
+    "organicAcids": "0.095"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y734142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

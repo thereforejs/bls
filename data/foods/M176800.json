@@ -1,0 +1,47 @@
+{
+  "code": "M176800",
+  "name": {
+    "de": "Sauerrahm/Creme fraiche, 30 % Fett",
+    "en": "Creme fraiche 30 % fat"
+  },
+  "per100g": {
+    "fat": "27.03",
+    "saturates": "18.475",
+    "monounsaturates": "5.966",
+    "polyunsaturates": "0.851",
+    "carbohydrate": "2.55",
+    "sugars": "2.55",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "2.4",
+    "sodium": "0.0312",
+    "alcohol": null,
+    "organicAcids": "0.63"
+  },
+  "marks": {
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M176800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

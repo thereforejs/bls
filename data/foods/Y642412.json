@@ -1,0 +1,44 @@
+{
+  "code": "Y642412",
+  "name": {
+    "de": "Forelle Müllerinart (mehliert, gebraten)",
+    "en": "Trout floured, fried"
+  },
+  "per100g": {
+    "fat": "8.3",
+    "saturates": "1.36",
+    "monounsaturates": "3.23",
+    "polyunsaturates": "3.38",
+    "carbohydrate": "2.64",
+    "sugars": "0.329",
+    "starch": "2.31",
+    "polyols": "0",
+    "fibre": "0.36",
+    "protein": "21.28",
+    "sodium": "0.1764",
+    "alcohol": "0.001",
+    "organicAcids": "1.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y642412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

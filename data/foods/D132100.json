@@ -1,0 +1,44 @@
+{
+  "code": "D132100",
+  "name": {
+    "de": "Spiegeleierkuchen (Rührmasse)",
+    "en": "Apricot cheese cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "9.72",
+    "saturates": "6.18",
+    "monounsaturates": "2.2",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "22.7",
+    "sugars": "13.11",
+    "starch": "9.5",
+    "polyols": "0.09",
+    "fibre": "0.7",
+    "protein": "3.2",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D132100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

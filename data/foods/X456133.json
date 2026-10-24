@@ -1,0 +1,44 @@
+{
+  "code": "X456133",
+  "name": {
+    "de": "Gulaschsuppe ungarisch, mit Rindfleisch, Fleischbrühe, Tomaten und Kartoffeln",
+    "en": "Goulash soup \"Hungarian\" with beef, meat stock, tomatoes and potatoes"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "2.2",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3",
+    "sugars": "1.3",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "2.8",
+    "sodium": "0.228",
+    "alcohol": "0",
+    "organicAcids": "0.086"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X456133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

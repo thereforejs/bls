@@ -1,0 +1,44 @@
+{
+  "code": "E604332",
+  "name": {
+    "de": "Eierteigwaren mit Weizenkeimen, gekocht",
+    "en": "Egg pasta with wheat germ, boiled"
+  },
+  "per100g": {
+    "fat": "1.06",
+    "saturates": "0.2",
+    "monounsaturates": "0.23",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "25.24",
+    "sugars": "0.439",
+    "starch": "24.8",
+    "polyols": "0",
+    "fibre": "2.17",
+    "protein": "6.09",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E604332",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

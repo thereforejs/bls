@@ -1,0 +1,44 @@
+{
+  "code": "R141200",
+  "name": {
+    "de": "Curry-Gewürzketchup",
+    "en": "Curry ketchup"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.03",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.02",
+    "carbohydrate": "21.16",
+    "sugars": "20.82",
+    "starch": "0.34",
+    "polyols": "0",
+    "fibre": "1.81",
+    "protein": "1.4",
+    "sodium": "0.76",
+    "alcohol": "0",
+    "organicAcids": "1.185"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R141200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

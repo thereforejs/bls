@@ -1,0 +1,44 @@
+{
+  "code": "Y181132",
+  "name": {
+    "de": "Tafelspitz gekocht, mit Meerrettichsauce von heller/weißer Grundsauce",
+    "en": "Beef rump cap boiled, with horseradish sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "6.3",
+    "saturates": "3.1",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "2.07",
+    "sugars": "0.77",
+    "starch": "1.3",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "15.07",
+    "sodium": "0.172",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y181132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

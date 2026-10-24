@@ -1,0 +1,47 @@
+{
+  "code": "T890100",
+  "name": {
+    "de": "Surimi (Krebsfleischimitat aus Fischmuskeleiweiß geformt)",
+    "en": "Surimi (crab meat imitation)"
+  },
+  "per100g": {
+    "fat": "3.63",
+    "saturates": "0.4171",
+    "monounsaturates": "2.1",
+    "polyunsaturates": "0.9713",
+    "carbohydrate": "6.25",
+    "sugars": "6.25",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "7.77",
+    "sodium": "0.871",
+    "alcohol": null,
+    "organicAcids": null
+  },
+  "marks": {
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T890100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C121000",
+  "name": {
+    "de": "Roggen ganzes Korn, roh",
+    "en": "Rye whole grain, raw"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.31",
+    "monounsaturates": "0.47",
+    "polyunsaturates": "0.815",
+    "carbohydrate": "53.844",
+    "sugars": "1.424",
+    "starch": "52.42",
+    "polyols": "0",
+    "fibre": "13.4",
+    "protein": "11",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C121000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

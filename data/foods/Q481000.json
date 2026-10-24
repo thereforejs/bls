@@ -1,0 +1,44 @@
+{
+  "code": "Q481000",
+  "name": {
+    "de": "Backmargarine",
+    "en": "Margarine for baking"
+  },
+  "per100g": {
+    "fat": "79.7",
+    "saturates": "32.21",
+    "monounsaturates": "35.07",
+    "polyunsaturates": "11.72",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.205",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q481000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

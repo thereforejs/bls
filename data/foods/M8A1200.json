@@ -1,0 +1,44 @@
+{
+  "code": "M8A1200",
+  "name": {
+    "de": "Frischkäsezubereitung mind. 10 % Fett i. Tr., mit Fruchtzubereitung, gesüßt, angereichert mit Vitamin D und Calcium",
+    "en": "Cream cheese preparation min. 10 % fat in dry matter, with fruit preparation, sweetened, fortified with vitamin D and Calcium"
+  },
+  "per100g": {
+    "fat": "2.5",
+    "saturates": "1.33",
+    "monounsaturates": "0.71",
+    "polyunsaturates": "0.11",
+    "carbohydrate": "10.8",
+    "sugars": "10.7",
+    "starch": "0.097",
+    "polyols": "0.041",
+    "fibre": "0.3",
+    "protein": "7.7",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M8A1200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

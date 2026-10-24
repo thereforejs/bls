@@ -1,0 +1,44 @@
+{
+  "code": "B491400",
+  "name": {
+    "de": "Dinkelvollkornbrötchen mit Sonnenblumenkernen",
+    "en": "Wholemeal spelt roll with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "6.11",
+    "saturates": "1.15",
+    "monounsaturates": "1.82",
+    "polyunsaturates": "2.48",
+    "carbohydrate": "45",
+    "sugars": "1.7",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "7.91",
+    "protein": "11.5",
+    "sodium": "0.545",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B491400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

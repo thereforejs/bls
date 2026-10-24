@@ -1,0 +1,44 @@
+{
+  "code": "C130032",
+  "name": {
+    "de": "Hafer ganzes Korn, gekocht",
+    "en": "Oat whole grain, boiled"
+  },
+  "per100g": {
+    "fat": "3.585",
+    "saturates": "0.723",
+    "monounsaturates": "1.271",
+    "polyunsaturates": "1.446",
+    "carbohydrate": "28.7",
+    "sugars": "0.576",
+    "starch": "28.1",
+    "polyols": "0",
+    "fibre": "5",
+    "protein": "6.071",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C130032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

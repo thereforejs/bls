@@ -1,0 +1,44 @@
+{
+  "code": "D4A7000",
+  "name": {
+    "de": "Käse-Schinken-Hörnchen (Quark-Öl-Teig)",
+    "en": "Cheese-ham crescent (quark oil dough)"
+  },
+  "per100g": {
+    "fat": "14.25",
+    "saturates": "4.8",
+    "monounsaturates": "4",
+    "polyunsaturates": "4.5",
+    "carbohydrate": "28.3",
+    "sugars": "1.36",
+    "starch": "26.9",
+    "polyols": "0",
+    "fibre": "2.14",
+    "protein": "14.45",
+    "sodium": "0.549",
+    "alcohol": "0",
+    "organicAcids": "0.585"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T412282",
+  "name": {
+    "de": "Buckellachs tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Pink salmon deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "5",
+    "saturates": "0.91",
+    "monounsaturates": "1.456",
+    "polyunsaturates": "0.876",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.9",
+    "sodium": "0.066",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T412282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

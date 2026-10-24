@@ -1,0 +1,44 @@
+{
+  "code": "W391400",
+  "name": {
+    "de": "Wildpastete mit Hasenfleisch",
+    "en": "Hare pate"
+  },
+  "per100g": {
+    "fat": "6.58",
+    "saturates": "2.41",
+    "monounsaturates": "1.91",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "16.7",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W391400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

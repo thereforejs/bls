@@ -1,0 +1,44 @@
+{
+  "code": "N630500",
+  "name": {
+    "de": "Schwarztee (Getränk) mit Sahne 30 % Fett und Zucker",
+    "en": "Black tea (infusion) with cream 30 % fat and sugar"
+  },
+  "per100g": {
+    "fat": "1.038",
+    "saturates": "0.552",
+    "monounsaturates": "0.271",
+    "polyunsaturates": "0.026",
+    "carbohydrate": "1.907",
+    "sugars": "1.907",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.076",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.005"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N630500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y860643",
+  "name": {
+    "de": "Grießflammeri/Grießpudding, mit Ei",
+    "en": "Semolina pudding with egg"
+  },
+  "per100g": {
+    "fat": "4.61",
+    "saturates": "2.12",
+    "monounsaturates": "1.5",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "13.94",
+    "sugars": "8.08",
+    "starch": "5.86",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "5.1",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.047"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

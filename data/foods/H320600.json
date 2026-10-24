@@ -1,0 +1,44 @@
+{
+  "code": "H320600",
+  "name": {
+    "de": "Pinienkern geröstet ohne Fett",
+    "en": "Pine nut roasted without fat"
+  },
+  "per100g": {
+    "fat": "63.2",
+    "saturates": "4.42",
+    "monounsaturates": "15.985",
+    "polyunsaturates": "26.192",
+    "carbohydrate": "6.3",
+    "sugars": "4.1",
+    "starch": "2.2",
+    "polyols": "0",
+    "fibre": "6.5",
+    "protein": "16.4",
+    "sodium": "0.173",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H320600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

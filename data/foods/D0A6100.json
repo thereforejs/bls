@@ -1,0 +1,44 @@
+{
+  "code": "D0A6100",
+  "name": {
+    "de": "Kuchenboden/Tortenboden, kakaohaltig (Mürbeteig, einfacher)",
+    "en": "Cake base/torte base, containing cocoa (shortcrust pastry, simple)"
+  },
+  "per100g": {
+    "fat": "18.28",
+    "saturates": "10.79",
+    "monounsaturates": "4.28",
+    "polyunsaturates": "0.84",
+    "carbohydrate": "55.5",
+    "sugars": "21.904",
+    "starch": "33.6",
+    "polyols": "0",
+    "fibre": "3.44",
+    "protein": "8.61",
+    "sodium": "0.089",
+    "alcohol": "0",
+    "organicAcids": "0.0158"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D0A6100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

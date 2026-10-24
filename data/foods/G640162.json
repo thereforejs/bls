@@ -1,0 +1,44 @@
+{
+  "code": "G640162",
+  "name": {
+    "de": "Pastinake gebacken",
+    "en": "Parsnip baked"
+  },
+  "per100g": {
+    "fat": "0.506",
+    "saturates": "0.076",
+    "monounsaturates": "0.028",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "11.4",
+    "sugars": "3.601",
+    "starch": "7.8",
+    "polyols": null,
+    "fibre": "2.506",
+    "protein": "3.1618",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G640162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

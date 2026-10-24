@@ -1,0 +1,44 @@
+{
+  "code": "Y161333",
+  "name": {
+    "de": "Zwiebelfleisch vom Rind geschmort, mit Sauce",
+    "en": "Beef braised with onions and sauce"
+  },
+  "per100g": {
+    "fat": "12.5",
+    "saturates": "2.8",
+    "monounsaturates": "6.5",
+    "polyunsaturates": "2.32",
+    "carbohydrate": "3.92",
+    "sugars": "2.39",
+    "starch": "1.53",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "19.73",
+    "sodium": "0.291",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y161333",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

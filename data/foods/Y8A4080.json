@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4080",
+  "name": {
+    "de": "Milchreis mit Milch 3,5 % Fett und roter Grütze",
+    "en": "Rice pudding with milk 3.5 % fat and red fruit jelly"
+  },
+  "per100g": {
+    "fat": "2.4",
+    "saturates": "1.433",
+    "monounsaturates": "0.543",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "20.7",
+    "sugars": "7.4",
+    "starch": "13.1",
+    "polyols": "0.24",
+    "fibre": "1.2",
+    "protein": "3.8",
+    "sodium": "0.031",
+    "alcohol": "0",
+    "organicAcids": "0.504"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4080",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

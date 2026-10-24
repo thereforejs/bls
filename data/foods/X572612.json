@@ -1,0 +1,44 @@
+{
+  "code": "X572612",
+  "name": {
+    "de": "Chinakohl gedünstet (mit Fett und Salz)",
+    "en": "Chinese white cabbage stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.539",
+    "saturates": "0.24",
+    "monounsaturates": "1.95",
+    "polyunsaturates": "0.94",
+    "carbohydrate": "1.27",
+    "sugars": "1.16",
+    "starch": "0.001",
+    "polyols": "0.11",
+    "fibre": "1.4",
+    "protein": "1.438",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.108"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X572612",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

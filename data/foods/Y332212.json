@@ -1,0 +1,44 @@
+{
+  "code": "Y332212",
+  "name": {
+    "de": "Schweineschnitzel natur, gebraten",
+    "en": "Pork schnitzel fried"
+  },
+  "per100g": {
+    "fat": "2.92",
+    "saturates": "0.88",
+    "monounsaturates": "1.13",
+    "polyunsaturates": "0.17",
+    "carbohydrate": "0.03",
+    "sugars": "0",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "0.02",
+    "protein": "32.37",
+    "sodium": "0.205",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y332212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

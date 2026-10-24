@@ -1,0 +1,46 @@
+{
+  "code": "Q4C5000",
+  "name": {
+    "de": "Mischfett mit überwiegend Pflanzenfett, ungesalzen, angereichert mit Vitaminen",
+    "en": "Mixed fat spread (mainly vegetable fat) unsalted, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "54.66",
+    "saturates": "19.51",
+    "monounsaturates": "23.59",
+    "polyunsaturates": "8.06",
+    "carbohydrate": "1.24",
+    "sugars": "0.513",
+    "starch": "0.73",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "0.39",
+    "sodium": "0.1774",
+    "alcohol": "0",
+    "organicAcids": "0.093"
+  },
+  "marks": {
+    "fibre": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q4C5000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

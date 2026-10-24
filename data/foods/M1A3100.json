@@ -1,0 +1,44 @@
+{
+  "code": "M1A3100",
+  "name": {
+    "de": "H-Milch entrahmt, höchstens 0,5 % Fett, laktosefrei, ultrahocherhitzt",
+    "en": "Milk skimmed, max. 0.5 % fat, lactose-free, ultra-heated"
+  },
+  "per100g": {
+    "fat": "0.208",
+    "saturates": "0.142",
+    "monounsaturates": "0.053",
+    "polyunsaturates": "0.007",
+    "carbohydrate": "4.97",
+    "sugars": "4.97",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.51",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M1A3100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

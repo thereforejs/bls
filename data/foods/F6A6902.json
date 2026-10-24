@@ -1,0 +1,44 @@
+{
+  "code": "F6A6902",
+  "name": {
+    "de": "Mandarine in Fruchtsaft, Konserve, abgetropft",
+    "en": "Mandarin in juice, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.442",
+    "saturates": "0.062",
+    "monounsaturates": "0.122",
+    "polyunsaturates": "0.167",
+    "carbohydrate": "8.115",
+    "sugars": "8.115",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.053",
+    "protein": "1.379",
+    "sodium": "0.003",
+    "alcohol": "0.049",
+    "organicAcids": "1.147"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F6A6902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T103600",
+  "name": {
+    "de": "Matjeshering mild gesalzen, geräuchert",
+    "en": "Matjes herring mild salted, smoked"
+  },
+  "per100g": {
+    "fat": "24.398",
+    "saturates": "4.458",
+    "monounsaturates": "12.116",
+    "polyunsaturates": "5.777",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.273",
+    "sodium": "2.699",
+    "alcohol": "0",
+    "organicAcids": "1.784"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T103600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

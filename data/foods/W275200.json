@@ -1,0 +1,44 @@
+{
+  "code": "W275200",
+  "name": {
+    "de": "Helle Zungenwurst",
+    "en": "Light pork tongue sausage"
+  },
+  "per100g": {
+    "fat": "24",
+    "saturates": "4.26",
+    "monounsaturates": "4.49",
+    "polyunsaturates": "1.43",
+    "carbohydrate": "0.22",
+    "sugars": "0.15",
+    "starch": "0.07",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "17.3",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W275200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

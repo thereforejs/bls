@@ -1,0 +1,44 @@
+{
+  "code": "X4A3000",
+  "name": {
+    "de": "Gemüsesamtsuppe",
+    "en": "Velvety vegetable soup"
+  },
+  "per100g": {
+    "fat": "2.5",
+    "saturates": "1",
+    "monounsaturates": "0.89",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "4",
+    "sugars": "2",
+    "starch": "2",
+    "polyols": "0.01",
+    "fibre": "0.8",
+    "protein": "0.94",
+    "sodium": "0.187",
+    "alcohol": "0",
+    "organicAcids": "0.126"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

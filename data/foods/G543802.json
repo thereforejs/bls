@@ -1,0 +1,44 @@
+{
+  "code": "G543802",
+  "name": {
+    "de": "Gemüsepaprika rot, gesäuert, abgetropft",
+    "en": "Sweet pepper red, pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.072",
+    "saturates": "0.0232",
+    "monounsaturates": "0.0018",
+    "polyunsaturates": "0.0766",
+    "carbohydrate": "6.11",
+    "sugars": "6.11",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.765",
+    "protein": "0.738",
+    "sodium": "0.475",
+    "alcohol": "0.018",
+    "organicAcids": "1.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G543802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

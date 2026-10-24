@@ -1,0 +1,44 @@
+{
+  "code": "V489082",
+  "name": {
+    "de": "Pute Brust, ohne Haut, mariniert, gebraten ohne Fett (Pfanne)",
+    "en": "Turkey breast, without skin, marinated, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "5.14",
+    "saturates": "0.74",
+    "monounsaturates": "2.51",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "2.35",
+    "sugars": "2.29",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "30.46",
+    "sodium": "0.469",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V489082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

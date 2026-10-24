@@ -1,0 +1,44 @@
+{
+  "code": "Y0A2020",
+  "name": {
+    "de": "Hackfleisch-Kohlpudding",
+    "en": "Minced meat-cabbage pudding"
+  },
+  "per100g": {
+    "fat": "17.8",
+    "saturates": "6.55",
+    "monounsaturates": "7.36",
+    "polyunsaturates": "1.59",
+    "carbohydrate": "2.74",
+    "sugars": "2.66",
+    "starch": "0.002",
+    "polyols": "0.08",
+    "fibre": "1.5",
+    "protein": "18.15",
+    "sodium": "0.402",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y0A2020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

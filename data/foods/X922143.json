@@ -1,0 +1,44 @@
+{
+  "code": "X922143",
+  "name": {
+    "de": "Frühlingsrollen gefüllt mit Gemüse und Schweinefleisch, frittiert",
+    "en": "Spring rolls filled with vegetables and pork, deep-fried"
+  },
+  "per100g": {
+    "fat": "14.3",
+    "saturates": "1.17",
+    "monounsaturates": "7.72",
+    "polyunsaturates": "3.7",
+    "carbohydrate": "28",
+    "sugars": "1.9",
+    "starch": "25.83",
+    "polyols": "0.22",
+    "fibre": "3.6",
+    "protein": "11.1",
+    "sodium": "0.201",
+    "alcohol": "0.01",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X922143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

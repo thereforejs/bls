@@ -1,0 +1,44 @@
+{
+  "code": "C213500",
+  "name": {
+    "de": "Weizen Mehl, Type 1600",
+    "en": "Wheat flour, Type 1600"
+  },
+  "per100g": {
+    "fat": "2.44",
+    "saturates": "0.3",
+    "monounsaturates": "0.28",
+    "polyunsaturates": "1.15",
+    "carbohydrate": "59.27",
+    "sugars": "0.68615",
+    "starch": "58.58",
+    "polyols": "0",
+    "fibre": "11.07",
+    "protein": "14.52",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C213500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

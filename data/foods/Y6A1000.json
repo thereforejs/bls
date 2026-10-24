@@ -1,0 +1,44 @@
+{
+  "code": "Y6A1000",
+  "name": {
+    "de": "Heringsfilet mehliert, gebraten",
+    "en": "Herring fillet floured, fried"
+  },
+  "per100g": {
+    "fat": "10.37",
+    "saturates": "2.32",
+    "monounsaturates": "3.13",
+    "polyunsaturates": "2.79",
+    "carbohydrate": "5.19",
+    "sugars": "0.01918",
+    "starch": "5.17",
+    "polyols": "0",
+    "fibre": "0.39",
+    "protein": "18.4",
+    "sodium": "0.244",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y6A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

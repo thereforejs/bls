@@ -1,0 +1,44 @@
+{
+  "code": "D660800",
+  "name": {
+    "de": "Schokoladen-Makronen",
+    "en": "Chocolate macaroons"
+  },
+  "per100g": {
+    "fat": "23.6",
+    "saturates": "4.67",
+    "monounsaturates": "13.34",
+    "polyunsaturates": "4.2",
+    "carbohydrate": "49.2",
+    "sugars": "48.676",
+    "starch": "0.52",
+    "polyols": "0",
+    "fibre": "5.4",
+    "protein": "11.9",
+    "sodium": "0.045",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D660800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

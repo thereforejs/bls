@@ -1,0 +1,44 @@
+{
+  "code": "W411332",
+  "name": {
+    "de": "Schwein Bauchspeck, Rohpökelware, geräuchert, gekocht",
+    "en": "Pork streaky bacon, raw cured, smoked, boiled"
+  },
+  "per100g": {
+    "fat": "24.86",
+    "saturates": "8.902",
+    "monounsaturates": "9.63",
+    "polyunsaturates": "2.375",
+    "carbohydrate": "0.581",
+    "sugars": "0.581",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.81",
+    "sodium": "1.6",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W411332",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

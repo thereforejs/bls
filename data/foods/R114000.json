@@ -1,0 +1,44 @@
+{
+  "code": "R114000",
+  "name": {
+    "de": "Speisesalz jodiert/Jodsalz",
+    "en": "Iodised salt"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "38.145",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R114000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X145242",
+  "name": {
+    "de": "Spargelsalat (gegart) mit Essigmarinade",
+    "en": "Asparagus salad (cooked) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "7.95",
+    "saturates": "0.6",
+    "monounsaturates": "4.51",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "1.13",
+    "sugars": "0.98",
+    "starch": "0.08",
+    "polyols": "0.07",
+    "fibre": "1.1",
+    "protein": "1.42",
+    "sodium": "0.062",
+    "alcohol": "0.005",
+    "organicAcids": "0.47"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X145242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

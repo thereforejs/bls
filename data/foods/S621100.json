@@ -1,0 +1,44 @@
+{
+  "code": "S621100",
+  "name": {
+    "de": "Weinbrand-Kirschen",
+    "en": "Pralines with brandy-cherry filling"
+  },
+  "per100g": {
+    "fat": "20.48",
+    "saturates": "12.3",
+    "monounsaturates": "6.5",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "49.7",
+    "sugars": "46.1",
+    "starch": "1.35",
+    "polyols": "0.12",
+    "fibre": "4.77",
+    "protein": "3.81",
+    "sodium": "0.012",
+    "alcohol": "2.53",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S621100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

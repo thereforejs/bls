@@ -1,0 +1,44 @@
+{
+  "code": "C412032",
+  "name": {
+    "de": "Grünkern Vollkornschrot, gekocht",
+    "en": "Green spelt coarse meal, boiled"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.05",
+    "monounsaturates": "0.09",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "8.92",
+    "sugars": "0.3745",
+    "starch": "8.55",
+    "polyols": "0",
+    "fibre": "1.89",
+    "protein": "1.72",
+    "sodium": "0.0001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C412032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

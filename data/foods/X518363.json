@@ -1,0 +1,44 @@
+{
+  "code": "X518363",
+  "name": {
+    "de": "Karotten und Erbsen gedünstet, in Grundsauce hell/weiß mit Sahne",
+    "en": "Carrots and peas stewed, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "1.7",
+    "monounsaturates": "0.81",
+    "polyunsaturates": "0.22",
+    "carbohydrate": "8.57",
+    "sugars": "4.2",
+    "starch": "4.37",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "2.9",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X518363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

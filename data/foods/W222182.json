@@ -1,0 +1,44 @@
+{
+  "code": "W222182",
+  "name": {
+    "de": "Bratwurst mittelgrob, gebraten ohne Fett (Pfanne)",
+    "en": "Bratwurst medium-coarsely minced, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "30.4",
+    "saturates": "7.71",
+    "monounsaturates": "6.94",
+    "polyunsaturates": "2.42",
+    "carbohydrate": "0.1",
+    "sugars": "0",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "18.62",
+    "sodium": "0.8708",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W222182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

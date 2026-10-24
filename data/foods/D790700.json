@@ -1,0 +1,44 @@
+{
+  "code": "D790700",
+  "name": {
+    "de": "Kekse/Plätzchen (Vollkornmürbeteig)",
+    "en": "Wholemeal biscuits"
+  },
+  "per100g": {
+    "fat": "29.77",
+    "saturates": "18.584",
+    "monounsaturates": "6.307",
+    "polyunsaturates": "1.064",
+    "carbohydrate": "53.1",
+    "sugars": "20.933",
+    "starch": "32.2",
+    "polyols": "0",
+    "fibre": "6.45",
+    "protein": "7.13",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.0299"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D790700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

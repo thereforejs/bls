@@ -1,0 +1,44 @@
+{
+  "code": "G250100",
+  "name": {
+    "de": "Petersilienblatt roh",
+    "en": "Parsley leaf raw"
+  },
+  "per100g": {
+    "fat": "0.36",
+    "saturates": "0.043",
+    "monounsaturates": "0.0072",
+    "polyunsaturates": "0.192",
+    "carbohydrate": "1.31",
+    "sugars": "0.85",
+    "starch": "0.46",
+    "polyols": null,
+    "fibre": "4.25",
+    "protein": "4.088",
+    "sodium": "0.1255",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G250100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

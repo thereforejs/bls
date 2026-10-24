@@ -1,0 +1,44 @@
+{
+  "code": "G561072",
+  "name": {
+    "de": "Tomate gegrillt",
+    "en": "Tomato grilled"
+  },
+  "per100g": {
+    "fat": "0.136",
+    "saturates": "0.0266",
+    "monounsaturates": "0.0131",
+    "polyunsaturates": "0.0545",
+    "carbohydrate": "4.01",
+    "sugars": "4.01",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.149",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.478"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G561072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

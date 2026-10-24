@@ -1,0 +1,44 @@
+{
+  "code": "X5A9000",
+  "name": {
+    "de": "Karotten/Möhren, gekocht",
+    "en": "Carrots boiled"
+  },
+  "per100g": {
+    "fat": "0.399",
+    "saturates": "0.0927",
+    "monounsaturates": "0.1034",
+    "polyunsaturates": "0.0746",
+    "carbohydrate": "6.53",
+    "sugars": "6.429",
+    "starch": "0.1009",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "0.837",
+    "sodium": "0.125",
+    "alcohol": "0",
+    "organicAcids": "0.237"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A9000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y377013",
+  "name": {
+    "de": "Schweinenierengeschnetzeltes sauer, mit Grundsauce dunkel/braun",
+    "en": "Pork kidney ragout sour, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "18",
+    "saturates": "5",
+    "monounsaturates": "7.9",
+    "polyunsaturates": "3.46",
+    "carbohydrate": "2.3",
+    "sugars": "0.46",
+    "starch": "1.84",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "13.96",
+    "sodium": "0.431",
+    "alcohol": "0.004",
+    "organicAcids": "0.44"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y377013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

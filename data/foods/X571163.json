@@ -1,0 +1,44 @@
+{
+  "code": "X571163",
+  "name": {
+    "de": "Grüne Bohnen gekocht, in Butter geschwenkt",
+    "en": "Green beans boiled, tossed in butter"
+  },
+  "per100g": {
+    "fat": "4.311",
+    "saturates": "2.686",
+    "monounsaturates": "0.887",
+    "polyunsaturates": "0.193",
+    "carbohydrate": "3.2",
+    "sugars": "2.1",
+    "starch": "0.9",
+    "polyols": "0.25",
+    "fibre": "1.804",
+    "protein": "2.121",
+    "sodium": "0.132",
+    "alcohol": "0",
+    "organicAcids": "0.0042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X571163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Q640000",
+  "name": {
+    "de": "Halbfettbutter",
+    "en": "Butter half fat"
+  },
+  "per100g": {
+    "fat": "39.8",
+    "saturates": "25.46",
+    "monounsaturates": "10.294",
+    "polyunsaturates": "0.871",
+    "carbohydrate": "0.571",
+    "sugars": "0.571",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "4",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.126"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q640000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

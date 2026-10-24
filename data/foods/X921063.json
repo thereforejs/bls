@@ -1,0 +1,44 @@
+{
+  "code": "X921063",
+  "name": {
+    "de": "Blätterteigtaschen gefüllt mit Spinat, Schafskäse und Pinienkernen, gebacken",
+    "en": "Puff pastry pockets filled with spinach, sheep's milk cheese and pine nuts, baked"
+  },
+  "per100g": {
+    "fat": "26.9",
+    "saturates": "10.54",
+    "monounsaturates": "10.58",
+    "polyunsaturates": "4.32",
+    "carbohydrate": "14.7",
+    "sugars": "0.9",
+    "starch": "13.8",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "7.9",
+    "sodium": "0.394",
+    "alcohol": "0",
+    "organicAcids": "0.369"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X921063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

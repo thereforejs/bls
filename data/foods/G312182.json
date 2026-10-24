@@ -1,0 +1,44 @@
+{
+  "code": "G312182",
+  "name": {
+    "de": "Broccoli gebraten ohne Fett (Pfanne)",
+    "en": "Broccoli fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.1934",
+    "saturates": "0.2378",
+    "monounsaturates": "0.0749",
+    "polyunsaturates": "0.5176",
+    "carbohydrate": "4.6",
+    "sugars": "2.76",
+    "starch": "1.09",
+    "polyols": "0.8",
+    "fibre": "6",
+    "protein": "7.244",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G312182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

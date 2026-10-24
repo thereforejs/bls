@@ -1,0 +1,44 @@
+{
+  "code": "X6A3030",
+  "name": {
+    "de": "Ofenkartoffeln mit Zwiebeln",
+    "en": "Baked potatoes with onions"
+  },
+  "per100g": {
+    "fat": "3.72",
+    "saturates": "0.28",
+    "monounsaturates": "2.08",
+    "polyunsaturates": "1",
+    "carbohydrate": "20.72",
+    "sugars": "2.37",
+    "starch": "18.35",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "2.37",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A3030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

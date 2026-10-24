@@ -1,0 +1,44 @@
+{
+  "code": "K392262",
+  "name": {
+    "de": "Kartoffel-Speck-Rösti tiefgefroren, gebacken",
+    "en": "Potato rösti with bacon, deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "16.25",
+    "saturates": "2.5",
+    "monounsaturates": "5.3",
+    "polyunsaturates": "7.5",
+    "carbohydrate": "36",
+    "sugars": "1.7",
+    "starch": "34.29",
+    "polyols": "0.001",
+    "fibre": "2.4",
+    "protein": "6.93",
+    "sodium": "0.77",
+    "alcohol": "0",
+    "organicAcids": "0.175"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K392262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

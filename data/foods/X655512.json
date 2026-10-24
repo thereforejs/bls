@@ -1,0 +1,44 @@
+{
+  "code": "X655512",
+  "name": {
+    "de": "Kartoffelküchlein mit Käse gebraten",
+    "en": "Small potato burger with cheese fried"
+  },
+  "per100g": {
+    "fat": "14.36",
+    "saturates": "2.45",
+    "monounsaturates": "6.62",
+    "polyunsaturates": "2.95",
+    "carbohydrate": "21.15",
+    "sugars": "0.592",
+    "starch": "20.56",
+    "polyols": "0",
+    "fibre": "2.28",
+    "protein": "7",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X655512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

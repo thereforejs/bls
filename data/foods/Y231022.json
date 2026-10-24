@@ -1,0 +1,44 @@
+{
+  "code": "Y231022",
+  "name": {
+    "de": "Kalbsschnitzel mehliert, gebraten",
+    "en": "Veal schnitzel floured, fried"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.43",
+    "monounsaturates": "1.01",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "2.5",
+    "sugars": "0.383",
+    "starch": "2.12",
+    "polyols": "0",
+    "fibre": "0.31",
+    "protein": "23.94",
+    "sodium": "0.233",
+    "alcohol": "0.001",
+    "organicAcids": "0.71"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y231022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

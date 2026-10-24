@@ -1,0 +1,46 @@
+{
+  "code": "H011000",
+  "name": {
+    "de": "Sojaproteinisolat",
+    "en": "Soya bean protein isolate"
+  },
+  "per100g": {
+    "fat": "3.39",
+    "saturates": "0.42",
+    "monounsaturates": "0.645",
+    "polyunsaturates": "1.64",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "88.3",
+    "sodium": "1",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {
+    "fibre": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H011000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "W121100",
+  "name": {
+    "de": "Teewurst fein/grob/Rügenwalder Art",
+    "en": "Teewurst sausage finely/coarsely minced/Rügenwalder style, spreadable"
+  },
+  "per100g": {
+    "fat": "35.6",
+    "saturates": "12.33",
+    "monounsaturates": "14.58",
+    "polyunsaturates": "4.063",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.72",
+    "sodium": "1.155",
+    "alcohol": null,
+    "organicAcids": "0.594"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W121100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

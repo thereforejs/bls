@@ -1,0 +1,44 @@
+{
+  "code": "X3A9010",
+  "name": {
+    "de": "Joghurt-Dip",
+    "en": "Yogurt dip"
+  },
+  "per100g": {
+    "fat": "6.6",
+    "saturates": "3.9",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "4",
+    "sugars": "4",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.64",
+    "sodium": "0.18",
+    "alcohol": "0.001",
+    "organicAcids": "0.97"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A9010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

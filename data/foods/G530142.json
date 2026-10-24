@@ -1,0 +1,44 @@
+{
+  "code": "G530142",
+  "name": {
+    "de": "Okra geschmort ohne Fett",
+    "en": "Okra braised without fat"
+  },
+  "per100g": {
+    "fat": "0.218",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.36",
+    "sugars": "3.36",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "5.385",
+    "protein": "2.285",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G530142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

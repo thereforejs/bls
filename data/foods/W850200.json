@@ -1,0 +1,44 @@
+{
+  "code": "W850200",
+  "name": {
+    "de": "Schinken-Käse-Sülze",
+    "en": "Ham and cheese aspic"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "3",
+    "monounsaturates": "1.75",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "0.84",
+    "sugars": "0.84",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "0.07",
+    "protein": "16",
+    "sodium": "0.698",
+    "alcohol": "0",
+    "organicAcids": "0.945"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W850200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

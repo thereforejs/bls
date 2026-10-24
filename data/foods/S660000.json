@@ -1,0 +1,44 @@
+{
+  "code": "S660000",
+  "name": {
+    "de": "Schokoladenstreusel",
+    "en": "Chocolate sprinkles"
+  },
+  "per100g": {
+    "fat": "19.7",
+    "saturates": "11.9",
+    "monounsaturates": "6.4",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "68",
+    "sugars": "66.2",
+    "starch": "1.8",
+    "polyols": "0",
+    "fibre": "4.728",
+    "protein": "4.062",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S660000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

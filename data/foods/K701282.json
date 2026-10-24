@@ -1,0 +1,44 @@
+{
+  "code": "K701282",
+  "name": {
+    "de": "Champignon tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Button mushroom deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.561",
+    "saturates": "0.0988",
+    "monounsaturates": "0.01243",
+    "polyunsaturates": "0.28079",
+    "carbohydrate": "5.9",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": "5.62",
+    "fibre": "3.9",
+    "protein": "7.51",
+    "sodium": "0.08046",
+    "alcohol": "0",
+    "organicAcids": "0.26"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

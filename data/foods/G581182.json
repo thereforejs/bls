@@ -1,0 +1,44 @@
+{
+  "code": "G581182",
+  "name": {
+    "de": "Kürbis Pumpkin (C. pepo) gebraten ohne Fett (Pfanne)",
+    "en": "Pumpkin (C. pepo) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.241",
+    "saturates": "0.063",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.119",
+    "carbohydrate": "10.76",
+    "sugars": "9.45",
+    "starch": "1.296",
+    "polyols": "0.015",
+    "fibre": "6.352",
+    "protein": "2.037",
+    "sodium": "0.00165",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

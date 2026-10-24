@@ -1,0 +1,44 @@
+{
+  "code": "X556142",
+  "name": {
+    "de": "Tomatengemüse gedünstet, mit Rosmarin und Salbei",
+    "en": "Tomatoes stewed, with rosemary and sage"
+  },
+  "per100g": {
+    "fat": "2.26",
+    "saturates": "0.17",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "4.37",
+    "sugars": "3.59",
+    "starch": "0.78",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "1.17",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0.409"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X556142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y114012",
+  "name": {
+    "de": "Rinderfiletsteak gebraten, mit Kräuterbutter",
+    "en": "Beef fillet steak fried, with herb butter"
+  },
+  "per100g": {
+    "fat": "14.8",
+    "saturates": "6.82",
+    "monounsaturates": "5.31",
+    "polyunsaturates": "1.24",
+    "carbohydrate": "0.07",
+    "sugars": "0.05",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "23.3",
+    "sodium": "0.173",
+    "alcohol": "0",
+    "organicAcids": "0.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y114012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D771400",
+  "name": {
+    "de": "Schuhsohlen (Blätterteig) mit Mokkasahne",
+    "en": "Oblong mocha-cream filled pastry (puff pastry)"
+  },
+  "per100g": {
+    "fat": "35.7",
+    "saturates": "16.3",
+    "monounsaturates": "12.91",
+    "polyunsaturates": "3.49",
+    "carbohydrate": "23.1",
+    "sugars": "4.5",
+    "starch": "18.6",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "3.8",
+    "sodium": "0.119",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W811000",
+  "name": {
+    "de": "Gefüllter Schweinebauch gebraten ohne Fett (Ofen)",
+    "en": "Pork belly filled, fried (in oven)"
+  },
+  "per100g": {
+    "fat": "27.9",
+    "saturates": "10.04",
+    "monounsaturates": "10.91",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "2.8",
+    "sugars": "1",
+    "starch": "1.55",
+    "polyols": "0.26",
+    "fibre": "0.4",
+    "protein": "23",
+    "sodium": "0.588",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W811000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

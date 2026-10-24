@@ -1,0 +1,44 @@
+{
+  "code": "Y841812",
+  "name": {
+    "de": "Pfirsichkompott ungesüßt",
+    "en": "Peach compote unsweetened"
+  },
+  "per100g": {
+    "fat": "0.098",
+    "saturates": "0.009",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.039",
+    "carbohydrate": "7.17",
+    "sugars": "6.25",
+    "starch": "0",
+    "polyols": "0.92",
+    "fibre": "1.5",
+    "protein": "0.6",
+    "sodium": "0.0011",
+    "alcohol": "0",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

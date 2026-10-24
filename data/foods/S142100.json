@@ -1,0 +1,44 @@
+{
+  "code": "S142100",
+  "name": {
+    "de": "Apfelkraut (ohne Zuckerzusatz)",
+    "en": "Apple butter, unsweetened"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.68",
+    "monounsaturates": "0.075",
+    "polyunsaturates": "0.827",
+    "carbohydrate": "41.1",
+    "sugars": "37.1",
+    "starch": "2.029",
+    "polyols": "2",
+    "fibre": "8.9",
+    "protein": "1.5",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "1.538"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S142100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

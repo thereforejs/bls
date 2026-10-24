@@ -1,0 +1,44 @@
+{
+  "code": "F516100",
+  "name": {
+    "de": "Mango roh",
+    "en": "Mango raw"
+  },
+  "per100g": {
+    "fat": "0.45",
+    "saturates": "0.101",
+    "monounsaturates": "0.182",
+    "polyunsaturates": "0.076",
+    "carbohydrate": "12",
+    "sugars": "11",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "0.7",
+    "sodium": "0.009",
+    "alcohol": null,
+    "organicAcids": "0.419"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F516100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

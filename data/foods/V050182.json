@@ -1,0 +1,44 @@
+{
+  "code": "V050182",
+  "name": {
+    "de": "Schnecken gebraten ohne Fett (Pfanne)",
+    "en": "Snails edible/escargots, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.227",
+    "saturates": "0.219",
+    "monounsaturates": "0.258",
+    "polyunsaturates": "0.485",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.5",
+    "sodium": "0.079",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V050182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

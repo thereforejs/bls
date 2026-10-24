@@ -1,0 +1,44 @@
+{
+  "code": "W323000",
+  "name": {
+    "de": "Bauernleberwurst",
+    "en": "Bauernleberwurst liver sausage"
+  },
+  "per100g": {
+    "fat": "25.09",
+    "saturates": "10.51",
+    "monounsaturates": "7.74",
+    "polyunsaturates": "2.58",
+    "carbohydrate": "0.41",
+    "sugars": "0",
+    "starch": "0.41",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "15.51",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W323000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

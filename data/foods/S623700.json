@@ -1,0 +1,44 @@
+{
+  "code": "S623700",
+  "name": {
+    "de": "Trüffel-Pralinen (alkoholhaltig)",
+    "en": "Truffle pralines (alcoholic)"
+  },
+  "per100g": {
+    "fat": "33.94",
+    "saturates": "20.3",
+    "monounsaturates": "9.93",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "44.6",
+    "sugars": "43.4",
+    "starch": "1.2",
+    "polyols": "0.009",
+    "fibre": "3.1",
+    "protein": "5.77",
+    "sodium": "0.058",
+    "alcohol": "0.8",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S623700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

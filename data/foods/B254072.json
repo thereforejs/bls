@@ -1,0 +1,44 @@
+{
+  "code": "B254072",
+  "name": {
+    "de": "Weizenmischtoastbrot getoastet",
+    "en": "Mixed wheat toast toasted"
+  },
+  "per100g": {
+    "fat": "3.37",
+    "saturates": "1.11",
+    "monounsaturates": "1.22",
+    "polyunsaturates": "0.76",
+    "carbohydrate": "54",
+    "sugars": "1.7",
+    "starch": "52",
+    "polyols": "0",
+    "fibre": "6.32",
+    "protein": "9.3",
+    "sodium": "0.585",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B254072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

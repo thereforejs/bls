@@ -1,0 +1,44 @@
+{
+  "code": "U605900",
+  "name": {
+    "de": "Schwein Wamme, mittelfett, ohne Schwartenzug (S X) roh",
+    "en": "Pork belly flank, medium fat, without rind (S X) raw"
+  },
+  "per100g": {
+    "fat": "49.28",
+    "saturates": "21.69",
+    "monounsaturates": "14.71",
+    "polyunsaturates": "5.08",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "11.43",
+    "sodium": "0.0492",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U605900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

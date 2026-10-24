@@ -1,0 +1,44 @@
+{
+  "code": "D0A6000",
+  "name": {
+    "de": "Kuchenboden/Tortenboden (Mürbeteig, einfacher)",
+    "en": "Cake base/torte base (shortcrust pastry, simple)"
+  },
+  "per100g": {
+    "fat": "24.68",
+    "saturates": "15.13",
+    "monounsaturates": "5.45",
+    "polyunsaturates": "0.92",
+    "carbohydrate": "55.04",
+    "sugars": "14.957",
+    "starch": "40.08",
+    "polyols": "0",
+    "fibre": "2.97",
+    "protein": "7.83",
+    "sodium": "0.045",
+    "alcohol": "0",
+    "organicAcids": "0.0239"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D0A6000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

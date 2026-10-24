@@ -1,0 +1,44 @@
+{
+  "code": "K260282",
+  "name": {
+    "de": "Kartoffelpuffer tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Potato pancakes deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.81",
+    "saturates": "0.23",
+    "monounsaturates": "0.89",
+    "polyunsaturates": "0.44",
+    "carbohydrate": "34.32",
+    "sugars": "1.54",
+    "starch": "32.78",
+    "polyols": "0",
+    "fibre": "2.7",
+    "protein": "5",
+    "sodium": "0.416",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K260282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

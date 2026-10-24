@@ -1,0 +1,44 @@
+{
+  "code": "F212600",
+  "name": {
+    "de": "Sauerkirschsaft",
+    "en": "Sour cherry juice"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.089",
+    "monounsaturates": "0.109",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "12.853",
+    "sugars": "11.953",
+    "starch": "0",
+    "polyols": "0.9",
+    "fibre": "0.1",
+    "protein": "0.81",
+    "sodium": "0.001",
+    "alcohol": null,
+    "organicAcids": "1.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F212600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D431800",
+  "name": {
+    "de": "Ananas-Marzipan-Kuchen (Rührmasse)",
+    "en": "Pineapple marzipan cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "20.6",
+    "saturates": "9.77",
+    "monounsaturates": "7.03",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "42",
+    "sugars": "26.8",
+    "starch": "15.2",
+    "polyols": "0",
+    "fibre": "3.27",
+    "protein": "6.36",
+    "sodium": "0.082",
+    "alcohol": "0",
+    "organicAcids": "0.083"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

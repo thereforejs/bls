@@ -1,0 +1,44 @@
+{
+  "code": "X3A4010",
+  "name": {
+    "de": "Roquefortsauce",
+    "en": "Roquefort sauce"
+  },
+  "per100g": {
+    "fat": "41.23",
+    "saturates": "20.27",
+    "monounsaturates": "12.28",
+    "polyunsaturates": "3.03",
+    "carbohydrate": "1.876",
+    "sugars": "1.876",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.436",
+    "sodium": "0.793",
+    "alcohol": "0",
+    "organicAcids": "0.394"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A4010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

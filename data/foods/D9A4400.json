@@ -1,0 +1,44 @@
+{
+  "code": "D9A4400",
+  "name": {
+    "de": "Pudding-Vollkornplunder",
+    "en": "Wholemeal Danish pastry with pudding"
+  },
+  "per100g": {
+    "fat": "15.73",
+    "saturates": "8.28",
+    "monounsaturates": "5.2",
+    "polyunsaturates": "1.63",
+    "carbohydrate": "32",
+    "sugars": "12.3",
+    "starch": "20",
+    "polyols": "0",
+    "fibre": "3.26",
+    "protein": "6.3",
+    "sodium": "0.225",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A4400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

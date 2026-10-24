@@ -1,0 +1,44 @@
+{
+  "code": "M813700",
+  "name": {
+    "de": "Schmelzkäsezubereitung 45 - 52 % Fett i. Tr., mit Schinken",
+    "en": "Processed cheese preparation 45 - 52 % fat in dry matter, with ham"
+  },
+  "per100g": {
+    "fat": "22.98",
+    "saturates": "15.467",
+    "monounsaturates": "5.702",
+    "polyunsaturates": "0.656",
+    "carbohydrate": "5.14",
+    "sugars": "5.14",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.19",
+    "sodium": "0.923",
+    "alcohol": "0",
+    "organicAcids": "0.868"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M813700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

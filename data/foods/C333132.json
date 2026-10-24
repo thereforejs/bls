@@ -1,0 +1,44 @@
+{
+  "code": "C333132",
+  "name": {
+    "de": "Hirse Flocken, gekocht",
+    "en": "Millet wholegrain flakes, boiled"
+  },
+  "per100g": {
+    "fat": "0.59",
+    "saturates": "0.1",
+    "monounsaturates": "0.13",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "12.77",
+    "sugars": "0.10494",
+    "starch": "12.67",
+    "polyols": "0",
+    "fibre": "0.62",
+    "protein": "2.23",
+    "sodium": "0.0001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C333132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

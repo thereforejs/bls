@@ -1,0 +1,44 @@
+{
+  "code": "G541100",
+  "name": {
+    "de": "Gemüsepaprika grün, roh",
+    "en": "Sweet pepper green, raw"
+  },
+  "per100g": {
+    "fat": "0.24",
+    "saturates": "0.061",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.102",
+    "carbohydrate": "6.88",
+    "sugars": "6.51",
+    "starch": "0",
+    "polyols": "0.37",
+    "fibre": "2",
+    "protein": "1.08",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G541100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

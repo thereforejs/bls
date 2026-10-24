@@ -1,0 +1,44 @@
+{
+  "code": "X5A4020",
+  "name": {
+    "de": "Spinatauflauf/Spinatpudding",
+    "en": "Spinach casserole/spinach pudding"
+  },
+  "per100g": {
+    "fat": "5.51",
+    "saturates": "2.57",
+    "monounsaturates": "1.51",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "12.16",
+    "sugars": "1.33",
+    "starch": "10.83",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "5.3",
+    "sodium": "0.283",
+    "alcohol": "0",
+    "organicAcids": "0.039"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A4020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

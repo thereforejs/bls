@@ -1,0 +1,44 @@
+{
+  "code": "C320032",
+  "name": {
+    "de": "Buchweizen gekocht",
+    "en": "Buckwheat boiled"
+  },
+  "per100g": {
+    "fat": "1.01",
+    "saturates": "0.172",
+    "monounsaturates": "0.324",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "20.99",
+    "sugars": "0.35657",
+    "starch": "20.63",
+    "polyols": "0",
+    "fibre": "1.88",
+    "protein": "4.43",
+    "sodium": "0.0001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C320032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

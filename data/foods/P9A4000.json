@@ -1,0 +1,44 @@
+{
+  "code": "P9A4000",
+  "name": {
+    "de": "Cocktail, Gin Tonic",
+    "en": "Cocktail, Gin and tonic"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "5.368",
+    "sugars": "5.368",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.001",
+    "alcohol": "4.79",
+    "organicAcids": "0.163"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P9A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

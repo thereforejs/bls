@@ -1,0 +1,44 @@
+{
+  "code": "C650200",
+  "name": {
+    "de": "Reisdrink ungesüßt, angereichert mit Vitaminen und Calcium",
+    "en": "Rice drink unsweetened, fortified with vitamins and calcium"
+  },
+  "per100g": {
+    "fat": "1.04",
+    "saturates": "0.24",
+    "monounsaturates": "0.28",
+    "polyunsaturates": "0.44",
+    "carbohydrate": "12.31",
+    "sugars": "6.58",
+    "starch": "5.73",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.039",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C650200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y914062",
+  "name": {
+    "de": "Wiener Würstchen mit Brötchen und Senf",
+    "en": "Vienna sausage with roll and mustard"
+  },
+  "per100g": {
+    "fat": "16.68",
+    "saturates": "5.72",
+    "monounsaturates": "6.83",
+    "polyunsaturates": "2.05",
+    "carbohydrate": "18.45",
+    "sugars": "1.14",
+    "starch": "17.31",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "11.43",
+    "sodium": "0.791",
+    "alcohol": "0",
+    "organicAcids": "0.503"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y914062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

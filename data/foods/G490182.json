@@ -1,0 +1,44 @@
+{
+  "code": "G490182",
+  "name": {
+    "de": "Knoblauch gebraten ohne Fett (Pfanne)",
+    "en": "Garlic fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.667",
+    "saturates": "0.101",
+    "monounsaturates": "0.019",
+    "polyunsaturates": "0.272",
+    "carbohydrate": "5",
+    "sugars": "3.3",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "44.916",
+    "protein": "9.603",
+    "sodium": "0.0124886",
+    "alcohol": "0",
+    "organicAcids": "0.352"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

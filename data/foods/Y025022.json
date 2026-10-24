@@ -1,0 +1,44 @@
+{
+  "code": "Y025022",
+  "name": {
+    "de": "Fleischkäse gebraten",
+    "en": "Fleischkaese fried"
+  },
+  "per100g": {
+    "fat": "28.02",
+    "saturates": "8.41",
+    "monounsaturates": "9.73",
+    "polyunsaturates": "2.38",
+    "carbohydrate": "0.62",
+    "sugars": "0.62",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.34",
+    "sodium": "0.8602",
+    "alcohol": "0",
+    "organicAcids": "0.568"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y025022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

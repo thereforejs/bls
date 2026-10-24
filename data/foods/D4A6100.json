@@ -1,0 +1,44 @@
+{
+  "code": "D4A6100",
+  "name": {
+    "de": "Hefezopf mit Sultaninen",
+    "en": "Braided yeast bread with sultanas"
+  },
+  "per100g": {
+    "fat": "7.1",
+    "saturates": "4",
+    "monounsaturates": "1.55",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "60",
+    "sugars": "14.8",
+    "starch": "45",
+    "polyols": "0.112",
+    "fibre": "4.1",
+    "protein": "8.9",
+    "sodium": "0.032",
+    "alcohol": "0",
+    "organicAcids": "0.509"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A6100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

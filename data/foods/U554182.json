@@ -1,0 +1,44 @@
+{
+  "code": "U554182",
+  "name": {
+    "de": "Schwein Gulasch (Restbug) gebraten ohne Fett (Pfanne)",
+    "en": "Pork goulash (shoulder strips) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "4.64",
+    "saturates": "1.48",
+    "monounsaturates": "1.91",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "30.96",
+    "sodium": "0.0795",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U554182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

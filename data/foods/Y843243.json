@@ -1,0 +1,44 @@
+{
+  "code": "Y843243",
+  "name": {
+    "de": "Apfelmus mit Zimt",
+    "en": "Apple sauce with cinnamon"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.182",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.224",
+    "carbohydrate": "10.4",
+    "sugars": "9.351",
+    "starch": "0.532",
+    "polyols": "0.5",
+    "fibre": "2.019",
+    "protein": "0.395",
+    "sodium": "0.002",
+    "alcohol": "0.005",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y843243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

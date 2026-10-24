@@ -1,0 +1,44 @@
+{
+  "code": "X381063",
+  "name": {
+    "de": "Cumberlandsauce mit Rot- und Portwein",
+    "en": "Cumberland sauce with red and port wine"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.029",
+    "monounsaturates": "0.06",
+    "polyunsaturates": "0.08",
+    "carbohydrate": "16.4",
+    "sugars": "16.4",
+    "starch": "0.02",
+    "polyols": "0.009",
+    "fibre": "0.9",
+    "protein": "0.6",
+    "sodium": "0.085",
+    "alcohol": "3.1",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X381063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

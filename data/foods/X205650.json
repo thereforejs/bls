@@ -1,0 +1,44 @@
+{
+  "code": "X205650",
+  "name": {
+    "de": "Gurken-Tomatensalat mit Saure-Sahne-Dressing",
+    "en": "Cucumber-tomato salad with sour cream dressing"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "1.1",
+    "monounsaturates": "0.6",
+    "polyunsaturates": "0.16",
+    "carbohydrate": "3.4",
+    "sugars": "3.4",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "1.49",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.46"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X205650",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X9A2030",
+  "name": {
+    "de": "Getreide-Obst-Brei, mit Apfelmus ungesüßt und Haferflocken (geeignet für Beikost)",
+    "en": "Cereal-fruit puree, with unsweetened apple sauce and oat flakes (suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "2.283",
+    "saturates": "0.3",
+    "monounsaturates": "1.06",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "10",
+    "sugars": "4.451",
+    "starch": "5.3",
+    "polyols": "0.2",
+    "fibre": "2.002",
+    "protein": "1.443",
+    "sodium": "0.001",
+    "alcohol": "0.002",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A2030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

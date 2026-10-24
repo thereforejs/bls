@@ -1,0 +1,44 @@
+{
+  "code": "S623000",
+  "name": {
+    "de": "Nuss-Pralinen",
+    "en": "Nut pralines"
+  },
+  "per100g": {
+    "fat": "45.7",
+    "saturates": "16.9",
+    "monounsaturates": "23.3",
+    "polyunsaturates": "3.6",
+    "carbohydrate": "38",
+    "sugars": "37.1",
+    "starch": "0.9",
+    "polyols": "0",
+    "fibre": "4.6",
+    "protein": "7.7",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S623000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

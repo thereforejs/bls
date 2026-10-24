@@ -1,0 +1,44 @@
+{
+  "code": "D4A8700",
+  "name": {
+    "de": "Zitronenkuchen (Rührmasse)",
+    "en": "Lemon cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "20.3",
+    "saturates": "12.3",
+    "monounsaturates": "4.6",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "58.2",
+    "sugars": "38.9",
+    "starch": "19.3",
+    "polyols": "0",
+    "fibre": "1.02",
+    "protein": "4.51",
+    "sodium": "0.077",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A8700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H844500",
+  "name": {
+    "de": "Soja-Joghurtalternative gesüßt, aromatisiert, angereichert mit Vitaminen und Calcium",
+    "en": "Plant-based yogurt alternative, made from soya, sweetened, flavoured fortified with vitamins and calcium"
+  },
+  "per100g": {
+    "fat": "2.54",
+    "saturates": "0.434",
+    "monounsaturates": "0.632",
+    "polyunsaturates": "1.29",
+    "carbohydrate": "5.4",
+    "sugars": "5.2",
+    "starch": "0.16",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.96",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0.628"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H844500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

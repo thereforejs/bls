@@ -1,0 +1,44 @@
+{
+  "code": "G992100",
+  "name": {
+    "de": "Gemüsemischung Erbsen-Karotten, roh",
+    "en": "Mixed vegetables peas and carrots, raw"
+  },
+  "per100g": {
+    "fat": "0.44",
+    "saturates": "0.096",
+    "monounsaturates": "0.07",
+    "polyunsaturates": "0.186",
+    "carbohydrate": "9.388",
+    "sugars": "3.837",
+    "starch": "5.551",
+    "polyols": "0",
+    "fibre": "4",
+    "protein": "3.4",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0.353"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G992100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

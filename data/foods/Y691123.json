@@ -1,0 +1,44 @@
+{
+  "code": "Y691123",
+  "name": {
+    "de": "Rotbarschragout",
+    "en": "Redfish ragout"
+  },
+  "per100g": {
+    "fat": "4.6",
+    "saturates": "0.65",
+    "monounsaturates": "2.14",
+    "polyunsaturates": "1.18",
+    "carbohydrate": "1.4",
+    "sugars": "1.4",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "0.6",
+    "protein": "10.7",
+    "sodium": "0.184",
+    "alcohol": "1.94",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y691123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

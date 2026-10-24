@@ -1,0 +1,44 @@
+{
+  "code": "G613132",
+  "name": {
+    "de": "Rote Rübe/Rote Bete, gekocht",
+    "en": "Beetroot boiled"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.02",
+    "monounsaturates": "0.0097",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "11",
+    "sugars": "10.4",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "1.6",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.065"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G613132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

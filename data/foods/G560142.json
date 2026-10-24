@@ -1,0 +1,44 @@
+{
+  "code": "G560142",
+  "name": {
+    "de": "Tomate geschmort ohne Fett",
+    "en": "Tomato braised without fat"
+  },
+  "per100g": {
+    "fat": "0.136",
+    "saturates": "0.0266",
+    "monounsaturates": "0.0131",
+    "polyunsaturates": "0.0546",
+    "carbohydrate": "4.06",
+    "sugars": "4.06",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.176",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.484"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G560142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

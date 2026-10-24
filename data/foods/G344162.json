@@ -1,0 +1,44 @@
+{
+  "code": "G344162",
+  "name": {
+    "de": "Spitzkohl gebacken",
+    "en": "Pointed cabbage baked"
+  },
+  "per100g": {
+    "fat": "0.21",
+    "saturates": "0.025",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "5.33",
+    "sugars": "5.17",
+    "starch": "0",
+    "polyols": "0.16",
+    "fibre": "3.5",
+    "protein": "1.42",
+    "sodium": "0.021",
+    "alcohol": "0",
+    "organicAcids": "0.232"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G344162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

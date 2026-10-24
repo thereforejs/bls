@@ -1,0 +1,44 @@
+{
+  "code": "G670400",
+  "name": {
+    "de": "Wurzelpetersilie getrocknet",
+    "en": "Parsley root dried"
+  },
+  "per100g": {
+    "fat": "2.097",
+    "saturates": "0.337",
+    "monounsaturates": "0.1424",
+    "polyunsaturates": "1.1246",
+    "carbohydrate": "61.5",
+    "sugars": "26.998",
+    "starch": "29.5",
+    "polyols": "3.659",
+    "fibre": "9.505",
+    "protein": "12.852",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "2.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G670400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X262540",
+  "name": {
+    "de": "Karottensalat (roh) mit Saure-Sahne-Dressing",
+    "en": "Carrot salad (raw) with sour cream dressing"
+  },
+  "per100g": {
+    "fat": "3",
+    "saturates": "1.4",
+    "monounsaturates": "0.9",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "6.2",
+    "sugars": "6.1",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "1.5",
+    "sodium": "0.17",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X262540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

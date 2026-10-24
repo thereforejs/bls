@@ -1,0 +1,44 @@
+{
+  "code": "D422600",
+  "name": {
+    "de": "Kuchen aus Rührmasse/Rührkuchen",
+    "en": "Pound cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "18.42",
+    "saturates": "10.91",
+    "monounsaturates": "4.23",
+    "polyunsaturates": "0.82",
+    "carbohydrate": "48.4",
+    "sugars": "20.55",
+    "starch": "27.8",
+    "polyols": "0",
+    "fibre": "2.04",
+    "protein": "7.4",
+    "sodium": "0.199",
+    "alcohol": "0",
+    "organicAcids": "0.022"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D422600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

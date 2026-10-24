@@ -1,0 +1,44 @@
+{
+  "code": "X466053",
+  "name": {
+    "de": "Wirsing-Eintopf mit Rindfleisch, Kartoffeln und Karotten",
+    "en": "Savoy cabbage stew with beef, potatoes and carrots"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.6",
+    "monounsaturates": "0.77",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "6",
+    "sugars": "2.5",
+    "starch": "3",
+    "polyols": "0.05",
+    "fibre": "1.3",
+    "protein": "5.7",
+    "sodium": "0.123",
+    "alcohol": "0",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X466053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

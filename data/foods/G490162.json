@@ -1,0 +1,44 @@
+{
+  "code": "G490162",
+  "name": {
+    "de": "Knoblauch gebacken",
+    "en": "Garlic baked"
+  },
+  "per100g": {
+    "fat": "0.494",
+    "saturates": "0.074",
+    "monounsaturates": "0.014",
+    "polyunsaturates": "0.201",
+    "carbohydrate": "3",
+    "sugars": "2.4",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "33.291",
+    "protein": "7.118",
+    "sodium": "0.0092562",
+    "alcohol": "0",
+    "organicAcids": "0.261"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

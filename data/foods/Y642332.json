@@ -1,0 +1,44 @@
+{
+  "code": "Y642332",
+  "name": {
+    "de": "Forellenfilet natur, gebraten",
+    "en": "Trout fillet fried"
+  },
+  "per100g": {
+    "fat": "9.4",
+    "saturates": "1.53",
+    "monounsaturates": "3.66",
+    "polyunsaturates": "3.81",
+    "carbohydrate": "0.156",
+    "sugars": "0.156",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.012",
+    "protein": "23.572",
+    "sodium": "0.176",
+    "alcohol": "0",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y642332",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

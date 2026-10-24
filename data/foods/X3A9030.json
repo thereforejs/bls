@@ -1,0 +1,44 @@
+{
+  "code": "X3A9030",
+  "name": {
+    "de": "Saure-Sahne-Dressing mit Joghurt und Senf",
+    "en": "Sour cream dressing wiht yogurt and mustard"
+  },
+  "per100g": {
+    "fat": "6.8",
+    "saturates": "3.7",
+    "monounsaturates": "2",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "3.8",
+    "sugars": "3.8",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "3.16",
+    "sodium": "0.16",
+    "alcohol": "0",
+    "organicAcids": "1.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A9030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

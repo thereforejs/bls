@@ -1,0 +1,44 @@
+{
+  "code": "Y840412",
+  "name": {
+    "de": "Himbeerkompott zuckerreduziert",
+    "en": "Raspberry compote sugar-reduced"
+  },
+  "per100g": {
+    "fat": "0.259",
+    "saturates": "0.0087",
+    "monounsaturates": "0.026",
+    "polyunsaturates": "0.168",
+    "carbohydrate": "9",
+    "sugars": "9",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "4.1",
+    "protein": "0.9",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1.829"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y840412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X464753",
+  "name": {
+    "de": "Erbsensuppe mit Gemüsebrühe, Suppengrün und Speck",
+    "en": "Pea soup with vegetable stock, mirepoix and bacon"
+  },
+  "per100g": {
+    "fat": "2.9",
+    "saturates": "0.7",
+    "monounsaturates": "1.25",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "6",
+    "sugars": "1.4",
+    "starch": "5",
+    "polyols": "0.01",
+    "fibre": "3",
+    "protein": "4.09",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.047"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X464753",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

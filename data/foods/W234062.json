@@ -1,0 +1,44 @@
+{
+  "code": "W234062",
+  "name": {
+    "de": "Fleischwurst gebraten ohne Fett (Ofen)",
+    "en": "Bologna fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "32.006",
+    "saturates": "12.488",
+    "monounsaturates": "14.198",
+    "polyunsaturates": "3.94",
+    "carbohydrate": "0.3",
+    "sugars": "0.29",
+    "starch": "0",
+    "polyols": "0.007",
+    "fibre": "0",
+    "protein": "14.128",
+    "sodium": "1.045",
+    "alcohol": "0",
+    "organicAcids": "0.746"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W234062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

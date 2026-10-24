@@ -1,0 +1,44 @@
+{
+  "code": "G230152",
+  "name": {
+    "de": "Mangold gedünstet",
+    "en": "Chard/leaf beet, stewed"
+  },
+  "per100g": {
+    "fat": "0.298",
+    "saturates": "0.03",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.161",
+    "carbohydrate": "0.927",
+    "sugars": "0.733",
+    "starch": "0.194",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "1.968",
+    "sodium": "0.2307",
+    "alcohol": "0",
+    "organicAcids": "0.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G230152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

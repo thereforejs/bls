@@ -1,0 +1,44 @@
+{
+  "code": "V463000",
+  "name": {
+    "de": "Ente Fleisch, ohne Haut, roh",
+    "en": "Duck meat, without skin, raw"
+  },
+  "per100g": {
+    "fat": "5.1",
+    "saturates": "1.069",
+    "monounsaturates": "1.993",
+    "polyunsaturates": "0.775",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V463000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

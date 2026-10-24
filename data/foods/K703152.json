@@ -1,0 +1,44 @@
+{
+  "code": "K703152",
+  "name": {
+    "de": "Morchel gedünstet",
+    "en": "Morel stewed"
+  },
+  "per100g": {
+    "fat": "0.451",
+    "saturates": "0.076",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.225",
+    "carbohydrate": "0.8",
+    "sugars": "0.8",
+    "starch": null,
+    "polyols": null,
+    "fibre": "9.873",
+    "protein": "3.504",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K703152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

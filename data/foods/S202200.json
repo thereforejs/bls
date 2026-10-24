@@ -1,0 +1,44 @@
+{
+  "code": "S202200",
+  "name": {
+    "de": "Speiseeis (Schokolade, Vanille) gemischt, mit Eierlikör",
+    "en": "Ice cream mixed (chocolate, vanilla) with egg liqueur"
+  },
+  "per100g": {
+    "fat": "9.92",
+    "saturates": "5.4",
+    "monounsaturates": "2.09",
+    "polyunsaturates": "1.58",
+    "carbohydrate": "26.1",
+    "sugars": "22.3",
+    "starch": "3.8",
+    "polyols": "0.002",
+    "fibre": "1.21",
+    "protein": "3.12",
+    "sodium": "0.041",
+    "alcohol": "1.84",
+    "organicAcids": "0.468"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S202200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

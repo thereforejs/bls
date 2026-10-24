@@ -1,0 +1,44 @@
+{
+  "code": "G620182",
+  "name": {
+    "de": "Karotte/Möhre, gebraten ohne Fett (Pfanne)",
+    "en": "Carrot fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.741",
+    "saturates": "0.1723",
+    "monounsaturates": "0.192",
+    "polyunsaturates": "0.1387",
+    "carbohydrate": "11.983",
+    "sugars": "11.796",
+    "starch": "0.1874",
+    "polyols": "0",
+    "fibre": "5.4",
+    "protein": "1.556",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.793"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

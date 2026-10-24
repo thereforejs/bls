@@ -1,0 +1,44 @@
+{
+  "code": "G541152",
+  "name": {
+    "de": "Gemüsepaprika grün, gedünstet",
+    "en": "Sweet pepper green, stewed"
+  },
+  "per100g": {
+    "fat": "0.261",
+    "saturates": "0.065",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.111",
+    "carbohydrate": "7.48",
+    "sugars": "7.08",
+    "starch": "0",
+    "polyols": "0.4",
+    "fibre": "2.2",
+    "protein": "1.174",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G541152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

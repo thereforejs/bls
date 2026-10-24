@@ -1,0 +1,44 @@
+{
+  "code": "G480600",
+  "name": {
+    "de": "Gemüsesaft aus Speisezwiebel",
+    "en": "Onion juice"
+  },
+  "per100g": {
+    "fat": "0.12",
+    "saturates": "0.02",
+    "monounsaturates": "0.0121",
+    "polyunsaturates": "0.0416",
+    "carbohydrate": "4.81",
+    "sugars": "4.81",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "0.983",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.254"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

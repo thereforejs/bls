@@ -1,0 +1,44 @@
+{
+  "code": "Y860963",
+  "name": {
+    "de": "Mandelcreme (Bayerische Creme mit Mandelkrokant)",
+    "en": "Almond cream (Bavarian cream with almond brittle)"
+  },
+  "per100g": {
+    "fat": "22.3",
+    "saturates": "9.18",
+    "monounsaturates": "7.98",
+    "polyunsaturates": "2",
+    "carbohydrate": "14.6",
+    "sugars": "14.57",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "7",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.073"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860963",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

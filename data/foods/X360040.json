@@ -1,0 +1,44 @@
+{
+  "code": "X360040",
+  "name": {
+    "de": "Sahnesauce süß",
+    "en": "Cream sauce sweet"
+  },
+  "per100g": {
+    "fat": "19.58",
+    "saturates": "10.18",
+    "monounsaturates": "5.24",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "15.05",
+    "sugars": "10.75",
+    "starch": "4.298",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "3.8",
+    "sodium": "0.039",
+    "alcohol": "0",
+    "organicAcids": "0.105"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X360040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

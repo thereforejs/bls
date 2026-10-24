@@ -1,0 +1,44 @@
+{
+  "code": "M053000",
+  "name": {
+    "de": "Salzlakenkäse aus Ziegenmilch, mind. 45 % Fett i. Tr.",
+    "en": "Brine cheese made from goat's milk, min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "23",
+    "saturates": "13.575",
+    "monounsaturates": "4.693",
+    "polyunsaturates": "0.766",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.9",
+    "sodium": "0.915",
+    "alcohol": "0",
+    "organicAcids": "1.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M053000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

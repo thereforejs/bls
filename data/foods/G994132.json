@@ -1,0 +1,44 @@
+{
+  "code": "G994132",
+  "name": {
+    "de": "Gemüsemischung asiatische Art, gekocht",
+    "en": "Mixed vegetables Asian style, boiled"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.037",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3.3",
+    "sugars": "3.3",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "2",
+    "protein": "1.9",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G994132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

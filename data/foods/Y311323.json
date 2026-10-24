@@ -1,0 +1,44 @@
+{
+  "code": "Y311323",
+  "name": {
+    "de": "Schweinelende gebraten im Ofen, mit Grundsauce dunkel/braun",
+    "en": "Pork tenderloin fried in oven, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "0.8",
+    "monounsaturates": "1.4",
+    "polyunsaturates": "0.55",
+    "carbohydrate": "1.7",
+    "sugars": "0.45",
+    "starch": "1.25",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "20.41",
+    "sodium": "0.197",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y311323",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

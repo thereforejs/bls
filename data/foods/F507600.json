@@ -1,0 +1,44 @@
+{
+  "code": "F507600",
+  "name": {
+    "de": "Kakisaft",
+    "en": "Persimmon juice"
+  },
+  "per100g": {
+    "fat": "0.24",
+    "saturates": "0.039",
+    "monounsaturates": "0.075",
+    "polyunsaturates": "0.05",
+    "carbohydrate": "12.712",
+    "sugars": "12.712",
+    "starch": null,
+    "polyols": null,
+    "fibre": "0.246",
+    "protein": "0.6",
+    "sodium": "0.0014",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F507600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

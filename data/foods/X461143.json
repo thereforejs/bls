@@ -1,0 +1,44 @@
+{
+  "code": "X461143",
+  "name": {
+    "de": "Karotten-Eintopf mit Schweinebauch",
+    "en": "Carrot stew with pork belly"
+  },
+  "per100g": {
+    "fat": "6.5",
+    "saturates": "2.2",
+    "monounsaturates": "2.56",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "7.39",
+    "sugars": "3.12",
+    "starch": "4.27",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "4.56",
+    "sodium": "0.136",
+    "alcohol": "0",
+    "organicAcids": "0.182"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X461143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

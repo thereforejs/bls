@@ -1,0 +1,44 @@
+{
+  "code": "M832100",
+  "name": {
+    "de": "Speisequarkzubereitung < 10 % Fett i. Tr., mit Vanillezubereitung, gesüßt",
+    "en": "Quark preparation < 10 % fat in dry matter, with vanilla preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "0.11",
+    "saturates": "0.069",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.006",
+    "carbohydrate": "18.26",
+    "sugars": "16.11",
+    "starch": "2.149",
+    "polyols": "0",
+    "fibre": "0.025",
+    "protein": "6.89",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.687"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M832100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

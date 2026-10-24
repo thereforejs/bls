@@ -1,0 +1,44 @@
+{
+  "code": "Y862363",
+  "name": {
+    "de": "Haselnussflammeri/Haselnusspudding",
+    "en": "Hazelnut pudding"
+  },
+  "per100g": {
+    "fat": "8.66",
+    "saturates": "2.88",
+    "monounsaturates": "4.32",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "18.3",
+    "sugars": "10.86",
+    "starch": "7.4",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "5.3",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y862363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

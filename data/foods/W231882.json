@@ -1,0 +1,44 @@
+{
+  "code": "W231882",
+  "name": {
+    "de": "Kalbfleischkäse mit Schweinefleisch, gebraten ohne Fett (Pfanne)",
+    "en": "Veal fleischkaese sausage with pork, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "32.46",
+    "saturates": "12.64",
+    "monounsaturates": "13.5",
+    "polyunsaturates": "2.51",
+    "carbohydrate": "0.12",
+    "sugars": "0",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "13.81",
+    "sodium": "0.793",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W231882",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

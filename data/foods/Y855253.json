@@ -1,0 +1,44 @@
+{
+  "code": "Y855253",
+  "name": {
+    "de": "Stachelbeergrütze mit Schlagsahne",
+    "en": "Gooseberry jelly with whipped cream"
+  },
+  "per100g": {
+    "fat": "2.916",
+    "saturates": "1.512",
+    "monounsaturates": "0.747",
+    "polyunsaturates": "0.122",
+    "carbohydrate": "23.336",
+    "sugars": "17.048",
+    "starch": "4.681",
+    "polyols": "1.607",
+    "fibre": "1.859",
+    "protein": "0.765",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0.899"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y855253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

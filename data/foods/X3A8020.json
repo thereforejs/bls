@@ -1,0 +1,44 @@
+{
+  "code": "X3A8020",
+  "name": {
+    "de": "Senf-Honig-Dressing für Salat",
+    "en": "Mustard-honey dressing for salad"
+  },
+  "per100g": {
+    "fat": "41.3",
+    "saturates": "2.98",
+    "monounsaturates": "23.74",
+    "polyunsaturates": "11.27",
+    "carbohydrate": "5.17",
+    "sugars": "5.08",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "0.62",
+    "sodium": "0.37",
+    "alcohol": "0.031",
+    "organicAcids": "2.65"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A8020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

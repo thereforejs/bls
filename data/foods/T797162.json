@@ -1,0 +1,44 @@
+{
+  "code": "T797162",
+  "name": {
+    "de": "Venusmuschel gekocht, gratiniert ohne Fett (Ofen)",
+    "en": "Venus clam boiled, gratinated without fat (oven)"
+  },
+  "per100g": {
+    "fat": "1.33",
+    "saturates": "0.27",
+    "monounsaturates": "0.103",
+    "polyunsaturates": "0.246",
+    "carbohydrate": "2",
+    "sugars": "0",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15",
+    "sodium": "0.389",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T797162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

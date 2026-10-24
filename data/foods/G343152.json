@@ -1,0 +1,44 @@
+{
+  "code": "G343152",
+  "name": {
+    "de": "Wirsing gedünstet",
+    "en": "Savoy cabbage stewed"
+  },
+  "per100g": {
+    "fat": "0.327",
+    "saturates": "0.058",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.196",
+    "carbohydrate": "4.1",
+    "sugars": "3.5",
+    "starch": "0.5",
+    "polyols": "0.13",
+    "fibre": "2.9",
+    "protein": "2.836",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.272"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G343152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

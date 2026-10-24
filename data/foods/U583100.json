@@ -1,0 +1,44 @@
+{
+  "code": "U583100",
+  "name": {
+    "de": "Schwein Kochfleisch (Bauch) roh",
+    "en": "Pork meat for boiling (belly) raw"
+  },
+  "per100g": {
+    "fat": "28.06",
+    "saturates": "10.05",
+    "monounsaturates": "10.85",
+    "polyunsaturates": "2.68",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.74",
+    "sodium": "0.0609",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U583100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

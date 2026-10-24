@@ -1,0 +1,44 @@
+{
+  "code": "X7A3030",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli, vegetarisch gefüllt mit Spargel und Ricotta",
+    "en": "Fresh egg pasta Ravioli, vegetarian filled with asparagus and ricotta"
+  },
+  "per100g": {
+    "fat": "4.17",
+    "saturates": "1.75",
+    "monounsaturates": "1.38",
+    "polyunsaturates": "0.51",
+    "carbohydrate": "12.24",
+    "sugars": "0.91",
+    "starch": "11.32",
+    "polyols": "0.01",
+    "fibre": "1.1",
+    "protein": "6",
+    "sodium": "0.159",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X7A3030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X464643",
+  "name": {
+    "de": "Grüne Erbsensuppe mit Grießklößchen",
+    "en": "Green pea soup with small semolina dumplings"
+  },
+  "per100g": {
+    "fat": "1.4",
+    "saturates": "0.7",
+    "monounsaturates": "0.29",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "9.95",
+    "sugars": "1.27",
+    "starch": "8.68",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "4.6",
+    "sodium": "0.131",
+    "alcohol": "0",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X464643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

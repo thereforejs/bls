@@ -1,0 +1,44 @@
+{
+  "code": "T104182",
+  "name": {
+    "de": "Sardelle gebraten ohne Fett (Pfanne)",
+    "en": "Anchovy fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "15.4",
+    "saturates": "4.862",
+    "monounsaturates": "4.892",
+    "polyunsaturates": "3.897",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.869",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T104182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

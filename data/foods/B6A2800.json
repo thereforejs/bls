@@ -1,0 +1,44 @@
+{
+  "code": "B6A2800",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Kürbiskernen",
+    "en": "Wholemeal rye crispbread with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "9.15",
+    "saturates": "1.455",
+    "monounsaturates": "2.403",
+    "polyunsaturates": "4.5",
+    "carbohydrate": "49.3",
+    "sugars": "1.799",
+    "starch": "47.5",
+    "polyols": "0",
+    "fibre": "17.88",
+    "protein": "13.77",
+    "sodium": "0.5219",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A2800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

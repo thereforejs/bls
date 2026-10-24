@@ -1,0 +1,44 @@
+{
+  "code": "W255700",
+  "name": {
+    "de": "Stuttgarter Leberkäse",
+    "en": "Stuttgart Leberkaese sausage"
+  },
+  "per100g": {
+    "fat": "25.03",
+    "saturates": "9.07",
+    "monounsaturates": "8.86",
+    "polyunsaturates": "2.9",
+    "carbohydrate": "0.22",
+    "sugars": "0",
+    "starch": "0.22",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "17.13",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W255700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

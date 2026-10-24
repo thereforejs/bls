@@ -1,0 +1,44 @@
+{
+  "code": "X677042",
+  "name": {
+    "de": "Kartoffelklöße halb und halb",
+    "en": "Potato dumplings (made from half raw and half boiled potatoes)"
+  },
+  "per100g": {
+    "fat": "1.04",
+    "saturates": "0.27",
+    "monounsaturates": "0.35",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "19.26",
+    "sugars": "0.602",
+    "starch": "18.66",
+    "polyols": "0",
+    "fibre": "1.81",
+    "protein": "3.84",
+    "sodium": "0.122",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X677042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

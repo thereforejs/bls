@@ -1,0 +1,47 @@
+{
+  "code": "H430100",
+  "name": {
+    "de": "Sonnenblumenkern",
+    "en": "Sunflower seed"
+  },
+  "per100g": {
+    "fat": "47.6",
+    "saturates": "4.75",
+    "monounsaturates": "13.44",
+    "polyunsaturates": "26.7",
+    "carbohydrate": "4.8",
+    "sugars": "3.45",
+    "starch": "1.4",
+    "polyols": "0",
+    "fibre": "5.8",
+    "protein": "26.11",
+    "sodium": null,
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {
+    "sodium": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H430100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F304902",
+  "name": {
+    "de": "Heidelbeere gezuckert, Konserve, abgetropft",
+    "en": "Blueberry sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.814",
+    "saturates": "0.0295",
+    "monounsaturates": "0.05306",
+    "polyunsaturates": "0.212162",
+    "carbohydrate": "13.247",
+    "sugars": "13.246",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "2.1",
+    "protein": "1.194",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.451"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F304902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

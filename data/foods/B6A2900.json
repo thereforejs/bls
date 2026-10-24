@@ -1,0 +1,44 @@
+{
+  "code": "B6A2900",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Leinsamen und Weizenkeimen",
+    "en": "Wholemeal rye crispbread with linseed and wheat germ"
+  },
+  "per100g": {
+    "fat": "4.01",
+    "saturates": "0.44",
+    "monounsaturates": "0.694",
+    "polyunsaturates": "2.45",
+    "carbohydrate": "54",
+    "sugars": "1.891",
+    "starch": "52",
+    "polyols": "0",
+    "fibre": "20.1",
+    "protein": "11.53",
+    "sodium": "0.517",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A2900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

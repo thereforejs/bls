@@ -1,0 +1,44 @@
+{
+  "code": "Y446123",
+  "name": {
+    "de": "Lammcurry",
+    "en": "Lamb curry (with sauce)"
+  },
+  "per100g": {
+    "fat": "26.3",
+    "saturates": "10.39",
+    "monounsaturates": "10.44",
+    "polyunsaturates": "2.55",
+    "carbohydrate": "1.2",
+    "sugars": "1.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "22.72",
+    "sodium": "0.26",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y446123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

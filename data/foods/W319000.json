@@ -1,0 +1,44 @@
+{
+  "code": "W319000",
+  "name": {
+    "de": "Trüffelleberwurst",
+    "en": "Truffled liver sausage"
+  },
+  "per100g": {
+    "fat": "23.25",
+    "saturates": "10.04",
+    "monounsaturates": "6.74",
+    "polyunsaturates": "2.45",
+    "carbohydrate": "0.6",
+    "sugars": "0.2",
+    "starch": "0.43",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "13.73",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W319000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

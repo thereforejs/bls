@@ -1,0 +1,44 @@
+{
+  "code": "Y912160",
+  "name": {
+    "de": "Frikadelle mit Pommes frites und Tomatenketchup",
+    "en": "Meatball with potato chips and tomato ketchup"
+  },
+  "per100g": {
+    "fat": "13.65",
+    "saturates": "2.87",
+    "monounsaturates": "5.62",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "18.32",
+    "sugars": "2.98",
+    "starch": "15.34",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "10.01",
+    "sodium": "0.358",
+    "alcohol": "0",
+    "organicAcids": "0.135"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y912160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

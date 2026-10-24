@@ -1,0 +1,44 @@
+{
+  "code": "X475713",
+  "name": {
+    "de": "Haferflockensuppe geröstet, mit Gemüsebrühe und Ei",
+    "en": "Porridge, roasted, with vegetable stock and egg"
+  },
+  "per100g": {
+    "fat": "2",
+    "saturates": "0.3",
+    "monounsaturates": "0.95",
+    "polyunsaturates": "0.53",
+    "carbohydrate": "3.2",
+    "sugars": "1.3",
+    "starch": "1.9",
+    "polyols": "0.01",
+    "fibre": "1",
+    "protein": "1.49",
+    "sodium": "0.278",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X475713",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

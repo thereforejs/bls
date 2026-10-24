@@ -1,0 +1,44 @@
+{
+  "code": "H800300",
+  "name": {
+    "de": "Mandeldrink gesüßt, aromatisiert, angereichert mit Calcium",
+    "en": "Almond drink sweetened, flavoured, fortified with calcium"
+  },
+  "per100g": {
+    "fat": "2.092",
+    "saturates": "0.18",
+    "monounsaturates": "1.388",
+    "polyunsaturates": "0.3739",
+    "carbohydrate": "3.28",
+    "sugars": "3.25",
+    "starch": "0.03",
+    "polyols": null,
+    "fibre": "0.13",
+    "protein": "0.84",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H800300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

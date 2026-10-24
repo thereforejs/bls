@@ -1,0 +1,44 @@
+{
+  "code": "D771700",
+  "name": {
+    "de": "Croissant (Hefeblätterteig/Plunderteig) gefüllt mit Nuss-Nougat-Creme",
+    "en": "Danish pastry croissant, filled with nut nougat cream"
+  },
+  "per100g": {
+    "fat": "26.04",
+    "saturates": "12.98",
+    "monounsaturates": "9.39",
+    "polyunsaturates": "2.53",
+    "carbohydrate": "48",
+    "sugars": "18.2",
+    "starch": "29",
+    "polyols": "0.002",
+    "fibre": "2.92",
+    "protein": "8",
+    "sodium": "0.286",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

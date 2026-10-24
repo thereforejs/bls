@@ -1,0 +1,44 @@
+{
+  "code": "X4B2000",
+  "name": {
+    "de": "Haferflockensuppe gesüßt, mit Milch 3,5 % Fett",
+    "en": "Oat flakes soup sweetened, with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "4.32",
+    "saturates": "2.57",
+    "monounsaturates": "1.01",
+    "polyunsaturates": "0.227",
+    "carbohydrate": "10.9",
+    "sugars": "7.91",
+    "starch": "3",
+    "polyols": "0",
+    "fibre": "0.62",
+    "protein": "4.75",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0.067"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4B2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

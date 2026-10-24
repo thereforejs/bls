@@ -1,0 +1,44 @@
+{
+  "code": "X556643",
+  "name": {
+    "de": "Tomaten mit Käse-Kräuterfüllung, gebacken",
+    "en": "Tomatoes with cheese-herb-filling, baked"
+  },
+  "per100g": {
+    "fat": "8.53",
+    "saturates": "2.44",
+    "monounsaturates": "3.82",
+    "polyunsaturates": "1.64",
+    "carbohydrate": "10.16",
+    "sugars": "4.04",
+    "starch": "6.125",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "4.9",
+    "sodium": "0.243",
+    "alcohol": "0",
+    "organicAcids": "0.378"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X556643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

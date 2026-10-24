@@ -1,0 +1,44 @@
+{
+  "code": "Y844912",
+  "name": {
+    "de": "Ananaskompott mit Süßstoff",
+    "en": "Pineapple compote with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.021",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.028",
+    "carbohydrate": "7.9",
+    "sugars": "7.9",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "0.4",
+    "sodium": "0.005",
+    "alcohol": "0.005",
+    "organicAcids": "0.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y844912",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

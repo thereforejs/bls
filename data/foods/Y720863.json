@@ -1,0 +1,44 @@
+{
+  "code": "Y720863",
+  "name": {
+    "de": "Rührei gebraten mit Käse und Kochschinken",
+    "en": "Scrambled eggs fried with cheese and boiled ham"
+  },
+  "per100g": {
+    "fat": "16.88",
+    "saturates": "4.49",
+    "monounsaturates": "7.27",
+    "polyunsaturates": "2.98",
+    "carbohydrate": "0.42",
+    "sugars": "0.41",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "16.4",
+    "sodium": "0.391",
+    "alcohol": "0",
+    "organicAcids": "0.229"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y720863",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

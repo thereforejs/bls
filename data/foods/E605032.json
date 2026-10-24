@@ -1,0 +1,44 @@
+{
+  "code": "E605032",
+  "name": {
+    "de": "Kartoffel-Schupfnudeln gekocht",
+    "en": "Potato noodles (Schupfnudeln) boiled"
+  },
+  "per100g": {
+    "fat": "1.05",
+    "saturates": "0.18",
+    "monounsaturates": "0.39",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "25.4",
+    "sugars": "0.503",
+    "starch": "24.9",
+    "polyols": "0",
+    "fibre": "2.26",
+    "protein": "4.42",
+    "sodium": "0.338",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E605032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

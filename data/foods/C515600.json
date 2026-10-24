@@ -1,0 +1,44 @@
+{
+  "code": "C515600",
+  "name": {
+    "de": "Cornflakes gesüßt, mit Zuckerglasur",
+    "en": "Cornflakes sweetened, sugar frosted"
+  },
+  "per100g": {
+    "fat": "0.54",
+    "saturates": "0.073",
+    "monounsaturates": "0.14",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "88.35",
+    "sugars": "35.41",
+    "starch": "52.94",
+    "polyols": "0",
+    "fibre": "3.165",
+    "protein": "4.62",
+    "sodium": "0.298",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C515600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

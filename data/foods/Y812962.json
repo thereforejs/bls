@@ -1,0 +1,44 @@
+{
+  "code": "Y812962",
+  "name": {
+    "de": "Arme Ritter gebraten, mit Zucker und Zimt",
+    "en": "French toast fried, with sugar and cinnamon"
+  },
+  "per100g": {
+    "fat": "12.59",
+    "saturates": "2.7",
+    "monounsaturates": "5.87",
+    "polyunsaturates": "2.62",
+    "carbohydrate": "34.43",
+    "sugars": "12.83",
+    "starch": "21.6",
+    "polyols": "0.002",
+    "fibre": "1.91",
+    "protein": "7.1",
+    "sodium": "0.312",
+    "alcohol": "0",
+    "organicAcids": "0.134"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y812962",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

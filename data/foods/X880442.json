@@ -1,0 +1,44 @@
+{
+  "code": "X880442",
+  "name": {
+    "de": "Curryreis mit Mandeln",
+    "en": "Curried rice with almonds"
+  },
+  "per100g": {
+    "fat": "5.64",
+    "saturates": "0.44",
+    "monounsaturates": "3.28",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "20.9",
+    "sugars": "0.17",
+    "starch": "20.7",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "2.684",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X880442",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

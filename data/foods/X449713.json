@@ -1,0 +1,44 @@
+{
+  "code": "X449713",
+  "name": {
+    "de": "Kartoffel-Gemüsecremesuppe",
+    "en": "Cream of potato-vegetable soup"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "0.4",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "6",
+    "sugars": "1.7",
+    "starch": "4",
+    "polyols": "0.03",
+    "fibre": "0.9",
+    "protein": "0.99",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X449713",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

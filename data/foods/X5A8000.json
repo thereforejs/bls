@@ -1,0 +1,44 @@
+{
+  "code": "X5A8000",
+  "name": {
+    "de": "Grüne Bohnen gekocht",
+    "en": "Green beans boiled"
+  },
+  "per100g": {
+    "fat": "0.232",
+    "saturates": "0.068",
+    "monounsaturates": "0.007",
+    "polyunsaturates": "0.111",
+    "carbohydrate": "3.4",
+    "sugars": "2.19",
+    "starch": "0.9",
+    "polyols": "0.27",
+    "fibre": "1.886",
+    "protein": "2.161",
+    "sodium": "0.0887",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A8000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F304600",
+  "name": {
+    "de": "Heidelbeersaft",
+    "en": "Blueberry juice"
+  },
+  "per100g": {
+    "fat": "0.48",
+    "saturates": "0.0446",
+    "monounsaturates": "0.08031",
+    "polyunsaturates": "0.32111",
+    "carbohydrate": "8.73",
+    "sugars": "8.73",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "0.5",
+    "protein": "0.4",
+    "sodium": "0.00002677",
+    "alcohol": "0",
+    "organicAcids": "1.593"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F304600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

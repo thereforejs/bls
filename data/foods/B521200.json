@@ -1,0 +1,44 @@
+{
+  "code": "B521200",
+  "name": {
+    "de": "Roggenbrötchen mit Schinkenspeck",
+    "en": "Rye roll with bacon"
+  },
+  "per100g": {
+    "fat": "2.9",
+    "saturates": "0.86",
+    "monounsaturates": "0.95",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "48",
+    "sugars": "0.822",
+    "starch": "47",
+    "polyols": "0",
+    "fibre": "8.76",
+    "protein": "8.49",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B521200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

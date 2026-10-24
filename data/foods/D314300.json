@@ -1,0 +1,44 @@
+{
+  "code": "D314300",
+  "name": {
+    "de": "Schokobuttercremetorte (Biskuit)",
+    "en": "Chocolate butter cream torte (sponge cake)"
+  },
+  "per100g": {
+    "fat": "20.2",
+    "saturates": "12.2",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "25.9",
+    "sugars": "18.1",
+    "starch": "7.8",
+    "polyols": "0",
+    "fibre": "1.19",
+    "protein": "5.12",
+    "sodium": "0.051",
+    "alcohol": "0.001",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D314300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

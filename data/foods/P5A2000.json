@@ -1,0 +1,44 @@
+{
+  "code": "P5A2000",
+  "name": {
+    "de": "Fruchtsahnelikör",
+    "en": "Fruit cream liqueur"
+  },
+  "per100g": {
+    "fat": "3.17",
+    "saturates": "1.688",
+    "monounsaturates": "0.828",
+    "polyunsaturates": "0.08",
+    "carbohydrate": "29",
+    "sugars": "29",
+    "starch": "0",
+    "polyols": "0.025",
+    "fibre": "0",
+    "protein": "0.3",
+    "sodium": "0.028",
+    "alcohol": "13.56",
+    "organicAcids": "0.523"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P5A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

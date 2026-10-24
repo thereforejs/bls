@@ -1,0 +1,44 @@
+{
+  "code": "B491300",
+  "name": {
+    "de": "Dinkelvollkornbrötchen mit Ölsamen",
+    "en": "Wholemeal spelt roll with oilseeds"
+  },
+  "per100g": {
+    "fat": "5.97",
+    "saturates": "1.21",
+    "monounsaturates": "1.81",
+    "polyunsaturates": "2.3",
+    "carbohydrate": "45",
+    "sugars": "1.6",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "8.27",
+    "protein": "11.5",
+    "sodium": "0.547",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B491300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

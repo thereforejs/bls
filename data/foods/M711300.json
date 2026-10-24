@@ -1,0 +1,44 @@
+{
+  "code": "M711300",
+  "name": {
+    "de": "Körniger Frischkäse mind. 20 % Fett i. Tr.",
+    "en": "Cottage cheese min. 20 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "2.205",
+    "monounsaturates": "1.16",
+    "polyunsaturates": "0.14",
+    "carbohydrate": "3.64",
+    "sugars": "3.64",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.3",
+    "sodium": "0.23",
+    "alcohol": "0",
+    "organicAcids": "0.919"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M711300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

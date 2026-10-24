@@ -1,0 +1,44 @@
+{
+  "code": "Y742250",
+  "name": {
+    "de": "Eier gekocht, mit Remouladensauce, gestreckt mit saurer Sahne",
+    "en": "Eggs boiled, with remoulade sauce, diluted with sour cream"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "3.1",
+    "monounsaturates": "8.1",
+    "polyunsaturates": "3.57",
+    "carbohydrate": "1.2",
+    "sugars": "1.2",
+    "starch": "0.005",
+    "polyols": "0.001",
+    "fibre": "0.1",
+    "protein": "9.7",
+    "sodium": "0.31",
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y742250",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

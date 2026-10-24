@@ -1,0 +1,44 @@
+{
+  "code": "F401600",
+  "name": {
+    "de": "Preiselbeersaft",
+    "en": "Lingonberry juice"
+  },
+  "per100g": {
+    "fat": "0.424",
+    "saturates": "0.083",
+    "monounsaturates": "0.061",
+    "polyunsaturates": "0.155",
+    "carbohydrate": "5.608",
+    "sugars": "5.498",
+    "starch": "0.108",
+    "polyols": "0.002",
+    "fibre": "0.289",
+    "protein": "0.6188",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F401600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

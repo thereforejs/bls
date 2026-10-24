@@ -1,0 +1,44 @@
+{
+  "code": "Y991143",
+  "name": {
+    "de": "Vanillesahneeis",
+    "en": "Vanilla cream ice cream"
+  },
+  "per100g": {
+    "fat": "25.06",
+    "saturates": "12.7",
+    "monounsaturates": "6.85",
+    "polyunsaturates": "0.98",
+    "carbohydrate": "13.04",
+    "sugars": "13.04",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.6",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y991143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

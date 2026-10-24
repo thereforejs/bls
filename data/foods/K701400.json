@@ -1,0 +1,44 @@
+{
+  "code": "K701400",
+  "name": {
+    "de": "Champignon getrocknet",
+    "en": "Button mushroom dried"
+  },
+  "per100g": {
+    "fat": "2.487",
+    "saturates": "0.438",
+    "monounsaturates": "0.05501",
+    "polyunsaturates": "1.24374",
+    "carbohydrate": "26.9",
+    "sugars": "2",
+    "starch": null,
+    "polyols": "24.87",
+    "fibre": "17.2",
+    "protein": "33.22",
+    "sodium": "0.37515",
+    "alcohol": "0",
+    "organicAcids": "1.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

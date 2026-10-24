@@ -1,0 +1,44 @@
+{
+  "code": "X5B1140",
+  "name": {
+    "de": "Gemüse-Kartoffel-Brei, mit Zucchini (ohne Salz, geeignet für Beikost)",
+    "en": "Vegetable-potato purree, with courgette (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "4.97",
+    "saturates": "0.39",
+    "monounsaturates": "2.78",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "6",
+    "sugars": "2.2",
+    "starch": "4",
+    "polyols": "0.108",
+    "fibre": "0.9",
+    "protein": "1.1",
+    "sodium": "0.003",
+    "alcohol": "0.003",
+    "organicAcids": "0.083"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5B1140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

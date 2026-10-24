@@ -1,0 +1,44 @@
+{
+  "code": "Y341023",
+  "name": {
+    "de": "Gulasch (mit Schweinefleisch)",
+    "en": "Pork goulash"
+  },
+  "per100g": {
+    "fat": "8.3",
+    "saturates": "1.5",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "1.65",
+    "carbohydrate": "0.6",
+    "sugars": "0.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "18.2",
+    "sodium": "0.215",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y341023",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

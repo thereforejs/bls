@@ -1,0 +1,44 @@
+{
+  "code": "X327312",
+  "name": {
+    "de": "Sahne-Käsesauce",
+    "en": "Cream-cheese sauce"
+  },
+  "per100g": {
+    "fat": "33.17",
+    "saturates": "18.5",
+    "monounsaturates": "8.8",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "3.2",
+    "sugars": "3.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.36",
+    "protein": "9.4",
+    "sodium": "0.364",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X327312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

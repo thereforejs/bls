@@ -1,0 +1,44 @@
+{
+  "code": "K420182",
+  "name": {
+    "de": "Batate/Süßkartoffel, gebraten ohne Fett (Pfanne)",
+    "en": "Batata/sweet potato, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.682",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "28.6",
+    "sugars": "6.2",
+    "starch": "22.114",
+    "polyols": "0.31",
+    "fibre": "3.568",
+    "protein": "1.852",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.000557"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K420182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

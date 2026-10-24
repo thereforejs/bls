@@ -1,0 +1,44 @@
+{
+  "code": "C660500",
+  "name": {
+    "de": "Haferdrink gesüßt, aromatisiert, angereichert mit Vitaminen, Calcium und Jod",
+    "en": "Oat drink sweetened, flavoured, fortified with vitamins, calcium and iodine"
+  },
+  "per100g": {
+    "fat": "0.98",
+    "saturates": "0.1202",
+    "monounsaturates": "0.3785",
+    "polyunsaturates": "0.4091",
+    "carbohydrate": "7.5",
+    "sugars": "7.3",
+    "starch": "0.17",
+    "polyols": null,
+    "fibre": "0.43",
+    "protein": "0.71",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C660500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

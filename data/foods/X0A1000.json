@@ -1,0 +1,44 @@
+{
+  "code": "X0A1000",
+  "name": {
+    "de": "Cornflakes mit Milch 1,5 % Fett und Honig gesüßt",
+    "en": "Cornflakes with milk 1.5 % fat, honey sweetened"
+  },
+  "per100g": {
+    "fat": "1.49",
+    "saturates": "0.738",
+    "monounsaturates": "0.357",
+    "polyunsaturates": "0.231",
+    "carbohydrate": "28.95",
+    "sugars": "8.08",
+    "starch": "20.81",
+    "polyols": "0.002",
+    "fibre": "1.12",
+    "protein": "4.02",
+    "sodium": "0.116",
+    "alcohol": "0",
+    "organicAcids": "0.054"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

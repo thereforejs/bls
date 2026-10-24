@@ -1,0 +1,44 @@
+{
+  "code": "X378243",
+  "name": {
+    "de": "Malteser Sauce",
+    "en": "Maltese sauce"
+  },
+  "per100g": {
+    "fat": "38.1",
+    "saturates": "22.6",
+    "monounsaturates": "9.05",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "2.67",
+    "sugars": "2.67",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.062",
+    "protein": "3.3",
+    "sodium": "0.148",
+    "alcohol": "0.002",
+    "organicAcids": "0.264"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X378243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

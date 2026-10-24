@@ -1,0 +1,44 @@
+{
+  "code": "U803000",
+  "name": {
+    "de": "Schaf Fleisch, grob entsehnt, roh",
+    "en": "Sheep meat, tendons coarsly removed, raw"
+  },
+  "per100g": {
+    "fat": "11.9",
+    "saturates": "5",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.4",
+    "sodium": "0.086",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U803000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

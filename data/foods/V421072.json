@@ -1,0 +1,44 @@
+{
+  "code": "V421072",
+  "name": {
+    "de": "Hähnchen Brustfilet, mariniert, gegrillt",
+    "en": "Chicken breast fillet, marinated, grilled"
+  },
+  "per100g": {
+    "fat": "4.91",
+    "saturates": "0.63",
+    "monounsaturates": "2.31",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "2.13",
+    "sugars": "2.07",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "27.34",
+    "sodium": "0.412",
+    "alcohol": "0.001",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V421072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

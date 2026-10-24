@@ -1,0 +1,44 @@
+{
+  "code": "X711343",
+  "name": {
+    "de": "Eier-Frischteigwaren Spätzle mit Sauerkraut (Krautspätzle)",
+    "en": "Fresh egg pasta spaetzle with sauerkraut"
+  },
+  "per100g": {
+    "fat": "1.84",
+    "saturates": "0.35",
+    "monounsaturates": "0.75",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "11.94",
+    "sugars": "2.34",
+    "starch": "9.57",
+    "polyols": "0.029",
+    "fibre": "2.1",
+    "protein": "3.2",
+    "sodium": "0.212",
+    "alcohol": "0.02",
+    "organicAcids": "0.584"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X711343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

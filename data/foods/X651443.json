@@ -1,0 +1,44 @@
+{
+  "code": "X651443",
+  "name": {
+    "de": "Kümmelkartoffeln gebacken",
+    "en": "Potatoes with caraway seeds baked"
+  },
+  "per100g": {
+    "fat": "3.801",
+    "saturates": "0.3",
+    "monounsaturates": "2.14",
+    "polyunsaturates": "1.02",
+    "carbohydrate": "22.63",
+    "sugars": "1.79",
+    "starch": "20.842",
+    "polyols": "0",
+    "fibre": "1.741",
+    "protein": "2.51",
+    "sodium": "0.13",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651443",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

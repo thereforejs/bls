@@ -1,0 +1,44 @@
+{
+  "code": "C234200",
+  "name": {
+    "de": "Dinkel Mehl, Type 1050",
+    "en": "Spelt flour, Type 1050"
+  },
+  "per100g": {
+    "fat": "2.16",
+    "saturates": "0.22",
+    "monounsaturates": "0.38",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "65.06",
+    "sugars": "0.83842",
+    "starch": "64.22",
+    "polyols": "0",
+    "fibre": "6.66",
+    "protein": "13.87",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C234200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

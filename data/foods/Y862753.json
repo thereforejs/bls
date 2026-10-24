@@ -1,0 +1,44 @@
+{
+  "code": "Y862753",
+  "name": {
+    "de": "Grießflammeri/Grießpudding, mit Ei und Kirschsaft",
+    "en": "Semolina pudding with egg and cherry juice"
+  },
+  "per100g": {
+    "fat": "3.45",
+    "saturates": "1.57",
+    "monounsaturates": "1.12",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "13.9",
+    "sugars": "9.2",
+    "starch": "4.3",
+    "polyols": "0.4",
+    "fibre": "0.3",
+    "protein": "4",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.183"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y862753",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

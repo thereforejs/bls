@@ -1,0 +1,44 @@
+{
+  "code": "Y837543",
+  "name": {
+    "de": "Pudding englische Art",
+    "en": "Pudding English style"
+  },
+  "per100g": {
+    "fat": "13",
+    "saturates": "5.7",
+    "monounsaturates": "4.65",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "24",
+    "sugars": "13.4",
+    "starch": "10.56",
+    "polyols": "0.065",
+    "fibre": "1.9",
+    "protein": "7",
+    "sodium": "0.163",
+    "alcohol": "0.4",
+    "organicAcids": "0.306"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y837543",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

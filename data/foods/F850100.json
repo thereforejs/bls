@@ -1,0 +1,46 @@
+{
+  "code": "F850100",
+  "name": {
+    "de": "Bananenchips frittiert, gesüßt",
+    "en": "Banana crips/banana chips, deep-fried, sweetened"
+  },
+  "per100g": {
+    "fat": "30.32",
+    "saturates": "26.25",
+    "monounsaturates": "1.648",
+    "polyunsaturates": "0.5594",
+    "carbohydrate": "49.35",
+    "sugars": "10.7",
+    "starch": "38.65",
+    "polyols": "0",
+    "fibre": "5.16",
+    "protein": "1.88",
+    "sodium": "0.0008",
+    "alcohol": null,
+    "organicAcids": "0.66"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F850100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

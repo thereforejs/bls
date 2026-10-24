@@ -1,0 +1,44 @@
+{
+  "code": "U563100",
+  "name": {
+    "de": "Schwein Roulade (Oberschale) roh",
+    "en": "Pork meat for olives (topside) raw"
+  },
+  "per100g": {
+    "fat": "2.51",
+    "saturates": "0.78",
+    "monounsaturates": "1.04",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.01",
+    "sodium": "0.0477",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U563100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

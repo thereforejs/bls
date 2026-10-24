@@ -1,0 +1,44 @@
+{
+  "code": "G311162",
+  "name": {
+    "de": "Blumenkohl gebacken",
+    "en": "Cauliflower baked"
+  },
+  "per100g": {
+    "fat": "0.394",
+    "saturates": "0.06",
+    "monounsaturates": "0.0094",
+    "polyunsaturates": "0.195",
+    "carbohydrate": "7.52",
+    "sugars": "3.05",
+    "starch": "0.256",
+    "polyols": "4.21",
+    "fibre": "4.1",
+    "protein": "3.414",
+    "sodium": "0.017",
+    "alcohol": "0",
+    "organicAcids": "0.386"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G311162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

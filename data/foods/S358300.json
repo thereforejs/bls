@@ -1,0 +1,44 @@
+{
+  "code": "S358300",
+  "name": {
+    "de": "Vanillefondant",
+    "en": "Vanilla fondant"
+  },
+  "per100g": {
+    "fat": "4.602",
+    "saturates": "2.225",
+    "monounsaturates": "1.693",
+    "polyunsaturates": "0.466",
+    "carbohydrate": "85.3",
+    "sugars": "79.5",
+    "starch": "2.148",
+    "polyols": "0",
+    "fibre": "0.025",
+    "protein": "0.011",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S358300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

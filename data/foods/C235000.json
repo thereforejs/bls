@@ -1,0 +1,44 @@
+{
+  "code": "C235000",
+  "name": {
+    "de": "Dinkel Vollkornmehl",
+    "en": "Spelt wholemeal flour"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.237",
+    "monounsaturates": "0.398",
+    "polyunsaturates": "0.972",
+    "carbohydrate": "60.13",
+    "sugars": "1.046",
+    "starch": "59.08",
+    "polyols": "0",
+    "fibre": "10.15",
+    "protein": "13.42",
+    "sodium": "0.0012",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C235000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

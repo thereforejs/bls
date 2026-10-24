@@ -1,0 +1,44 @@
+{
+  "code": "B111200",
+  "name": {
+    "de": "Weizenvollkorntoastbrot",
+    "en": "Wholemeal wheat toast"
+  },
+  "per100g": {
+    "fat": "3.67",
+    "saturates": "1.157",
+    "monounsaturates": "1.254",
+    "polyunsaturates": "0.897",
+    "carbohydrate": "41",
+    "sugars": "1.6",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "7.93",
+    "protein": "8.8",
+    "sodium": "0.479",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B111200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

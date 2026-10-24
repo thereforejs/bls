@@ -1,0 +1,44 @@
+{
+  "code": "H250700",
+  "name": {
+    "de": "Pistazie geröstet ohne Fett, gesalzen",
+    "en": "Pistachio nut roasted without fat, salted"
+  },
+  "per100g": {
+    "fat": "49.3",
+    "saturates": "11.76",
+    "monounsaturates": "19.8",
+    "polyunsaturates": "15.27",
+    "carbohydrate": "8.6",
+    "sugars": "6.8",
+    "starch": "1.8",
+    "polyols": "0.022",
+    "fibre": "8.8",
+    "protein": "23",
+    "sodium": "0.479",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H250700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

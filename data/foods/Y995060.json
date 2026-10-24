@@ -1,0 +1,44 @@
+{
+  "code": "Y995060",
+  "name": {
+    "de": "Vanillecremeeis mit heißer Himbeersauce",
+    "en": "Vanilla ice cream (with egg) with hot raspberry sauce"
+  },
+  "per100g": {
+    "fat": "2.8",
+    "saturates": "1.26",
+    "monounsaturates": "0.74",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "12.1",
+    "sugars": "11.5",
+    "starch": "0.554",
+    "polyols": "0.001",
+    "fibre": "3.1",
+    "protein": "1.8",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "1.45"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y995060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

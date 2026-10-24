@@ -1,0 +1,44 @@
+{
+  "code": "X324263",
+  "name": {
+    "de": "Kräutersauce von heller/weißer Grundsauce",
+    "en": "Herb sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "7.4",
+    "saturates": "4.4",
+    "monounsaturates": "1.72",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "3.59",
+    "sugars": "0.9",
+    "starch": "2.69",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "0.96",
+    "sodium": "0.287",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X324263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

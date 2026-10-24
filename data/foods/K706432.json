@@ -1,0 +1,44 @@
+{
+  "code": "K706432",
+  "name": {
+    "de": "Butterpilz getrocknet, gekocht",
+    "en": "Brown-yellow boletus (slippery jack) dried, boiled"
+  },
+  "per100g": {
+    "fat": "1.489",
+    "saturates": "0.262",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.745",
+    "carbohydrate": "13.52",
+    "sugars": "2.192",
+    "starch": null,
+    "polyols": "11.33",
+    "fibre": "19.353",
+    "protein": "10.538",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K706432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

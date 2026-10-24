@@ -1,0 +1,46 @@
+{
+  "code": "M241100",
+  "name": {
+    "de": "Joghurt mild, aus entrahmter Milch, max. 1 % Fett, mit Fruchtzubereitung, gesüßt",
+    "en": "Yogurt mild, max. 1 % fat, with fruit preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "0.42",
+    "saturates": "0.146",
+    "monounsaturates": "0.19",
+    "polyunsaturates": "0.045",
+    "carbohydrate": "13.26",
+    "sugars": "12.25",
+    "starch": "0.9",
+    "polyols": "0.106",
+    "fibre": "0.32",
+    "protein": "3.45",
+    "sodium": "0.0502",
+    "alcohol": null,
+    "organicAcids": "1.352"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M241100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

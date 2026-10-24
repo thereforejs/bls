@@ -1,0 +1,44 @@
+{
+  "code": "D7A7000",
+  "name": {
+    "de": "Plunderteig roh",
+    "en": "Danish pastry raw"
+  },
+  "per100g": {
+    "fat": "22.77",
+    "saturates": "11.85",
+    "monounsaturates": "7.98",
+    "polyunsaturates": "2.51",
+    "carbohydrate": "37",
+    "sugars": "6.369",
+    "starch": "31",
+    "polyols": "0",
+    "fibre": "2.32",
+    "protein": "7.08",
+    "sodium": "0.322",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

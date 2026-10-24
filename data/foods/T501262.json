@@ -1,0 +1,44 @@
+{
+  "code": "T501262",
+  "name": {
+    "de": "Karpfen tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Carp deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "6.24",
+    "saturates": "1.631",
+    "monounsaturates": "2.489",
+    "polyunsaturates": "1.152",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.425",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T501262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

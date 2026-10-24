@@ -1,0 +1,44 @@
+{
+  "code": "K391262",
+  "name": {
+    "de": "Kartoffelrösti tiefgefroren, gebacken",
+    "en": "Potato rösti (fried grated potatoes) deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "12.584",
+    "saturates": "0.95",
+    "monounsaturates": "7.16",
+    "polyunsaturates": "3.41",
+    "carbohydrate": "42.5",
+    "sugars": "2.8",
+    "starch": "39.668",
+    "polyols": "0",
+    "fibre": "2.8",
+    "protein": "3.597",
+    "sodium": "0.597",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K391262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

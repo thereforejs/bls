@@ -1,0 +1,44 @@
+{
+  "code": "X610253",
+  "name": {
+    "de": "Brühkartoffeln mit Gemüsebrühe und Gemüse",
+    "en": "Boiled potatoes with vegetable stock and vegetables"
+  },
+  "per100g": {
+    "fat": "1.7",
+    "saturates": "0.1",
+    "monounsaturates": "0.91",
+    "polyunsaturates": "0.45",
+    "carbohydrate": "12.3",
+    "sugars": "1.1",
+    "starch": "11.205",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "1.51",
+    "sodium": "0.108",
+    "alcohol": "0",
+    "organicAcids": "0.021"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X610253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

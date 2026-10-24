@@ -1,0 +1,44 @@
+{
+  "code": "W256262",
+  "name": {
+    "de": "Fleischkäse grob, gebraten ohne Fett (Ofen)",
+    "en": "Fleischkaese sausage coarsely minced, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "15.69",
+    "saturates": "5.7",
+    "monounsaturates": "5.67",
+    "polyunsaturates": "1.87",
+    "carbohydrate": "0.12",
+    "sugars": "0",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "21.89",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W256262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

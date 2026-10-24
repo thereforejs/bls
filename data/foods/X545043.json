@@ -1,0 +1,44 @@
+{
+  "code": "X545043",
+  "name": {
+    "de": "Spargel gekocht, mit Sauce Hollandaise/Holländischer Sauce",
+    "en": "Asparagus boiled, with Hollandaise sauce"
+  },
+  "per100g": {
+    "fat": "17.2",
+    "saturates": "10",
+    "monounsaturates": "4.05",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "2.93",
+    "sugars": "2.81",
+    "starch": "0.061",
+    "polyols": "0.06",
+    "fibre": "1",
+    "protein": "2.7",
+    "sodium": "0.107",
+    "alcohol": "0.06",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X545043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

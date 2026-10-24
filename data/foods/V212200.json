@@ -1,0 +1,44 @@
+{
+  "code": "V212200",
+  "name": {
+    "de": "Hirsch Fleisch, tiefgefroren",
+    "en": "Venison meat, deep-frozen"
+  },
+  "per100g": {
+    "fat": "3.34",
+    "saturates": "1.268",
+    "monounsaturates": null,
+    "polyunsaturates": "0.65",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.6",
+    "sodium": "0.063",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V212200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

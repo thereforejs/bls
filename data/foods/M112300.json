@@ -1,0 +1,44 @@
+{
+  "code": "M112300",
+  "name": {
+    "de": "Rohmilch/Vorzugsmilch, mind. 3,5 % Fett",
+    "en": "Certified raw milk, min. 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "3.78",
+    "saturates": "2.3445",
+    "monounsaturates": "0.822",
+    "polyunsaturates": "0.071",
+    "carbohydrate": "4.716",
+    "sugars": "4.716",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.262",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M112300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

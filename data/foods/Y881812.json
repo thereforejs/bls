@@ -1,0 +1,44 @@
+{
+  "code": "Y881812",
+  "name": {
+    "de": "Quarkkeulchen (mit Kartoffeln) gebraten",
+    "en": "Small quark pancakes (with potatoes) fried"
+  },
+  "per100g": {
+    "fat": "12.2",
+    "saturates": "1.1",
+    "monounsaturates": "6.12",
+    "polyunsaturates": "3",
+    "carbohydrate": "29.4",
+    "sugars": "15",
+    "starch": "14.38",
+    "polyols": "0.047",
+    "fibre": "1.8",
+    "protein": "6.6",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.438"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y881812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

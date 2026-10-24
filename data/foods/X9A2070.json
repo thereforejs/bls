@@ -1,0 +1,44 @@
+{
+  "code": "X9A2070",
+  "name": {
+    "de": "Porridge gesüßt, mit Milch 3,5 % Fett und Kakaopulver",
+    "en": "Porridge sweetened, with milk 3.5 % fat and cocoa powder"
+  },
+  "per100g": {
+    "fat": "4.76",
+    "saturates": "2.453",
+    "monounsaturates": "1.238",
+    "polyunsaturates": "0.591",
+    "carbohydrate": "17.4",
+    "sugars": "7.04",
+    "starch": "10.3",
+    "polyols": "0",
+    "fibre": "2.143",
+    "protein": "6.16",
+    "sodium": "0.044",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A2070",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

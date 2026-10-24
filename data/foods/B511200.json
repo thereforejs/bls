@@ -1,0 +1,44 @@
+{
+  "code": "B511200",
+  "name": {
+    "de": "Weizenbrötchen mit Schinkenspeck",
+    "en": "Wheat roll with bacon"
+  },
+  "per100g": {
+    "fat": "2.75",
+    "saturates": "0.87",
+    "monounsaturates": "0.93",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "56",
+    "sugars": "1.9",
+    "starch": "54",
+    "polyols": "0",
+    "fibre": "4.21",
+    "protein": "9.6",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B511200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

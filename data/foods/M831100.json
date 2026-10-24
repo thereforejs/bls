@@ -1,0 +1,44 @@
+{
+  "code": "M831100",
+  "name": {
+    "de": "Speisequarkzubereitung < 10 % Fett i. Tr., mit Fruchtzubereitung, gesüßt",
+    "en": "Quark preparation < 10 % fat in dry matter, with fruit preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "0.15",
+    "saturates": "0.072",
+    "monounsaturates": "0.034",
+    "polyunsaturates": "0.028",
+    "carbohydrate": "16.87",
+    "sugars": "15.14",
+    "starch": "1.726",
+    "polyols": "0.004",
+    "fibre": "0.2",
+    "protein": "6.98",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.735"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M831100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

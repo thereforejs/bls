@@ -1,0 +1,44 @@
+{
+  "code": "C111082",
+  "name": {
+    "de": "Weizen ganzes Korn, gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "Wheat whole grain, boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.188",
+    "saturates": "0.2",
+    "monounsaturates": "0.124",
+    "polyunsaturates": "0.5292",
+    "carbohydrate": "40.513",
+    "sugars": "0.718",
+    "starch": "39.795",
+    "polyols": "0",
+    "fibre": "9.073",
+    "protein": "8.7668",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C111082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

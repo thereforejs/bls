@@ -1,0 +1,44 @@
+{
+  "code": "G321182",
+  "name": {
+    "de": "Chinakohl gebraten ohne Fett (Pfanne)",
+    "en": "Chinese white cabbage fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.377",
+    "saturates": "0.023",
+    "monounsaturates": "0.0085",
+    "polyunsaturates": "0.0489",
+    "carbohydrate": "2.6",
+    "sugars": "2.342",
+    "starch": "0",
+    "polyols": "0.26",
+    "fibre": "3.2",
+    "protein": "3.396",
+    "sodium": "0.025",
+    "alcohol": "0",
+    "organicAcids": "0.243"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G321182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

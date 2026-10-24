@@ -1,0 +1,44 @@
+{
+  "code": "F409100",
+  "name": {
+    "de": "Wald-Erdbeere roh",
+    "en": "Wild strawberry raw"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.032",
+    "monounsaturates": "0.063",
+    "polyunsaturates": "0.238",
+    "carbohydrate": "5.917",
+    "sugars": "5.857",
+    "starch": "0",
+    "polyols": "0.06",
+    "fibre": "2",
+    "protein": "0.82",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F409100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

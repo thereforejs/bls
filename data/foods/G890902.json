@@ -1,0 +1,44 @@
+{
+  "code": "G890902",
+  "name": {
+    "de": "Cornichons gesäuert, abgetropft",
+    "en": "Cornichons pickled, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.175",
+    "saturates": "0.057",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.075",
+    "carbohydrate": "5.58",
+    "sugars": "5.58",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "0.925",
+    "sodium": "0.476",
+    "alcohol": "0.018",
+    "organicAcids": "1.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G890902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

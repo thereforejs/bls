@@ -1,0 +1,44 @@
+{
+  "code": "W515072",
+  "name": {
+    "de": "Kasseler, Rohpökelware, geräuchert, gegrillt",
+    "en": "Pork loin chop raw cured, smoked, grilled"
+  },
+  "per100g": {
+    "fat": "2.968",
+    "saturates": "1.164",
+    "monounsaturates": "1.3628",
+    "polyunsaturates": "0.2925",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "31.663",
+    "sodium": "1.628",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W515072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G992262",
+  "name": {
+    "de": "Gemüsemischung Erbsen-Karotten, tiefgefroren, gebacken",
+    "en": "Mixed vegetables peas and carrots, deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "0.518",
+    "saturates": "0.113",
+    "monounsaturates": "0.082",
+    "polyunsaturates": "0.219",
+    "carbohydrate": "10.493",
+    "sugars": "4.289",
+    "starch": "6.204",
+    "polyols": "0",
+    "fibre": "4.7",
+    "protein": "4",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0.415"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G992262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

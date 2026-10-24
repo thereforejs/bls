@@ -1,0 +1,44 @@
+{
+  "code": "X423753",
+  "name": {
+    "de": "Fleischbrühe mit Eierteigwaren",
+    "en": "Meat stock with egg pasta"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.1",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.016",
+    "carbohydrate": "2.64",
+    "sugars": "0.07",
+    "starch": "2.568",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "0.9",
+    "sodium": "0.231",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X423753",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

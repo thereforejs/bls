@@ -1,0 +1,44 @@
+{
+  "code": "S581000",
+  "name": {
+    "de": "Vollmilchschokoladen-Riegel gefüllt mit Nougatcreme und Waffel",
+    "en": "Whole milk chocolate bar filled with nougat cream and waffle"
+  },
+  "per100g": {
+    "fat": "32.8",
+    "saturates": "18.04",
+    "monounsaturates": "10.94",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "51.5",
+    "sugars": "49.4",
+    "starch": "2.12",
+    "polyols": "0.001",
+    "fibre": "2.7",
+    "protein": "6.37",
+    "sodium": "0.063",
+    "alcohol": "0",
+    "organicAcids": "0.062"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S581000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

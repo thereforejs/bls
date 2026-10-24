@@ -1,0 +1,44 @@
+{
+  "code": "Y260912",
+  "name": {
+    "de": "Kalbsbraten ohne Sauce",
+    "en": "Veal roast without sauce"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "0.34",
+    "monounsaturates": "0.89",
+    "polyunsaturates": "0.36",
+    "carbohydrate": "1.6",
+    "sugars": "1.6",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "21.5",
+    "sodium": "0.212",
+    "alcohol": "0",
+    "organicAcids": "0.106"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y260912",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

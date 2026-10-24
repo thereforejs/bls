@@ -1,0 +1,44 @@
+{
+  "code": "R9A5200",
+  "name": {
+    "de": "Schokoladenfettglasur für Gebäck/Torten",
+    "en": "Chocolate icing (containing non-cocoa fats) for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "28.87",
+    "saturates": "19.89",
+    "monounsaturates": "6.74",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "35.4",
+    "sugars": "33.5",
+    "starch": "1.924",
+    "polyols": "0",
+    "fibre": "5.26",
+    "protein": "4.14",
+    "sodium": "0.0064",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A5200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

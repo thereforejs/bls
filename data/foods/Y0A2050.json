@@ -1,0 +1,44 @@
+{
+  "code": "Y0A2050",
+  "name": {
+    "de": "Hackfleisch-Reisfüllung (für Gemüse) gedünstet",
+    "en": "Minced meat-rice filling (for vegatables) stewed"
+  },
+  "per100g": {
+    "fat": "15.87",
+    "saturates": "4.55",
+    "monounsaturates": "7.15",
+    "polyunsaturates": "2.16",
+    "carbohydrate": "11.1",
+    "sugars": "0.54",
+    "starch": "10.6",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "12.97",
+    "sodium": "0.252",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y0A2050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

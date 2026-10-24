@@ -1,0 +1,44 @@
+{
+  "code": "F3A3700",
+  "name": {
+    "de": "Johannisbeernektar schwarz, mit Süßungsmitteln",
+    "en": "Black currant nectar with artificial sweeteners"
+  },
+  "per100g": {
+    "fat": "0.044",
+    "saturates": "0.005",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.022",
+    "carbohydrate": "2.5",
+    "sugars": "2.5",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "0.1",
+    "protein": "0.31",
+    "sodium": "0.003",
+    "alcohol": "0.012",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F3A3700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

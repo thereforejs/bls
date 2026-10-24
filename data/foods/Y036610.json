@@ -1,0 +1,44 @@
+{
+  "code": "Y036610",
+  "name": {
+    "de": "Frikadellen aus Rindfleisch gebraten",
+    "en": "Beef meatballs fried"
+  },
+  "per100g": {
+    "fat": "21.05",
+    "saturates": "7.45",
+    "monounsaturates": "9.25",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "5.98",
+    "sugars": "0.74",
+    "starch": "5.24",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "21.24",
+    "sodium": "0.292",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036610",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X0A2010",
+  "name": {
+    "de": "Frischkornbrei ungesüßt, mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Fresh-grain porridge unsweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "1.23",
+    "monounsaturates": "0.55",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "11.8",
+    "sugars": "4.1",
+    "starch": "7.6",
+    "polyols": "0.1",
+    "fibre": "2",
+    "protein": "3.54",
+    "sodium": "0.022",
+    "alcohol": "0.01",
+    "organicAcids": "0.69"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A2010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

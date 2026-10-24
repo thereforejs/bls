@@ -1,0 +1,44 @@
+{
+  "code": "V4A6162",
+  "name": {
+    "de": "Hähnchen Brust, ohne Haut, gebraten ohne Fett (Ofen)",
+    "en": "Chicken breast, without skin, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "2.59",
+    "saturates": "0.585",
+    "monounsaturates": "0.781",
+    "polyunsaturates": "0.478",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "31.16",
+    "sodium": "0.0698",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V4A6162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

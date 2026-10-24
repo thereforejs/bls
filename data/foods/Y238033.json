@@ -1,0 +1,44 @@
+{
+  "code": "Y238033",
+  "name": {
+    "de": "Kalbsrücken gebraten im Ofen, mit Sauce",
+    "en": "Veal loin fried in oven, with sauce"
+  },
+  "per100g": {
+    "fat": "5",
+    "saturates": "0.9",
+    "monounsaturates": "2.2",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "2.1",
+    "sugars": "0.00773",
+    "starch": "2.09",
+    "polyols": "0",
+    "fibre": "0.16",
+    "protein": "17.07",
+    "sodium": "0.243",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y238033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

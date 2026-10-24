@@ -1,0 +1,44 @@
+{
+  "code": "P464000",
+  "name": {
+    "de": "Sherry sweet",
+    "en": "Sherry sweet"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "36.7",
+    "sugars": "36.7",
+    "starch": "0",
+    "polyols": "0.019",
+    "fibre": "0",
+    "protein": "0.1",
+    "sodium": "0.018",
+    "alcohol": "8.9",
+    "organicAcids": "0.381"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P464000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

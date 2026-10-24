@@ -1,0 +1,44 @@
+{
+  "code": "X813113",
+  "name": {
+    "de": "Kaiserreis (Milchreis gesüßt, mit Sahne und Sauerkirschen)",
+    "en": "\"Kaiserreis\" (rice pudding sweetenend, with cream and sour cherries)"
+  },
+  "per100g": {
+    "fat": "7.27",
+    "saturates": "3.955",
+    "monounsaturates": "1.831",
+    "polyunsaturates": "0.194",
+    "carbohydrate": "14.8",
+    "sugars": "6.69",
+    "starch": "7.8",
+    "polyols": "0.347",
+    "fibre": "0.7",
+    "protein": "2.96",
+    "sodium": "0.026",
+    "alcohol": "0",
+    "organicAcids": "0.271"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X813113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M181400",
+  "name": {
+    "de": "Kondensmilch mind. 8 % Fett, gezuckert",
+    "en": "Condensed milk min. 8 % fat, sweetened"
+  },
+  "per100g": {
+    "fat": "8.7",
+    "saturates": "5.2",
+    "monounsaturates": "2.33",
+    "polyunsaturates": "0.337",
+    "carbohydrate": "52.9",
+    "sugars": "52.9",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "7.91",
+    "sodium": "0.112",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M181400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

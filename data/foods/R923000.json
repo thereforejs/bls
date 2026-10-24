@@ -1,0 +1,44 @@
+{
+  "code": "R923000",
+  "name": {
+    "de": "Zitronensahne für Gebäck/Torten",
+    "en": "Lemon cream for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "23.7",
+    "saturates": "12.595",
+    "monounsaturates": "6.174",
+    "polyunsaturates": "0.62",
+    "carbohydrate": "15.6",
+    "sugars": "15.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.014",
+    "protein": "2.9",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.78"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R923000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

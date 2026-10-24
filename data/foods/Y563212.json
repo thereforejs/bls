@@ -1,0 +1,44 @@
+{
+  "code": "Y563212",
+  "name": {
+    "de": "Cordon bleu von der Pute gebraten",
+    "en": "Turkey cordon bleu fried"
+  },
+  "per100g": {
+    "fat": "11.85",
+    "saturates": "3.47",
+    "monounsaturates": "5.11",
+    "polyunsaturates": "2.17",
+    "carbohydrate": "8.32",
+    "sugars": "0.67",
+    "starch": "7.65",
+    "polyols": "0.001",
+    "fibre": "0.63",
+    "protein": "21.9",
+    "sodium": "0.273",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y563212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

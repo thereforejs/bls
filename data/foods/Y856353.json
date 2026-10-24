@@ -1,0 +1,44 @@
+{
+  "code": "Y856353",
+  "name": {
+    "de": "Johannisbeergelee mit Schlagsahne",
+    "en": "Red currant jelly with whipped cream"
+  },
+  "per100g": {
+    "fat": "3",
+    "saturates": "1.594",
+    "monounsaturates": "0.787",
+    "polyunsaturates": "0.123",
+    "carbohydrate": "9.87",
+    "sugars": "9.87",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "0.3",
+    "protein": "2.3",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "2.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y856353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

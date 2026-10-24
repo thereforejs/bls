@@ -1,0 +1,44 @@
+{
+  "code": "W257000",
+  "name": {
+    "de": "Cabanossi gebrüht",
+    "en": "Cabanossi sausage scalded"
+  },
+  "per100g": {
+    "fat": "14.61",
+    "saturates": "5.68",
+    "monounsaturates": "5.61",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "0.04",
+    "sugars": "0",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "0.02",
+    "protein": "15.26",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W257000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K713152",
+  "name": {
+    "de": "Pfifferling gedünstet",
+    "en": "Chanterelle stewed"
+  },
+  "per100g": {
+    "fat": "0.382",
+    "saturates": "0.067",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.192",
+    "carbohydrate": "0.776",
+    "sugars": "0.227",
+    "starch": null,
+    "polyols": "0.549",
+    "fibre": "4.606",
+    "protein": "5.507",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K713152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

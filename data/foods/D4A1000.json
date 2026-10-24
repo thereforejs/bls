@@ -1,0 +1,44 @@
+{
+  "code": "D4A1000",
+  "name": {
+    "de": "Apfelstrudel (Blätterteig)",
+    "en": "Apple strudel (puff pastry)"
+  },
+  "per100g": {
+    "fat": "21.2",
+    "saturates": "13.2",
+    "monounsaturates": "4.66",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "26.7",
+    "sugars": "8.3",
+    "starch": "17.93",
+    "polyols": "0.51",
+    "fibre": "2.9",
+    "protein": "3.3",
+    "sodium": "0.057",
+    "alcohol": "0.003",
+    "organicAcids": "0.366"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

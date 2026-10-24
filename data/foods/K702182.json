@@ -1,0 +1,44 @@
+{
+  "code": "K702182",
+  "name": {
+    "de": "Trüffel gebraten ohne Fett (Pfanne)",
+    "en": "Black truffle (Perigord black truffle) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.836",
+    "saturates": "0.148",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.418",
+    "carbohydrate": "1",
+    "sugars": "1",
+    "starch": null,
+    "polyols": null,
+    "fibre": "27.115",
+    "protein": "13.587",
+    "sodium": "0.126",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K702182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

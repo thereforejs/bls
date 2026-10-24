@@ -1,0 +1,46 @@
+{
+  "code": "Q440000",
+  "name": {
+    "de": "Pflanzenmargarine Halbfett, angereichert mit Vitaminen",
+    "en": "Margarine half-fat, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "39.66",
+    "saturates": "12.81",
+    "monounsaturates": "17.86",
+    "polyunsaturates": "7.03",
+    "carbohydrate": "3.14",
+    "sugars": "0.360864",
+    "starch": "2.78",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "0.26",
+    "sodium": "0.1922",
+    "alcohol": "0",
+    "organicAcids": "0.115"
+  },
+  "marks": {
+    "fibre": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q440000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X912133",
+  "name": {
+    "de": "Pizza al funghi (mit Tomatensauce, Champignons, Mozzarella)",
+    "en": "Pizza al funghi (with tomato sauce, button mushrooms, mozzarella)"
+  },
+  "per100g": {
+    "fat": "11.24",
+    "saturates": "3.46",
+    "monounsaturates": "4.77",
+    "polyunsaturates": "2.06",
+    "carbohydrate": "17",
+    "sugars": "1.3",
+    "starch": "15",
+    "polyols": "0.67",
+    "fibre": "2",
+    "protein": "7.29",
+    "sodium": "0.236",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X912133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

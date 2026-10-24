@@ -1,0 +1,44 @@
+{
+  "code": "F310100",
+  "name": {
+    "de": "Weintraube roh",
+    "en": "Grape raw"
+  },
+  "per100g": {
+    "fat": "0.28",
+    "saturates": "0.0625",
+    "monounsaturates": "0.014",
+    "polyunsaturates": "0.143",
+    "carbohydrate": "12.18",
+    "sugars": "12.08",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "1.6",
+    "protein": "0.75",
+    "sodium": "0.006",
+    "alcohol": null,
+    "organicAcids": "1.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F310100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

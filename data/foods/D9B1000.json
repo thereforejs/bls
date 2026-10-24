@@ -1,0 +1,44 @@
+{
+  "code": "D9B1000",
+  "name": {
+    "de": "Butterkekse/Butterplätzchen, kakaohaltig (Vollkornmürbeteig)",
+    "en": "Wholemeal shortbread biscuits, containing cocoa"
+  },
+  "per100g": {
+    "fat": "30.9",
+    "saturates": "19.355",
+    "monounsaturates": "6.734",
+    "polyunsaturates": "1.043",
+    "carbohydrate": "49.4",
+    "sugars": "20.857",
+    "starch": "28.5",
+    "polyols": "0",
+    "fibre": "7.41",
+    "protein": "7.79",
+    "sodium": "0.065",
+    "alcohol": "0",
+    "organicAcids": "0.0298"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9B1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

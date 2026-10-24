@@ -1,0 +1,44 @@
+{
+  "code": "X332263",
+  "name": {
+    "de": "Champignonsauce von dunkler/brauner Grundsauce",
+    "en": "Button mushroom sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "0.4",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "1.28",
+    "carbohydrate": "5.36",
+    "sugars": "0.01782",
+    "starch": "4.81",
+    "polyols": "0.53",
+    "fibre": "0.7",
+    "protein": "1.7",
+    "sodium": "0.232",
+    "alcohol": "0",
+    "organicAcids": "0.03"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X332263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

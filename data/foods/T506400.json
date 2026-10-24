@@ -1,0 +1,44 @@
+{
+  "code": "T506400",
+  "name": {
+    "de": "Wels gesalzen",
+    "en": "European catfish salted"
+  },
+  "per100g": {
+    "fat": "8.7",
+    "saturates": "2.145",
+    "monounsaturates": "1.878",
+    "polyunsaturates": "1.718",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.125",
+    "sodium": "0.869",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T506400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

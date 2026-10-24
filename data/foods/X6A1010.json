@@ -1,0 +1,44 @@
+{
+  "code": "X6A1010",
+  "name": {
+    "de": "Kartoffeln mit Schale gekocht",
+    "en": "Potatoes boiled with peel"
+  },
+  "per100g": {
+    "fat": "0.102",
+    "saturates": "0.034",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.013",
+    "carbohydrate": "18.82",
+    "sugars": "1.49",
+    "starch": "17.33",
+    "polyols": "0",
+    "fibre": "1.448",
+    "protein": "2.09",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

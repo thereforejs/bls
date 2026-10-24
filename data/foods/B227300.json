@@ -1,0 +1,44 @@
+{
+  "code": "B227300",
+  "name": {
+    "de": "Roggenbrot mit Buttermilch",
+    "en": "Rye bread with buttermilk"
+  },
+  "per100g": {
+    "fat": "0.82",
+    "saturates": "0.12",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "40",
+    "sugars": "1.32",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "8.89",
+    "protein": "5.9",
+    "sodium": "0.477",
+    "alcohol": "0",
+    "organicAcids": "0.063"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B227300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

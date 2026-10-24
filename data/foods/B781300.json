@@ -1,0 +1,44 @@
+{
+  "code": "B781300",
+  "name": {
+    "de": "Weizenbaguettebrötchen",
+    "en": "Wheat baguette roll"
+  },
+  "per100g": {
+    "fat": "1.51",
+    "saturates": "0.36",
+    "monounsaturates": "0.38",
+    "polyunsaturates": "0.49",
+    "carbohydrate": "57",
+    "sugars": "1.8",
+    "starch": "55",
+    "polyols": "0",
+    "fibre": "4.25",
+    "protein": "9.6",
+    "sodium": "0.597",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B781300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B8A2000",
+  "name": {
+    "de": "Brötchen glutenfrei",
+    "en": "Roll gluten-free"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "1.922",
+    "monounsaturates": "1.548",
+    "polyunsaturates": "0.511",
+    "carbohydrate": "61",
+    "sugars": "2.3",
+    "starch": "59",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "4.4",
+    "sodium": "0.52",
+    "alcohol": "0",
+    "organicAcids": "0.297"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

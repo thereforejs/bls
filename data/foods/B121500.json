@@ -1,0 +1,44 @@
+{
+  "code": "B121500",
+  "name": {
+    "de": "Roggenvollkornbrot mit Buttermilch",
+    "en": "Wholemeal rye bread with buttermilk"
+  },
+  "per100g": {
+    "fat": "0.88",
+    "saturates": "0.16",
+    "monounsaturates": "0.2",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "34",
+    "sugars": "1.41",
+    "starch": "33",
+    "polyols": "0",
+    "fibre": "11.63",
+    "protein": "5.77",
+    "sodium": "0.459",
+    "alcohol": "0",
+    "organicAcids": "0.061"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B121500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

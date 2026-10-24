@@ -1,0 +1,44 @@
+{
+  "code": "Y740842",
+  "name": {
+    "de": "Eier pochiert (verlorene Eier)",
+    "en": "Eggs poached"
+  },
+  "per100g": {
+    "fat": "9.091",
+    "saturates": "2.461",
+    "monounsaturates": "3.46",
+    "polyunsaturates": "1.428",
+    "carbohydrate": "0.343",
+    "sugars": "0.343",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.308",
+    "sodium": "0.55",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y740842",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

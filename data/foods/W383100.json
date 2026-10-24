@@ -1,0 +1,44 @@
+{
+  "code": "W383100",
+  "name": {
+    "de": "Grützblutwurst",
+    "en": "Blood sausage with oat groats"
+  },
+  "per100g": {
+    "fat": "12.87",
+    "saturates": "4.71",
+    "monounsaturates": "4.67",
+    "polyunsaturates": "1.54",
+    "carbohydrate": "4.3",
+    "sugars": "0.19",
+    "starch": "4.1",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "13.1",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.005"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W383100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

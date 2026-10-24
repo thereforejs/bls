@@ -1,0 +1,44 @@
+{
+  "code": "K420132",
+  "name": {
+    "de": "Batate/Süßkartoffel, gekocht",
+    "en": "Batata/sweet potato, boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "12.8",
+    "sugars": "9.2",
+    "starch": "3.3",
+    "polyols": "0.25",
+    "fibre": "2.7",
+    "protein": "1.7",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.000412"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K420132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

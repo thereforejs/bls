@@ -1,0 +1,44 @@
+{
+  "code": "X490263",
+  "name": {
+    "de": "Kürbissuppe scharf, mit Sahne",
+    "en": "Pumpkin soup spicy, with cream"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "2.6",
+    "monounsaturates": "1.91",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "3",
+    "sugars": "2.4",
+    "starch": "1",
+    "polyols": "0.002",
+    "fibre": "0.3",
+    "protein": "1",
+    "sodium": "0.18",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X490263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

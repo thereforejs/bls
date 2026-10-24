@@ -1,0 +1,44 @@
+{
+  "code": "X320063",
+  "name": {
+    "de": "Grundsauce hell/weiß, vegan",
+    "en": "Basic sauce white, vegan"
+  },
+  "per100g": {
+    "fat": "4.4",
+    "saturates": "0.9",
+    "monounsaturates": "2.22",
+    "polyunsaturates": "0.96",
+    "carbohydrate": "3.54",
+    "sugars": "0.56",
+    "starch": "2.98",
+    "polyols": "0",
+    "fibre": "0.22",
+    "protein": "0.73",
+    "sodium": "0.321",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X320063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y860940",
+  "name": {
+    "de": "Buttercreme (zum Füllen und Überziehen)",
+    "en": "Butter-cream filling"
+  },
+  "per100g": {
+    "fat": "47.72",
+    "saturates": "30.83",
+    "monounsaturates": "11.08",
+    "polyunsaturates": "2.07",
+    "carbohydrate": "35.83",
+    "sugars": "35.83",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "2",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.0131"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860940",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

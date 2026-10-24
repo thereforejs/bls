@@ -1,0 +1,44 @@
+{
+  "code": "G691152",
+  "name": {
+    "de": "Radieschen gedünstet",
+    "en": "Small red radish stewed"
+  },
+  "per100g": {
+    "fat": "0.137",
+    "saturates": "0.032",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.054",
+    "carbohydrate": "2.27",
+    "sugars": "2.092",
+    "starch": "0",
+    "polyols": "0.14",
+    "fibre": "1.5",
+    "protein": "1.029",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.308"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G691152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

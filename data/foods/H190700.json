@@ -1,0 +1,44 @@
+{
+  "code": "H190700",
+  "name": {
+    "de": "Macadamianuss geröstet ohne Fett, gesalzen",
+    "en": "Macadamia nut roasted without fat, salted"
+  },
+  "per100g": {
+    "fat": "75.5",
+    "saturates": "11.1",
+    "monounsaturates": "58.7",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "5.1",
+    "sugars": "4.1",
+    "starch": "1.04",
+    "polyols": "0",
+    "fibre": "7.9",
+    "protein": "9.12",
+    "sodium": "0.309",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H190700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

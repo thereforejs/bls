@@ -1,0 +1,44 @@
+{
+  "code": "C217000",
+  "name": {
+    "de": "Weizen Kleie",
+    "en": "Wheat bran"
+  },
+  "per100g": {
+    "fat": "3.95",
+    "saturates": "0.533",
+    "monounsaturates": "0.546",
+    "polyunsaturates": "2.14",
+    "carbohydrate": "18.92",
+    "sugars": "1.36327",
+    "starch": "17.56",
+    "polyols": "0",
+    "fibre": "43.16",
+    "protein": "17.2",
+    "sodium": "0.0011",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C217000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

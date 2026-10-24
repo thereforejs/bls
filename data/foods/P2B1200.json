@@ -1,0 +1,44 @@
+{
+  "code": "P2B1200",
+  "name": {
+    "de": "Rosewein halbtrocken",
+    "en": "Rose wine medium dry"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "1.17",
+    "sugars": "1.17",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "0",
+    "protein": "0.1",
+    "sodium": "0.004",
+    "alcohol": "8.6",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P2B1200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

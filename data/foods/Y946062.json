@@ -1,0 +1,44 @@
+{
+  "code": "Y946062",
+  "name": {
+    "de": "Schaschlik mit Brötchen und Tomatenketchup",
+    "en": "Shashlik with roll and tomato ketchup"
+  },
+  "per100g": {
+    "fat": "7.3",
+    "saturates": "1.91",
+    "monounsaturates": "3.31",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "10.68",
+    "sugars": "3.9",
+    "starch": "6.72",
+    "polyols": "0.06",
+    "fibre": "1.4",
+    "protein": "15.2",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y946062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

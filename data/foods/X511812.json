@@ -1,0 +1,44 @@
+{
+  "code": "X511812",
+  "name": {
+    "de": "Champignons im Backteig (mit Bier) frittiert",
+    "en": "Button mushrooms in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "13.03",
+    "saturates": "1.33",
+    "monounsaturates": "6.94",
+    "polyunsaturates": "3.42",
+    "carbohydrate": "17.7",
+    "sugars": "0.3",
+    "starch": "15.49",
+    "polyols": "1.94",
+    "fibre": "2.5",
+    "protein": "6.8",
+    "sodium": "0.121",
+    "alcohol": "0.218",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X511812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

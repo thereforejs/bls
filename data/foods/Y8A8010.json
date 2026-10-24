@@ -1,0 +1,44 @@
+{
+  "code": "Y8A8010",
+  "name": {
+    "de": "Hefeteig gesüßt, mit Milch 3,5 % Fett, roh",
+    "en": "Yeast dough sweetened, with milk 3.5 % fat, raw"
+  },
+  "per100g": {
+    "fat": "10.14",
+    "saturates": "1.32",
+    "monounsaturates": "5.18",
+    "polyunsaturates": "2.58",
+    "carbohydrate": "47",
+    "sugars": "8.04",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "2.97",
+    "protein": "7.91",
+    "sodium": "0.229",
+    "alcohol": "0",
+    "organicAcids": "0.012"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A8010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

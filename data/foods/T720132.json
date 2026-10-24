@@ -1,0 +1,44 @@
+{
+  "code": "T720132",
+  "name": {
+    "de": "Languste gekocht",
+    "en": "Spiny lobster/rock lobster/crawfish, boiled"
+  },
+  "per100g": {
+    "fat": "1.358",
+    "saturates": "0.16",
+    "monounsaturates": "0.16",
+    "polyunsaturates": "0.679",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.926",
+    "sodium": "0.191",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T720132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

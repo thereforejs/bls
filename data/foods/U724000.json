@@ -1,0 +1,44 @@
+{
+  "code": "U724000",
+  "name": {
+    "de": "Schaf Kotelett, mariniert, roh",
+    "en": "Sheep chop (loin) marinated, raw"
+  },
+  "per100g": {
+    "fat": "29.2",
+    "saturates": "13.32",
+    "monounsaturates": "11.34",
+    "polyunsaturates": "1.046",
+    "carbohydrate": "0.34",
+    "sugars": "0.34",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "13.87",
+    "sodium": "0.432",
+    "alcohol": "0",
+    "organicAcids": "0.049"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U724000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

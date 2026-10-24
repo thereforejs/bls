@@ -1,0 +1,44 @@
+{
+  "code": "U235132",
+  "name": {
+    "de": "Rind Hochrippe, gekocht",
+    "en": "Beef forerib/prime rib, boiled"
+  },
+  "per100g": {
+    "fat": "8.504",
+    "saturates": "3.819",
+    "monounsaturates": "3.887",
+    "polyunsaturates": "0.286",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.049",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U235132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

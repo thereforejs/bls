@@ -1,0 +1,44 @@
+{
+  "code": "G770400",
+  "name": {
+    "de": "Kichererbse reif",
+    "en": "Chick pea mature"
+  },
+  "per100g": {
+    "fat": "5.915",
+    "saturates": "0.918",
+    "monounsaturates": "1.53",
+    "polyunsaturates": "3.264",
+    "carbohydrate": "39.6",
+    "sugars": "2.411",
+    "starch": "37.2",
+    "polyols": null,
+    "fibre": "15.51",
+    "protein": "18.583",
+    "sodium": "0.023",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G770400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

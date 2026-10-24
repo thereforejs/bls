@@ -1,0 +1,44 @@
+{
+  "code": "X359440",
+  "name": {
+    "de": "Speck-Essigmarinade für Salat",
+    "en": "Bacon-vinegar marinade for salad"
+  },
+  "per100g": {
+    "fat": "38.02",
+    "saturates": "14.6",
+    "monounsaturates": "16.77",
+    "polyunsaturates": "4.41",
+    "carbohydrate": "0.92",
+    "sugars": "0.9",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "2.56",
+    "sodium": "1.186",
+    "alcohol": "0.018",
+    "organicAcids": "1.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X359440",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

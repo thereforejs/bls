@@ -1,0 +1,44 @@
+{
+  "code": "T106702",
+  "name": {
+    "de": "Sprotte in Öl, Konserve, abgetropft",
+    "en": "Sprat in oil, canned, drained"
+  },
+  "per100g": {
+    "fat": "19.4",
+    "saturates": "2.57",
+    "monounsaturates": "9.91",
+    "polyunsaturates": "5.1",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.278",
+    "sodium": "0.626",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T106702",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

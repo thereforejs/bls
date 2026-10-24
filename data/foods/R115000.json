@@ -1,0 +1,44 @@
+{
+  "code": "R115000",
+  "name": {
+    "de": "Gewürzsalz/Kräutersalz",
+    "en": "Seasoned salt/herb salt"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.11",
+    "monounsaturates": "0.06",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "3.3",
+    "sugars": "3.3",
+    "starch": "0",
+    "polyols": "0.02",
+    "fibre": "3.6",
+    "protein": "3",
+    "sodium": "32.458",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R115000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

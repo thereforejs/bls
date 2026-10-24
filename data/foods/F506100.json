@@ -1,0 +1,44 @@
+{
+  "code": "F506100",
+  "name": {
+    "de": "Granatapfel roh",
+    "en": "Pomegranate raw"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "16.1",
+    "sugars": "16.1",
+    "starch": null,
+    "polyols": null,
+    "fibre": "2.24",
+    "protein": "0.7",
+    "sodium": "0.002",
+    "alcohol": null,
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F506100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

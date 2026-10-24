@@ -1,0 +1,44 @@
+{
+  "code": "P153000",
+  "name": {
+    "de": "Altbier",
+    "en": "Dark beer (medium-gravity beer) top-fermented"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.284",
+    "sugars": "0.156",
+    "starch": "2.1275",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.502",
+    "sodium": "0.0016",
+    "alcohol": "4.038",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P153000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B6A4000",
+  "name": {
+    "de": "Mehrkornvollkornknäckebrot",
+    "en": "Multigrain wholemeal crispbread"
+  },
+  "per100g": {
+    "fat": "2.4",
+    "saturates": "0.39",
+    "monounsaturates": "0.57",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "60",
+    "sugars": "1.9",
+    "starch": "58",
+    "polyols": "0",
+    "fibre": "17.4",
+    "protein": "10.6",
+    "sodium": "0.482",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

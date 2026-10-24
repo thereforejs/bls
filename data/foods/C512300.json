@@ -1,0 +1,44 @@
+{
+  "code": "C512300",
+  "name": {
+    "de": "Müslimischung mit Trockenfrüchten, ungesüßt",
+    "en": "Muesli mix with dried fruit, unsweetened"
+  },
+  "per100g": {
+    "fat": "4.9",
+    "saturates": "1.2",
+    "monounsaturates": "1.46",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "55.9",
+    "sugars": "22.3",
+    "starch": "33.1",
+    "polyols": "0.467",
+    "fibre": "10.5",
+    "protein": "9",
+    "sodium": "0.016",
+    "alcohol": "0",
+    "organicAcids": "1.117"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C512300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

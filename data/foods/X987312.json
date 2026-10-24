@@ -1,0 +1,44 @@
+{
+  "code": "X987312",
+  "name": {
+    "de": "Pizzabaguette mit Tomaten und Käse überbacken",
+    "en": "Pizza baguette with tomatoes and cheese gratinated"
+  },
+  "per100g": {
+    "fat": "12.8",
+    "saturates": "7.9",
+    "monounsaturates": "3.6",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "21",
+    "sugars": "1.6",
+    "starch": "19",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "13.9",
+    "sodium": "0.347",
+    "alcohol": "0",
+    "organicAcids": "0.328"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X987312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W164000",
+  "name": {
+    "de": "Schinkenwurst roh",
+    "en": "Ham bologna raw"
+  },
+  "per100g": {
+    "fat": "33.11",
+    "saturates": "12.5",
+    "monounsaturates": "14.52",
+    "polyunsaturates": "3.85",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "21.84",
+    "sodium": "1.4",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W164000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

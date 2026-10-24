@@ -1,0 +1,44 @@
+{
+  "code": "U672800",
+  "name": {
+    "de": "Schwein Vordereisbein/Vorderhaxe, Kochpökelware",
+    "en": "Pork foreshank (hock) cooked cured"
+  },
+  "per100g": {
+    "fat": "8.2",
+    "saturates": "2.598",
+    "monounsaturates": "3.661",
+    "polyunsaturates": "0.7116",
+    "carbohydrate": "0.439",
+    "sugars": "0.439",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.74",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U672800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

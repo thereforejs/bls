@@ -1,0 +1,44 @@
+{
+  "code": "F503400",
+  "name": {
+    "de": "Banane getrocknet",
+    "en": "Banana dried"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.2701",
+    "monounsaturates": "0.086",
+    "polyunsaturates": "0.33587",
+    "carbohydrate": "58.9",
+    "sugars": "51.49",
+    "starch": "7.414",
+    "polyols": "0",
+    "fibre": "7.4",
+    "protein": "4.89",
+    "sodium": "0.00193",
+    "alcohol": "0",
+    "organicAcids": "2.109"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F503400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

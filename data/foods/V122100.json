@@ -1,0 +1,44 @@
+{
+  "code": "V122100",
+  "name": {
+    "de": "Ziege Fleisch, roh",
+    "en": "Goat meat, raw"
+  },
+  "per100g": {
+    "fat": "5.005",
+    "saturates": "1.597",
+    "monounsaturates": "1.529",
+    "polyunsaturates": "0.204",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.55",
+    "sodium": "0.064",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V122100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

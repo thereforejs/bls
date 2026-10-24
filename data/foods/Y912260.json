@@ -1,0 +1,44 @@
+{
+  "code": "Y912260",
+  "name": {
+    "de": "Frikadelle mit Bratkartoffeln aus rohen Kartoffeln und Tomatenketchup",
+    "en": "Meatball with fried potatoes (of raw potatoes) and tomato ketchup"
+  },
+  "per100g": {
+    "fat": "14.71",
+    "saturates": "2.43",
+    "monounsaturates": "6.42",
+    "polyunsaturates": "2.49",
+    "carbohydrate": "16.56",
+    "sugars": "1.37",
+    "starch": "15.19",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "8.02",
+    "sodium": "0.207",
+    "alcohol": "0",
+    "organicAcids": "0.041"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y912260",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

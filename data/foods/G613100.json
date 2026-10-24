@@ -1,0 +1,44 @@
+{
+  "code": "G613100",
+  "name": {
+    "de": "Rote Rübe/Rote Bete, roh",
+    "en": "Beetroot raw"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.02",
+    "monounsaturates": "0.0099",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "7.22",
+    "sugars": "7.22",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.5",
+    "protein": "2.063",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G613100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

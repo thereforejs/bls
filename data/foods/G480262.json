@@ -1,0 +1,44 @@
+{
+  "code": "G480262",
+  "name": {
+    "de": "Speisezwiebel tiefgefroren, gebacken",
+    "en": "Onion deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "0.196",
+    "saturates": "0.0329",
+    "monounsaturates": "0.0198",
+    "polyunsaturates": "0.0679",
+    "carbohydrate": "7.85",
+    "sugars": "7.85",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "1.511",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0.332"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

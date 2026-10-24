@@ -1,0 +1,44 @@
+{
+  "code": "X673122",
+  "name": {
+    "de": "Kartoffelklöße gebraten mit Eiermilch, mit Butterbröseln und Kompott aus Trockenfrüchten",
+    "en": "Potato dumplings fried with egg-milk mix, with buttered breadcrumbs and compote of dried fruit"
+  },
+  "per100g": {
+    "fat": "13.1",
+    "saturates": "2.51",
+    "monounsaturates": "5.73",
+    "polyunsaturates": "2.53",
+    "carbohydrate": "26.5",
+    "sugars": "12.5",
+    "starch": "13.5",
+    "polyols": "0.47",
+    "fibre": "2.53",
+    "protein": "5.47",
+    "sodium": "0.202",
+    "alcohol": "0",
+    "organicAcids": "0.85"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X673122",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

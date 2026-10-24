@@ -1,0 +1,44 @@
+{
+  "code": "Y843212",
+  "name": {
+    "de": "Johannisbeerkompott ungesüßt",
+    "en": "Red currant compote unsweetened"
+  },
+  "per100g": {
+    "fat": "0.157",
+    "saturates": "0.03",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.057",
+    "carbohydrate": "3.38",
+    "sugars": "3.38",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "2.7",
+    "protein": "1.13",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "1.862"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y843212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F130600",
+  "name": {
+    "de": "Birnensaft",
+    "en": "Pear juice"
+  },
+  "per100g": {
+    "fat": "0.232",
+    "saturates": "0.031",
+    "monounsaturates": "0.0517",
+    "polyunsaturates": "0.101",
+    "carbohydrate": "15.8",
+    "sugars": "13",
+    "starch": "0",
+    "polyols": "2.77",
+    "fibre": "0.3",
+    "protein": "0.27",
+    "sodium": "0.00975",
+    "alcohol": "0.057",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F130600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

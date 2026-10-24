@@ -1,0 +1,44 @@
+{
+  "code": "X554543",
+  "name": {
+    "de": "Paprika-Gurkengemüse gedünstet",
+    "en": "Sweet peppers and cucumbers stewed"
+  },
+  "per100g": {
+    "fat": "2.5",
+    "saturates": "0.2",
+    "monounsaturates": "1.33",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "4.54",
+    "sugars": "4.53",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.06",
+    "sodium": "0.09",
+    "alcohol": "0.001",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X554543",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

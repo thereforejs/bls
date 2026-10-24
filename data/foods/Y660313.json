@@ -1,0 +1,44 @@
+{
+  "code": "Y660313",
+  "name": {
+    "de": "Rotbarschfilet gedünstet, mit Tomatensauce (aus Tomatenmark)",
+    "en": "Redfish fillet stewed, in tomato sauce (of tomato paste)"
+  },
+  "per100g": {
+    "fat": "6.1",
+    "saturates": "0.77",
+    "monounsaturates": "3.02",
+    "polyunsaturates": "1.61",
+    "carbohydrate": "1",
+    "sugars": "1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "11.1",
+    "sodium": "0.22",
+    "alcohol": "0",
+    "organicAcids": "0.41"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y660313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

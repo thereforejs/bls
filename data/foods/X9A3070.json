@@ -1,0 +1,44 @@
+{
+  "code": "X9A3070",
+  "name": {
+    "de": "Pie (Mürbeteig) gefüllt mit Gemüse und Schweinehackfleisch, gebacken",
+    "en": "Pie (shortcrust pastry) filled with vegetables and pork mince, baked"
+  },
+  "per100g": {
+    "fat": "26.9",
+    "saturates": "14.3",
+    "monounsaturates": "7.21",
+    "polyunsaturates": "1.64",
+    "carbohydrate": "23.49",
+    "sugars": "1.34",
+    "starch": "21.98",
+    "polyols": "0.17",
+    "fibre": "2.2",
+    "protein": "9.1",
+    "sodium": "0.143",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3070",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

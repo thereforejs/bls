@@ -1,0 +1,44 @@
+{
+  "code": "K420192",
+  "name": {
+    "de": "Batate/Süßkartoffel, frittiert, gesalzen",
+    "en": "Batata/sweet potato, deep-fried, salted"
+  },
+  "per100g": {
+    "fat": "11.525",
+    "saturates": "0.74",
+    "monounsaturates": "5.91",
+    "polyunsaturates": "2.8",
+    "carbohydrate": "43.8",
+    "sugars": "9.5",
+    "starch": "33.828",
+    "polyols": "0.47",
+    "fibre": "5.458",
+    "protein": "2.833",
+    "sodium": "0.309",
+    "alcohol": "0",
+    "organicAcids": "0.000852"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K420192",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

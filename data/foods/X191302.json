@@ -1,0 +1,44 @@
+{
+  "code": "X191302",
+  "name": {
+    "de": "Gemüsesalat (gegart) mit Mayonnaise mit Essig",
+    "en": "Vegetable salad (cooked) with mayonnaise (with vinegar)"
+  },
+  "per100g": {
+    "fat": "13.93",
+    "saturates": "1.17",
+    "monounsaturates": "7.74",
+    "polyunsaturates": "3.74",
+    "carbohydrate": "3.4",
+    "sugars": "2.36",
+    "starch": "0.196",
+    "polyols": "0.8",
+    "fibre": "2.2",
+    "protein": "2",
+    "sodium": "0.18",
+    "alcohol": "0.002",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X191302",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

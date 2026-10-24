@@ -1,0 +1,44 @@
+{
+  "code": "Y780043",
+  "name": {
+    "de": "Brötchen mit Tilsiter und saurer Sahne überbacken",
+    "en": "Rolls gratinated with Tilsit cheese and sour cream"
+  },
+  "per100g": {
+    "fat": "19.5",
+    "saturates": "11.7",
+    "monounsaturates": "4.6",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "24.5",
+    "sugars": "1.9",
+    "starch": "22.633",
+    "polyols": "0",
+    "fibre": "1.601",
+    "protein": "17.58",
+    "sodium": "0.67",
+    "alcohol": "0",
+    "organicAcids": "0.485"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y780043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S231200",
+  "name": {
+    "de": "Speiseeis durchzogen mit Schokolade",
+    "en": "Ice cream streaked with chocolate"
+  },
+  "per100g": {
+    "fat": "12.59",
+    "saturates": "8.68",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.307",
+    "carbohydrate": "25.5",
+    "sugars": "21.2",
+    "starch": "4.3",
+    "polyols": "0",
+    "fibre": "1.32",
+    "protein": "2.85",
+    "sodium": "0.0378",
+    "alcohol": "0",
+    "organicAcids": "0.497"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S231200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X703012",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli, mit Hackfleischfüllung, in Tomatensauce von heller/weißer Grundsauce",
+    "en": "Fresh egg pasta Ravioli with minced meat filling, in tomato sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "4.1",
+    "saturates": "1.5",
+    "monounsaturates": "1.61",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "13",
+    "sugars": "1",
+    "starch": "12",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "5.5",
+    "sodium": "0.221",
+    "alcohol": "0",
+    "organicAcids": "0.069"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X703012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

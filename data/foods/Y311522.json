@@ -1,0 +1,44 @@
+{
+  "code": "Y311522",
+  "name": {
+    "de": "Schweinefilet gedünstet",
+    "en": "Pork fillet stewed"
+  },
+  "per100g": {
+    "fat": "9.5",
+    "saturates": "1.5",
+    "monounsaturates": "4.8",
+    "polyunsaturates": "2.06",
+    "carbohydrate": "1.76",
+    "sugars": "0.00648",
+    "starch": "1.75",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "23.43",
+    "sodium": "0.262",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y311522",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

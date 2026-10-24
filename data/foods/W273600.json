@@ -1,0 +1,44 @@
+{
+  "code": "W273600",
+  "name": {
+    "de": "Schweineroulade",
+    "en": "Pork roulade sausage"
+  },
+  "per100g": {
+    "fat": "14.71",
+    "saturates": "5.38",
+    "monounsaturates": "5.01",
+    "polyunsaturates": "1.73",
+    "carbohydrate": "0.17",
+    "sugars": "0.15",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "15.21",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W273600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

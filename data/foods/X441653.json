@@ -1,0 +1,44 @@
+{
+  "code": "X441653",
+  "name": {
+    "de": "Königinsuppe",
+    "en": "\"Königin\" soup"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "2.2",
+    "monounsaturates": "1.05",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "2.81",
+    "sugars": "0.65",
+    "starch": "2.16",
+    "polyols": "0",
+    "fibre": "0.16",
+    "protein": "3.5",
+    "sodium": "0.299",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X441653",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

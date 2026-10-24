@@ -1,0 +1,44 @@
+{
+  "code": "X436243",
+  "name": {
+    "de": "Schinkenklößchen",
+    "en": "Small ham dumplings"
+  },
+  "per100g": {
+    "fat": "4.51",
+    "saturates": "1.28",
+    "monounsaturates": "1.85",
+    "polyunsaturates": "0.86",
+    "carbohydrate": "18.22",
+    "sugars": "2.38",
+    "starch": "15.842",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "9.41",
+    "sodium": "0.333",
+    "alcohol": "0",
+    "organicAcids": "0.227"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X436243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

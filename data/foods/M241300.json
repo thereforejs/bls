@@ -1,0 +1,46 @@
+{
+  "code": "M241300",
+  "name": {
+    "de": "Joghurt mild, max. 3,8 % Fett, mit Fruchtzubereitung, gesüßt",
+    "en": "Yogurt mild, max. 3.8 % fat, with fruit preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "2.96",
+    "saturates": "1.917",
+    "monounsaturates": "0.767",
+    "polyunsaturates": "0.0976",
+    "carbohydrate": "13",
+    "sugars": "12.1",
+    "starch": "0.79",
+    "polyols": "0.08",
+    "fibre": "1.15",
+    "protein": "3.01",
+    "sodium": "0.0416",
+    "alcohol": null,
+    "organicAcids": "1.101"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M241300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

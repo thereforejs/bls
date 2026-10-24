@@ -1,0 +1,44 @@
+{
+  "code": "T420162",
+  "name": {
+    "de": "Forelle gebraten ohne Fett (Ofen)",
+    "en": "Trout fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "9.2",
+    "saturates": "1.738",
+    "monounsaturates": "3.889",
+    "polyunsaturates": "4.242",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "28.047",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.658"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T420162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

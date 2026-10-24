@@ -1,0 +1,44 @@
+{
+  "code": "G542152",
+  "name": {
+    "de": "Gemüsepaprika gelb, gedünstet",
+    "en": "Sweet pepper yellow, stewed"
+  },
+  "per100g": {
+    "fat": "0.217",
+    "saturates": "0.0556",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.0927",
+    "carbohydrate": "4.807",
+    "sugars": "4.807",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.391",
+    "protein": "0.87",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G542152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G331152",
+  "name": {
+    "de": "Kohlrabi gedünstet",
+    "en": "Kohlrabi stewed"
+  },
+  "per100g": {
+    "fat": "0.168",
+    "saturates": "0.029",
+    "monounsaturates": "0.0145",
+    "polyunsaturates": "0.074",
+    "carbohydrate": "4.09",
+    "sugars": "3.899",
+    "starch": "0",
+    "polyols": "0.15",
+    "fibre": "1.6",
+    "protein": "2.042",
+    "sodium": "0.021",
+    "alcohol": "0",
+    "organicAcids": "0.331"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G331152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y881153",
+  "name": {
+    "de": "Vanillequark",
+    "en": "Vanilla quark"
+  },
+  "per100g": {
+    "fat": "6.54",
+    "saturates": "3.556",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "0.165",
+    "carbohydrate": "11.84",
+    "sugars": "11.84",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "7.58",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.525"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y881153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

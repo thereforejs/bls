@@ -1,0 +1,44 @@
+{
+  "code": "M2A6100",
+  "name": {
+    "de": "Milchmischgetränk < 1 % Fett, mit Kakao/Schoko, Zucker und Süßungsmitteln",
+    "en": "Milk drink < 1 % fat, with cocoa/chocolate, sugar and artificial sweeteners"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.2",
+    "monounsaturates": "0.1",
+    "polyunsaturates": "0.00041",
+    "carbohydrate": "7.2",
+    "sugars": "7.116",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.356",
+    "protein": "3.174",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2A6100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

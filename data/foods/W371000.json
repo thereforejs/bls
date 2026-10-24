@@ -1,0 +1,44 @@
+{
+  "code": "W371000",
+  "name": {
+    "de": "Kalbfleischsülze",
+    "en": "Jellied veal"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "1.694",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.183",
+    "carbohydrate": "0.02",
+    "sugars": "0",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "11.9",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W371000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

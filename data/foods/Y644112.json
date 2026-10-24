@@ -1,0 +1,44 @@
+{
+  "code": "Y644112",
+  "name": {
+    "de": "Renke pochiert (ohne Sauce)",
+    "en": "Whitefish poached (without sauce)"
+  },
+  "per100g": {
+    "fat": "2.5",
+    "saturates": "0.539",
+    "monounsaturates": "1.114",
+    "polyunsaturates": "0.778",
+    "carbohydrate": "0.142",
+    "sugars": "0.142",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.011",
+    "protein": "14.918",
+    "sodium": "0.156",
+    "alcohol": "0",
+    "organicAcids": "0.94"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y644112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

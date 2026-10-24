@@ -1,0 +1,44 @@
+{
+  "code": "X5A8010",
+  "name": {
+    "de": "Grüne Erbsen in Sahne gedünstet",
+    "en": "Green peas stewed in cream"
+  },
+  "per100g": {
+    "fat": "11.893",
+    "saturates": "3.94",
+    "monounsaturates": "4.57",
+    "polyunsaturates": "1.76",
+    "carbohydrate": "10.956",
+    "sugars": "1.835",
+    "starch": "9.121",
+    "polyols": "0",
+    "fibre": "4.2",
+    "protein": "5.4",
+    "sodium": "0.166",
+    "alcohol": "0",
+    "organicAcids": "0.261"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A8010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

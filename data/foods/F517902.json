@@ -1,0 +1,44 @@
+{
+  "code": "F517902",
+  "name": {
+    "de": "Papaya gezuckert, Konserve, abgetropft",
+    "en": "Papaya sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.079",
+    "saturates": "0.024",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.017",
+    "carbohydrate": "13.2",
+    "sugars": "13.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "0.5",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F517902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

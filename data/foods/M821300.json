@@ -1,0 +1,44 @@
+{
+  "code": "M821300",
+  "name": {
+    "de": "Dessert aus Joghurt mild, Frischkäse und Fruchtzubereitung, gesüßt",
+    "en": "Dessert with yogurt mild, cream cheese and fruit preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "3.82",
+    "saturates": "2.17",
+    "monounsaturates": "0.974",
+    "polyunsaturates": "0.131",
+    "carbohydrate": "13",
+    "sugars": "12",
+    "starch": "1.002",
+    "polyols": "0.006",
+    "fibre": "0.2",
+    "protein": "4.87",
+    "sodium": "0.025",
+    "alcohol": "0",
+    "organicAcids": "0.68"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M821300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

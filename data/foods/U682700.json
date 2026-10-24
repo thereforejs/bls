@@ -1,0 +1,47 @@
+{
+  "code": "U682700",
+  "name": {
+    "de": "Schwein Rohschinken, mit Fettrand, Rohpökelware, geräuchert",
+    "en": "Pork ham raw, with fat, raw cured, smoked"
+  },
+  "per100g": {
+    "fat": "18.85",
+    "saturates": "6.738",
+    "monounsaturates": "8.131",
+    "polyunsaturates": "1.907",
+    "carbohydrate": "0.14",
+    "sugars": "0.13",
+    "starch": null,
+    "polyols": "0.006",
+    "fibre": "0.03",
+    "protein": "24.05",
+    "sodium": "1.855",
+    "alcohol": null,
+    "organicAcids": "1.11"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U682700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

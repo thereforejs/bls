@@ -1,0 +1,44 @@
+{
+  "code": "X095540",
+  "name": {
+    "de": "Frischkornbrei gesüßt, mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Fresh-grain porridge sweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.87",
+    "monounsaturates": "0.42",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "15.6",
+    "sugars": "5.52",
+    "starch": "9.9",
+    "polyols": "0.1",
+    "fibre": "2.6",
+    "protein": "3.33",
+    "sodium": "0.015",
+    "alcohol": "0.01",
+    "organicAcids": "0.56"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X095540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

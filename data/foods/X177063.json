@@ -1,0 +1,44 @@
+{
+  "code": "X177063",
+  "name": {
+    "de": "Kichererbsensalat (gegart) mit warmer Essigmarinade",
+    "en": "Chickpea salad (cooked) with warm vinegar marinade"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.3",
+    "monounsaturates": "1.32",
+    "polyunsaturates": "1.33",
+    "carbohydrate": "11.7",
+    "sugars": "2.28",
+    "starch": "9.4",
+    "polyols": "0",
+    "fibre": "4.7",
+    "protein": "5.15",
+    "sodium": "0.075",
+    "alcohol": "0.003",
+    "organicAcids": "0.41"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X177063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

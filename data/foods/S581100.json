@@ -1,0 +1,46 @@
+{
+  "code": "S581100",
+  "name": {
+    "de": "Milchschokoladen-Riegel gefüllt mit Karamell, gerösteten Erdnüssen und Candycreme",
+    "en": "Milk chocolate bar filled with caramel, roasted peanuts and soft nougat"
+  },
+  "per100g": {
+    "fat": "25.48",
+    "saturates": "14.835",
+    "monounsaturates": "4.945",
+    "polyunsaturates": "4.425",
+    "carbohydrate": "54.96",
+    "sugars": "45.54",
+    "starch": "9.1",
+    "polyols": "0.316",
+    "fibre": "4.22",
+    "protein": "9.08",
+    "sodium": "0.261",
+    "alcohol": null,
+    "organicAcids": "0.268"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S581100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

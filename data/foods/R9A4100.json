@@ -1,0 +1,44 @@
+{
+  "code": "R9A4100",
+  "name": {
+    "de": "Schokobuttercreme gestreckt, für Gebäck/Torten",
+    "en": "Chocolate butter cream, egg-free, light, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "29.3",
+    "saturates": "18.6",
+    "monounsaturates": "6.7",
+    "polyunsaturates": "0.643",
+    "carbohydrate": "17.9",
+    "sugars": "14.8",
+    "starch": "3.1",
+    "polyols": "0",
+    "fibre": "1.16",
+    "protein": "2.94",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.054"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A4100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

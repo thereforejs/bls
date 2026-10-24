@@ -1,0 +1,44 @@
+{
+  "code": "X0A3010",
+  "name": {
+    "de": "Knuspermüsli (Granola) gesüßt, mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Crunchy muesli (granola) sweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "2.2",
+    "monounsaturates": "1.63",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "12.8",
+    "sugars": "7.5",
+    "starch": "5.2",
+    "polyols": "0.1",
+    "fibre": "1.9",
+    "protein": "4.6",
+    "sodium": "0.026",
+    "alcohol": "0.01",
+    "organicAcids": "0.91"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

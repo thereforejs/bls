@@ -1,0 +1,44 @@
+{
+  "code": "Y7A2040",
+  "name": {
+    "de": "Schafskäse (Feta) mit Tomaten und Oliven gebacken",
+    "en": "Sheep's milk cheese baked with tomatoes and olives"
+  },
+  "per100g": {
+    "fat": "17.9",
+    "saturates": "9.23",
+    "monounsaturates": "5.51",
+    "polyunsaturates": "1.78",
+    "carbohydrate": "1.71",
+    "sugars": "1.68",
+    "starch": "0.01",
+    "polyols": "0.02",
+    "fibre": "0.6",
+    "protein": "9.1",
+    "sodium": "0.617",
+    "alcohol": "0",
+    "organicAcids": "0.93"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y7A2040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

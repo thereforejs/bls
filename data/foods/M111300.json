@@ -1,0 +1,47 @@
+{
+  "code": "M111300",
+  "name": {
+    "de": "Vollmilch frisch, 3,5 % Fett, pasteurisiert",
+    "en": "Whole milk, fresh, 3.5 % fat, pasteurised"
+  },
+  "per100g": {
+    "fat": "3.49",
+    "saturates": "2.209",
+    "monounsaturates": "0.777",
+    "polyunsaturates": "0.068",
+    "carbohydrate": "4.03",
+    "sugars": "4.03",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.55",
+    "sodium": "0.0349",
+    "alcohol": null,
+    "organicAcids": "0.059"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M111300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

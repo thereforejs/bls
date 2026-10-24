@@ -1,0 +1,44 @@
+{
+  "code": "M208000",
+  "name": {
+    "de": "Milchmischgetränk 3,5 % Fett, mit Kaffee, gesüßt",
+    "en": "Milk drink 3.5 % fat, with coffee, sweetened"
+  },
+  "per100g": {
+    "fat": "3.72",
+    "saturates": "2.238",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.079",
+    "carbohydrate": "7.92",
+    "sugars": "7.92",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.05342",
+    "protein": "2.75",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.049"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M208000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

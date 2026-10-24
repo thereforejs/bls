@@ -1,0 +1,44 @@
+{
+  "code": "D540100",
+  "name": {
+    "de": "Wiener Apfelstrudel (Strudelteig)",
+    "en": "Viennese apple strudel (strudel dough)"
+  },
+  "per100g": {
+    "fat": "11.6",
+    "saturates": "4.6",
+    "monounsaturates": "4.27",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "34.5",
+    "sugars": "18.2",
+    "starch": "15.69",
+    "polyols": "0.61",
+    "fibre": "3.5",
+    "protein": "3.7",
+    "sodium": "0.045",
+    "alcohol": "0.004",
+    "organicAcids": "0.53"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D540100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F516400",
+  "name": {
+    "de": "Mango getrocknet",
+    "en": "Mango dried"
+  },
+  "per100g": {
+    "fat": "2.44",
+    "saturates": "0.548",
+    "monounsaturates": "0.987",
+    "polyunsaturates": "0.412",
+    "carbohydrate": "65",
+    "sugars": "59.8",
+    "starch": "5",
+    "polyols": "0",
+    "fibre": "9.2",
+    "protein": "3.8",
+    "sodium": "0.049",
+    "alcohol": null,
+    "organicAcids": "2.272"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F516400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

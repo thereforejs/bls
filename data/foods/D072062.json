@@ -1,0 +1,44 @@
+{
+  "code": "D072062",
+  "name": {
+    "de": "Blätterteig eifrei, gebacken",
+    "en": "Puff pastry egg-free, baked"
+  },
+  "per100g": {
+    "fat": "42.36",
+    "saturates": "16.98",
+    "monounsaturates": "18.47",
+    "polyunsaturates": "6.4",
+    "carbohydrate": "37.7",
+    "sugars": "0.16125",
+    "starch": "37.54",
+    "polyols": "0",
+    "fibre": "2.79",
+    "protein": "5.5",
+    "sodium": "0.209",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D072062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

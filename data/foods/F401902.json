@@ -1,0 +1,44 @@
+{
+  "code": "F401902",
+  "name": {
+    "de": "Preiselbeere gezuckert, Konserve, abgetropft",
+    "en": "Lingonberry sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.448",
+    "saturates": "0.055",
+    "monounsaturates": "0.041",
+    "polyunsaturates": "0.103",
+    "carbohydrate": "38.326",
+    "sugars": "38.292",
+    "starch": "0.033",
+    "polyols": "0.001",
+    "fibre": "1.313",
+    "protein": "0.733",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F401902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U452800",
+  "name": {
+    "de": "Kalb Brust, Rohpökelware",
+    "en": "Veal breast, raw cured"
+  },
+  "per100g": {
+    "fat": "12.702",
+    "saturates": "5.317",
+    "monounsaturates": "4.769",
+    "polyunsaturates": "0.827",
+    "carbohydrate": "0.471",
+    "sugars": "0.471",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.326",
+    "sodium": "1.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U452800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

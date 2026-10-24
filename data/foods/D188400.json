@@ -1,0 +1,44 @@
+{
+  "code": "D188400",
+  "name": {
+    "de": "Apfelkuchen gedeckt mit Mandelbelag (Mürbeteig)",
+    "en": "Apple cake with bee sting cake topping (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "12.1",
+    "saturates": "5.91",
+    "monounsaturates": "3.75",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "29.91",
+    "sugars": "18.5",
+    "starch": "10.98",
+    "polyols": "0.42",
+    "fibre": "2.3",
+    "protein": "3.67",
+    "sodium": "0.015",
+    "alcohol": "0.001",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D188400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

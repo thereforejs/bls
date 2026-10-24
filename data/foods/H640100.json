@@ -1,0 +1,44 @@
+{
+  "code": "H640100",
+  "name": {
+    "de": "Alfalfasprossen/Alfalfakeimlinge, roh",
+    "en": "Lucerne/alfalfa sprouts, raw"
+  },
+  "per100g": {
+    "fat": "0.69",
+    "saturates": "0.069",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "0.3",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": null,
+    "fibre": "2.8",
+    "protein": "4",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H640100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

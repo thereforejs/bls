@@ -1,0 +1,44 @@
+{
+  "code": "H910300",
+  "name": {
+    "de": "Vegetarische Bratwurst (aus Tofu und Weizenprotein)",
+    "en": "Vegetarian bratwurst (made from tofu and wheat protein)"
+  },
+  "per100g": {
+    "fat": "9.79",
+    "saturates": "1.363",
+    "monounsaturates": "4.22",
+    "polyunsaturates": "3.42",
+    "carbohydrate": "5.31",
+    "sugars": "2.66",
+    "starch": "2.65",
+    "polyols": "0",
+    "fibre": "5.47",
+    "protein": "18.38",
+    "sodium": "0.6852",
+    "alcohol": "0",
+    "organicAcids": "0.483"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H910300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

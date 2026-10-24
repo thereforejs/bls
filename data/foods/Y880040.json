@@ -1,0 +1,44 @@
+{
+  "code": "Y880040",
+  "name": {
+    "de": "Quarkspeise einfach, mit Schokolade",
+    "en": "Quark dish simple, with chocolate"
+  },
+  "per100g": {
+    "fat": "2.77",
+    "saturates": "1.72",
+    "monounsaturates": "0.76",
+    "polyunsaturates": "0.084",
+    "carbohydrate": "15.01",
+    "sugars": "14.9",
+    "starch": "0.106",
+    "polyols": "0",
+    "fibre": "0.32",
+    "protein": "7.47",
+    "sodium": "0.031",
+    "alcohol": "0",
+    "organicAcids": "0.584"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y880040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X744263",
+  "name": {
+    "de": "Eierteigwaren gebraten mit Steinpilzen und Tomaten",
+    "en": "Egg pasta fried with porcini mushrooms and tomatoes"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "0.3",
+    "monounsaturates": "1.04",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "17",
+    "sugars": "1",
+    "starch": "16",
+    "polyols": "0.49",
+    "fibre": "2.2",
+    "protein": "4.4",
+    "sodium": "0.145",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X744263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

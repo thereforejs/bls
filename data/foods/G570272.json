@@ -1,0 +1,44 @@
+{
+  "code": "G570272",
+  "name": {
+    "de": "Zuckermais tiefgefroren, gegrillt",
+    "en": "Sweetcorn deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "1.47",
+    "saturates": "0.197",
+    "monounsaturates": "0.375",
+    "polyunsaturates": "0.605",
+    "carbohydrate": "11.3",
+    "sugars": "4.07",
+    "starch": "6.7",
+    "polyols": "0.54",
+    "fibre": "3.3",
+    "protein": "3.5",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G570272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

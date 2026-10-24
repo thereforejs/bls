@@ -1,0 +1,44 @@
+{
+  "code": "Y302113",
+  "name": {
+    "de": "Kasseler Rippenspeer gebraten im Ofen, mit Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Pork loin spare ribs cured, fried in oven, with cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "2.2",
+    "monounsaturates": "3.2",
+    "polyunsaturates": "1.02",
+    "carbohydrate": "2.98",
+    "sugars": "0.46",
+    "starch": "2.52",
+    "polyols": "0",
+    "fibre": "0.19",
+    "protein": "12.44",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y302113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

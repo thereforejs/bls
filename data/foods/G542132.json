@@ -1,0 +1,44 @@
+{
+  "code": "G542132",
+  "name": {
+    "de": "Gemüsepaprika gelb, gekocht",
+    "en": "Sweet pepper yellow, boiled"
+  },
+  "per100g": {
+    "fat": "0.202",
+    "saturates": "0.0517",
+    "monounsaturates": "0.003",
+    "polyunsaturates": "0.0863",
+    "carbohydrate": "4.471",
+    "sugars": "4.471",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.299",
+    "protein": "0.809",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G542132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

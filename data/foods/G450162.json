@@ -1,0 +1,44 @@
+{
+  "code": "G450162",
+  "name": {
+    "de": "Spargel gebacken",
+    "en": "Asparagus baked"
+  },
+  "per100g": {
+    "fat": "0.184",
+    "saturates": "0.0329",
+    "monounsaturates": "0.00684",
+    "polyunsaturates": "0.088",
+    "carbohydrate": "4.69",
+    "sugars": "4.47",
+    "starch": "0.107",
+    "polyols": "0.11",
+    "fibre": "1.6",
+    "protein": "2.306",
+    "sodium": "0.00252",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G450162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

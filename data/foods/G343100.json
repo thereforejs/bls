@@ -1,0 +1,44 @@
+{
+  "code": "G343100",
+  "name": {
+    "de": "Wirsing roh",
+    "en": "Savoy cabbage raw"
+  },
+  "per100g": {
+    "fat": "0.32",
+    "saturates": "0.057",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.192",
+    "carbohydrate": "4.1",
+    "sugars": "3.5",
+    "starch": "0.49",
+    "polyols": "0.13",
+    "fibre": "2.8",
+    "protein": "2.779",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.267"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G343100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

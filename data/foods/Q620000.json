@@ -1,0 +1,44 @@
+{
+  "code": "Q620000",
+  "name": {
+    "de": "Sauerrahmbutter",
+    "en": "Cultured butter"
+  },
+  "per100g": {
+    "fat": "82.2",
+    "saturates": "52.649",
+    "monounsaturates": "17.68",
+    "polyunsaturates": "1.777",
+    "carbohydrate": "0.571",
+    "sugars": "0.571",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "1.188",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.0892"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q620000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

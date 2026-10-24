@@ -1,0 +1,44 @@
+{
+  "code": "N259000",
+  "name": {
+    "de": "Erfrischungsgetränk isotonisch, gesüßt, angereichert mit Vitaminen und Mineralstoffen",
+    "en": "Isotonic beverage, sweetened, fortified with vitamins and minerals"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.006",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.015",
+    "carbohydrate": "4.2",
+    "sugars": "4.2",
+    "starch": "0",
+    "polyols": "0.035",
+    "fibre": "0.036",
+    "protein": "0.071",
+    "sodium": "0.005",
+    "alcohol": "0.003",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N259000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

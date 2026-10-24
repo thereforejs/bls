@@ -1,0 +1,44 @@
+{
+  "code": "D705200",
+  "name": {
+    "de": "Aprikosen im Ausbackteig frittiert",
+    "en": "Apricots in frying batter deep-fried"
+  },
+  "per100g": {
+    "fat": "12.1",
+    "saturates": "4.2",
+    "monounsaturates": "4.6",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "18",
+    "sugars": "6.05",
+    "starch": "11.53",
+    "polyols": "0.423",
+    "fibre": "1.68",
+    "protein": "3.9",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D705200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

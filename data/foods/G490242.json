@@ -1,0 +1,44 @@
+{
+  "code": "G490242",
+  "name": {
+    "de": "Knoblauch tiefgefroren, geschmort ohne Fett",
+    "en": "Garlic deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.578",
+    "saturates": "0.088",
+    "monounsaturates": "0.017",
+    "polyunsaturates": "0.235",
+    "carbohydrate": "4",
+    "sugars": "2.8",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "39.301",
+    "protein": "8.318",
+    "sodium": "0.0108182",
+    "alcohol": "0",
+    "organicAcids": "0.309"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

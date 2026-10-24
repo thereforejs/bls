@@ -1,0 +1,44 @@
+{
+  "code": "X3A8000",
+  "name": {
+    "de": "Essigmarinade warm, für gekochte Salate",
+    "en": "Vinegar marinade warm, for cooked salad"
+  },
+  "per100g": {
+    "fat": "14.2",
+    "saturates": "1.1",
+    "monounsaturates": "8.17",
+    "polyunsaturates": "3.87",
+    "carbohydrate": "0.77",
+    "sugars": "0.75",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "0.16",
+    "sodium": "0.35",
+    "alcohol": "0.03",
+    "organicAcids": "2.88"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A8000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

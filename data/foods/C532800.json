@@ -1,0 +1,44 @@
+{
+  "code": "C532800",
+  "name": {
+    "de": "Reiswaffeln gesalzen",
+    "en": "Puffed rice waffles salted"
+  },
+  "per100g": {
+    "fat": "2.89",
+    "saturates": "0.49",
+    "monounsaturates": "1.008",
+    "polyunsaturates": "0.967",
+    "carbohydrate": "76.48",
+    "sugars": "0.43",
+    "starch": "76.05",
+    "polyols": "0",
+    "fibre": "3.69",
+    "protein": "8.1",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C532800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

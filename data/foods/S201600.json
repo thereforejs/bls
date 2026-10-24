@@ -1,0 +1,44 @@
+{
+  "code": "S201600",
+  "name": {
+    "de": "Speiseeis Karamell, in Waffeltüte",
+    "en": "Caramel ice cream, in waffle cone"
+  },
+  "per100g": {
+    "fat": "9.94",
+    "saturates": "4.73",
+    "monounsaturates": "2.99",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "26.4",
+    "sugars": "20.8",
+    "starch": "5.64",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "4.5",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S201600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

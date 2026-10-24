@@ -1,0 +1,44 @@
+{
+  "code": "X891133",
+  "name": {
+    "de": "Nasi Goreng (Reis gebraten mit Gemüse und Schweinefleisch)",
+    "en": "Nasi Goreng (rice fried with vegetables and pork)"
+  },
+  "per100g": {
+    "fat": "1",
+    "saturates": "0.27",
+    "monounsaturates": "0.32",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "14",
+    "sugars": "1.7",
+    "starch": "12",
+    "polyols": "0.001",
+    "fibre": "2",
+    "protein": "10.2",
+    "sodium": "0.199",
+    "alcohol": "0.01",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X891133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

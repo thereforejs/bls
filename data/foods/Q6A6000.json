@@ -1,0 +1,44 @@
+{
+  "code": "Q6A6000",
+  "name": {
+    "de": "Joghurtbutter",
+    "en": "Butter with yogurt"
+  },
+  "per100g": {
+    "fat": "66.19",
+    "saturates": "42.4",
+    "monounsaturates": "14.242",
+    "polyunsaturates": "1.42",
+    "carbohydrate": "1.59",
+    "sugars": "1.59",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "1.98",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.238"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q6A6000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

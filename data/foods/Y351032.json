@@ -1,0 +1,44 @@
+{
+  "code": "Y351032",
+  "name": {
+    "de": "Schweineroulade geschmort, ohne Sauce",
+    "en": "Pork olive braised, without sauce"
+  },
+  "per100g": {
+    "fat": "8.95",
+    "saturates": "1.7",
+    "monounsaturates": "4.43",
+    "polyunsaturates": "1.68",
+    "carbohydrate": "1.62",
+    "sugars": "1.59",
+    "starch": "0.03",
+    "polyols": "0.002",
+    "fibre": "0.5",
+    "protein": "23.52",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.187"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y351032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

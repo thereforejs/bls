@@ -1,0 +1,44 @@
+{
+  "code": "Y8A5020",
+  "name": {
+    "de": "Pannacotta",
+    "en": "Pannacotta"
+  },
+  "per100g": {
+    "fat": "30.9",
+    "saturates": "16.434",
+    "monounsaturates": "8.062",
+    "polyunsaturates": "0.775",
+    "carbohydrate": "9.545",
+    "sugars": "9.545",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.4",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0.142"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A5020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D652300",
+  "name": {
+    "de": "Pfeffernüsse",
+    "en": "\"Pfeffernusse\" spiced gingerbread biscuits with sugar icing"
+  },
+  "per100g": {
+    "fat": "4.48",
+    "saturates": "0.79",
+    "monounsaturates": "2.16",
+    "polyunsaturates": "1",
+    "carbohydrate": "78.6",
+    "sugars": "39.2",
+    "starch": "39.4",
+    "polyols": "0",
+    "fibre": "3.6",
+    "protein": "8.85",
+    "sodium": "0.163",
+    "alcohol": "0",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D652300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

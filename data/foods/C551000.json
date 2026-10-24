@@ -1,0 +1,44 @@
+{
+  "code": "C551000",
+  "name": {
+    "de": "Weizenkleber/Weizengluten",
+    "en": "Gluten (from wheat)"
+  },
+  "per100g": {
+    "fat": "1.85",
+    "saturates": "0.23",
+    "monounsaturates": "0.21",
+    "polyunsaturates": "0.88",
+    "carbohydrate": "13.46",
+    "sugars": "13.46",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "80.6",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C551000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

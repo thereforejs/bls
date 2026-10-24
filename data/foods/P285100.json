@@ -1,0 +1,44 @@
+{
+  "code": "P285100",
+  "name": {
+    "de": "Weißwein-Schorle, süß, mit Zitronenlimonade",
+    "en": "White wine spritzer with carbonated lemonade"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "4.7",
+    "sugars": "4.7",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0",
+    "protein": "0.051",
+    "sodium": "0.005",
+    "alcohol": "4.43",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P285100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

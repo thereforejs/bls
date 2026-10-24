@@ -1,0 +1,44 @@
+{
+  "code": "V465142",
+  "name": {
+    "de": "Ente Schenkel, mit Haut, geschmort ohne Fett",
+    "en": "Duck leg, with skin, braised without fat"
+  },
+  "per100g": {
+    "fat": "11.22",
+    "saturates": "3.73",
+    "monounsaturates": "5.32",
+    "polyunsaturates": "1.45",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.68",
+    "sodium": "0.064",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V465142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

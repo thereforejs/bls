@@ -1,0 +1,44 @@
+{
+  "code": "K241232",
+  "name": {
+    "de": "Kartoffelkloß halb und halb, tiefgefroren, gargezogen",
+    "en": "Potato dumpling half and half, deep-frozen, poached"
+  },
+  "per100g": {
+    "fat": "0.86",
+    "saturates": "0.23",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.16",
+    "carbohydrate": "18.18",
+    "sugars": "0.565",
+    "starch": "17.61",
+    "polyols": "0",
+    "fibre": "1.67",
+    "protein": "3.45",
+    "sodium": "0.025",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K241232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

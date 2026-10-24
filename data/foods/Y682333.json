@@ -1,0 +1,44 @@
+{
+  "code": "Y682333",
+  "name": {
+    "de": "Hummer gegart, in Currysauce von heller/weißer Grundsauce",
+    "en": "Lobster cooked, in curry sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "4.1",
+    "saturates": "1.4",
+    "monounsaturates": "1.14",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "1.37",
+    "sugars": "0.24",
+    "starch": "1.13",
+    "polyols": "0",
+    "fibre": "0.21",
+    "protein": "10.07",
+    "sodium": "0.38",
+    "alcohol": "0.55",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y682333",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

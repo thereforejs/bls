@@ -1,0 +1,44 @@
+{
+  "code": "G210252",
+  "name": {
+    "de": "Spinat tiefgefroren, gedünstet",
+    "en": "Spinach deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.376",
+    "saturates": "0.039",
+    "monounsaturates": "0.019",
+    "polyunsaturates": "0.203",
+    "carbohydrate": "1.16",
+    "sugars": "0.93",
+    "starch": "0.229",
+    "polyols": "0",
+    "fibre": "2.3",
+    "protein": "2.754",
+    "sodium": "0.063",
+    "alcohol": "0",
+    "organicAcids": "0.077"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G210252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

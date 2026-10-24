@@ -1,0 +1,44 @@
+{
+  "code": "G090182",
+  "name": {
+    "de": "Gemüsemischung Kaisergemüse, gebraten ohne Fett (Pfanne)",
+    "en": "Mixed vegetables (carrots, cauliflower and broccoli florets) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.637",
+    "saturates": "0.127",
+    "monounsaturates": "0.0734",
+    "polyunsaturates": "0.237",
+    "carbohydrate": "6.9",
+    "sugars": "4.89",
+    "starch": "0.416",
+    "polyols": "1.6",
+    "fibre": "4.3",
+    "protein": "3.446",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G090182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W258000",
+  "name": {
+    "de": "Touristenwurst einfach, gebrüht",
+    "en": "Touristenwurst sausage simple, scalded"
+  },
+  "per100g": {
+    "fat": "16.34",
+    "saturates": "6.04",
+    "monounsaturates": "6.31",
+    "polyunsaturates": "1.57",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "16.33",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W258000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

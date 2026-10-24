@@ -1,0 +1,44 @@
+{
+  "code": "P163100",
+  "name": {
+    "de": "Pilsner Bier, alkoholfrei",
+    "en": "Pilsner beer alcohol-free"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.7",
+    "sugars": "1.6",
+    "starch": "2.079",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.416",
+    "sodium": "0.0015",
+    "alcohol": "0.214",
+    "organicAcids": "0.035"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P163100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X450013",
+  "name": {
+    "de": "Kartoffel-Lauchcremesuppe mit Speck",
+    "en": "Cream of potato-leek soup with bacon"
+  },
+  "per100g": {
+    "fat": "3.9",
+    "saturates": "1",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.59",
+    "carbohydrate": "9",
+    "sugars": "1.5",
+    "starch": "7",
+    "polyols": "0.002",
+    "fibre": "0.6",
+    "protein": "2.22",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.033"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X450013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

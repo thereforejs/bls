@@ -1,0 +1,44 @@
+{
+  "code": "X536063",
+  "name": {
+    "de": "Rosenkohl gedünstet, mit zerlassener Butter",
+    "en": "Brussels sprouts stewed, with melted butter"
+  },
+  "per100g": {
+    "fat": "6.8",
+    "saturates": "2.1",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "1.18",
+    "carbohydrate": "1.84",
+    "sugars": "1.35",
+    "starch": "0.35",
+    "polyols": "0.14",
+    "fibre": "3.1",
+    "protein": "3.27",
+    "sodium": "0.109",
+    "alcohol": "0",
+    "organicAcids": "0.458"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X536063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

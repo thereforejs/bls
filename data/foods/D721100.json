@@ -1,0 +1,44 @@
+{
+  "code": "D721100",
+  "name": {
+    "de": "Eberswalder Spritzkuchen (Brandmasse) frittiert",
+    "en": "\"Eberswalder\" french crullers (choux pastry) deep-fried"
+  },
+  "per100g": {
+    "fat": "16.3",
+    "saturates": "7.4",
+    "monounsaturates": "5",
+    "polyunsaturates": "2",
+    "carbohydrate": "50.3",
+    "sugars": "36",
+    "starch": "14.3",
+    "polyols": "0",
+    "fibre": "0.89",
+    "protein": "5.88",
+    "sodium": "0.088",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D721100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

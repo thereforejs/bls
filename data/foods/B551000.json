@@ -1,0 +1,44 @@
+{
+  "code": "B551000",
+  "name": {
+    "de": "Weizenmischbrötchen",
+    "en": "Wheat-rye roll (> 50 % and < 90 % wheat)"
+  },
+  "per100g": {
+    "fat": "2.72",
+    "saturates": "0.85",
+    "monounsaturates": "0.94",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "54",
+    "sugars": "1.7",
+    "starch": "52",
+    "polyols": "0",
+    "fibre": "6.06",
+    "protein": "8.8",
+    "sodium": "0.584",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B551000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

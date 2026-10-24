@@ -1,0 +1,44 @@
+{
+  "code": "Y845163",
+  "name": {
+    "de": "Bratapfel ungefüllt gebacken",
+    "en": "Baked apple unfilled"
+  },
+  "per100g": {
+    "fat": "6.2",
+    "saturates": "4.057",
+    "monounsaturates": "1.285",
+    "polyunsaturates": "0.462",
+    "carbohydrate": "19.3",
+    "sugars": "18.161",
+    "starch": "0.581",
+    "polyols": "0.6",
+    "fibre": "2.217",
+    "protein": "0.517",
+    "sodium": "0.003",
+    "alcohol": "0.005",
+    "organicAcids": "1.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y845163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S241700",
+  "name": {
+    "de": "Speiseeis Schokolade, überzogen mit Schokolade",
+    "en": "Chocolate ice cream, covered with chocolate"
+  },
+  "per100g": {
+    "fat": "16.34",
+    "saturates": "8.46",
+    "monounsaturates": "4.31",
+    "polyunsaturates": "2.58",
+    "carbohydrate": "35.4",
+    "sugars": "31.9",
+    "starch": "3.54",
+    "polyols": "0.003",
+    "fibre": "3.48",
+    "protein": "4.47",
+    "sodium": "0.0382",
+    "alcohol": "0",
+    "organicAcids": "0.368"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G543042",
+  "name": {
+    "de": "Gemüsepaprika rot, geschmort ohne Fett",
+    "en": "Sweet pepper red, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.218",
+    "saturates": "0.0352",
+    "monounsaturates": "0.0026",
+    "polyunsaturates": "0.1158",
+    "carbohydrate": "6.8",
+    "sugars": "6.8",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.418",
+    "protein": "1.115",
+    "sodium": "0.00136",
+    "alcohol": "0",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G543042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

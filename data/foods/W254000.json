@@ -1,0 +1,44 @@
+{
+  "code": "W254000",
+  "name": {
+    "de": "Jagdwurst/Schinkenwurst grob",
+    "en": "Jagdwurst sausage/ham bologna coarsely minced"
+  },
+  "per100g": {
+    "fat": "15.8",
+    "saturates": "5.61",
+    "monounsaturates": "7.32",
+    "polyunsaturates": "2.21",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "15.3",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W254000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

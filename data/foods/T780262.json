@@ -1,0 +1,44 @@
+{
+  "code": "T780262",
+  "name": {
+    "de": "Europäische Auster tiefgefroren, gratiniert ohne Fett (Ofen)",
+    "en": "European oyster deep-frozen, gratinated without fat (oven)"
+  },
+  "per100g": {
+    "fat": "3.27",
+    "saturates": "0.877",
+    "monounsaturates": "0.605",
+    "polyunsaturates": "1.143",
+    "carbohydrate": "1.211",
+    "sugars": "0",
+    "starch": "1.211",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "9.8",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T780262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

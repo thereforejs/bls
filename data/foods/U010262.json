@@ -1,0 +1,44 @@
+{
+  "code": "U010262",
+  "name": {
+    "de": "Rind Hackfleisch, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Beef mince, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "19.282",
+    "saturates": "8.699",
+    "monounsaturates": "9.008",
+    "polyunsaturates": "0.466",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.968",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U010262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

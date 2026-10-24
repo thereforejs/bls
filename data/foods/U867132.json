@@ -1,0 +1,44 @@
+{
+  "code": "U867132",
+  "name": {
+    "de": "Lamm Bug/Schulter, gekocht",
+    "en": "Lamb shoulder, boiled"
+  },
+  "per100g": {
+    "fat": "5.841",
+    "saturates": "2.004",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.857",
+    "sodium": "0.067",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U867132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

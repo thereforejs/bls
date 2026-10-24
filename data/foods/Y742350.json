@@ -1,0 +1,44 @@
+{
+  "code": "Y742350",
+  "name": {
+    "de": "Eier pochiert, mit Meerrettichmayonnaise",
+    "en": "Eggs poached, with horseradish-mayonnaise"
+  },
+  "per100g": {
+    "fat": "25.24",
+    "saturates": "3.26",
+    "monounsaturates": "13.09",
+    "polyunsaturates": "6.05",
+    "carbohydrate": "1",
+    "sugars": "0.81",
+    "starch": "0.195",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "10.2",
+    "sodium": "0.509",
+    "alcohol": "0.002",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y742350",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

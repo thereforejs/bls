@@ -1,0 +1,44 @@
+{
+  "code": "Y650812",
+  "name": {
+    "de": "Karpfen im Backteig (mit Bier) frittiert",
+    "en": "Carp in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "13.62",
+    "saturates": "1.97",
+    "monounsaturates": "6.84",
+    "polyunsaturates": "3.27",
+    "carbohydrate": "13.5",
+    "sugars": "0.125",
+    "starch": "13.38",
+    "polyols": "0",
+    "fibre": "0.99",
+    "protein": "16.1",
+    "sodium": "0.168",
+    "alcohol": "0.168",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y650812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "W331000",
+  "name": {
+    "de": "Mettwurst gekocht",
+    "en": "Mettwurst sausage cooked"
+  },
+  "per100g": {
+    "fat": "27.42",
+    "saturates": "10.123",
+    "monounsaturates": "10.95",
+    "polyunsaturates": "2.782",
+    "carbohydrate": "0.26",
+    "sugars": "0.14",
+    "starch": "0.12",
+    "polyols": "0.003",
+    "fibre": "0",
+    "protein": "16.32",
+    "sodium": "0.704",
+    "alcohol": null,
+    "organicAcids": "0.505"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W331000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

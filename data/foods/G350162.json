@@ -1,0 +1,44 @@
+{
+  "code": "G350162",
+  "name": {
+    "de": "Romanesco gebacken",
+    "en": "Romanesco broccoli baked"
+  },
+  "per100g": {
+    "fat": "0.394",
+    "saturates": "0.059",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.195",
+    "carbohydrate": "7.52",
+    "sugars": "3.05",
+    "starch": "0.256",
+    "polyols": "4.21",
+    "fibre": "4.1",
+    "protein": "3.414",
+    "sodium": "0.017",
+    "alcohol": "0",
+    "organicAcids": "0.386"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G350162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X041910",
+  "name": {
+    "de": "Brötchen mit Fleischkäse",
+    "en": "Roll and fleischkaese sausage"
+  },
+  "per100g": {
+    "fat": "16.61",
+    "saturates": "5.932",
+    "monounsaturates": "6.764",
+    "polyunsaturates": "1.816",
+    "carbohydrate": "18.44",
+    "sugars": "1.47",
+    "starch": "16.967",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "13.76",
+    "sodium": "0.846",
+    "alcohol": "0",
+    "organicAcids": "0.407"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X041910",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

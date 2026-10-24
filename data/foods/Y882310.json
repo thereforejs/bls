@@ -1,0 +1,44 @@
+{
+  "code": "Y882310",
+  "name": {
+    "de": "Quarkspeise mit Pfirsichen",
+    "en": "Quark dish with peaches"
+  },
+  "per100g": {
+    "fat": "4.92",
+    "saturates": "2.662",
+    "monounsaturates": "1.266",
+    "polyunsaturates": "0.134",
+    "carbohydrate": "10.88",
+    "sugars": "10.62",
+    "starch": "0",
+    "polyols": "0.26",
+    "fibre": "0.4",
+    "protein": "5.8",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y882310",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

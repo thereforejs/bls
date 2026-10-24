@@ -1,0 +1,44 @@
+{
+  "code": "Y662233",
+  "name": {
+    "de": "Schwertfisch gedünstet (mit Fett und Salz)",
+    "en": "Swordfish stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "0.8",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "1.76",
+    "carbohydrate": "0.28",
+    "sugars": "0.28",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16",
+    "sodium": "0.267",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y662233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

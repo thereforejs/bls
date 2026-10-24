@@ -1,0 +1,44 @@
+{
+  "code": "X644013",
+  "name": {
+    "de": "Kartoffelgratin ohne Käse",
+    "en": "Potato gratin without cheese"
+  },
+  "per100g": {
+    "fat": "5.03",
+    "saturates": "2.5",
+    "monounsaturates": "1.44",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "15",
+    "sugars": "1.8",
+    "starch": "13",
+    "polyols": "0",
+    "fibre": "1.17",
+    "protein": "2.4",
+    "sodium": "0.128",
+    "alcohol": "0",
+    "organicAcids": "0.029"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X644013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

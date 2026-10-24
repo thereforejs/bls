@@ -1,0 +1,44 @@
+{
+  "code": "E606022",
+  "name": {
+    "de": "Semmelknödel gedämpft",
+    "en": "White bread dumplings steamed"
+  },
+  "per100g": {
+    "fat": "3.91",
+    "saturates": "1.74",
+    "monounsaturates": "1.14",
+    "polyunsaturates": "0.51",
+    "carbohydrate": "22.51",
+    "sugars": "2.5",
+    "starch": "20.01",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "6.96",
+    "sodium": "0.343",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E606022",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

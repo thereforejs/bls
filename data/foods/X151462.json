@@ -1,0 +1,44 @@
+{
+  "code": "X151462",
+  "name": {
+    "de": "Auberginensalat (gegart) mit Zitronenmarinade",
+    "en": "Aubergine salad (cooked) with lemon marinade"
+  },
+  "per100g": {
+    "fat": "15.3",
+    "saturates": "1.14",
+    "monounsaturates": "8.7",
+    "polyunsaturates": "4.23",
+    "carbohydrate": "4.5",
+    "sugars": "4.4",
+    "starch": "0",
+    "polyols": "0.07",
+    "fibre": "2",
+    "protein": "0.96",
+    "sodium": "0.171",
+    "alcohol": "0",
+    "organicAcids": "0.96"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X151462",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

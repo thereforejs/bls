@@ -1,0 +1,44 @@
+{
+  "code": "X444313",
+  "name": {
+    "de": "Kartoffel-Lauchcremesuppe",
+    "en": "Cream of potato-leek soup"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "0.5",
+    "monounsaturates": "1.1",
+    "polyunsaturates": "0.45",
+    "carbohydrate": "9",
+    "sugars": "1.5",
+    "starch": "7",
+    "polyols": "0.002",
+    "fibre": "0.6",
+    "protein": "1.21",
+    "sodium": "0.17",
+    "alcohol": "0",
+    "organicAcids": "0.035"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X444313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

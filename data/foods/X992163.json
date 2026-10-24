@@ -1,0 +1,44 @@
+{
+  "code": "X992163",
+  "name": {
+    "de": "Couscous (mit Fett und Salz)",
+    "en": "Couscous (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.645",
+    "saturates": "0.31",
+    "monounsaturates": "1.68",
+    "polyunsaturates": "1.11",
+    "carbohydrate": "30.02",
+    "sugars": "0.46278",
+    "starch": "29.56",
+    "polyols": "0",
+    "fibre": "2.688",
+    "protein": "5.093",
+    "sodium": "0.0675",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X992163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

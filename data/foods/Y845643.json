@@ -1,0 +1,44 @@
+{
+  "code": "Y845643",
+  "name": {
+    "de": "Apfelschnee mit Rum",
+    "en": "Apple froth with rum"
+  },
+  "per100g": {
+    "fat": "0.344",
+    "saturates": "0.137",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.167",
+    "carbohydrate": "10.7",
+    "sugars": "9.923",
+    "starch": "0.409",
+    "polyols": "0.4",
+    "fibre": "1.551",
+    "protein": "1.5",
+    "sodium": "0.04",
+    "alcohol": "0.8",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y845643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

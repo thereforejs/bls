@@ -1,0 +1,44 @@
+{
+  "code": "G991902",
+  "name": {
+    "de": "Gemüsemischung asiatische Art, Konserve, abgetropft",
+    "en": "Mixed vegetables Asian style, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.032",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "2.5",
+    "sugars": "2.5",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "1",
+    "protein": "1.7",
+    "sodium": "0.214",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G991902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W221382",
+  "name": {
+    "de": "Currybratwurst gebraten ohne Fett (Pfanne)",
+    "en": "Curry-Bratwurst fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "22.57",
+    "saturates": "7.92",
+    "monounsaturates": "8.21",
+    "polyunsaturates": "2.61",
+    "carbohydrate": "0.05",
+    "sugars": "0",
+    "starch": "0.05",
+    "polyols": "0",
+    "fibre": "0.02",
+    "protein": "13.38",
+    "sodium": "0.8576",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W221382",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

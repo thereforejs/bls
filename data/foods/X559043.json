@@ -1,0 +1,44 @@
+{
+  "code": "X559043",
+  "name": {
+    "de": "Kürbis gebacken, in Tomatensauce (aus Tomatenmark)",
+    "en": "Pumpkin baked, in tomato sauce (of tomato paste)"
+  },
+  "per100g": {
+    "fat": "5.4",
+    "saturates": "0.4",
+    "monounsaturates": "3.07",
+    "polyunsaturates": "1.52",
+    "carbohydrate": "5.3",
+    "sugars": "4.7",
+    "starch": "0.57",
+    "polyols": "0.006",
+    "fibre": "3",
+    "protein": "1",
+    "sodium": "0.166",
+    "alcohol": "0",
+    "organicAcids": "0.055"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X559043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

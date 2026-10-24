@@ -1,0 +1,44 @@
+{
+  "code": "D380900",
+  "name": {
+    "de": "Kuchenboden/Tortenboden (Mürbeteig, feiner)",
+    "en": "Cake base/torte base (shortcrust pastry, fine)"
+  },
+  "per100g": {
+    "fat": "27.53",
+    "saturates": "17.04",
+    "monounsaturates": "6.04",
+    "polyunsaturates": "0.93",
+    "carbohydrate": "51.67",
+    "sugars": "16.236",
+    "starch": "35.43",
+    "polyols": "0",
+    "fibre": "2.63",
+    "protein": "7",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.0271"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D380900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

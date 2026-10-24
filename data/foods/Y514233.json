@@ -1,0 +1,44 @@
+{
+  "code": "Y514233",
+  "name": {
+    "de": "Hirschragout mit Grundsauce dunkel/braun und Rotwein",
+    "en": "Venison ragout with brown basic sauce and red wine"
+  },
+  "per100g": {
+    "fat": "9",
+    "saturates": "1.4",
+    "monounsaturates": "3.8",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "2.6",
+    "sugars": "0.6",
+    "starch": "2.01",
+    "polyols": "0.003",
+    "fibre": "0.2",
+    "protein": "14.44",
+    "sodium": "0.23",
+    "alcohol": "1.23",
+    "organicAcids": "0.082"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y514233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

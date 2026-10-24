@@ -1,0 +1,44 @@
+{
+  "code": "P232000",
+  "name": {
+    "de": "Weißwein Beerenauslese/Trockenbeerenauslese",
+    "en": "White wine Beerenauslese/Trockenbeerenauslese"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "18.55",
+    "sugars": "18.55",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.124",
+    "sodium": "0.0017",
+    "alcohol": "7.7989",
+    "organicAcids": "0.35"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P232000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

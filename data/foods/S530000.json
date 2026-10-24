@@ -1,0 +1,44 @@
+{
+  "code": "S530000",
+  "name": {
+    "de": "Milchschokolade",
+    "en": "Milk chocolate"
+  },
+  "per100g": {
+    "fat": "31.34",
+    "saturates": "18.75",
+    "monounsaturates": "9.42",
+    "polyunsaturates": "1.09",
+    "carbohydrate": "54.026",
+    "sugars": "52.826",
+    "starch": "1.2",
+    "polyols": "0",
+    "fibre": "3.32",
+    "protein": "6.83",
+    "sodium": "0.0754",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S530000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

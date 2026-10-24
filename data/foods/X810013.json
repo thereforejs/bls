@@ -1,0 +1,44 @@
+{
+  "code": "X810013",
+  "name": {
+    "de": "Milchreis gesüßt, mit Milch 3,5 % Fett, Rosinen und Pistazien",
+    "en": "Rice pudding sweetened, with milk 3.5 % fat, raisins and pistachios"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "2.3",
+    "monounsaturates": "1.301",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "23.5",
+    "sugars": "7.8",
+    "starch": "15.7",
+    "polyols": "0.041",
+    "fibre": "1",
+    "protein": "4.9",
+    "sodium": "0.044",
+    "alcohol": "0",
+    "organicAcids": "0.226"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X810013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

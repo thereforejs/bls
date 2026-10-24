@@ -1,0 +1,44 @@
+{
+  "code": "Y302232",
+  "name": {
+    "de": "Kasseler im Brotteig gebacken",
+    "en": "Pork loin chop cured, baked in bread dough"
+  },
+  "per100g": {
+    "fat": "1.84",
+    "saturates": "0.46",
+    "monounsaturates": "0.64",
+    "polyunsaturates": "0.37",
+    "carbohydrate": "22",
+    "sugars": "2.15",
+    "starch": "20",
+    "polyols": "0.02",
+    "fibre": "2.5",
+    "protein": "13.31",
+    "sodium": "0.948",
+    "alcohol": "0",
+    "organicAcids": "0.62"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y302232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y231233",
+  "name": {
+    "de": "Kalbskotelett gebraten, mit Sahnesauce",
+    "en": "Veal chop fried, with cream sauce"
+  },
+  "per100g": {
+    "fat": "6.6",
+    "saturates": "2.66",
+    "monounsaturates": "2.18",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "0.313",
+    "sugars": "0.313",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.75",
+    "sodium": "0.193",
+    "alcohol": "0",
+    "organicAcids": "0.014"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y231233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

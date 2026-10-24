@@ -1,0 +1,44 @@
+{
+  "code": "X641000",
+  "name": {
+    "de": "Herzoginkartoffeln gebacken",
+    "en": "Duchesse potatoes baked"
+  },
+  "per100g": {
+    "fat": "5.11",
+    "saturates": "1.64",
+    "monounsaturates": "1.85",
+    "polyunsaturates": "0.71",
+    "carbohydrate": "15",
+    "sugars": "0.8",
+    "starch": "14",
+    "polyols": "0",
+    "fibre": "1.39",
+    "protein": "4.7",
+    "sodium": "0.316",
+    "alcohol": "0",
+    "organicAcids": "0.016"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X641000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

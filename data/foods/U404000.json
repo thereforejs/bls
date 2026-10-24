@@ -1,0 +1,44 @@
+{
+  "code": "U404000",
+  "name": {
+    "de": "Kalb Fleisch, sehnenfrei, sichtbarer Fettanteil > 20 % (KA IV) roh",
+    "en": "Veal meat, tendon free, visible fat content > 20 % (KA IV) raw"
+  },
+  "per100g": {
+    "fat": "25.412",
+    "saturates": "11.5",
+    "monounsaturates": "11.805",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.702",
+    "sodium": "0.071",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U404000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

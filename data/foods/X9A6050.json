@@ -1,0 +1,44 @@
+{
+  "code": "X9A6050",
+  "name": {
+    "de": "Vollkornhefeteig für Pizza/Vollkornpizzateig, roh",
+    "en": "Wholemeal yeast dough for pizza/wholemeal pizza dough, raw"
+  },
+  "per100g": {
+    "fat": "4.37",
+    "saturates": "0.36",
+    "monounsaturates": "1.99",
+    "polyunsaturates": "1.41",
+    "carbohydrate": "40",
+    "sugars": "1.248",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "8.01",
+    "protein": "8.71",
+    "sodium": "0.307",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A6050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B781600",
+  "name": {
+    "de": "Dinkelvollkornbaguette",
+    "en": "Wholemeal spelt baguette"
+  },
+  "per100g": {
+    "fat": "1.98",
+    "saturates": "0.361",
+    "monounsaturates": "0.485",
+    "polyunsaturates": "0.691",
+    "carbohydrate": "40",
+    "sugars": "1.8",
+    "starch": "38",
+    "polyols": "0",
+    "fibre": "6.91",
+    "protein": "8.8",
+    "sodium": "0.486",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B781600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

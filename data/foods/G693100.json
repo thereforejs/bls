@@ -1,0 +1,44 @@
+{
+  "code": "G693100",
+  "name": {
+    "de": "Wasabi roh",
+    "en": "Japanese horseradish/wasabi root, raw"
+  },
+  "per100g": {
+    "fat": "0.63",
+    "saturates": "0.1",
+    "monounsaturates": "0.06",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "11.67",
+    "sugars": "8.25",
+    "starch": "3.42",
+    "polyols": null,
+    "fibre": "7.8",
+    "protein": "4.8",
+    "sodium": "0.017",
+    "alcohol": "0",
+    "organicAcids": "0.81"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G693100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

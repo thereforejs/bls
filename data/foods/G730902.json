@@ -1,0 +1,44 @@
+{
+  "code": "G730902",
+  "name": {
+    "de": "Dicke Bohne unreif, Konserve, abgetropft",
+    "en": "Broad bean immature, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.115",
+    "monounsaturates": "0.014",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "4.3",
+    "sugars": "0.9",
+    "starch": "3.4",
+    "polyols": "0",
+    "fibre": "5.2",
+    "protein": "4.4",
+    "sodium": "0.219",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G730902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

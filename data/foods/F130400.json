@@ -1,0 +1,44 @@
+{
+  "code": "F130400",
+  "name": {
+    "de": "Birne getrocknet",
+    "en": "Pear dried"
+  },
+  "per100g": {
+    "fat": "1.154",
+    "saturates": "0.1541",
+    "monounsaturates": "0.2572",
+    "polyunsaturates": "0.504",
+    "carbohydrate": "52.36",
+    "sugars": "40.11",
+    "starch": "0",
+    "polyols": "12.25",
+    "fibre": "11.1",
+    "protein": "1.194",
+    "sodium": "0.003095",
+    "alcohol": "0",
+    "organicAcids": "1.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F130400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

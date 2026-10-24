@@ -1,0 +1,44 @@
+{
+  "code": "G670182",
+  "name": {
+    "de": "Wurzelpetersilie gebraten ohne Fett (Pfanne)",
+    "en": "Parsley root fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.87",
+    "saturates": "0.14",
+    "monounsaturates": "0.0591",
+    "polyunsaturates": "0.4666",
+    "carbohydrate": "25.5",
+    "sugars": "11.203",
+    "starch": "12.2",
+    "polyols": "1.519",
+    "fibre": "3.944",
+    "protein": "5.333",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.89"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G670182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V481000",
+  "name": {
+    "de": "Pute Fleisch, ohne Haut, roh",
+    "en": "Turkey meat, without skin, raw"
+  },
+  "per100g": {
+    "fat": "2.2",
+    "saturates": "0.623",
+    "monounsaturates": "0.697",
+    "polyunsaturates": "0.671",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.5",
+    "sodium": "0.093",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V481000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

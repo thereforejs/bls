@@ -1,0 +1,44 @@
+{
+  "code": "X448053",
+  "name": {
+    "de": "Champignonsuppe aus frischen Champignons",
+    "en": "Button mushroom soup of fresh button mushrooms"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "1.2",
+    "monounsaturates": "0.6",
+    "polyunsaturates": "0.14",
+    "carbohydrate": "2.7",
+    "sugars": "1.4",
+    "starch": "0.002",
+    "polyols": "1.34",
+    "fibre": "0.8",
+    "protein": "2.26",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X448053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

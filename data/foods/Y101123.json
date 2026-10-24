@@ -1,0 +1,44 @@
+{
+  "code": "Y101123",
+  "name": {
+    "de": "Pökelrinderbrust gekocht, mit Meerrettichsauce von heller/weißer Grundsauce",
+    "en": "Cured beef brisket boiled, with horseradish sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "9.7",
+    "saturates": "4.9",
+    "monounsaturates": "3.73",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "2.99",
+    "sugars": "1.28",
+    "starch": "1.71",
+    "polyols": "0",
+    "fibre": "0.42",
+    "protein": "11.52",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y101123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

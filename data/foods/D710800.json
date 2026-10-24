@@ -1,0 +1,44 @@
+{
+  "code": "D710800",
+  "name": {
+    "de": "Schokoladen-Haselnuss-Cookies",
+    "en": "Chocolate-hazelnut cookies"
+  },
+  "per100g": {
+    "fat": "27.39",
+    "saturates": "13.25",
+    "monounsaturates": "10.39",
+    "polyunsaturates": "1.42",
+    "carbohydrate": "54.7",
+    "sugars": "33",
+    "starch": "21.7",
+    "polyols": "0",
+    "fibre": "4.1",
+    "protein": "7.8",
+    "sodium": "0.225",
+    "alcohol": "0",
+    "organicAcids": "0.0125"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D710800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

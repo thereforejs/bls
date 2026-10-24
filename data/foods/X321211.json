@@ -1,0 +1,44 @@
+{
+  "code": "X321211",
+  "name": {
+    "de": "Tomatensauce aus frischen Tomaten und Frischkäse",
+    "en": "Tomato sauce of fresh tomatoes and cream cheese"
+  },
+  "per100g": {
+    "fat": "12.77",
+    "saturates": "4.08",
+    "monounsaturates": "5.49",
+    "polyunsaturates": "2.12",
+    "carbohydrate": "4.24",
+    "sugars": "4.24",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "2.35",
+    "sodium": "0.152",
+    "alcohol": "0",
+    "organicAcids": "0.467"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X321211",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y860463",
+  "name": {
+    "de": "Karamellcreme einfach, gestürzt",
+    "en": "Caramel pudding simple"
+  },
+  "per100g": {
+    "fat": "3.97",
+    "saturates": "1.88",
+    "monounsaturates": "1.16",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "27.78",
+    "sugars": "23.57",
+    "starch": "4.206",
+    "polyols": "0",
+    "fibre": "0.039",
+    "protein": "4.2",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.037"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860463",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

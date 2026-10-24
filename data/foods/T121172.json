@@ -1,0 +1,44 @@
+{
+  "code": "T121172",
+  "name": {
+    "de": "Thunfisch gegrillt",
+    "en": "Tuna grilled"
+  },
+  "per100g": {
+    "fat": "6.62",
+    "saturates": "1.872",
+    "monounsaturates": "2.068",
+    "polyunsaturates": "1.595",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "27.4",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T121172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X644712",
+  "name": {
+    "de": "Kartoffelgratin mit Lauch",
+    "en": "Potato gratin with leek"
+  },
+  "per100g": {
+    "fat": "8.8",
+    "saturates": "4",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.76",
+    "carbohydrate": "9",
+    "sugars": "2.3",
+    "starch": "7",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "4.6",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X644712",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

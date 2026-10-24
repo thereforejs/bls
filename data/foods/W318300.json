@@ -1,0 +1,44 @@
+{
+  "code": "W318300",
+  "name": {
+    "de": "Straßburger Gänseleberwurst mit Schweinefleisch",
+    "en": "Strasbourg goose liver sausage with pork"
+  },
+  "per100g": {
+    "fat": "11.58",
+    "saturates": "4.7",
+    "monounsaturates": "2.83",
+    "polyunsaturates": "1.02",
+    "carbohydrate": "1.1",
+    "sugars": "0.3",
+    "starch": "0.82",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "14.9",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.005"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W318300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

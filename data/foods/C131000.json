@@ -1,0 +1,44 @@
+{
+  "code": "C131000",
+  "name": {
+    "de": "Hafer ganzes Korn, roh",
+    "en": "Oat whole grain, raw"
+  },
+  "per100g": {
+    "fat": "7.09",
+    "saturates": "1.43",
+    "monounsaturates": "2.514",
+    "polyunsaturates": "2.86",
+    "carbohydrate": "53.7",
+    "sugars": "1.08",
+    "starch": "52.6",
+    "polyols": "0",
+    "fibre": "9.3",
+    "protein": "11.375",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C131000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

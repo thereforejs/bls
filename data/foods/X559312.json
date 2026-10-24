@@ -1,0 +1,44 @@
+{
+  "code": "X559312",
+  "name": {
+    "de": "Kürbis gedünstet (mit Fett und Salz)",
+    "en": "Pumpkin stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.3",
+    "monounsaturates": "1.77",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "4.97",
+    "sugars": "4.31",
+    "starch": "0.65",
+    "polyols": "0.007",
+    "fibre": "0.74",
+    "protein": "1.34",
+    "sodium": "0.187",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X559312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

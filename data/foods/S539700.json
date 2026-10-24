@@ -1,0 +1,44 @@
+{
+  "code": "S539700",
+  "name": {
+    "de": "Vollmilchschokolade mit Rosinen und Haselnüssen",
+    "en": "Whole milk chocolate with raisins and hazelnuts"
+  },
+  "per100g": {
+    "fat": "31.7",
+    "saturates": "16.7",
+    "monounsaturates": "11.65",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "50.2",
+    "sugars": "49.6",
+    "starch": "0.5",
+    "polyols": "0.143",
+    "fibre": "3.4",
+    "protein": "6.5",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0.628"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S539700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

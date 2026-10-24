@@ -1,0 +1,44 @@
+{
+  "code": "F130902",
+  "name": {
+    "de": "Birne gezuckert, Konserve, abgetropft",
+    "en": "Pear sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.176",
+    "saturates": "0.0405",
+    "monounsaturates": "0.0675",
+    "polyunsaturates": "0.132",
+    "carbohydrate": "19.48",
+    "sugars": "17.839",
+    "starch": "0",
+    "polyols": "1.64",
+    "fibre": "2.6",
+    "protein": "0.475",
+    "sodium": "0.009",
+    "alcohol": "0.006",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F130902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

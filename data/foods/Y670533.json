@@ -1,0 +1,44 @@
+{
+  "code": "Y670533",
+  "name": {
+    "de": "Aal in Tomatensauce (aus Tomaten Konserve), überbacken",
+    "en": "Eel poached, in tomate sauce (of canned tomatoes), gratinated"
+  },
+  "per100g": {
+    "fat": "17.1",
+    "saturates": "3.3",
+    "monounsaturates": "7.88",
+    "polyunsaturates": "3.72",
+    "carbohydrate": "2.4",
+    "sugars": "2.4",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "7.4",
+    "sodium": "0.21",
+    "alcohol": "0",
+    "organicAcids": "0.41"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y670533",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G510142",
+  "name": {
+    "de": "Aubergine geschmort ohne Fett",
+    "en": "Aubergine braised without fat"
+  },
+  "per100g": {
+    "fat": "0.223",
+    "saturates": "0.048",
+    "monounsaturates": "0.023",
+    "polyunsaturates": "0.108",
+    "carbohydrate": "3.78",
+    "sugars": "3.36",
+    "starch": "0.275",
+    "polyols": "0.14",
+    "fibre": "1.8",
+    "protein": "0.705",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G510142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V132200",
+  "name": {
+    "de": "Kaninchen Fleisch, tiefgefroren",
+    "en": "Domestic rabbit meat, deep-frozen"
+  },
+  "per100g": {
+    "fat": "5.5",
+    "saturates": "2.1",
+    "monounsaturates": null,
+    "polyunsaturates": null,
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.8",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V132200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

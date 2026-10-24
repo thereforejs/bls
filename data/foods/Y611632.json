@@ -1,0 +1,44 @@
+{
+  "code": "Y611632",
+  "name": {
+    "de": "Brathering mariniert, abgetropft",
+    "en": "Fried herring marinated, drained"
+  },
+  "per100g": {
+    "fat": "13.5",
+    "saturates": "2.44",
+    "monounsaturates": "5.86",
+    "polyunsaturates": "3.82",
+    "carbohydrate": "6.76",
+    "sugars": "0.36",
+    "starch": "6.4",
+    "polyols": "0.001",
+    "fibre": "0.52",
+    "protein": "15.1",
+    "sodium": "0.229",
+    "alcohol": "0.002",
+    "organicAcids": "0.39"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y611632",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

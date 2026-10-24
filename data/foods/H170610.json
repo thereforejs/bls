@@ -1,0 +1,44 @@
+{
+  "code": "H170610",
+  "name": {
+    "de": "Cashewkern geröstet ohne Fett",
+    "en": "Cashew nut roasted without fat"
+  },
+  "per100g": {
+    "fat": "48.061",
+    "saturates": "9.45",
+    "monounsaturates": "29.398",
+    "polyunsaturates": "8.804",
+    "carbohydrate": "26.5",
+    "sugars": "6.276",
+    "starch": "20.2",
+    "polyols": "0",
+    "fibre": "3.1",
+    "protein": "21.01",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H170610",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

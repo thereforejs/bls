@@ -1,0 +1,44 @@
+{
+  "code": "X358453",
+  "name": {
+    "de": "Grundsauce hell/weiß mit Sahne",
+    "en": "Basic sauce white with cream"
+  },
+  "per100g": {
+    "fat": "15.2",
+    "saturates": "8.4",
+    "monounsaturates": "3.8",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "3.66",
+    "sugars": "1.66",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.15",
+    "protein": "1.42",
+    "sodium": "0.268",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X358453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

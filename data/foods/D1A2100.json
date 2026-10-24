@@ -1,0 +1,44 @@
+{
+  "code": "D1A2100",
+  "name": {
+    "de": "Kirsch-Streuselkuchen (Mürbeteig)",
+    "en": "Cherry crumble cake (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "12.42",
+    "saturates": "7.31",
+    "monounsaturates": "2.96",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "31.9",
+    "sugars": "16.57",
+    "starch": "14.8",
+    "polyols": "0.508",
+    "fibre": "1.7",
+    "protein": "3.39",
+    "sodium": "0.027",
+    "alcohol": "0.00157",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D1A2100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

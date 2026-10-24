@@ -1,0 +1,44 @@
+{
+  "code": "Y683312",
+  "name": {
+    "de": "Muscheln gedämpft, im Weißweinsud",
+    "en": "Mussels steamed, in white wine stock"
+  },
+  "per100g": {
+    "fat": "6.649",
+    "saturates": "0.7",
+    "monounsaturates": "3.5",
+    "polyunsaturates": "1.81",
+    "carbohydrate": "0.22",
+    "sugars": "0.21",
+    "starch": "0",
+    "polyols": "0.005",
+    "fibre": "0",
+    "protein": "3.95",
+    "sodium": "0.22",
+    "alcohol": "1.84",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y683312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

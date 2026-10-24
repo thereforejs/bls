@@ -1,0 +1,44 @@
+{
+  "code": "K430132",
+  "name": {
+    "de": "Topinambur/Erdartischocke, gekocht",
+    "en": "Jerusalem artichoke/topinambur, boiled"
+  },
+  "per100g": {
+    "fat": "0.384",
+    "saturates": "0.089",
+    "monounsaturates": "0.0072",
+    "polyunsaturates": "0.196",
+    "carbohydrate": "3.75",
+    "sugars": "3.75",
+    "starch": null,
+    "polyols": null,
+    "fibre": "11.693",
+    "protein": "2.288",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K430132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

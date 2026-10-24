@@ -1,0 +1,44 @@
+{
+  "code": "G108100",
+  "name": {
+    "de": "Schnittsalat/Pflücksalat, roh",
+    "en": "Looseleaf lettuce raw"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.017",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.056",
+    "carbohydrate": "1.26",
+    "sugars": "1.232",
+    "starch": "0.028",
+    "polyols": null,
+    "fibre": "1.83",
+    "protein": "1.2",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.188"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G108100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

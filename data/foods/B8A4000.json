@@ -1,0 +1,44 @@
+{
+  "code": "B8A4000",
+  "name": {
+    "de": "Sauerteigbrot glutenfrei",
+    "en": "Sourdough bread gluten-free"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.22",
+    "monounsaturates": "0.46",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "34.4",
+    "sugars": "1",
+    "starch": "33.4",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "5.2",
+    "sodium": "0.402",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

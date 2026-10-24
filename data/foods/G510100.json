@@ -1,0 +1,44 @@
+{
+  "code": "G510100",
+  "name": {
+    "de": "Aubergine roh",
+    "en": "Aubergine raw"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.039",
+    "monounsaturates": "0.018",
+    "polyunsaturates": "0.087",
+    "carbohydrate": "3.02",
+    "sugars": "2.69",
+    "starch": "0.22",
+    "polyols": "0.11",
+    "fibre": "1.4",
+    "protein": "0.57",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G510100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

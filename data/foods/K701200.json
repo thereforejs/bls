@@ -1,0 +1,44 @@
+{
+  "code": "K701200",
+  "name": {
+    "de": "Champignon tiefgefroren",
+    "en": "Button mushroom deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.342",
+    "saturates": "0.0603",
+    "monounsaturates": "0.00758",
+    "polyunsaturates": "0.17128",
+    "carbohydrate": "3.6",
+    "sugars": "0.2",
+    "starch": null,
+    "polyols": "3.43",
+    "fibre": "2.4",
+    "protein": "4.58",
+    "sodium": "0.04908",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

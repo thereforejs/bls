@@ -1,0 +1,44 @@
+{
+  "code": "M2L7300",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, mit Frucht-Getreidezubereitung, gesüßt",
+    "en": "Yogurt min. 3.5 % fat, with fruit-cereal preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "1.9",
+    "monounsaturates": "1.039",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "12.8",
+    "sugars": "10.9",
+    "starch": "1.9",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "3.7",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.952"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2L7300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

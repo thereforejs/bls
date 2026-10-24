@@ -1,0 +1,44 @@
+{
+  "code": "D7A7100",
+  "name": {
+    "de": "Plunderteig gebacken",
+    "en": "Danish pastry baked"
+  },
+  "per100g": {
+    "fat": "28.46",
+    "saturates": "14.82",
+    "monounsaturates": "9.96",
+    "polyunsaturates": "3.14",
+    "carbohydrate": "47",
+    "sugars": "7.961",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "8.85",
+    "sodium": "0.402",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y610232",
+  "name": {
+    "de": "Heringsfilet paniert, gebraten",
+    "en": "Herring fillet breaded, fried"
+  },
+  "per100g": {
+    "fat": "14.7",
+    "saturates": "2.63",
+    "monounsaturates": "6.37",
+    "polyunsaturates": "4.14",
+    "carbohydrate": "7.35",
+    "sugars": "0.4",
+    "starch": "6.95",
+    "polyols": "0.001",
+    "fibre": "0.56",
+    "protein": "16.4",
+    "sodium": "0.247",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y610232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

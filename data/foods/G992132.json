@@ -1,0 +1,44 @@
+{
+  "code": "G992132",
+  "name": {
+    "de": "Gemüsemischung Erbsen-Karotten, gekocht",
+    "en": "Mixed vegetables peas and carrots, boiled"
+  },
+  "per100g": {
+    "fat": "0.426",
+    "saturates": "0.094",
+    "monounsaturates": "0.068",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "9.085",
+    "sugars": "3.713",
+    "starch": "5.372",
+    "polyols": "0",
+    "fibre": "4",
+    "protein": "3.3",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G992132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

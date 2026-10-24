@@ -1,0 +1,44 @@
+{
+  "code": "Y640312",
+  "name": {
+    "de": "Lachssteaks gebraten",
+    "en": "Salmon steaks fried"
+  },
+  "per100g": {
+    "fat": "14.484",
+    "saturates": "2.71",
+    "monounsaturates": "4.28",
+    "polyunsaturates": "4",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.4",
+    "sodium": "0.2434",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y640312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

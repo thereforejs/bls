@@ -1,0 +1,44 @@
+{
+  "code": "H212800",
+  "name": {
+    "de": "Mandelmus",
+    "en": "Sweet almond butter (100 % pure)"
+  },
+  "per100g": {
+    "fat": "46.6",
+    "saturates": "4.007",
+    "monounsaturates": "29.512",
+    "polyunsaturates": "10.35",
+    "carbohydrate": "4.51",
+    "sugars": "4.43",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "10.3",
+    "protein": "25.3",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H212800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

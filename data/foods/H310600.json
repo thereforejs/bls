@@ -1,0 +1,44 @@
+{
+  "code": "H310600",
+  "name": {
+    "de": "Kürbiskern geröstet ohne Fett",
+    "en": "Pumpkin seed roasted without fat"
+  },
+  "per100g": {
+    "fat": "47.286",
+    "saturates": "7.849",
+    "monounsaturates": "13.244",
+    "polyunsaturates": "23.482",
+    "carbohydrate": "2.87",
+    "sugars": "1.367",
+    "starch": "1.5",
+    "polyols": null,
+    "fibre": "8.837",
+    "protein": "35.49",
+    "sodium": "0.0269",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H310600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

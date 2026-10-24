@@ -1,0 +1,44 @@
+{
+  "code": "W222700",
+  "name": {
+    "de": "Rindsbratwurst",
+    "en": "Beef-Bratwurst"
+  },
+  "per100g": {
+    "fat": "18.78",
+    "saturates": "8.112",
+    "monounsaturates": "9.274",
+    "polyunsaturates": "0.595",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.884",
+    "sodium": "0.763",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W222700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

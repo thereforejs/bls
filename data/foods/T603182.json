@@ -1,0 +1,44 @@
+{
+  "code": "T603182",
+  "name": {
+    "de": "Zander gebraten ohne Fett (Pfanne)",
+    "en": "Pike-perch fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.74",
+    "saturates": "0.164",
+    "monounsaturates": "0.187",
+    "polyunsaturates": "0.217",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.75",
+    "sodium": "0.026",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T603182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

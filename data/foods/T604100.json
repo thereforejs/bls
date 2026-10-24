@@ -1,0 +1,44 @@
+{
+  "code": "T604100",
+  "name": {
+    "de": "Katfisch/Steinbeißer, roh",
+    "en": "Catfish/wolffish, raw"
+  },
+  "per100g": {
+    "fat": "2.13",
+    "saturates": "0.508",
+    "monounsaturates": "0.773",
+    "polyunsaturates": "0.778",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.8",
+    "sodium": "0.105",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T604100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D7A7200",
+  "name": {
+    "de": "Franzbrötchen (Plunderteig)",
+    "en": "\"Franzbrötchen\" Danish pastry, filled with cinnamon-sugar"
+  },
+  "per100g": {
+    "fat": "34.85",
+    "saturates": "20.31",
+    "monounsaturates": "9.76",
+    "polyunsaturates": "2.23",
+    "carbohydrate": "57",
+    "sugars": "34.136",
+    "starch": "23",
+    "polyols": "0",
+    "fibre": "1.71",
+    "protein": "5.48",
+    "sodium": "0.241",
+    "alcohol": "0",
+    "organicAcids": "0.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A7200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

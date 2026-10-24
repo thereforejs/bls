@@ -1,0 +1,44 @@
+{
+  "code": "G090100",
+  "name": {
+    "de": "Gemüsemischung Kaisergemüse, roh",
+    "en": "Mixed vegetables (carrots, cauliflower and broccoli florets) raw"
+  },
+  "per100g": {
+    "fat": "0.427",
+    "saturates": "0.085",
+    "monounsaturates": "0.0492",
+    "polyunsaturates": "0.159",
+    "carbohydrate": "4.7",
+    "sugars": "3.28",
+    "starch": "0.279",
+    "polyols": "1.1",
+    "fibre": "2.9",
+    "protein": "2.309",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G090100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

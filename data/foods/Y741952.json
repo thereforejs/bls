@@ -1,0 +1,44 @@
+{
+  "code": "Y741952",
+  "name": {
+    "de": "Eierstich mit Kräutern",
+    "en": "Egg custard with herbs, diced"
+  },
+  "per100g": {
+    "fat": "6.78",
+    "saturates": "2.825",
+    "monounsaturates": "2.143",
+    "polyunsaturates": "0.696",
+    "carbohydrate": "2.09",
+    "sugars": "2.08",
+    "starch": "0.006",
+    "polyols": "0",
+    "fibre": "0.052",
+    "protein": "7.71",
+    "sodium": "0.237",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y741952",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

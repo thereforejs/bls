@@ -1,0 +1,44 @@
+{
+  "code": "S581700",
+  "name": {
+    "de": "Karamell-Toffee gefüllt mit Nougatcreme, Schokolade und Haselnuss",
+    "en": "Caramel-toffee filled with nougat cream, chocolate and hazelnut"
+  },
+  "per100g": {
+    "fat": "27.7",
+    "saturates": "9.8",
+    "monounsaturates": "13.9",
+    "polyunsaturates": "2.4",
+    "carbohydrate": "58.3",
+    "sugars": "47.6",
+    "starch": "0.9",
+    "polyols": "0.003",
+    "fibre": "3.1",
+    "protein": "5.7",
+    "sodium": "0.14",
+    "alcohol": "0",
+    "organicAcids": "0.133"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S581700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

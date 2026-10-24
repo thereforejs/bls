@@ -1,0 +1,44 @@
+{
+  "code": "G898300",
+  "name": {
+    "de": "Tafel-Meerrettich Konserve",
+    "en": "Horsereadish canned"
+  },
+  "per100g": {
+    "fat": "11.922",
+    "saturates": "0.88",
+    "monounsaturates": "6.78",
+    "polyunsaturates": "3.29",
+    "carbohydrate": "9.451",
+    "sugars": "7.697",
+    "starch": "1.754",
+    "polyols": "0",
+    "fibre": "2.315",
+    "protein": "3.172",
+    "sodium": "0.188",
+    "alcohol": "0.025",
+    "organicAcids": "2.87"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G898300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

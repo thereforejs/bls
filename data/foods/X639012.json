@@ -1,0 +1,44 @@
+{
+  "code": "X639012",
+  "name": {
+    "de": "Kartoffelpüree mit Milch 1,5 % Fett",
+    "en": "Potato puree with milk 1.5 % fat"
+  },
+  "per100g": {
+    "fat": "2.49",
+    "saturates": "1.583",
+    "monounsaturates": "0.536",
+    "polyunsaturates": "0.058",
+    "carbohydrate": "12.76",
+    "sugars": "1.75",
+    "starch": "11.009",
+    "polyols": "0",
+    "fibre": "0.95",
+    "protein": "2.4",
+    "sodium": "0.122",
+    "alcohol": "0",
+    "organicAcids": "0.026"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X639012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

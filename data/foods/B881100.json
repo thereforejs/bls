@@ -1,0 +1,44 @@
+{
+  "code": "B881100",
+  "name": {
+    "de": "Eiweißbrot/Proteinbrot",
+    "en": "Protein bread"
+  },
+  "per100g": {
+    "fat": "8.2",
+    "saturates": "0.93",
+    "monounsaturates": "2.02",
+    "polyunsaturates": "4.7",
+    "carbohydrate": "11",
+    "sugars": "3.9",
+    "starch": "6",
+    "polyols": "0",
+    "fibre": "6.5",
+    "protein": "23.4",
+    "sodium": "0.388",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B881100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

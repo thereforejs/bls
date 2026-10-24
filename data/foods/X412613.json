@@ -1,0 +1,44 @@
+{
+  "code": "X412613",
+  "name": {
+    "de": "Fleischbrühe mit Markklößchen",
+    "en": "Meat stock with small marrow dumplings"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "1.8",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "3.78",
+    "sugars": "0.35",
+    "starch": "3.43",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "1.77",
+    "sodium": "0.268",
+    "alcohol": "0",
+    "organicAcids": "0.016"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X412613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

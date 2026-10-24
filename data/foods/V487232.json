@@ -1,0 +1,44 @@
+{
+  "code": "V487232",
+  "name": {
+    "de": "Pute Flügel, mit Haut, tiefgefroren, gekocht",
+    "en": "Turkey wings, with skin, deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "7.7",
+    "saturates": "1.6",
+    "monounsaturates": "2.6",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.7",
+    "sodium": "0.025",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V487232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

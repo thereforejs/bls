@@ -1,0 +1,44 @@
+{
+  "code": "X465713",
+  "name": {
+    "de": "Grüne-Bohnen-Eintopf mit Gemüsebrühe und Kartoffeln",
+    "en": "Green bean stew with vegetable stock and potatoes"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.4",
+    "monounsaturates": "0.11",
+    "polyunsaturates": "0.05",
+    "carbohydrate": "8",
+    "sugars": "1.5",
+    "starch": "6",
+    "polyols": "0.08",
+    "fibre": "1.1",
+    "protein": "1.5",
+    "sodium": "0.172",
+    "alcohol": "0.001",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X465713",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

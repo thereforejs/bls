@@ -1,0 +1,44 @@
+{
+  "code": "S222000",
+  "name": {
+    "de": "Speiseeis (Frucht-Joghurt, Joghurt) gemischt",
+    "en": "Yogurt ice cream and yogurt-fruit ice cream mixed"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "1.48",
+    "monounsaturates": "0.573",
+    "polyunsaturates": "0.094",
+    "carbohydrate": "19.48",
+    "sugars": "19.48",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0.2",
+    "protein": "3.6",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0.749"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S222000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

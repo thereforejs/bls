@@ -1,0 +1,44 @@
+{
+  "code": "G331182",
+  "name": {
+    "de": "Kohlrabi gebraten ohne Fett (Pfanne)",
+    "en": "Kohlrabi fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.296",
+    "saturates": "0.052",
+    "monounsaturates": "0.0256",
+    "polyunsaturates": "0.131",
+    "carbohydrate": "7.19",
+    "sugars": "6.859",
+    "starch": "0",
+    "polyols": "0.26",
+    "fibre": "2.8",
+    "protein": "3.593",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.581"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G331182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

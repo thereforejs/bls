@@ -1,0 +1,44 @@
+{
+  "code": "S241800",
+  "name": {
+    "de": "Speiseeis überzogen mit Schokolade, Karamell und Mandeln",
+    "en": "Ice cream covered with chocolate, caramel and almonds"
+  },
+  "per100g": {
+    "fat": "17.28",
+    "saturates": "10.1",
+    "monounsaturates": "5.13",
+    "polyunsaturates": "0.87",
+    "carbohydrate": "30.9",
+    "sugars": "27.73",
+    "starch": "3.17",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "4.5",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.333"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

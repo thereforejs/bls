@@ -1,0 +1,44 @@
+{
+  "code": "X423053",
+  "name": {
+    "de": "Rinderkraftbrühe mit Grießklößchen",
+    "en": "Beef consomme with small semolina dumplings"
+  },
+  "per100g": {
+    "fat": "1.3",
+    "saturates": "0.53",
+    "monounsaturates": "0.29",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3.41",
+    "sugars": "0.29",
+    "starch": "3.12",
+    "polyols": "0",
+    "fibre": "0.25",
+    "protein": "1.67",
+    "sodium": "0.225",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X423053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "E606282",
+  "name": {
+    "de": "Semmelknödel getrocknet, gekocht, gebraten ohne Fett (Pfanne)",
+    "en": "White bread dumplings dried, boiled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "4.99",
+    "saturates": "2.22",
+    "monounsaturates": "1.45",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "24.87",
+    "sugars": "2.77",
+    "starch": "22.1",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "8.28",
+    "sodium": "0.348",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E606282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

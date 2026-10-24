@@ -1,0 +1,44 @@
+{
+  "code": "X570153",
+  "name": {
+    "de": "Grüne Erbsen gekocht, in Grundsauce hell/weiß",
+    "en": "Green peas boiled, in white basic sauce"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.6",
+    "monounsaturates": "0.22",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "10.38",
+    "sugars": "1.14",
+    "starch": "9.24",
+    "polyols": "0",
+    "fibre": "4.1",
+    "protein": "4.8",
+    "sodium": "0.128",
+    "alcohol": "0",
+    "organicAcids": "0.123"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X570153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

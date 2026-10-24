@@ -1,0 +1,44 @@
+{
+  "code": "Y022322",
+  "name": {
+    "de": "Bierschinken gebraten",
+    "en": "Beer ham fried"
+  },
+  "per100g": {
+    "fat": "11.359",
+    "saturates": "3.62",
+    "monounsaturates": "4.59",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "0.09",
+    "sugars": "0",
+    "starch": "0.09",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "17.709",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y022322",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

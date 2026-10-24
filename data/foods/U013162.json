@@ -1,0 +1,44 @@
+{
+  "code": "U013162",
+  "name": {
+    "de": "Rind Frikadelle, gebraten ohne Fett (Ofen)",
+    "en": "Beef patty, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "14.12",
+    "saturates": "6.204",
+    "monounsaturates": "6.52",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "5",
+    "sugars": "0.8",
+    "starch": "4",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "19.91",
+    "sodium": "0.654",
+    "alcohol": "0",
+    "organicAcids": "0.034"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U013162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

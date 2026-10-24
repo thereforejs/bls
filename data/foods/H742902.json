@@ -1,0 +1,44 @@
+{
+  "code": "H742902",
+  "name": {
+    "de": "Kidneybohne reif, Konserve, abgetropft",
+    "en": "Kidney bean mature, canned, drained"
+  },
+  "per100g": {
+    "fat": "1",
+    "saturates": "0.051",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "15.1",
+    "sugars": "0.9",
+    "starch": "12.9",
+    "polyols": "0",
+    "fibre": "11.23",
+    "protein": "8.5",
+    "sodium": "0.2491",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H742902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C424000",
+  "name": {
+    "de": "Buchweizen Mehl",
+    "en": "Buckwheat flour"
+  },
+  "per100g": {
+    "fat": "3.12",
+    "saturates": "0.501",
+    "monounsaturates": "0.992",
+    "polyunsaturates": "1.038",
+    "carbohydrate": "65.08",
+    "sugars": "1.0183",
+    "starch": "64.06",
+    "polyols": "0",
+    "fibre": "5.91",
+    "protein": "12.52",
+    "sodium": "0.0003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C424000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

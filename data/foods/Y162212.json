@@ -1,0 +1,44 @@
+{
+  "code": "Y162212",
+  "name": {
+    "de": "Sauerbraten vom Rind, mit Sauce",
+    "en": "\"Sauerbraten\" marinated beef roast, with sauce"
+  },
+  "per100g": {
+    "fat": "15.9",
+    "saturates": "5.1",
+    "monounsaturates": "7",
+    "polyunsaturates": "1.3",
+    "carbohydrate": "1",
+    "sugars": "0.36",
+    "starch": "0.64",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.7",
+    "sodium": "0.328",
+    "alcohol": "0.06",
+    "organicAcids": "0.023"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y162212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

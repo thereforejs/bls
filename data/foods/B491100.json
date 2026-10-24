@@ -1,0 +1,44 @@
+{
+  "code": "B491100",
+  "name": {
+    "de": "Dinkelvollkornbrötchen mit Kürbiskernen",
+    "en": "Wholemeal spelt roll with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "6.02",
+    "saturates": "1.308",
+    "monounsaturates": "1.786",
+    "polyunsaturates": "2.264",
+    "carbohydrate": "45",
+    "sugars": "1.6",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "8.05",
+    "protein": "12",
+    "sodium": "0.545",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B491100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

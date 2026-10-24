@@ -1,0 +1,44 @@
+{
+  "code": "X2A3010",
+  "name": {
+    "de": "Fruchtsalat exotisch, gesüßt",
+    "en": "Fruit salad exotic, sweetened"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.041",
+    "monounsaturates": "0.04",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "14.2",
+    "sugars": "14.1",
+    "starch": "0",
+    "polyols": "0.08",
+    "fibre": "1.6",
+    "protein": "0.8",
+    "sodium": "0.004",
+    "alcohol": "0.02",
+    "organicAcids": "1.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X2A3010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X0A3000",
+  "name": {
+    "de": "Knuspermüsli (Granola) gesüßt, gebacken",
+    "en": "Crunchy muesli (granola) sweetened, baked"
+  },
+  "per100g": {
+    "fat": "18",
+    "saturates": "4.7",
+    "monounsaturates": "6.63",
+    "polyunsaturates": "5.8",
+    "carbohydrate": "46.6",
+    "sugars": "15.7",
+    "starch": "30.7",
+    "polyols": "0.182",
+    "fibre": "8.9",
+    "protein": "12.3",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G561162",
+  "name": {
+    "de": "Tomate gebacken",
+    "en": "Tomato baked"
+  },
+  "per100g": {
+    "fat": "0.129",
+    "saturates": "0.0253",
+    "monounsaturates": "0.0125",
+    "polyunsaturates": "0.0519",
+    "carbohydrate": "3.82",
+    "sugars": "3.82",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "1.118",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.455"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G561162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

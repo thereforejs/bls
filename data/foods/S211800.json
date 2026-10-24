@@ -1,0 +1,44 @@
+{
+  "code": "S211800",
+  "name": {
+    "de": "Speiseeis (Frucht, Karamell) gemischt, in Waffeltüte",
+    "en": "Ice cream mixed (caramel, fruit) in waffle cone"
+  },
+  "per100g": {
+    "fat": "5.82",
+    "saturates": "2.75",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "28.1",
+    "sugars": "24.2",
+    "starch": "3.26",
+    "polyols": "0.008",
+    "fibre": "0.6",
+    "protein": "2.7",
+    "sodium": "0.021",
+    "alcohol": "0",
+    "organicAcids": "0.103"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S211800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

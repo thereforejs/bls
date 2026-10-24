@@ -1,0 +1,44 @@
+{
+  "code": "X513263",
+  "name": {
+    "de": "Steinpilze gebraten mit Tomaten",
+    "en": "Porcini mushrooms fried with tomatoes"
+  },
+  "per100g": {
+    "fat": "1.74",
+    "saturates": "0.16",
+    "monounsaturates": "0.7",
+    "polyunsaturates": "0.54",
+    "carbohydrate": "4.27",
+    "sugars": "1.67",
+    "starch": "0",
+    "polyols": "2.6",
+    "fibre": "6.3",
+    "protein": "5.25",
+    "sodium": "0.111",
+    "alcohol": "0",
+    "organicAcids": "0.26"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X513263",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W872100",
+  "name": {
+    "de": "Krakauer Schinkenwurst Konserve",
+    "en": "Krakow ham bologna canned"
+  },
+  "per100g": {
+    "fat": "4.94",
+    "saturates": "1.83",
+    "monounsaturates": "2.15",
+    "polyunsaturates": "0.462",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "17.98",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W872100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

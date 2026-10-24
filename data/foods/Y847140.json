@@ -1,0 +1,44 @@
+{
+  "code": "Y847140",
+  "name": {
+    "de": "Orangencreme abgeschlagen (mit Gelatine) mit Weißwein",
+    "en": "Orange cream (with gelatine) with white wine"
+  },
+  "per100g": {
+    "fat": "12.8",
+    "saturates": "6.14",
+    "monounsaturates": "3.67",
+    "polyunsaturates": "0.67",
+    "carbohydrate": "12.59",
+    "sugars": "12.59",
+    "starch": "0",
+    "polyols": "0.004",
+    "fibre": "0.039",
+    "protein": "3.4",
+    "sodium": "0.02",
+    "alcohol": "1.29",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y847140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

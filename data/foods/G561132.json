@@ -1,0 +1,44 @@
+{
+  "code": "G561132",
+  "name": {
+    "de": "Tomate gekocht",
+    "en": "Tomato boiled"
+  },
+  "per100g": {
+    "fat": "0.115",
+    "saturates": "0.0226",
+    "monounsaturates": "0.0111",
+    "polyunsaturates": "0.0462",
+    "carbohydrate": "3.4",
+    "sugars": "3.4",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "0.994",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.225"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G561132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

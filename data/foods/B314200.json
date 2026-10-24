@@ -1,0 +1,44 @@
+{
+  "code": "B314200",
+  "name": {
+    "de": "Mehrkorntoastbrot mit Ölsamen",
+    "en": "Multigrain toast"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "1.31",
+    "monounsaturates": "1.8",
+    "polyunsaturates": "2.13",
+    "carbohydrate": "46",
+    "sugars": "1.7",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "4.6",
+    "protein": "9.58",
+    "sodium": "0.442",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B314200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

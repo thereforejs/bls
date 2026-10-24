@@ -1,0 +1,44 @@
+{
+  "code": "Q4B1000",
+  "name": {
+    "de": "Pflanzencreme zum Braten und Kochen",
+    "en": "Vegetable fat cooking liquid"
+  },
+  "per100g": {
+    "fat": "73.5",
+    "saturates": "6.31",
+    "monounsaturates": "41.76",
+    "polyunsaturates": "19.6",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.2497",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q4B1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

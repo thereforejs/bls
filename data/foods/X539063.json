@@ -1,0 +1,44 @@
+{
+  "code": "X539063",
+  "name": {
+    "de": "Wirsing gedünstet (mit Fett und Salz)",
+    "en": "Savoy cabbage stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.6",
+    "saturates": "0.3",
+    "monounsaturates": "2.47",
+    "polyunsaturates": "1.32",
+    "carbohydrate": "3.7",
+    "sugars": "3.2",
+    "starch": "0.39",
+    "polyols": "0.1",
+    "fibre": "2.3",
+    "protein": "2.28",
+    "sodium": "0.146",
+    "alcohol": "0",
+    "organicAcids": "0.223"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X539063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

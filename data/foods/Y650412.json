@@ -1,0 +1,44 @@
+{
+  "code": "Y650412",
+  "name": {
+    "de": "Karpfen blau (im Essigsud pochiert)",
+    "en": "Carp poached in stock with vinegar"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "1.107",
+    "monounsaturates": "1.674",
+    "polyunsaturates": "0.798",
+    "carbohydrate": "0.206",
+    "sugars": "0.203",
+    "starch": "0.003",
+    "polyols": "0",
+    "fibre": "0.111",
+    "protein": "13.744",
+    "sodium": "0.066",
+    "alcohol": "0.003",
+    "organicAcids": "0.78"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y650412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

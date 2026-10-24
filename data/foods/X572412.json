@@ -1,0 +1,44 @@
+{
+  "code": "X572412",
+  "name": {
+    "de": "Tofu gebraten (mit Fett und Salz)",
+    "en": "Tofu fried (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "13.07",
+    "saturates": "1.43",
+    "monounsaturates": "4.61",
+    "polyunsaturates": "5.27",
+    "carbohydrate": "1.31",
+    "sugars": "1.26",
+    "starch": "0.04",
+    "polyols": "0.003",
+    "fibre": "1.63",
+    "protein": "18.07",
+    "sodium": "0.345",
+    "alcohol": "0.02",
+    "organicAcids": "0.046"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X572412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

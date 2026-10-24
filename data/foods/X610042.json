@@ -1,0 +1,44 @@
+{
+  "code": "X610042",
+  "name": {
+    "de": "Salzkartoffeln (Kartoffeln mit Salz gekocht)",
+    "en": "Potatoes boiled with salt"
+  },
+  "per100g": {
+    "fat": "0.09",
+    "saturates": "0.0318",
+    "monounsaturates": "0.0137",
+    "polyunsaturates": "0.0121",
+    "carbohydrate": "16.079",
+    "sugars": "0.808",
+    "starch": "15.271",
+    "polyols": "0",
+    "fibre": "1.318",
+    "protein": "1.84",
+    "sodium": "0.0748",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X610042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

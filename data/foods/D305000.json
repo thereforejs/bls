@@ -1,0 +1,44 @@
+{
+  "code": "D305000",
+  "name": {
+    "de": "Holländische Kirsch-Sahneschnitten/Kirsch-Sahnetorte (Blätterteig)",
+    "en": "Dutch cherry cream torte/squares (puff pastry)"
+  },
+  "per100g": {
+    "fat": "19.2",
+    "saturates": "8.96",
+    "monounsaturates": "6.67",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "25.2",
+    "sugars": "15.2",
+    "starch": "9.72",
+    "polyols": "0.289",
+    "fibre": "0.8",
+    "protein": "2.8",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D305000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

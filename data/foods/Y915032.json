@@ -1,0 +1,44 @@
+{
+  "code": "Y915032",
+  "name": {
+    "de": "Knacker mit Senf",
+    "en": "Knackwurst with mustard"
+  },
+  "per100g": {
+    "fat": "19.34",
+    "saturates": "7.14",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "2.26",
+    "carbohydrate": "0.16",
+    "sugars": "0.15",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "19.77",
+    "sodium": "1.2",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y915032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

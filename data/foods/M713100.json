@@ -1,0 +1,47 @@
+{
+  "code": "M713100",
+  "name": {
+    "de": "Speisequark Magerstufe, Magerquark < 10 % Fett i. Tr.",
+    "en": "Quark < 10 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.114",
+    "monounsaturates": "0.043",
+    "polyunsaturates": "0.013",
+    "carbohydrate": "3.68",
+    "sugars": "3.68",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "11.85",
+    "sodium": "0.0336",
+    "alcohol": null,
+    "organicAcids": "0.889"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M713100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W981600",
+  "name": {
+    "de": "Champignonpastete mit Mürbeteig, gebacken",
+    "en": "Button mushroom pate with shortcrust pastry, baked"
+  },
+  "per100g": {
+    "fat": "17.25",
+    "saturates": "7.36",
+    "monounsaturates": "5.59",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "7.62",
+    "sugars": "0.055",
+    "starch": "7.32",
+    "polyols": "0.25",
+    "fibre": "0.8",
+    "protein": "15.01",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W981600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

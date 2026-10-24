@@ -1,0 +1,44 @@
+{
+  "code": "D790300",
+  "name": {
+    "de": "Kekse/Plätzchen (Vollkornmürbeteig) schokoliert",
+    "en": "Wholemeal biscuits with chocolate icing"
+  },
+  "per100g": {
+    "fat": "30.85",
+    "saturates": "19.05",
+    "monounsaturates": "7.42",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "52.5",
+    "sugars": "28.7",
+    "starch": "23.8",
+    "polyols": "0",
+    "fibre": "6.3",
+    "protein": "6.95",
+    "sodium": "0.069",
+    "alcohol": "0",
+    "organicAcids": "0.0217"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D790300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

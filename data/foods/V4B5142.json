@@ -1,0 +1,44 @@
+{
+  "code": "V4B5142",
+  "name": {
+    "de": "Hähnchen Unterschenkel, mit Haut, geschmort ohne Fett",
+    "en": "Chicken drumstick, with skin, braised without fat"
+  },
+  "per100g": {
+    "fat": "6.36",
+    "saturates": "1.37",
+    "monounsaturates": "2.09",
+    "polyunsaturates": "1.12",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.07",
+    "sodium": "0.0468",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V4B5142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X1A3020",
+  "name": {
+    "de": "Salat aus Eierteigwaren, würzig, mit Mayonnaise, gestreckt mit Joghurt",
+    "en": "Salad of egg pasta, savoury, with mayonnaise, diluted with yogurt"
+  },
+  "per100g": {
+    "fat": "9.17",
+    "saturates": "0.91",
+    "monounsaturates": "5.08",
+    "polyunsaturates": "2.41",
+    "carbohydrate": "11",
+    "sugars": "2.89",
+    "starch": "8.109",
+    "polyols": "0.003",
+    "fibre": "1.3",
+    "protein": "2.6",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A3020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

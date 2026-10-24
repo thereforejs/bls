@@ -1,0 +1,44 @@
+{
+  "code": "W164100",
+  "name": {
+    "de": "Schinkenwurst Krakauer Art (Rohwurst)",
+    "en": "Ham bologna Krakow style raw"
+  },
+  "per100g": {
+    "fat": "21.75",
+    "saturates": "8.18",
+    "monounsaturates": "7.8",
+    "polyunsaturates": "2.44",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "24.13",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W164100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

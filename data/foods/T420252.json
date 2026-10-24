@@ -1,0 +1,44 @@
+{
+  "code": "T420252",
+  "name": {
+    "de": "Forelle tiefgefroren, gedünstet",
+    "en": "Trout deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "5.048",
+    "saturates": "0.844",
+    "monounsaturates": "0.975",
+    "polyunsaturates": "1.282",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.768",
+    "sodium": "0.111",
+    "alcohol": "0",
+    "organicAcids": "0.571"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T420252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

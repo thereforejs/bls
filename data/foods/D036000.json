@@ -1,0 +1,44 @@
+{
+  "code": "D036000",
+  "name": {
+    "de": "Butterzwieback",
+    "en": "Butter rusk"
+  },
+  "per100g": {
+    "fat": "9.51",
+    "saturates": "5.49",
+    "monounsaturates": "2.01",
+    "polyunsaturates": "0.65",
+    "carbohydrate": "68",
+    "sugars": "8.38",
+    "starch": "60",
+    "polyols": "0",
+    "fibre": "5.22",
+    "protein": "13.21",
+    "sodium": "0.286",
+    "alcohol": "0",
+    "organicAcids": "0.029"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D036000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

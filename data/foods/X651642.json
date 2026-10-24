@@ -1,0 +1,44 @@
+{
+  "code": "X651642",
+  "name": {
+    "de": "Speckkartoffeln gedünstet",
+    "en": "Potatoes stewed with bacon"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.4",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.105",
+    "carbohydrate": "12.018",
+    "sugars": "0.625",
+    "starch": "11.393",
+    "polyols": "0",
+    "fibre": "0.964",
+    "protein": "2.04",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651642",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

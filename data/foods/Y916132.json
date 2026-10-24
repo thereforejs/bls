@@ -1,0 +1,44 @@
+{
+  "code": "Y916132",
+  "name": {
+    "de": "Brühwurst mit Kartoffelsalat und Senf",
+    "en": "Scalded sausage with potato salad and mustard"
+  },
+  "per100g": {
+    "fat": "12.3",
+    "saturates": "2.7",
+    "monounsaturates": "6.01",
+    "polyunsaturates": "2.39",
+    "carbohydrate": "6.2",
+    "sugars": "0.73",
+    "starch": "5.47",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "6.6",
+    "sodium": "0.4",
+    "alcohol": "0.003",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y916132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

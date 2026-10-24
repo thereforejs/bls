@@ -1,0 +1,44 @@
+{
+  "code": "G311252",
+  "name": {
+    "de": "Blumenkohl tiefgefroren, gedünstet",
+    "en": "Cauliflower deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.338",
+    "saturates": "0.051",
+    "monounsaturates": "0.0081",
+    "polyunsaturates": "0.167",
+    "carbohydrate": "6.11",
+    "sugars": "2.48",
+    "starch": "0.209",
+    "polyols": "3.42",
+    "fibre": "3.5",
+    "protein": "1.4",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G311252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

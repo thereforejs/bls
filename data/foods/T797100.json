@@ -1,0 +1,44 @@
+{
+  "code": "T797100",
+  "name": {
+    "de": "Venusmuschel roh",
+    "en": "Venus clam raw"
+  },
+  "per100g": {
+    "fat": "0.96",
+    "saturates": "0.19",
+    "monounsaturates": "0.073",
+    "polyunsaturates": "0.176",
+    "carbohydrate": "1.4",
+    "sugars": "0",
+    "starch": "1.4",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.7",
+    "sodium": "0.329",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T797100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

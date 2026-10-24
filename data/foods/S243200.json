@@ -1,0 +1,44 @@
+{
+  "code": "S243200",
+  "name": {
+    "de": "Speiseeis (Nuss, Schoko, Vanille) gemischt, mit Eierlikör",
+    "en": "Ice cream mixed (chocolate, vanilla, nut) with egg liqueur"
+  },
+  "per100g": {
+    "fat": "10.65",
+    "saturates": "6.2",
+    "monounsaturates": "2.45",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "26.4",
+    "sugars": "22.5",
+    "starch": "3.86",
+    "polyols": "0.001",
+    "fibre": "1.33",
+    "protein": "3.24",
+    "sodium": "0.039",
+    "alcohol": "1.84",
+    "organicAcids": "0.357"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S243200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

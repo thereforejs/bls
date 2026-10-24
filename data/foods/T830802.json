@@ -1,0 +1,44 @@
+{
+  "code": "T830802",
+  "name": {
+    "de": "Bratmakrele Konserve, abgetropft",
+    "en": "Fried mackerel canned, drained"
+  },
+  "per100g": {
+    "fat": "6.68",
+    "saturates": "1.17",
+    "monounsaturates": "2.43",
+    "polyunsaturates": "1.61",
+    "carbohydrate": "5.91",
+    "sugars": "3.349",
+    "starch": "2.56",
+    "polyols": "0",
+    "fibre": "0.31",
+    "protein": "13.8",
+    "sodium": "0.514",
+    "alcohol": "0",
+    "organicAcids": "1.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T830802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

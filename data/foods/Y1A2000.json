@@ -1,0 +1,44 @@
+{
+  "code": "Y1A2000",
+  "name": {
+    "de": "Saure Nieren (Rind)",
+    "en": "Sour beef kidneys"
+  },
+  "per100g": {
+    "fat": "19.1",
+    "saturates": "5.9",
+    "monounsaturates": "7.9",
+    "polyunsaturates": "2.41",
+    "carbohydrate": "2.7",
+    "sugars": "1.2",
+    "starch": "1.52",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "24.9",
+    "sodium": "0.8",
+    "alcohol": "0.002",
+    "organicAcids": "0.75"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y1A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G210902",
+  "name": {
+    "de": "Spinat Konserve, abgetropft",
+    "en": "Spinach canned, drained"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.03",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.161",
+    "carbohydrate": "0.31",
+    "sugars": "0.261",
+    "starch": "0.049",
+    "polyols": "0",
+    "fibre": "1.716",
+    "protein": "2.2",
+    "sodium": "0.236",
+    "alcohol": "0",
+    "organicAcids": "0.035"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G210902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

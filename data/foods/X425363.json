@@ -1,0 +1,44 @@
+{
+  "code": "X425363",
+  "name": {
+    "de": "Rinderkraftbrühe mit Gemüse",
+    "en": "Beef consomme with vegetables"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.837",
+    "monounsaturates": "0.284",
+    "polyunsaturates": "0.067",
+    "carbohydrate": "1.2",
+    "sugars": "1",
+    "starch": "0",
+    "polyols": "0.16",
+    "fibre": "0.7",
+    "protein": "0.9",
+    "sodium": "0.228",
+    "alcohol": "0",
+    "organicAcids": "0.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X425363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

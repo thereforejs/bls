@@ -1,0 +1,44 @@
+{
+  "code": "C512800",
+  "name": {
+    "de": "Müslimischung mit Schokolade, glutenfrei, gesüßt",
+    "en": "Muesli mix with chocolate, gluten-free, sweetenend"
+  },
+  "per100g": {
+    "fat": "14.7",
+    "saturates": "7.6",
+    "monounsaturates": "4.41",
+    "polyunsaturates": "1.7",
+    "carbohydrate": "60.5",
+    "sugars": "24.6",
+    "starch": "35.8",
+    "polyols": "0.096",
+    "fibre": "5.4",
+    "protein": "7.1",
+    "sodium": "0.34",
+    "alcohol": "0",
+    "organicAcids": "0.295"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C512800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

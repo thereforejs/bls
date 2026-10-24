@@ -1,0 +1,44 @@
+{
+  "code": "G670142",
+  "name": {
+    "de": "Wurzelpetersilie geschmort ohne Fett",
+    "en": "Parsley root braised without fat"
+  },
+  "per100g": {
+    "fat": "0.561",
+    "saturates": "0.09",
+    "monounsaturates": "0.038",
+    "polyunsaturates": "0.3006",
+    "carbohydrate": "16.6",
+    "sugars": "7.289",
+    "starch": "8",
+    "polyols": "0.988",
+    "fibre": "2.566",
+    "protein": "3.435",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G670142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

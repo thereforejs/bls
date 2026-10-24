@@ -1,0 +1,44 @@
+{
+  "code": "X760533",
+  "name": {
+    "de": "Cannelloni al forno, Teigwaren gefüllt mit Bologneser Sauce, mit Käse überbacken",
+    "en": "Cannelloni al forno (pasta rolls filled with Bolognese sauce, gratinated with cheese)"
+  },
+  "per100g": {
+    "fat": "14.1",
+    "saturates": "3.8",
+    "monounsaturates": "6.89",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "14.9",
+    "sugars": "2.2",
+    "starch": "12.72",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "11.34",
+    "sodium": "0.334",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X760533",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

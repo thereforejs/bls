@@ -1,0 +1,44 @@
+{
+  "code": "V465172",
+  "name": {
+    "de": "Ente Schenkel, mit Haut, gegrillt",
+    "en": "Duck leg, with skin, grilled"
+  },
+  "per100g": {
+    "fat": "17.81",
+    "saturates": "5.91",
+    "monounsaturates": "8.45",
+    "polyunsaturates": "2.3",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.39",
+    "sodium": "0.137",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V465172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

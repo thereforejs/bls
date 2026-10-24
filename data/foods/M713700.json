@@ -1,0 +1,44 @@
+{
+  "code": "M713700",
+  "name": {
+    "de": "Speisequark Rahmstufe, 50 % Fett i. Tr.",
+    "en": "Quark 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "14.5",
+    "saturates": "7.5",
+    "monounsaturates": "4.4",
+    "polyunsaturates": "0.58",
+    "carbohydrate": "2.9",
+    "sugars": "2.9",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "8.3",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M713700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

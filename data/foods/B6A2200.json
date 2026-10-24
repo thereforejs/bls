@@ -1,0 +1,44 @@
+{
+  "code": "B6A2200",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Buttermilch",
+    "en": "Wholemeal rye crispbread with buttermilk"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.28",
+    "monounsaturates": "0.26",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "58.9",
+    "sugars": "3.275",
+    "starch": "55.62",
+    "polyols": "0",
+    "fibre": "18.46",
+    "protein": "10.51",
+    "sodium": "0.545",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A2200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

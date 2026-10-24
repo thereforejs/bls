@@ -1,0 +1,44 @@
+{
+  "code": "D401100",
+  "name": {
+    "de": "Kartoffelkuchen (Rührmasse)",
+    "en": "Potato cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "18.21",
+    "saturates": "11.02",
+    "monounsaturates": "4.14",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "44.1",
+    "sugars": "23.787",
+    "starch": "20.3",
+    "polyols": "0",
+    "fibre": "1.58",
+    "protein": "5.02",
+    "sodium": "0.127",
+    "alcohol": "0",
+    "organicAcids": "0.0171"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D401100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

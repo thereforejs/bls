@@ -1,0 +1,44 @@
+{
+  "code": "W269200",
+  "name": {
+    "de": "Gänseleberkäse mit Schweinefleisch, getrüffelt",
+    "en": "Leberkaese sausage with goose liver and pork, truffled"
+  },
+  "per100g": {
+    "fat": "12.41",
+    "saturates": "4.5",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "1.23",
+    "carbohydrate": "0.69",
+    "sugars": "0",
+    "starch": "0.69",
+    "polyols": "0",
+    "fibre": "0.98",
+    "protein": "17.1",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W269200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

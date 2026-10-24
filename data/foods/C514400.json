@@ -1,0 +1,44 @@
+{
+  "code": "C514400",
+  "name": {
+    "de": "Knuspermüslimischung mit Trockenfrüchten, gesüßt",
+    "en": "Crunchy muesli mix with dried fruit, sweetened"
+  },
+  "per100g": {
+    "fat": "14.1",
+    "saturates": "7.1",
+    "monounsaturates": "4.24",
+    "polyunsaturates": "2.1",
+    "carbohydrate": "59.2",
+    "sugars": "27.4",
+    "starch": "31.7",
+    "polyols": "0.132",
+    "fibre": "7.1",
+    "protein": "7.9",
+    "sodium": "0.168",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C514400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

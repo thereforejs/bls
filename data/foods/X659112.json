@@ -1,0 +1,44 @@
+{
+  "code": "X659112",
+  "name": {
+    "de": "Schupfnudeln gegart, gebraten",
+    "en": "\"Schupfnudeln\" (German potato pasta ) cooked, fried"
+  },
+  "per100g": {
+    "fat": "13.62",
+    "saturates": "1.1",
+    "monounsaturates": "6.93",
+    "polyunsaturates": "3.33",
+    "carbohydrate": "24.14",
+    "sugars": "0.676",
+    "starch": "23.46",
+    "polyols": "0",
+    "fibre": "2.66",
+    "protein": "4.55",
+    "sodium": "0.115",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X659112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

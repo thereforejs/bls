@@ -1,0 +1,44 @@
+{
+  "code": "T417902",
+  "name": {
+    "de": "Wildlachs Konserve, abgetropft",
+    "en": "Pacific salmon canned, drained"
+  },
+  "per100g": {
+    "fat": "9.22",
+    "saturates": "1.976",
+    "monounsaturates": "2.924",
+    "polyunsaturates": "2.668",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.515",
+    "sodium": "0.287",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T417902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

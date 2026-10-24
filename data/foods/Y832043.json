@@ -1,0 +1,44 @@
+{
+  "code": "Y832043",
+  "name": {
+    "de": "Milchreispudding mit Mandeln und Sultaninen",
+    "en": "Rice pudding with almonds and sultanas"
+  },
+  "per100g": {
+    "fat": "9.2",
+    "saturates": "4.6",
+    "monounsaturates": "3",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "21.6",
+    "sugars": "9.1",
+    "starch": "12.5",
+    "polyols": "0.034",
+    "fibre": "1",
+    "protein": "5.9",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.194"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y832043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

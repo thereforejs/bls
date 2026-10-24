@@ -1,0 +1,44 @@
+{
+  "code": "T930782",
+  "name": {
+    "de": "Alaska-Seelachs im Backteig, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Alaska pollock in frying batter, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "12.59",
+    "saturates": "1.04",
+    "monounsaturates": "6.77",
+    "polyunsaturates": "3.44",
+    "carbohydrate": "22.26",
+    "sugars": "0.71",
+    "starch": "21.55",
+    "polyols": "0.001",
+    "fibre": "1.6",
+    "protein": "11.2",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.035"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T930782",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

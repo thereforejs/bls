@@ -1,0 +1,44 @@
+{
+  "code": "E470000",
+  "name": {
+    "de": "Eier-Frischteigwaren Ravioli (Gemüsefüllung) roh",
+    "en": "Fresh egg pasta Ravioli (vegetable filling) raw"
+  },
+  "per100g": {
+    "fat": "3.44",
+    "saturates": "0.5",
+    "monounsaturates": "0.9",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "42.4",
+    "sugars": "1.34",
+    "starch": "41.1",
+    "polyols": "0.001",
+    "fibre": "3.3",
+    "protein": "8.23",
+    "sodium": "0.46",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E470000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

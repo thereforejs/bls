@@ -1,0 +1,44 @@
+{
+  "code": "Y870440",
+  "name": {
+    "de": "Haselnusscreme, eingerührte Art (mit Stärke)",
+    "en": "Hazelnut cream (with starch)"
+  },
+  "per100g": {
+    "fat": "10.76",
+    "saturates": "2.79",
+    "monounsaturates": "6.25",
+    "polyunsaturates": "0.95",
+    "carbohydrate": "17.2",
+    "sugars": "12.98",
+    "starch": "4.2",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "6.5",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0.048"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y870440",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

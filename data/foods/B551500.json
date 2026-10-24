@@ -1,0 +1,44 @@
+{
+  "code": "B551500",
+  "name": {
+    "de": "Weizenmischbrötchen mit Sonnenblumenkernen",
+    "en": "Wheat-rye roll (> 50 % and < 90 % wheat) with sunflower seeds"
+  },
+  "per100g": {
+    "fat": "5.25",
+    "saturates": "1.06",
+    "monounsaturates": "1.63",
+    "polyunsaturates": "2.14",
+    "carbohydrate": "51",
+    "sugars": "1.9",
+    "starch": "49",
+    "polyols": "0",
+    "fibre": "5.95",
+    "protein": "9.6",
+    "sodium": "0.542",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B551500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

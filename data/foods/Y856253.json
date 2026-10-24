@@ -1,0 +1,44 @@
+{
+  "code": "Y856253",
+  "name": {
+    "de": "Weingelee mit Früchten",
+    "en": "Wine jelly with fruit"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.047",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.067",
+    "carbohydrate": "17.3",
+    "sugars": "17",
+    "starch": "0.237",
+    "polyols": "0.1",
+    "fibre": "0.6",
+    "protein": "1.3",
+    "sodium": "0.005",
+    "alcohol": "1.15",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y856253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

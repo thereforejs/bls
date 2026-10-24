@@ -1,0 +1,44 @@
+{
+  "code": "Y913062",
+  "name": {
+    "de": "Bockwurst mit Brötchen und Senf",
+    "en": "Bockwurst with roll and mustard"
+  },
+  "per100g": {
+    "fat": "14.46",
+    "saturates": "5.13",
+    "monounsaturates": "6.63",
+    "polyunsaturates": "1.94",
+    "carbohydrate": "18.79",
+    "sugars": "1.16",
+    "starch": "17.63",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "11.44",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.067"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y913062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

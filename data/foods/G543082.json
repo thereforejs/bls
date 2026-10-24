@@ -1,0 +1,44 @@
+{
+  "code": "G543082",
+  "name": {
+    "de": "Gemüsepaprika rot, gebraten ohne Fett (Pfanne)",
+    "en": "Sweet pepper red, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.339",
+    "saturates": "0.0548",
+    "monounsaturates": "0.0042",
+    "polyunsaturates": "0.1806",
+    "carbohydrate": "10.49",
+    "sugars": "10.49",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "3.729",
+    "protein": "1.737",
+    "sodium": "0.00212",
+    "alcohol": "0",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G543082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

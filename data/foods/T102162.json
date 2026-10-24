@@ -1,0 +1,44 @@
+{
+  "code": "T102162",
+  "name": {
+    "de": "Hering gebraten ohne Fett (Ofen)",
+    "en": "Herring fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "9.906",
+    "saturates": "2.576",
+    "monounsaturates": "3.197",
+    "polyunsaturates": "2.964",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "20.4",
+    "sodium": "0.102",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T102162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

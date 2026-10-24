@@ -1,0 +1,44 @@
+{
+  "code": "S135000",
+  "name": {
+    "de": "Marmelade (hergestellt aus Zitrusfrüchten)",
+    "en": "Marmalade"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.014",
+    "monounsaturates": "0.0277",
+    "polyunsaturates": "0.037876",
+    "carbohydrate": "57.8",
+    "sugars": "57.8",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "0.5",
+    "sodium": "0.004",
+    "alcohol": "0.2",
+    "organicAcids": "0.827"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S135000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

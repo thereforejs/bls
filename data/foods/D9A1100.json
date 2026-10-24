@@ -1,0 +1,44 @@
+{
+  "code": "D9A1100",
+  "name": {
+    "de": "Vollkornblätterteig eifrei, gebacken",
+    "en": "Wholemeal puff pastry egg-free, baked"
+  },
+  "per100g": {
+    "fat": "41.16",
+    "saturates": "16.381",
+    "monounsaturates": "17.816",
+    "polyunsaturates": "6.346",
+    "carbohydrate": "31.21",
+    "sugars": "0.37568",
+    "starch": "30.83",
+    "polyols": "0",
+    "fibre": "6.2",
+    "protein": "6.45",
+    "sodium": "0.201",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

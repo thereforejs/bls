@@ -1,0 +1,44 @@
+{
+  "code": "V516142",
+  "name": {
+    "de": "Hammel Herz, geschmort ohne Fett",
+    "en": "Mutton heart, braised without fat"
+  },
+  "per100g": {
+    "fat": "10.3",
+    "saturates": "3.9",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "30.113",
+    "sodium": "0.134",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V516142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

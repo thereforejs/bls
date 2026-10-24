@@ -1,0 +1,44 @@
+{
+  "code": "D461602",
+  "name": {
+    "de": "Brioches (Hefeteig) ungefüllt",
+    "en": "Brioches (yeast dough) without filling"
+  },
+  "per100g": {
+    "fat": "25.1",
+    "saturates": "14.66",
+    "monounsaturates": "5.91",
+    "polyunsaturates": "1.16",
+    "carbohydrate": "38.4",
+    "sugars": "4.586",
+    "starch": "33.8",
+    "polyols": "0",
+    "fibre": "2.8",
+    "protein": "10.4",
+    "sodium": "0.233",
+    "alcohol": "0",
+    "organicAcids": "0.0223"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D461602",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

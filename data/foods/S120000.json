@@ -1,0 +1,47 @@
+{
+  "code": "S120000",
+  "name": {
+    "de": "Honig",
+    "en": "Honey"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "74.091",
+    "sugars": "70.764",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "0.4",
+    "sodium": "0.003",
+    "alcohol": "0.004",
+    "organicAcids": null
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ",
+    "fibre": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S120000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

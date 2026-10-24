@@ -1,0 +1,44 @@
+{
+  "code": "Q590000",
+  "name": {
+    "de": "Käsealternative, Basis Pflanzenfett, vegan",
+    "en": "Plant-based cheese alternative, vegetable fat based, vegan"
+  },
+  "per100g": {
+    "fat": "23.043",
+    "saturates": "20.2",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "21.168",
+    "sugars": "0",
+    "starch": "21.168",
+    "polyols": "0",
+    "fibre": "0.252",
+    "protein": "0.156",
+    "sodium": "0.861",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q590000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

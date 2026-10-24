@@ -1,0 +1,44 @@
+{
+  "code": "X742423",
+  "name": {
+    "de": "Eierteigwaren gebraten mit Gemüse und Ei",
+    "en": "Egg pasta fried with vegetables and egg"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "0.8",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "14.2",
+    "sugars": "1.52",
+    "starch": "12.7",
+    "polyols": "0.02",
+    "fibre": "1.5",
+    "protein": "6.1",
+    "sodium": "0.161",
+    "alcohol": "0",
+    "organicAcids": "0.043"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X742423",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

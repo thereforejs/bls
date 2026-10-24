@@ -1,0 +1,44 @@
+{
+  "code": "K713062",
+  "name": {
+    "de": "Pfifferling gebacken",
+    "en": "Chanterelle baked"
+  },
+  "per100g": {
+    "fat": "0.376",
+    "saturates": "0.067",
+    "monounsaturates": "0.008",
+    "polyunsaturates": "0.189",
+    "carbohydrate": "0.765",
+    "sugars": "0.223",
+    "starch": null,
+    "polyols": "0.542",
+    "fibre": "4.542",
+    "protein": "5.431",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K713062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

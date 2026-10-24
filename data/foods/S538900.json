@@ -1,0 +1,44 @@
+{
+  "code": "S538900",
+  "name": {
+    "de": "Vollmilchschokolade mit alkoholhaltiger Füllung",
+    "en": "Whole milk chocolate with alcoholic filling"
+  },
+  "per100g": {
+    "fat": "23.5",
+    "saturates": "14.15",
+    "monounsaturates": "6.98",
+    "polyunsaturates": "0.77",
+    "carbohydrate": "54.84",
+    "sugars": "54.42",
+    "starch": "0.423",
+    "polyols": "0",
+    "fibre": "1.69",
+    "protein": "8.5",
+    "sodium": "0.059",
+    "alcohol": "3.1",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S538900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

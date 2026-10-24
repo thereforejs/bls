@@ -1,0 +1,44 @@
+{
+  "code": "B111500",
+  "name": {
+    "de": "Weizenvollkornbrot mit Ölsamen",
+    "en": "Wholemeal wheat bread with oilseeds"
+  },
+  "per100g": {
+    "fat": "3.25",
+    "saturates": "0.41",
+    "monounsaturates": "0.77",
+    "polyunsaturates": "1.63",
+    "carbohydrate": "38",
+    "sugars": "1.1",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "8.03",
+    "protein": "9.3",
+    "sodium": "0.45",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B111500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

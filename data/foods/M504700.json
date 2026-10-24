@@ -1,0 +1,44 @@
+{
+  "code": "M504700",
+  "name": {
+    "de": "Weißlacker mind. 50 % Fett i. Tr.",
+    "en": "Weisslacker cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "27",
+    "saturates": "14.1",
+    "monounsaturates": "8.1",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "0.01",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "20",
+    "sodium": "1.4",
+    "alcohol": "0",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M504700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

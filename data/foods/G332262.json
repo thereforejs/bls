@@ -1,0 +1,44 @@
+{
+  "code": "G332262",
+  "name": {
+    "de": "Rosenkohl tiefgefroren, gebacken",
+    "en": "Brussels sprouts deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "0.445",
+    "saturates": "0.0668",
+    "monounsaturates": "0.0104",
+    "polyunsaturates": "0.254",
+    "carbohydrate": "2.96",
+    "sugars": "2.07",
+    "starch": "0.64",
+    "polyols": "0.25",
+    "fibre": "5.8",
+    "protein": "5.816",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0.835"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G332262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

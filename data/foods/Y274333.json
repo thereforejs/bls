@@ -1,0 +1,44 @@
+{
+  "code": "Y274333",
+  "name": {
+    "de": "Kalbslungenhaschee sauer mit Sauce",
+    "en": "Veal lung ragout sour with sauce"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "1",
+    "monounsaturates": "1.8",
+    "polyunsaturates": "1.01",
+    "carbohydrate": "3.23",
+    "sugars": "0.4",
+    "starch": "2.83",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "9.41",
+    "sodium": "0.236",
+    "alcohol": "0.002",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y274333",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

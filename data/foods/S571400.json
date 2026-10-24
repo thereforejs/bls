@@ -1,0 +1,44 @@
+{
+  "code": "S571400",
+  "name": {
+    "de": "Bitterschokolade mit Trüffelfüllung",
+    "en": "Dark chocolate filled with truffles"
+  },
+  "per100g": {
+    "fat": "37.77",
+    "saturates": "23.15",
+    "monounsaturates": "11.56",
+    "polyunsaturates": "1.24",
+    "carbohydrate": "40",
+    "sugars": "32.6",
+    "starch": "2.857",
+    "polyols": "2",
+    "fibre": "8.44",
+    "protein": "7.12",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.0015"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S571400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

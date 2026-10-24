@@ -1,0 +1,44 @@
+{
+  "code": "Y8A5060",
+  "name": {
+    "de": "Sahneflammeri/Sahnepudding (als Dessert) mit Schokoladensauce",
+    "en": "Cream pudding (as dessert) with chocolate sauce"
+  },
+  "per100g": {
+    "fat": "12.92",
+    "saturates": "6.91",
+    "monounsaturates": "3.44",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "17.4",
+    "sugars": "10.66",
+    "starch": "6.7",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "4",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.084"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A5060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

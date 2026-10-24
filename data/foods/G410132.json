@@ -1,0 +1,44 @@
+{
+  "code": "G410132",
+  "name": {
+    "de": "Artischocke gekocht",
+    "en": "Artichokes boiled"
+  },
+  "per100g": {
+    "fat": "0.146",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.27",
+    "sugars": "3.05",
+    "starch": "0.221",
+    "polyols": "0",
+    "fibre": "13.56",
+    "protein": "2.919",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G410132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

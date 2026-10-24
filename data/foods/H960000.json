@@ -1,0 +1,44 @@
+{
+  "code": "H960000",
+  "name": {
+    "de": "Hummus/Kichererbsenmus",
+    "en": "Hummus/chickpea puree"
+  },
+  "per100g": {
+    "fat": "28.5",
+    "saturates": "3.5",
+    "monounsaturates": "14",
+    "polyunsaturates": "9.5",
+    "carbohydrate": "8",
+    "sugars": "0.7",
+    "starch": "7",
+    "polyols": "0",
+    "fibre": "5.9",
+    "protein": "5.9",
+    "sodium": "0.392",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H960000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D660200",
+  "name": {
+    "de": "Marzipanmakronen",
+    "en": "Marzipan macaroons"
+  },
+  "per100g": {
+    "fat": "26.1",
+    "saturates": "2.25",
+    "monounsaturates": "16.62",
+    "polyunsaturates": "5.8",
+    "carbohydrate": "41.56",
+    "sugars": "41.419",
+    "starch": "0.14",
+    "polyols": "0",
+    "fibre": "5.4",
+    "protein": "11.2",
+    "sodium": "0.048",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D660200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

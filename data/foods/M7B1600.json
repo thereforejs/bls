@@ -1,0 +1,44 @@
+{
+  "code": "M7B1600",
+  "name": {
+    "de": "Frischkäse aus Schafmilch, Natur, mind. 45 % Fett i. Tr.",
+    "en": "Cream cheese made from sheep's milk, min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "16.42",
+    "saturates": "11.8",
+    "monounsaturates": "2.56",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "1.74",
+    "sugars": "1.74",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.94",
+    "sodium": "0.4195",
+    "alcohol": "0",
+    "organicAcids": "0.755"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M7B1600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

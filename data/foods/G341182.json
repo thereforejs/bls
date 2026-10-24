@@ -1,0 +1,44 @@
+{
+  "code": "G341182",
+  "name": {
+    "de": "Rotkohl gebraten ohne Fett (Pfanne)",
+    "en": "Red cabbage fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.34",
+    "saturates": "0.0631",
+    "monounsaturates": "0.0124",
+    "polyunsaturates": "0.184",
+    "carbohydrate": "7.042",
+    "sugars": "6.906",
+    "starch": "0.136",
+    "polyols": null,
+    "fibre": "4.7",
+    "protein": "2.949",
+    "sodium": "0.021",
+    "alcohol": "0",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G341182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

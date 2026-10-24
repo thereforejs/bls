@@ -1,0 +1,44 @@
+{
+  "code": "P9A7000",
+  "name": {
+    "de": "Cocktail, Pina Colada",
+    "en": "Cocktail, Pina colada"
+  },
+  "per100g": {
+    "fat": "3.924",
+    "saturates": "3.408",
+    "monounsaturates": "0.243",
+    "polyunsaturates": "0.077",
+    "carbohydrate": "2.8",
+    "sugars": "2.6",
+    "starch": "0",
+    "polyols": "0.223",
+    "fibre": "0.96",
+    "protein": "0.583",
+    "sodium": "0.006",
+    "alcohol": "5.5",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P9A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

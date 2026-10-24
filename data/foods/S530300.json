@@ -1,0 +1,44 @@
+{
+  "code": "S530300",
+  "name": {
+    "de": "Milchschokolade gefüllt mit Karamell",
+    "en": "Milk chocolate filled with caramel"
+  },
+  "per100g": {
+    "fat": "24",
+    "saturates": "13.78",
+    "monounsaturates": "7.57",
+    "polyunsaturates": "1.18",
+    "carbohydrate": "62.1",
+    "sugars": "51.6",
+    "starch": "0.72",
+    "polyols": "0",
+    "fibre": "1.99",
+    "protein": "4.5",
+    "sodium": "0.14",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S530300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W245000",
+  "name": {
+    "de": "Lyoner weiß",
+    "en": "White Lyoner sausage"
+  },
+  "per100g": {
+    "fat": "25.5",
+    "saturates": "9.01",
+    "monounsaturates": "10.32",
+    "polyunsaturates": "2.85",
+    "carbohydrate": "0.25",
+    "sugars": "0.24",
+    "starch": "0",
+    "polyols": "0.006",
+    "fibre": "0",
+    "protein": "12.25",
+    "sodium": "0.805",
+    "alcohol": "0",
+    "organicAcids": "0.627"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W245000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

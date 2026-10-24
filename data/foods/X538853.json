@@ -1,0 +1,44 @@
+{
+  "code": "X538853",
+  "name": {
+    "de": "Spitzkohl gedünstet (mit Fett und Salz)",
+    "en": "Pointed cabbage stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "0.3",
+    "monounsaturates": "2.12",
+    "polyunsaturates": "1",
+    "carbohydrate": "3.63",
+    "sugars": "3.53",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "2.2",
+    "protein": "1.01",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0.151"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X538853",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

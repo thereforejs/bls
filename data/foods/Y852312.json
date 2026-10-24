@@ -1,0 +1,44 @@
+{
+  "code": "Y852312",
+  "name": {
+    "de": "Quittenkompott mit Süßstoff",
+    "en": "Quince compote with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.322",
+    "saturates": "0.024",
+    "monounsaturates": "0.097",
+    "polyunsaturates": "0.132",
+    "carbohydrate": "5.3",
+    "sugars": "4.496",
+    "starch": "0.387",
+    "polyols": "0.4",
+    "fibre": "3.815",
+    "protein": "0.27",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y852312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

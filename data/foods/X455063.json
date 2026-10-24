@@ -1,0 +1,44 @@
+{
+  "code": "X455063",
+  "name": {
+    "de": "Brotsuppe (Schwarzbrot) mit Fleischbrühe, Gemüse und Speck",
+    "en": "Bread soup (brown bread) with meat stock, vegetables and bacon"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "0.9",
+    "monounsaturates": "2",
+    "polyunsaturates": "0.82",
+    "carbohydrate": "4.8",
+    "sugars": "1.6",
+    "starch": "3.24",
+    "polyols": "0.01",
+    "fibre": "1.5",
+    "protein": "1.53",
+    "sodium": "0.32",
+    "alcohol": "0",
+    "organicAcids": "0.174"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X455063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

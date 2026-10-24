@@ -24,7 +24,13 @@ in section 11 are not reopened without him.
 
 - The BLS ZIP lives in `docs/`, which is ignored and never committed, like any `HANDOFF.md`. The
   documentation PDF is linked, never redistributed. Read it with `pdftotext -layout`.
-- Generated data is checked in; the source XLSX is not.
+- **`data/foods/<code>.json` is the source of truth**, one file per food with its `sources`, maintained
+  by hand and by contributors. Values come only from a real, openly licensed source (registered in
+  `src/sources.ts`) with its entry id, or a lab report; never estimated.
+- `vp run import:bls` seeded `data/foods` from the BLS ZIP once. It is a tool for us and only writes
+  files that do not exist; it never overwrites maintained data.
+- `vp run generate` renders the ignored `src/foods/` from `data/foods`; run it after a fresh clone and
+  before `vp check`. Never edit `src/foods/` by hand.
 - Flo's private research notes are never referenced in the repo.
 - EUR-Lex blocks scripts. For the regulation use the EU publications server
   (`curl -H "Accept: application/xhtml+xml" -H "Accept-Language: deu"

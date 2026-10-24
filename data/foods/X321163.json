@@ -1,0 +1,44 @@
+{
+  "code": "X321163",
+  "name": {
+    "de": "Tomatensauce aus Tomatenmark",
+    "en": "Tomato sauce of tomato paste"
+  },
+  "per100g": {
+    "fat": "10.4",
+    "saturates": "0.75",
+    "monounsaturates": "5.97",
+    "polyunsaturates": "2.84",
+    "carbohydrate": "2.3",
+    "sugars": "2.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "0.5",
+    "sodium": "0.207",
+    "alcohol": "0",
+    "organicAcids": "0.178"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X321163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

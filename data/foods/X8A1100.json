@@ -1,0 +1,44 @@
+{
+  "code": "X8A1100",
+  "name": {
+    "de": "Sushi-Reis (Grundrezept)",
+    "en": "Sushi rice (ground recipe)"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.037",
+    "monounsaturates": "0.065",
+    "polyunsaturates": "0.067",
+    "carbohydrate": "22.7",
+    "sugars": "0.44",
+    "starch": "22.3",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "2.306",
+    "sodium": "0.041",
+    "alcohol": "0.001",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X8A1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X371143",
+  "name": {
+    "de": "Sauce Bearnaise/Bearner Sauce",
+    "en": "Bearnaise sauce"
+  },
+  "per100g": {
+    "fat": "21.1",
+    "saturates": "11.8",
+    "monounsaturates": "5.32",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "1.03",
+    "sugars": "0.95",
+    "starch": "0.077",
+    "polyols": "0.002",
+    "fibre": "0.1",
+    "protein": "2.9",
+    "sodium": "0.153",
+    "alcohol": "0.72",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X371143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H410400",
+  "name": {
+    "de": "Leinsamen geschrotet",
+    "en": "Linseed/flax seed, ground"
+  },
+  "per100g": {
+    "fat": "36.5",
+    "saturates": "3.597",
+    "monounsaturates": "7.141",
+    "polyunsaturates": "25.367",
+    "carbohydrate": "1.7",
+    "sugars": "1.21",
+    "starch": "0.5",
+    "polyols": "0",
+    "fibre": "21.565",
+    "protein": "22.27",
+    "sodium": "0.0568",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H410400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

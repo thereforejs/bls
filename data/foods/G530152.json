@@ -1,0 +1,44 @@
+{
+  "code": "G530152",
+  "name": {
+    "de": "Okra gedünstet",
+    "en": "Okra stewed"
+  },
+  "per100g": {
+    "fat": "0.217",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.32",
+    "sugars": "3.32",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "5.326",
+    "protein": "2.283",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G530152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

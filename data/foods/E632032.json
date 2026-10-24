@@ -1,0 +1,44 @@
+{
+  "code": "E632032",
+  "name": {
+    "de": "Dinkelteigwaren eifrei, gekocht",
+    "en": "Spelt pasta egg-free, boiled"
+  },
+  "per100g": {
+    "fat": "0.61",
+    "saturates": "0.06",
+    "monounsaturates": "0.09",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "28.72",
+    "sugars": "0.18635",
+    "starch": "28.53",
+    "polyols": "0",
+    "fibre": "2.88",
+    "protein": "5.83",
+    "sodium": "0.0003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E632032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

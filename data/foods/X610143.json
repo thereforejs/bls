@@ -1,0 +1,44 @@
+{
+  "code": "X610143",
+  "name": {
+    "de": "Rahmkartoffeln/Niedernauer Kartoffeln, gebraten",
+    "en": "Cream potatoes \"Niedernauer\" fried"
+  },
+  "per100g": {
+    "fat": "9.1",
+    "saturates": "2.2",
+    "monounsaturates": "4.1",
+    "polyunsaturates": "1.66",
+    "carbohydrate": "13.8",
+    "sugars": "1.8",
+    "starch": "12.004",
+    "polyols": "0",
+    "fibre": "1.647",
+    "protein": "4.37",
+    "sodium": "0.14",
+    "alcohol": "0",
+    "organicAcids": "0.053"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X610143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

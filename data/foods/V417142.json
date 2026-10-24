@@ -1,0 +1,44 @@
+{
+  "code": "V417142",
+  "name": {
+    "de": "Hähnchen Flügel, mit Haut, geschmort ohne Fett",
+    "en": "Chicken wings, with skin, braised without fat"
+  },
+  "per100g": {
+    "fat": "10.86",
+    "saturates": "2.346",
+    "monounsaturates": "3.695",
+    "polyunsaturates": "1.832",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.9",
+    "sodium": "0.0482",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V417142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

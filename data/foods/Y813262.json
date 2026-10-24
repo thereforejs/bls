@@ -1,0 +1,44 @@
+{
+  "code": "Y813262",
+  "name": {
+    "de": "Baba mit Rum",
+    "en": "\"Baba\" (yeast ring cake, drizzled with rum)"
+  },
+  "per100g": {
+    "fat": "8.7",
+    "saturates": "1.2",
+    "monounsaturates": "4.46",
+    "polyunsaturates": "2.3",
+    "carbohydrate": "50",
+    "sugars": "20.1",
+    "starch": "30",
+    "polyols": "0.072",
+    "fibre": "2.8",
+    "protein": "6.6",
+    "sodium": "0.178",
+    "alcohol": "0.5",
+    "organicAcids": "0.331"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y813262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

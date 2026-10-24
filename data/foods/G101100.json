@@ -1,0 +1,44 @@
+{
+  "code": "G101100",
+  "name": {
+    "de": "Chicoree roh",
+    "en": "Witloof chicory raw"
+  },
+  "per100g": {
+    "fat": "0.18",
+    "saturates": "0.03",
+    "monounsaturates": "0.0045",
+    "polyunsaturates": "0.102",
+    "carbohydrate": "1.3",
+    "sugars": "0.92",
+    "starch": "0.028",
+    "polyols": "0.1",
+    "fibre": "1.3",
+    "protein": "2.39",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.253"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G101100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

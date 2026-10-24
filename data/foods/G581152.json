@@ -1,0 +1,44 @@
+{
+  "code": "G581152",
+  "name": {
+    "de": "Kürbis Pumpkin (C. pepo) gedünstet",
+    "en": "Pumpkin (C. pepo) stewed"
+  },
+  "per100g": {
+    "fat": "0.141",
+    "saturates": "0.037",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.07",
+    "carbohydrate": "6.32",
+    "sugars": "5.55",
+    "starch": "0.761",
+    "polyols": "0.009",
+    "fibre": "3.728",
+    "protein": "1.196",
+    "sodium": "0.000968",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G581152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

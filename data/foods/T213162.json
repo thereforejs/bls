@@ -1,0 +1,44 @@
+{
+  "code": "T213162",
+  "name": {
+    "de": "Alaska-Pollack/Alaska-Seelachs, gebraten ohne Fett (Ofen)",
+    "en": "Alaska pollock fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "1.05",
+    "saturates": "0.188",
+    "monounsaturates": "0.115",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.9",
+    "sodium": "0.134",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T213162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

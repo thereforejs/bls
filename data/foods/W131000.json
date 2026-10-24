@@ -1,0 +1,44 @@
+{
+  "code": "W131000",
+  "name": {
+    "de": "Zervelatwurst Ia",
+    "en": "Zervelatwurst sausage high quality"
+  },
+  "per100g": {
+    "fat": "27.54",
+    "saturates": "10.5",
+    "monounsaturates": "12.07",
+    "polyunsaturates": "2.98",
+    "carbohydrate": "0.21",
+    "sugars": "0",
+    "starch": "0.21",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "23.12",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W131000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

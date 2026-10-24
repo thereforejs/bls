@@ -1,0 +1,44 @@
+{
+  "code": "T424100",
+  "name": {
+    "de": "Meerforelle roh",
+    "en": "Sea trout raw"
+  },
+  "per100g": {
+    "fat": "3.61",
+    "saturates": "0.88",
+    "monounsaturates": "0.05",
+    "polyunsaturates": "0.456",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.4",
+    "sodium": "0.058",
+    "alcohol": "0",
+    "organicAcids": "0.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T424100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

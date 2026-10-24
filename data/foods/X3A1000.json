@@ -1,0 +1,44 @@
+{
+  "code": "X3A1000",
+  "name": {
+    "de": "Biersauce",
+    "en": "Beer sauce"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "0.64",
+    "monounsaturates": "1.66",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "4.2",
+    "sugars": "2.5",
+    "starch": "1.7",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "0.9",
+    "sodium": "0.155",
+    "alcohol": "0.671",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

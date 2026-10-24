@@ -1,0 +1,46 @@
+{
+  "code": "G470100",
+  "name": {
+    "de": "Porree/Lauch, roh",
+    "en": "Leek raw"
+  },
+  "per100g": {
+    "fat": "0.25",
+    "saturates": "0.044",
+    "monounsaturates": "0.0098",
+    "polyunsaturates": "0.104",
+    "carbohydrate": "5",
+    "sugars": "3.8",
+    "starch": "1",
+    "polyols": null,
+    "fibre": "2.2",
+    "protein": "2.14",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0.222"
+  },
+  "marks": {
+    "sodium": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G470100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

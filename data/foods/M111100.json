@@ -1,0 +1,44 @@
+{
+  "code": "M111100",
+  "name": {
+    "de": "Milch entrahmt, frisch, höchstens 0,1 % Fett, pasteurisiert",
+    "en": "Milk skimmed, fresh, max. 0.1 % fat, pasteurised"
+  },
+  "per100g": {
+    "fat": "0.07",
+    "saturates": "0.044",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.00132",
+    "carbohydrate": "4.8",
+    "sugars": "4.8",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.418",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M111100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

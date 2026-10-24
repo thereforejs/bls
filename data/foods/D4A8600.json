@@ -1,0 +1,44 @@
+{
+  "code": "D4A8600",
+  "name": {
+    "de": "Rotweinkuchen (Rührmasse)",
+    "en": "Red wine cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "28.01",
+    "saturates": "14.8",
+    "monounsaturates": "8.4",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "34.2",
+    "sugars": "18.2",
+    "starch": "16",
+    "polyols": "0.003",
+    "fibre": "3.4",
+    "protein": "7.92",
+    "sodium": "0.134",
+    "alcohol": "0.26",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A8600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "M111200",
+  "name": {
+    "de": "Milch fettarm, frisch, 1,5 % Fett, pasteurisiert",
+    "en": "Milk low-fat, fresh, 1.5 % fat, pasteurised"
+  },
+  "per100g": {
+    "fat": "1.54",
+    "saturates": "1.012",
+    "monounsaturates": "0.349",
+    "polyunsaturates": "0.03",
+    "carbohydrate": "3.86",
+    "sugars": "3.86",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.49",
+    "sodium": "0.0352",
+    "alcohol": null,
+    "organicAcids": "0.081"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M111200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

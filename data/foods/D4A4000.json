@@ -1,0 +1,44 @@
+{
+  "code": "D4A4000",
+  "name": {
+    "de": "Kürbis-Mandel-Kuchen (Biskuitmasse)",
+    "en": "Pumpkin almond cake (sponge cake)"
+  },
+  "per100g": {
+    "fat": "13.61",
+    "saturates": "1.52",
+    "monounsaturates": "8.09",
+    "polyunsaturates": "2.9",
+    "carbohydrate": "27",
+    "sugars": "22.17",
+    "starch": "4.8",
+    "polyols": "0.003",
+    "fibre": "4.1",
+    "protein": "9.25",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

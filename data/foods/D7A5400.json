@@ -1,0 +1,44 @@
+{
+  "code": "D7A5400",
+  "name": {
+    "de": "Milchbrötchen (Hefeteig)",
+    "en": "Milk roll (yeast dough)"
+  },
+  "per100g": {
+    "fat": "11.54",
+    "saturates": "6.5",
+    "monounsaturates": "2.73",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "48",
+    "sugars": "10.79",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "2.96",
+    "protein": "8.9",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.023"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A5400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

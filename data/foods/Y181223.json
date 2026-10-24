@@ -1,0 +1,44 @@
+{
+  "code": "Y181223",
+  "name": {
+    "de": "Rinderrauchfleisch gekocht, in Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Smoked, cured beef, boiled, in cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "2",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "2.81",
+    "sugars": "0.47",
+    "starch": "2.34",
+    "polyols": "0",
+    "fibre": "0.18",
+    "protein": "13.62",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y181223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

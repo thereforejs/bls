@@ -1,0 +1,44 @@
+{
+  "code": "D771600",
+  "name": {
+    "de": "Croissant (Hefeblätterteig/Plunderteig)",
+    "en": "Danish pastry croissant"
+  },
+  "per100g": {
+    "fat": "23.57",
+    "saturates": "13.52",
+    "monounsaturates": "7.06",
+    "polyunsaturates": "1.99",
+    "carbohydrate": "44",
+    "sugars": "7.2",
+    "starch": "36",
+    "polyols": "0",
+    "fibre": "2.62",
+    "protein": "8",
+    "sodium": "0.349",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M114300",
+  "name": {
+    "de": "Vollmilch 3,5 % Fett, laktosefrei, pasteurisiert",
+    "en": "Whole milk, fresh, 3.5 % fat, lactose-free, pasteurised"
+  },
+  "per100g": {
+    "fat": "3.49",
+    "saturates": "2.39",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.12",
+    "carbohydrate": "4.15",
+    "sugars": "4.15",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.55",
+    "sodium": "0.0349",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M114300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G630132",
+  "name": {
+    "de": "Meerrettich gekocht",
+    "en": "Horseradish boiled"
+  },
+  "per100g": {
+    "fat": "0.284",
+    "saturates": "0.046",
+    "monounsaturates": "0.028",
+    "polyunsaturates": "0.158",
+    "carbohydrate": "11.055",
+    "sugars": "7.815",
+    "starch": "3.24",
+    "polyols": null,
+    "fibre": "4.197",
+    "protein": "5.566",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G630132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

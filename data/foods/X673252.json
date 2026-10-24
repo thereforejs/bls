@@ -1,0 +1,44 @@
+{
+  "code": "X673252",
+  "name": {
+    "de": "Kartoffelklöße von gekochten Kartoffeln, gebraten mit Eiermilch",
+    "en": "Potato dumplings from boiled potatoes, fried with egg-milk mix"
+  },
+  "per100g": {
+    "fat": "17.82",
+    "saturates": "2.92",
+    "monounsaturates": "8.08",
+    "polyunsaturates": "3.64",
+    "carbohydrate": "18.76",
+    "sugars": "1.56",
+    "starch": "17.2",
+    "polyols": "0",
+    "fibre": "1.63",
+    "protein": "7.03",
+    "sodium": "0.265",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X673252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

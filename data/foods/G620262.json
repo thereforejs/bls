@@ -1,0 +1,44 @@
+{
+  "code": "G620262",
+  "name": {
+    "de": "Karotte/Möhre, tiefgefroren, gebacken",
+    "en": "Carrot deep-frozen, baked"
+  },
+  "per100g": {
+    "fat": "0.495",
+    "saturates": "0.1152",
+    "monounsaturates": "0.1283",
+    "polyunsaturates": "0.0926",
+    "carbohydrate": "7.613",
+    "sugars": "7.494",
+    "starch": "0.1191",
+    "polyols": "0",
+    "fibre": "3.6",
+    "protein": "0.882",
+    "sodium": "0.0253",
+    "alcohol": "0",
+    "organicAcids": "0.531"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

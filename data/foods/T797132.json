@@ -1,0 +1,44 @@
+{
+  "code": "T797132",
+  "name": {
+    "de": "Venusmuschel gekocht",
+    "en": "Venus clam boiled"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0.23",
+    "monounsaturates": "0.092",
+    "polyunsaturates": "0.221",
+    "carbohydrate": "1.8",
+    "sugars": "0",
+    "starch": "1.8",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.8",
+    "sodium": "0.35",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T797132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

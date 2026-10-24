@@ -1,0 +1,44 @@
+{
+  "code": "D7B5100",
+  "name": {
+    "de": "Kekse/Plätzchen, kakaohaltig (Rührmasse) schokoliert",
+    "en": "Biscuits, containig cocoa (cake batter) with chocolate icing"
+  },
+  "per100g": {
+    "fat": "30.83",
+    "saturates": "17.65",
+    "monounsaturates": "8.27",
+    "polyunsaturates": "1.56",
+    "carbohydrate": "53.8",
+    "sugars": "31.2",
+    "starch": "22.6",
+    "polyols": "0",
+    "fibre": "4.38",
+    "protein": "6.8",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.0202"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B5100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

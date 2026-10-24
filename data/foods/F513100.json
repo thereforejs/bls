@@ -1,0 +1,44 @@
+{
+  "code": "F513100",
+  "name": {
+    "de": "Guave roh",
+    "en": "Guava raw"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.143",
+    "monounsaturates": "0.045",
+    "polyunsaturates": "0.211",
+    "carbohydrate": "6",
+    "sugars": "5.82",
+    "starch": "0.2",
+    "polyols": null,
+    "fibre": "5.2",
+    "protein": "0.9",
+    "sodium": "0.004",
+    "alcohol": null,
+    "organicAcids": "0.862"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F513100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

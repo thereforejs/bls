@@ -1,0 +1,44 @@
+{
+  "code": "D187300",
+  "name": {
+    "de": "Apfel-Streuselkuchen (Rührmasse)",
+    "en": "Apple crumble tart (cake batter)"
+  },
+  "per100g": {
+    "fat": "9.09",
+    "saturates": "5.57",
+    "monounsaturates": "1.98",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "30",
+    "sugars": "14.7",
+    "starch": "14.9",
+    "polyols": "0.44",
+    "fibre": "2.34",
+    "protein": "3.1",
+    "sodium": "0.051",
+    "alcohol": "0.003",
+    "organicAcids": "0.273"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D187300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

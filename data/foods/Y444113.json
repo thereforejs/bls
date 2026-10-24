@@ -1,0 +1,44 @@
+{
+  "code": "Y444113",
+  "name": {
+    "de": "Lammragout orientalische Art",
+    "en": "Lamb ragout oriental style"
+  },
+  "per100g": {
+    "fat": "12.6",
+    "saturates": "5",
+    "monounsaturates": "5",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "5.6",
+    "sugars": "3.4",
+    "starch": "2.05",
+    "polyols": "0.2",
+    "fibre": "1.2",
+    "protein": "14.7",
+    "sodium": "0.4",
+    "alcohol": "0.003",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y444113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

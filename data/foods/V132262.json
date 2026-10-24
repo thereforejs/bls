@@ -1,0 +1,44 @@
+{
+  "code": "V132262",
+  "name": {
+    "de": "Kaninchen Fleisch, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Domestic rabbit meat, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "5.7",
+    "saturates": "2.2",
+    "monounsaturates": null,
+    "polyunsaturates": null,
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.7",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V132262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M505600",
+  "name": {
+    "de": "Trappistenkäse mind. 45 % Fett i. Tr.",
+    "en": "Trappista cheese min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "26.8",
+    "saturates": "14",
+    "monounsaturates": "8",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "0.01",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "0",
+    "protein": "25.1",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M505600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

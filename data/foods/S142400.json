@@ -1,0 +1,44 @@
+{
+  "code": "S142400",
+  "name": {
+    "de": "Birnenkraut",
+    "en": "Pear butter, sweetened"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.126",
+    "monounsaturates": "0.1414",
+    "polyunsaturates": "0.322",
+    "carbohydrate": "47.7",
+    "sugars": "40.9",
+    "starch": "0.131",
+    "polyols": "6.7",
+    "fibre": "7.3",
+    "protein": "0.8",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.76"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S142400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

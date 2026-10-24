@@ -1,0 +1,44 @@
+{
+  "code": "D011000",
+  "name": {
+    "de": "Backerbsen",
+    "en": "Soup pearls"
+  },
+  "per100g": {
+    "fat": "24.09",
+    "saturates": "2.6",
+    "monounsaturates": "7.3",
+    "polyunsaturates": "13",
+    "carbohydrate": "50.7",
+    "sugars": "1.76",
+    "starch": "48.9",
+    "polyols": "0",
+    "fibre": "5.23",
+    "protein": "9.81",
+    "sodium": "1.084",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D011000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

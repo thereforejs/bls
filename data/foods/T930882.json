@@ -1,0 +1,44 @@
+{
+  "code": "T930882",
+  "name": {
+    "de": "Fischfrikadelle (Alaska-Seelachs) paniert, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Fishcake (Alaska pollock) breaded, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.73",
+    "saturates": "0.2",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "17.9",
+    "sugars": "0.4",
+    "starch": "17.5",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "9.8",
+    "sodium": "0.432",
+    "alcohol": "0",
+    "organicAcids": "0.014"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T930882",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

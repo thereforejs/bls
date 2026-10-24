@@ -1,0 +1,44 @@
+{
+  "code": "X492343",
+  "name": {
+    "de": "Pflaumensuppe passiert",
+    "en": "Plum puree soup, strained"
+  },
+  "per100g": {
+    "fat": "0.165",
+    "saturates": "0.022",
+    "monounsaturates": "0.051",
+    "polyunsaturates": "0.076",
+    "carbohydrate": "16.6",
+    "sugars": "14.06",
+    "starch": "0",
+    "polyols": "2.535",
+    "fibre": "1.7",
+    "protein": "0.29",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X492343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

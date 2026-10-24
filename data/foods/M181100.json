@@ -1,0 +1,44 @@
+{
+  "code": "M181100",
+  "name": {
+    "de": "Kondensmagermilch max. 1 % Fett, gezuckert",
+    "en": "Condensed milk max. 1 % fat, sweetened"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.1158",
+    "monounsaturates": "0.055",
+    "polyunsaturates": "0.00086",
+    "carbohydrate": "56.7",
+    "sugars": "56.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10",
+    "sodium": "0.18",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M181100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

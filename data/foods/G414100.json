@@ -1,0 +1,44 @@
+{
+  "code": "G414100",
+  "name": {
+    "de": "Gemüseartischocke/Kardone, roh",
+    "en": "Cardoon raw"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.011",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.69",
+    "sugars": "2.51",
+    "starch": "0.182",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "0.7",
+    "sodium": "0.17",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G414100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

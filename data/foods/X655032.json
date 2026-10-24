@@ -1,0 +1,44 @@
+{
+  "code": "X655032",
+  "name": {
+    "de": "Kartoffelpuffer/Reibekuchen (mit saurer Sahne und Grieß) gebraten",
+    "en": "Potato pancakes (with sour cream and semolina) fried"
+  },
+  "per100g": {
+    "fat": "8.9",
+    "saturates": "0.9",
+    "monounsaturates": "4.7",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "21.6",
+    "sugars": "1.5",
+    "starch": "20.09",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "3.6",
+    "sodium": "0.15",
+    "alcohol": "0",
+    "organicAcids": "0.027"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X655032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

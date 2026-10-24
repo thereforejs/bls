@@ -1,0 +1,44 @@
+{
+  "code": "S450000",
+  "name": {
+    "de": "Nugat/Nougat/Noisette",
+    "en": "Nougat"
+  },
+  "per100g": {
+    "fat": "15.2",
+    "saturates": "3.3",
+    "monounsaturates": "9.9",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "76.5",
+    "sugars": "76",
+    "starch": "0.5",
+    "polyols": "0",
+    "fibre": "1.486",
+    "protein": "3.812",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S450000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

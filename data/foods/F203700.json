@@ -1,0 +1,44 @@
+{
+  "code": "F203700",
+  "name": {
+    "de": "Pfirsichnektar",
+    "en": "Peach nectar"
+  },
+  "per100g": {
+    "fat": "0.044",
+    "saturates": "0.0036",
+    "monounsaturates": "0.013",
+    "polyunsaturates": "0.017",
+    "carbohydrate": "11.6",
+    "sugars": "11.14",
+    "starch": "0",
+    "polyols": "0.46",
+    "fibre": "0.1",
+    "protein": "0.3",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F203700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "U753100",
+  "name": {
+    "de": "Schaf Gulasch (Bug, fett) roh",
+    "en": "Sheep goulash (shoulder, fat) raw"
+  },
+  "per100g": {
+    "fat": "25",
+    "saturates": "11.4",
+    "monounsaturates": "9.8",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.2",
+    "sodium": "0.097",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U753100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

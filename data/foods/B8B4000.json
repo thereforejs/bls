@@ -1,0 +1,44 @@
+{
+  "code": "B8B4000",
+  "name": {
+    "de": "Weizenknusperbrot",
+    "en": "Wheat crackerbread"
+  },
+  "per100g": {
+    "fat": "3.4",
+    "saturates": "0.4",
+    "monounsaturates": "0.7",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "71.2",
+    "sugars": "5.1",
+    "starch": "66.1",
+    "polyols": "0",
+    "fibre": "6.28",
+    "protein": "13.2",
+    "sodium": "0.45",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8B4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X230610",
+  "name": {
+    "de": "Lollo-Rosso-Salat mit Essigmarinade",
+    "en": "Lollo Rosso salad with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "16.04",
+    "saturates": "1.16",
+    "monounsaturates": "9.19",
+    "polyunsaturates": "4.39",
+    "carbohydrate": "1.2",
+    "sugars": "1.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "0.83",
+    "sodium": "0.138",
+    "alcohol": "0.01",
+    "organicAcids": "0.94"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X230610",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

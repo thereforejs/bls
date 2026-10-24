@@ -1,0 +1,44 @@
+{
+  "code": "M141100",
+  "name": {
+    "de": "Joghurt aus entrahmter Milch, max. 0,5 % Fett",
+    "en": "Yogurt from skimmed milk, max. 0.5 % fat"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.0577",
+    "monounsaturates": "0.027",
+    "polyunsaturates": "0.00043",
+    "carbohydrate": "5.83",
+    "sugars": "5.83",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "5.27",
+    "sodium": "0.055",
+    "alcohol": "0",
+    "organicAcids": "0.869"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M141100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

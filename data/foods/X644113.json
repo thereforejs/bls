@@ -1,0 +1,44 @@
+{
+  "code": "X644113",
+  "name": {
+    "de": "Kartoffel-Tomaten-Gratin mit Mozzarella",
+    "en": "Potato gratin with tomatoes and mozzarella"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "2.9",
+    "monounsaturates": "1.35",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "9.09",
+    "sugars": "1.79",
+    "starch": "7.3",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "2.76",
+    "sodium": "0.163",
+    "alcohol": "0",
+    "organicAcids": "0.164"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X644113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D1A3000",
+  "name": {
+    "de": "Apfelkuchen (Quark-Öl-Teig)",
+    "en": "Apple cake (quark oil dough)"
+  },
+  "per100g": {
+    "fat": "6.34",
+    "saturates": "0.6",
+    "monounsaturates": "1.9",
+    "polyunsaturates": "3.3",
+    "carbohydrate": "25.2",
+    "sugars": "10.6",
+    "starch": "14.1",
+    "polyols": "0.48",
+    "fibre": "2.4",
+    "protein": "3.4",
+    "sodium": "0.078",
+    "alcohol": "0.003",
+    "organicAcids": "0.363"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D1A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

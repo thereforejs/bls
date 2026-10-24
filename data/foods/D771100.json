@@ -1,0 +1,44 @@
+{
+  "code": "D771100",
+  "name": {
+    "de": "Erdbeer-Sahneschnitten (Blätterteig)",
+    "en": "Strawberry-cream square (puff pastry)"
+  },
+  "per100g": {
+    "fat": "22.8",
+    "saturates": "10.36",
+    "monounsaturates": "8.22",
+    "polyunsaturates": "2.3",
+    "carbohydrate": "17.08",
+    "sugars": "5.056",
+    "starch": "12",
+    "polyols": "0.022",
+    "fibre": "1.6",
+    "protein": "2.69",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": "0.414"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

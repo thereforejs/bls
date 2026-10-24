@@ -1,0 +1,44 @@
+{
+  "code": "Y0A1000",
+  "name": {
+    "de": "Fleischsulze mit gekochtem Schweinefleisch",
+    "en": "Pork boiled, in aspic"
+  },
+  "per100g": {
+    "fat": "4.7",
+    "saturates": "1.7",
+    "monounsaturates": "1.7",
+    "polyunsaturates": "0.448",
+    "carbohydrate": "0.61",
+    "sugars": "0.61",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "0.1",
+    "protein": "9.5",
+    "sodium": "0.182",
+    "alcohol": "0",
+    "organicAcids": "0.148"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y0A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

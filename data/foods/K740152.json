@@ -1,0 +1,44 @@
+{
+  "code": "K740152",
+  "name": {
+    "de": "Austernpilz gedünstet",
+    "en": "Oyster mushroom stewed"
+  },
+  "per100g": {
+    "fat": "0.31",
+    "saturates": "0.0431",
+    "monounsaturates": "0.0297",
+    "polyunsaturates": "0.1372",
+    "carbohydrate": "1.78",
+    "sugars": "1.56",
+    "starch": "0",
+    "polyols": "0.225",
+    "fibre": "8.239",
+    "protein": "4.66",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K740152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y175133",
+  "name": {
+    "de": "Gebratene Rinderkutteln mit Ei aus Bologna",
+    "en": "Fried beef tripe with egg"
+  },
+  "per100g": {
+    "fat": "28.2",
+    "saturates": "8.8",
+    "monounsaturates": "9.7",
+    "polyunsaturates": "2.95",
+    "carbohydrate": "0.4",
+    "sugars": "0.4",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "18.3",
+    "sodium": "0.727",
+    "alcohol": "0",
+    "organicAcids": "0.047"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y175133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X191402",
+  "name": {
+    "de": "Gemüsesalat (gegart) mit Essigmarinade",
+    "en": "Vegetable salad (cooked) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "7.76",
+    "saturates": "0.58",
+    "monounsaturates": "4.32",
+    "polyunsaturates": "2.14",
+    "carbohydrate": "3.4",
+    "sugars": "2.35",
+    "starch": "0.2",
+    "polyols": "0.8",
+    "fibre": "2.2",
+    "protein": "1.64",
+    "sodium": "0.149",
+    "alcohol": "0.005",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X191402",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

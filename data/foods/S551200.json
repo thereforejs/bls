@@ -1,0 +1,44 @@
+{
+  "code": "S551200",
+  "name": {
+    "de": "Sahneschokolade gefüllt mit Karamell",
+    "en": "Cream chocolate filled with caramel"
+  },
+  "per100g": {
+    "fat": "30.99",
+    "saturates": "19.11",
+    "monounsaturates": "8.74",
+    "polyunsaturates": "1",
+    "carbohydrate": "57.2",
+    "sugars": "52.3",
+    "starch": "0.606",
+    "polyols": "0",
+    "fibre": "2.37",
+    "protein": "5.03",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S551200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

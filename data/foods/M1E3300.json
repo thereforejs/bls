@@ -1,0 +1,44 @@
+{
+  "code": "M1E3300",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, laktosefrei",
+    "en": "Yogurt min. 3.5 % fat, lactose-free"
+  },
+  "per100g": {
+    "fat": "3.46",
+    "saturates": "2.27",
+    "monounsaturates": "0.87",
+    "polyunsaturates": "0.11",
+    "carbohydrate": "4.36",
+    "sugars": "4.36",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.98",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "1.071"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M1E3300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

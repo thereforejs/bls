@@ -1,0 +1,44 @@
+{
+  "code": "C113000",
+  "name": {
+    "de": "Weizen Flocken",
+    "en": "Wheat flakes"
+  },
+  "per100g": {
+    "fat": "1.833",
+    "saturates": "0.308",
+    "monounsaturates": "0.191",
+    "polyunsaturates": "0.816",
+    "carbohydrate": "59.213",
+    "sugars": "1.053",
+    "starch": "58.16",
+    "polyols": "0",
+    "fibre": "13.26",
+    "protein": "12.8125",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C113000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

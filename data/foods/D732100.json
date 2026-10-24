@@ -1,0 +1,44 @@
+{
+  "code": "D732100",
+  "name": {
+    "de": "Vanille-Mürbchen (Mürbeteig)",
+    "en": "Vanilla shortcrust pastry biscuit"
+  },
+  "per100g": {
+    "fat": "28.73",
+    "saturates": "18.19",
+    "monounsaturates": "6.14",
+    "polyunsaturates": "0.79",
+    "carbohydrate": "63.5",
+    "sugars": "27.3",
+    "starch": "36.19",
+    "polyols": "0",
+    "fibre": "2.35",
+    "protein": "4.94",
+    "sodium": "0.033",
+    "alcohol": "0",
+    "organicAcids": "0.0294"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D732100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

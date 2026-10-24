@@ -1,0 +1,44 @@
+{
+  "code": "X432342",
+  "name": {
+    "de": "Flädle/Frittaten/Suppenpfannkuchen, gebraten",
+    "en": "\"Flädle\" fried strips of crepe as soup garnish"
+  },
+  "per100g": {
+    "fat": "12.69",
+    "saturates": "2.3",
+    "monounsaturates": "5.46",
+    "polyunsaturates": "2.51",
+    "carbohydrate": "25.28",
+    "sugars": "2.52",
+    "starch": "22.76",
+    "polyols": "0",
+    "fibre": "1.69",
+    "protein": "8.53",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0.034"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X432342",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

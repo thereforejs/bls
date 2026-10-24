@@ -1,0 +1,44 @@
+{
+  "code": "Y036223",
+  "name": {
+    "de": "Hackbraten mit Grundsauce dunkel/braun",
+    "en": "Meatloaf with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "14.6",
+    "saturates": "4.9",
+    "monounsaturates": "6.4",
+    "polyunsaturates": "1.57",
+    "carbohydrate": "5.82",
+    "sugars": "1.04",
+    "starch": "4.78",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "13.53",
+    "sodium": "0.297",
+    "alcohol": "0",
+    "organicAcids": "0.077"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

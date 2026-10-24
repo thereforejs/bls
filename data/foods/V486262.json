@@ -1,0 +1,44 @@
+{
+  "code": "V486262",
+  "name": {
+    "de": "Pute Brust, ohne Haut, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Turkey breast, without skin, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "1.414",
+    "saturates": "0.515",
+    "monounsaturates": "0.319",
+    "polyunsaturates": "0.336",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "37.871",
+    "sodium": "0.053",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V486262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

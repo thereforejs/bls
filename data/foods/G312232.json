@@ -1,0 +1,44 @@
+{
+  "code": "G312232",
+  "name": {
+    "de": "Broccoli tiefgefroren, gekocht",
+    "en": "Broccoli deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "0.6938",
+    "saturates": "0.1383",
+    "monounsaturates": "0.0436",
+    "polyunsaturates": "0.3009",
+    "carbohydrate": "2.5",
+    "sugars": "1.52",
+    "starch": "0.602",
+    "polyols": "0.4",
+    "fibre": "3.6",
+    "protein": "2.3",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G312232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

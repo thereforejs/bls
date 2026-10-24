@@ -1,0 +1,44 @@
+{
+  "code": "D733800",
+  "name": {
+    "de": "Mandelgebäck (Mürbeteig)",
+    "en": "Almond biscuits (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "32.93",
+    "saturates": "17.28",
+    "monounsaturates": "10.03",
+    "polyunsaturates": "2.3",
+    "carbohydrate": "49.9",
+    "sugars": "21.7",
+    "starch": "28.2",
+    "polyols": "0",
+    "fibre": "4.5",
+    "protein": "8.39",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0.022"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D733800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

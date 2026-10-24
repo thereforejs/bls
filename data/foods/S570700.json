@@ -1,0 +1,44 @@
+{
+  "code": "S570700",
+  "name": {
+    "de": "Bitterschokolade gefüllt mit Fruchtcreme",
+    "en": "Dark chocolate filled with fruit cream"
+  },
+  "per100g": {
+    "fat": "34.15",
+    "saturates": "20.92",
+    "monounsaturates": "10.45",
+    "polyunsaturates": "1.12",
+    "carbohydrate": "43.1",
+    "sugars": "40",
+    "starch": "2.587",
+    "polyols": "0.042",
+    "fibre": "7.5",
+    "protein": "6.49",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S570700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

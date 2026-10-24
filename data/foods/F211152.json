@@ -1,0 +1,44 @@
+{
+  "code": "F211152",
+  "name": {
+    "de": "Süßkirsche gedünstet",
+    "en": "Sweet cherry stewed"
+  },
+  "per100g": {
+    "fat": "0.356",
+    "saturates": "0.08",
+    "monounsaturates": "0.096",
+    "polyunsaturates": "0.107",
+    "carbohydrate": "17.62",
+    "sugars": "15.7",
+    "starch": "0",
+    "polyols": "1.92",
+    "fibre": "2.2",
+    "protein": "1.034",
+    "sodium": "0.000271",
+    "alcohol": null,
+    "organicAcids": "0.643"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F211152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

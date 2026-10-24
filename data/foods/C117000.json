@@ -1,0 +1,44 @@
+{
+  "code": "C117000",
+  "name": {
+    "de": "Weizen Grütze",
+    "en": "Wheat groats"
+  },
+  "per100g": {
+    "fat": "1.48",
+    "saturates": "0.19",
+    "monounsaturates": null,
+    "polyunsaturates": "0.64",
+    "carbohydrate": "68.92",
+    "sugars": "1.0625",
+    "starch": "67.86",
+    "polyols": "0",
+    "fibre": "4.84",
+    "protein": "13.36",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C117000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

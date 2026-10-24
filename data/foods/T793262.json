@@ -1,0 +1,44 @@
+{
+  "code": "T793262",
+  "name": {
+    "de": "Pilgermuschel/Jakobsmuschel, tiefgefroren, gratiniert ohne Fett (Ofen)",
+    "en": "Scallop deep-frozen, gratinated without fat (oven)"
+  },
+  "per100g": {
+    "fat": "0.111",
+    "saturates": "0.034",
+    "monounsaturates": "0.026",
+    "polyunsaturates": "0.03",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.987",
+    "sodium": "0.329",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T793262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

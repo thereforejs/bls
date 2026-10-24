@@ -1,0 +1,44 @@
+{
+  "code": "X651112",
+  "name": {
+    "de": "Bauernfrühstück mit Speck und Kochschinken, gebraten",
+    "en": "Farmer's breakfast with bacon and boiled ham, fried"
+  },
+  "per100g": {
+    "fat": "16.38",
+    "saturates": "2.1",
+    "monounsaturates": "7.7",
+    "polyunsaturates": "3.4",
+    "carbohydrate": "11.09",
+    "sugars": "1.04",
+    "starch": "10.049",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "8.52",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.207"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

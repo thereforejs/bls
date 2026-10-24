@@ -1,0 +1,44 @@
+{
+  "code": "R133000",
+  "name": {
+    "de": "Senf scharf",
+    "en": "Mustard hot"
+  },
+  "per100g": {
+    "fat": "6.96",
+    "saturates": "0.49",
+    "monounsaturates": "3.97",
+    "polyunsaturates": "2.21",
+    "carbohydrate": "2.94",
+    "sugars": "2.76",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "4.5",
+    "protein": "5.51",
+    "sodium": "1.31",
+    "alcohol": "0",
+    "organicAcids": "1.742"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R133000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

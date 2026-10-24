@@ -1,0 +1,44 @@
+{
+  "code": "Y562112",
+  "name": {
+    "de": "Hähnchenbrustfilet gebraten, mit gedünstetem Kaisergemüse",
+    "en": "Chicken breast fillet fried, with stewed mixed vegetables"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "0.3",
+    "monounsaturates": "1.42",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "2.5",
+    "sugars": "1.76",
+    "starch": "0.14",
+    "polyols": "0.6",
+    "fibre": "1.4",
+    "protein": "13.94",
+    "sodium": "0.135",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y562112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

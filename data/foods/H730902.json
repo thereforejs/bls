@@ -1,0 +1,44 @@
+{
+  "code": "H730902",
+  "name": {
+    "de": "Linse reif, Konserve, abgetropft",
+    "en": "Lentil mature, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.1",
+    "monounsaturates": "0.006",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "15.4",
+    "sugars": "0.5",
+    "starch": "14.9",
+    "polyols": "0",
+    "fibre": "7.433",
+    "protein": "9.036",
+    "sodium": "0.2491",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H730902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

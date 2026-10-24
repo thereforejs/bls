@@ -1,0 +1,44 @@
+{
+  "code": "P560100",
+  "name": {
+    "de": "Bitterlikör 11 % vol",
+    "en": "Bitter liqueur 11 % vol"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "25",
+    "sugars": "25",
+    "starch": "0",
+    "polyols": "0.005",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.0015",
+    "alcohol": "8.7",
+    "organicAcids": "0.295"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P560100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W982900",
+  "name": {
+    "de": "Pariser Pastete mit Mürbeteig, gebacken",
+    "en": "Parisian pate with shortcrust pastry, baked"
+  },
+  "per100g": {
+    "fat": "21.97",
+    "saturates": "8.92",
+    "monounsaturates": "7.56",
+    "polyunsaturates": "1.93",
+    "carbohydrate": "7.7",
+    "sugars": "0.435",
+    "starch": "7.26",
+    "polyols": "0",
+    "fibre": "0.55",
+    "protein": "18.07",
+    "sodium": "1.1",
+    "alcohol": "0",
+    "organicAcids": "0.0042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W982900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

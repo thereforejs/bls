@@ -1,0 +1,44 @@
+{
+  "code": "X5A7000",
+  "name": {
+    "de": "Antipasti von gegrillter Paprika",
+    "en": "Antipasti of grilled sweet pepper"
+  },
+  "per100g": {
+    "fat": "7.9",
+    "saturates": "1",
+    "monounsaturates": "5.8",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "5.7",
+    "sugars": "5.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.268",
+    "protein": "1.036",
+    "sodium": "0.0959",
+    "alcohol": "0",
+    "organicAcids": "0.65"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G490200",
+  "name": {
+    "de": "Knoblauch tiefgefroren",
+    "en": "Garlic deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.467",
+    "saturates": "0.071",
+    "monounsaturates": "0.013",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "3",
+    "sugars": "2.3",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "31.441",
+    "protein": "6.722",
+    "sodium": "0.008742",
+    "alcohol": "0",
+    "organicAcids": "0.247"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D281100",
+  "name": {
+    "de": "Kirschtorte (Mürbeteig und Rührmasse)",
+    "en": "Cherry torte (shortcrust pastry and cake batter)"
+  },
+  "per100g": {
+    "fat": "17.81",
+    "saturates": "9.66",
+    "monounsaturates": "4.85",
+    "polyunsaturates": "1",
+    "carbohydrate": "41.9",
+    "sugars": "21.15",
+    "starch": "20.4",
+    "polyols": "0.307",
+    "fibre": "2.2",
+    "protein": "6.02",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.211"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D281100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

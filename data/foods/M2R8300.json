@@ -1,0 +1,44 @@
+{
+  "code": "M2R8300",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, mit Vanillezubereitung, gesüßt",
+    "en": "Yogurt min. 3.5 % fat, with vanilla preparation, sweetened"
+  },
+  "per100g": {
+    "fat": "3.05",
+    "saturates": "2",
+    "monounsaturates": "0.765",
+    "polyunsaturates": "0.095",
+    "carbohydrate": "12.5",
+    "sugars": "11.64",
+    "starch": "0.859",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "3.51",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0.943"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2R8300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

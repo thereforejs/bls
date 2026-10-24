@@ -1,0 +1,44 @@
+{
+  "code": "X720413",
+  "name": {
+    "de": "Auflauf aus Eier-Frischteigwaren mit Pilzsauce von Bechamelsauce und Gouda überbacken",
+    "en": "Casserole of egg pasta with mushroom sauce from Bechamel sauce and Gouda cheese gratinated"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "2.8",
+    "monounsaturates": "1.75",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "20",
+    "sugars": "1.4",
+    "starch": "18",
+    "polyols": "0.15",
+    "fibre": "2.2",
+    "protein": "6.8",
+    "sodium": "0.244",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X720413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

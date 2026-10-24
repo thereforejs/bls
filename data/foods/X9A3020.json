@@ -1,0 +1,44 @@
+{
+  "code": "X9A3020",
+  "name": {
+    "de": "Blätterteigtaschen mit Lachs-Schmandfüllung, gebacken",
+    "en": "Puff pastry pockets with salmon-schmand filling, baked"
+  },
+  "per100g": {
+    "fat": "26.7",
+    "saturates": "10.5",
+    "monounsaturates": "10.4",
+    "polyunsaturates": "4.04",
+    "carbohydrate": "15.9",
+    "sugars": "1",
+    "starch": "14.91",
+    "polyols": "0",
+    "fibre": "1.15",
+    "protein": "11.02",
+    "sodium": "0.251",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

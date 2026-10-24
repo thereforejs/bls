@@ -1,0 +1,44 @@
+{
+  "code": "W151082",
+  "name": {
+    "de": "Mettwurst gebraten ohne Fett (Pfanne)",
+    "en": "Mettwurst sausage firm, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "33.86",
+    "saturates": "12.82",
+    "monounsaturates": "12.77",
+    "polyunsaturates": "3.51",
+    "carbohydrate": "0.22",
+    "sugars": "0",
+    "starch": "0.22",
+    "polyols": "0",
+    "fibre": "0.12",
+    "protein": "27.99",
+    "sodium": "1.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W151082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

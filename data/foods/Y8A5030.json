@@ -1,0 +1,44 @@
+{
+  "code": "Y8A5030",
+  "name": {
+    "de": "Sahneflammeri/Sahnepudding, mit Eigelb",
+    "en": "Cream pudding with egg yolk"
+  },
+  "per100g": {
+    "fat": "16.96",
+    "saturates": "8.83",
+    "monounsaturates": "4.54",
+    "polyunsaturates": "0.63",
+    "carbohydrate": "18.85",
+    "sugars": "10.99",
+    "starch": "7.858",
+    "polyols": "0",
+    "fibre": "0.073",
+    "protein": "4",
+    "sodium": "0.059",
+    "alcohol": "0",
+    "organicAcids": "0.097"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A5030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

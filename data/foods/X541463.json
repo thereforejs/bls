@@ -1,0 +1,44 @@
+{
+  "code": "X541463",
+  "name": {
+    "de": "Artischockenböden mit Fleischfüllung",
+    "en": "Artichoke bottoms with meat-filling"
+  },
+  "per100g": {
+    "fat": "3.6",
+    "saturates": "0.54",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.95",
+    "carbohydrate": "2.2",
+    "sugars": "2.1",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "5.9",
+    "protein": "7.5",
+    "sodium": "0.284",
+    "alcohol": "0.002",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X541463",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

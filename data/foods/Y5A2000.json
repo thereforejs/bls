@@ -1,0 +1,44 @@
+{
+  "code": "Y5A2000",
+  "name": {
+    "de": "Hähnchen-Frikadellen mit Champignons, gebraten",
+    "en": "Chicken meatballs with button mushrooms, fried"
+  },
+  "per100g": {
+    "fat": "11.2",
+    "saturates": "4.49",
+    "monounsaturates": "3.75",
+    "polyunsaturates": "1.13",
+    "carbohydrate": "4.9",
+    "sugars": "1.2",
+    "starch": "2.79",
+    "polyols": "0.87",
+    "fibre": "0.9",
+    "protein": "18.6",
+    "sodium": "0.203",
+    "alcohol": "0",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y5A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

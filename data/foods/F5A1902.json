@@ -1,0 +1,44 @@
+{
+  "code": "F5A1902",
+  "name": {
+    "de": "Ananas in Fruchtsaft, Konserve, abgetropft",
+    "en": "Pineapple in juice, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.029",
+    "monounsaturates": "0.029",
+    "polyunsaturates": "0.03",
+    "carbohydrate": "8.1",
+    "sugars": "7.8",
+    "starch": "0",
+    "polyols": "0.349",
+    "fibre": "1.3",
+    "protein": "0.7",
+    "sodium": "0.003",
+    "alcohol": "0.019",
+    "organicAcids": "0.773"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F5A1902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

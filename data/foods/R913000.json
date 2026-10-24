@@ -1,0 +1,44 @@
+{
+  "code": "R913000",
+  "name": {
+    "de": "Wasabi-Paste Konserve",
+    "en": "Wasabi paste canned"
+  },
+  "per100g": {
+    "fat": "2.23",
+    "saturates": "0.19",
+    "monounsaturates": "1.14",
+    "polyunsaturates": "0.69",
+    "carbohydrate": "10.189",
+    "sugars": "7.203",
+    "starch": "2.986",
+    "polyols": "0",
+    "fibre": "4.1",
+    "protein": "5.4",
+    "sodium": "1.922",
+    "alcohol": "0",
+    "organicAcids": "1.07"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R913000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

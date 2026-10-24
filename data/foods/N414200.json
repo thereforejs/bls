@@ -1,0 +1,44 @@
+{
+  "code": "N414200",
+  "name": {
+    "de": "Kaffee (Getränk) entkoffeiniert, mit Kondensmilch 7,5 % Fett",
+    "en": "Coffee (infusion) decaffeinated, with evaporated milk 7.5 % fat"
+  },
+  "per100g": {
+    "fat": "0.252",
+    "saturates": "0.138",
+    "monounsaturates": "0.067",
+    "polyunsaturates": "0.006",
+    "carbohydrate": "0.311",
+    "sugars": "0.311",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.33",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N414200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

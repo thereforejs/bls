@@ -1,0 +1,44 @@
+{
+  "code": "F213902",
+  "name": {
+    "de": "Sauerkirsche ungesüßt, Konserve, abgetropft",
+    "en": "Sour cherry unsweetened, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.391",
+    "saturates": "0.086",
+    "monounsaturates": "0.107",
+    "polyunsaturates": "0.117",
+    "carbohydrate": "5.474",
+    "sugars": "5.075",
+    "starch": "0",
+    "polyols": "0.399",
+    "fibre": "0.7",
+    "protein": "0.674",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.7"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F213902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

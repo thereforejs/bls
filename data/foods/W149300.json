@@ -1,0 +1,48 @@
+{
+  "code": "W149300",
+  "name": {
+    "de": "Salami (Schwein)",
+    "en": "Pork salami"
+  },
+  "per100g": {
+    "fat": "30.9",
+    "saturates": "12.309",
+    "monounsaturates": "13.366",
+    "polyunsaturates": "4.014",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0",
+    "fibre": null,
+    "protein": "23.54",
+    "sodium": "1.64",
+    "alcohol": null,
+    "organicAcids": "0.594"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W149300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

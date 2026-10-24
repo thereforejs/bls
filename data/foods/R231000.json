@@ -1,0 +1,44 @@
+{
+  "code": "R231000",
+  "name": {
+    "de": "Basilikum getrocknet",
+    "en": "Basil dried"
+  },
+  "per100g": {
+    "fat": "4.07",
+    "saturates": "2.17",
+    "monounsaturates": "1.07",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "1.71",
+    "sugars": "1.71",
+    "starch": null,
+    "polyols": null,
+    "fibre": "37.7",
+    "protein": "23",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R231000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

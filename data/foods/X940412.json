@@ -1,0 +1,44 @@
+{
+  "code": "X940412",
+  "name": {
+    "de": "Fränkische Mehlklöße mit Kompott aus Trockenfrüchten",
+    "en": "Franconian flour dumplings with compote of dried fruit"
+  },
+  "per100g": {
+    "fat": "2.1",
+    "saturates": "0.62",
+    "monounsaturates": "0.66",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "38.7",
+    "sugars": "17.9",
+    "starch": "20.11",
+    "polyols": "0.717",
+    "fibre": "3.51",
+    "protein": "6.03",
+    "sodium": "0.228",
+    "alcohol": "0",
+    "organicAcids": "1.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X940412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

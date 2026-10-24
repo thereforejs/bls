@@ -1,0 +1,44 @@
+{
+  "code": "F092100",
+  "name": {
+    "de": "Beerenmischung mit Sauerkirschen, ungesüßt, roh",
+    "en": "Berry mix with sour cherries, unsweetened, raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.032",
+    "monounsaturates": "0.048",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "7.9",
+    "sugars": "7",
+    "starch": "0",
+    "polyols": "0.9",
+    "fibre": "3.5",
+    "protein": "1.1",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F092100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

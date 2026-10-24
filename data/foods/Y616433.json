@@ -1,0 +1,44 @@
+{
+  "code": "Y616433",
+  "name": {
+    "de": "Sardinen mit Fenchelsamen, gedünstet",
+    "en": "Sardines with fennel seeds, baked"
+  },
+  "per100g": {
+    "fat": "7.98",
+    "saturates": "1.45",
+    "monounsaturates": "2.21",
+    "polyunsaturates": "1.67",
+    "carbohydrate": "2.1",
+    "sugars": "2.1",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "14.118",
+    "sodium": "0.208",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y616433",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

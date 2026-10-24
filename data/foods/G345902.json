@@ -1,0 +1,44 @@
+{
+  "code": "G345902",
+  "name": {
+    "de": "Sauerkraut Konserve, abgetropft",
+    "en": "Sauerkraut canned, drained"
+  },
+  "per100g": {
+    "fat": "0.41",
+    "saturates": "0.095",
+    "monounsaturates": "0.16",
+    "polyunsaturates": "0.085",
+    "carbohydrate": "2.37",
+    "sugars": "2.15",
+    "starch": "0.1",
+    "polyols": "0.123",
+    "fibre": "3.95",
+    "protein": "1.15",
+    "sodium": "0.3925",
+    "alcohol": "0.32",
+    "organicAcids": "2.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G345902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

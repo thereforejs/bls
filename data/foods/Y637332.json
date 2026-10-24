@@ -1,0 +1,44 @@
+{
+  "code": "Y637332",
+  "name": {
+    "de": "Heilbuttfilet gegrillt",
+    "en": "Halibut fillet grilled"
+  },
+  "per100g": {
+    "fat": "15.8",
+    "saturates": "2.08",
+    "monounsaturates": "11.77",
+    "polyunsaturates": "3.4",
+    "carbohydrate": "0.187",
+    "sugars": "0.187",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.015",
+    "protein": "23.74",
+    "sodium": "0.089",
+    "alcohol": "0",
+    "organicAcids": "0.68"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y637332",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

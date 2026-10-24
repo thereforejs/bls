@@ -1,0 +1,44 @@
+{
+  "code": "B254000",
+  "name": {
+    "de": "Weizenmischtoastbrot",
+    "en": "Mixed wheat toast"
+  },
+  "per100g": {
+    "fat": "2.76",
+    "saturates": "0.91",
+    "monounsaturates": "1",
+    "polyunsaturates": "0.62",
+    "carbohydrate": "45",
+    "sugars": "1.5",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "5.18",
+    "protein": "7.6",
+    "sodium": "0.48",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B254000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

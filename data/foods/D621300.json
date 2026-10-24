@@ -1,0 +1,44 @@
+{
+  "code": "D621300",
+  "name": {
+    "de": "Waffelkekse schokoliert",
+    "en": "Waffle biscuits with chocolate icing"
+  },
+  "per100g": {
+    "fat": "18.77",
+    "saturates": "10.08",
+    "monounsaturates": "5.82",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "41.6",
+    "sugars": "27.1",
+    "starch": "14.53",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "5.67",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D621300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

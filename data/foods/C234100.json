@@ -1,0 +1,44 @@
+{
+  "code": "C234100",
+  "name": {
+    "de": "Dinkel Mehl, Type 812",
+    "en": "Spelt flour, Type 812"
+  },
+  "per100g": {
+    "fat": "1.57",
+    "saturates": "0.17",
+    "monounsaturates": "0.26",
+    "polyunsaturates": "0.65",
+    "carbohydrate": "67.58",
+    "sugars": "0.56084",
+    "starch": "67.02",
+    "polyols": "0",
+    "fibre": "6.25",
+    "protein": "13.7",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C234100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

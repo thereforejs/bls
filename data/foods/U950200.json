@@ -1,0 +1,44 @@
+{
+  "code": "U950200",
+  "name": {
+    "de": "Schweinebraten (Pulled Pork) Konserve",
+    "en": "Pork roast, canned"
+  },
+  "per100g": {
+    "fat": "7.6",
+    "saturates": "2.36",
+    "monounsaturates": "3.03",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "5",
+    "sugars": "2.9",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "26.8",
+    "sodium": "0.787",
+    "alcohol": "0.001",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U950200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

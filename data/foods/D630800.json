@@ -1,0 +1,44 @@
+{
+  "code": "D630800",
+  "name": {
+    "de": "Waffelkekse mit Nuss-Nougatcremefüllung, schokoliert",
+    "en": "Waffle biscuits with chocolate nut filling and chocolate icing"
+  },
+  "per100g": {
+    "fat": "29.22",
+    "saturates": "13.93",
+    "monounsaturates": "11.43",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "50.2",
+    "sugars": "45.7",
+    "starch": "4.51",
+    "polyols": "0.003",
+    "fibre": "4.4",
+    "protein": "6.47",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.134"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D630800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

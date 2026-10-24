@@ -1,0 +1,44 @@
+{
+  "code": "X915113",
+  "name": {
+    "de": "Pizza siciliana (mit Tomatensauce, Mozzarella, Anchovis, Oliven)",
+    "en": "Pizza siciliana (with tomato sauce, mozzarella, anchovies, olives)"
+  },
+  "per100g": {
+    "fat": "14.1",
+    "saturates": "4.21",
+    "monounsaturates": "6.2",
+    "polyunsaturates": "2.5",
+    "carbohydrate": "17",
+    "sugars": "1.4",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "8.4",
+    "sodium": "0.747",
+    "alcohol": "0",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X915113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

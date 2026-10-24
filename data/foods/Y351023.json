@@ -1,0 +1,44 @@
+{
+  "code": "Y351023",
+  "name": {
+    "de": "Schweineroulade geschmort, mit Grundsauce dunkel/braun",
+    "en": "Pork olive braised, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "7.3",
+    "saturates": "1.3",
+    "monounsaturates": "3.7",
+    "polyunsaturates": "1.49",
+    "carbohydrate": "3.1",
+    "sugars": "1.6",
+    "starch": "1.48",
+    "polyols": "0.001",
+    "fibre": "0.8",
+    "protein": "16",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.165"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y351023",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G345032",
+  "name": {
+    "de": "Sauerkraut abgetropft, gekocht",
+    "en": "Sauerkraut drained, boiled"
+  },
+  "per100g": {
+    "fat": "0.294",
+    "saturates": "0.068",
+    "monounsaturates": "0.115",
+    "polyunsaturates": "0.06",
+    "carbohydrate": "0.94",
+    "sugars": "0.73",
+    "starch": "0.09",
+    "polyols": "0.117",
+    "fibre": "2.117",
+    "protein": "1.066",
+    "sodium": "0.406",
+    "alcohol": "0.05",
+    "organicAcids": "1.126"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G345032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

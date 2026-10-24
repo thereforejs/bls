@@ -1,0 +1,44 @@
+{
+  "code": "V596132",
+  "name": {
+    "de": "Hammel Zunge, gekocht",
+    "en": "Mutton tongue, boiled"
+  },
+  "per100g": {
+    "fat": "14.8",
+    "saturates": "4.837",
+    "monounsaturates": "5.091",
+    "polyunsaturates": "1.606",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.031",
+    "sodium": "0.079",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V596132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

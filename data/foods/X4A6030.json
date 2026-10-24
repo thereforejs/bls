@@ -1,0 +1,44 @@
+{
+  "code": "X4A6030",
+  "name": {
+    "de": "Tomatensuppe klar, mit Gemüsebrühe",
+    "en": "Tomato soup clear, with vegetable stock"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.1",
+    "monounsaturates": "0.006",
+    "polyunsaturates": "0.026",
+    "carbohydrate": "2.24",
+    "sugars": "2.24",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "0.69",
+    "sodium": "0.187",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X4A6030",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

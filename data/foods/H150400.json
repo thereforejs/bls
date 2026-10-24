@@ -1,0 +1,46 @@
+{
+  "code": "H150400",
+  "name": {
+    "de": "Kokos Fruchtfleisch, geraspelt, getrocknet",
+    "en": "Coconut meat, grated, dried"
+  },
+  "per100g": {
+    "fat": "65.2",
+    "saturates": "61.637",
+    "monounsaturates": "2.952",
+    "polyunsaturates": "0.463",
+    "carbohydrate": "7.8",
+    "sugars": "7.1",
+    "starch": null,
+    "polyols": "0.68",
+    "fibre": "14.8",
+    "protein": "7.38",
+    "sodium": "0.0201",
+    "alcohol": null,
+    "organicAcids": null
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H150400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T406182",
+  "name": {
+    "de": "Felchen/Maräne/Renke/Schnäpel, gebraten ohne Fett (Pfanne)",
+    "en": "Whitefishes fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "3.611",
+    "saturates": "0.776",
+    "monounsaturates": "1.626",
+    "polyunsaturates": "1.109",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.492",
+    "sodium": "0.157",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T406182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

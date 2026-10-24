@@ -1,0 +1,44 @@
+{
+  "code": "T822100",
+  "name": {
+    "de": "Heringsfilet in Dillcreme, Konserve",
+    "en": "Herring fillet in dill cream, canned"
+  },
+  "per100g": {
+    "fat": "10.23",
+    "saturates": "1.88",
+    "monounsaturates": "4.38",
+    "polyunsaturates": "2.87",
+    "carbohydrate": "4.521",
+    "sugars": "2.986",
+    "starch": "1.535",
+    "polyols": "0",
+    "fibre": "0.018",
+    "protein": "10.5",
+    "sodium": "0.399",
+    "alcohol": "0.003",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T822100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

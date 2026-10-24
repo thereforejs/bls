@@ -1,0 +1,44 @@
+{
+  "code": "X469213",
+  "name": {
+    "de": "Irish Stew (Weißkraut-Kartoffel-Eintopf mit Hammelfleisch)",
+    "en": "Irish stew (white cabbage-potato stew with mutton)"
+  },
+  "per100g": {
+    "fat": "6.9",
+    "saturates": "2.7",
+    "monounsaturates": "2.9",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "7.2",
+    "sugars": "2.12",
+    "starch": "5",
+    "polyols": "0.07",
+    "fibre": "1.6",
+    "protein": "4.76",
+    "sodium": "0.136",
+    "alcohol": "0",
+    "organicAcids": "0.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

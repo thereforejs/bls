@@ -1,0 +1,44 @@
+{
+  "code": "X1A2040",
+  "name": {
+    "de": "Kartoffelsalat mit Salatgurke und Mayonnaise, gestreckt mit Joghurt",
+    "en": "Potato salad with cucumber and mayonnaise, diluted with yogurt"
+  },
+  "per100g": {
+    "fat": "7.52",
+    "saturates": "0.69",
+    "monounsaturates": "4.17",
+    "polyunsaturates": "1.98",
+    "carbohydrate": "11.04",
+    "sugars": "1",
+    "starch": "10.037",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.9",
+    "sodium": "0.061",
+    "alcohol": "0.001",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A2040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

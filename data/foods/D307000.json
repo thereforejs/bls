@@ -1,0 +1,44 @@
+{
+  "code": "D307000",
+  "name": {
+    "de": "Herrentorte (Mürbeteig und Wiener Boden hell) mit Apfel-Weincreme",
+    "en": "Dark chocolate torte (shortcrust pastry and Viennese sponge cake light) with apple wine-cream"
+  },
+  "per100g": {
+    "fat": "17.7",
+    "saturates": "9.2",
+    "monounsaturates": "5.45",
+    "polyunsaturates": "1.3",
+    "carbohydrate": "37.3",
+    "sugars": "26.4",
+    "starch": "10.84",
+    "polyols": "0.058",
+    "fibre": "2.2",
+    "protein": "5.3",
+    "sodium": "0.036",
+    "alcohol": "0.3",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D307000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

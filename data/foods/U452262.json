@@ -1,0 +1,44 @@
+{
+  "code": "U452262",
+  "name": {
+    "de": "Kalb Brust, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Veal breast, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "15.351",
+    "saturates": "6.426",
+    "monounsaturates": "5.764",
+    "polyunsaturates": "1",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.87",
+    "sodium": "0.114",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U452262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

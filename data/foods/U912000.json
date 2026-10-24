@@ -1,0 +1,44 @@
+{
+  "code": "U912000",
+  "name": {
+    "de": "Rindfleisch in Gelee, Konserve",
+    "en": "Beef in jelly, canned"
+  },
+  "per100g": {
+    "fat": "2.6",
+    "saturates": "1.11",
+    "monounsaturates": "1.13",
+    "polyunsaturates": "0.144",
+    "carbohydrate": "0.3",
+    "sugars": "0",
+    "starch": "0.3",
+    "polyols": "0",
+    "fibre": "0.08",
+    "protein": "15.6",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U912000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

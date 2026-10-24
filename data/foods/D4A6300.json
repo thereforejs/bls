@@ -1,0 +1,44 @@
+{
+  "code": "D4A6300",
+  "name": {
+    "de": "Thüringer Mohnkuchen (Hefeteig)",
+    "en": "Thuringian poppy seed cake (yeast dough)"
+  },
+  "per100g": {
+    "fat": "12.73",
+    "saturates": "3.93",
+    "monounsaturates": "3.42",
+    "polyunsaturates": "4.4",
+    "carbohydrate": "34",
+    "sugars": "16.66",
+    "starch": "17.3",
+    "polyols": "0",
+    "fibre": "3.8",
+    "protein": "9",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.032"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A6300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

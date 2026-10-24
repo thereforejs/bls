@@ -1,0 +1,44 @@
+{
+  "code": "R911032",
+  "name": {
+    "de": "Helle Soße aus Instantpulver, zubereitet mit Wasser",
+    "en": "White sauce made from instant powder and water"
+  },
+  "per100g": {
+    "fat": "1.83",
+    "saturates": "0.88",
+    "monounsaturates": "0.67",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "6.1",
+    "sugars": "2",
+    "starch": "4.1",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "0.41",
+    "sodium": "0.397",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R911032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

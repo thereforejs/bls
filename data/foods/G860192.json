@@ -1,0 +1,44 @@
+{
+  "code": "G860192",
+  "name": {
+    "de": "Röstzwiebeln (Fertigprodukt)",
+    "en": "Fried onions (ready-made product)"
+  },
+  "per100g": {
+    "fat": "44.48",
+    "saturates": "21.29",
+    "monounsaturates": "16.18",
+    "polyunsaturates": "4.68",
+    "carbohydrate": "34.37",
+    "sugars": "19.22",
+    "starch": "15.15",
+    "polyols": "0",
+    "fibre": "5.6",
+    "protein": "5.9",
+    "sodium": "0.41",
+    "alcohol": "0",
+    "organicAcids": "0.809"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G860192",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

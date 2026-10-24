@@ -1,0 +1,44 @@
+{
+  "code": "Y882010",
+  "name": {
+    "de": "Quarkspeise mit Süßkirschen",
+    "en": "Quark dish with sweet cherries"
+  },
+  "per100g": {
+    "fat": "4.91",
+    "saturates": "2.643",
+    "monounsaturates": "1.262",
+    "polyunsaturates": "0.146",
+    "carbohydrate": "12.75",
+    "sugars": "12.31",
+    "starch": "0",
+    "polyols": "0.44",
+    "fibre": "0.5",
+    "protein": "5.83",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.534"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y882010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y915062",
+  "name": {
+    "de": "Knacker mit Brötchen und Senf",
+    "en": "Knackwurst with roll and mustard"
+  },
+  "per100g": {
+    "fat": "13.38",
+    "saturates": "4.84",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "1.74",
+    "carbohydrate": "18.45",
+    "sugars": "1.14",
+    "starch": "17.31",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "16.48",
+    "sodium": "1",
+    "alcohol": "0",
+    "organicAcids": "0.066"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y915062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

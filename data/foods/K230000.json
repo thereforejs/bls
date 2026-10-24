@@ -1,0 +1,44 @@
+{
+  "code": "K230000",
+  "name": {
+    "de": "Kartoffelstärke (Kartoffelmehl)",
+    "en": "Potato starch (potato flour)"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.034",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.013",
+    "carbohydrate": "83.1",
+    "sugars": "0",
+    "starch": "83.1",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "0.614",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K230000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

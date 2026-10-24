@@ -1,0 +1,44 @@
+{
+  "code": "U726162",
+  "name": {
+    "de": "Hammel Kotelett, gebraten ohne Fett (Ofen)",
+    "en": "Mutton chop (loin) fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "40.635",
+    "saturates": "18.531",
+    "monounsaturates": "15.793",
+    "polyunsaturates": "1.448",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.468",
+    "sodium": "0.121",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U726162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

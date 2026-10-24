@@ -1,0 +1,46 @@
+{
+  "code": "M602600",
+  "name": {
+    "de": "Camembert mind. 45 % Fett i. Tr.",
+    "en": "Camembert cheese min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "19.82",
+    "saturates": "13.725",
+    "monounsaturates": "4.657",
+    "polyunsaturates": "0.4467",
+    "carbohydrate": "0.05",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.58",
+    "sodium": "0.5582",
+    "alcohol": "0",
+    "organicAcids": "0.082"
+  },
+  "marks": {
+    "starch": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M602600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

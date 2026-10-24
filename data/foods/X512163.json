@@ -1,0 +1,44 @@
+{
+  "code": "X512163",
+  "name": {
+    "de": "Pfifferlinge gedünstet, in Grundsauce hell/weiß mit Sahne",
+    "en": "Chanterelles stewed, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "4.7",
+    "saturates": "2.5",
+    "monounsaturates": "1.12",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "1.64",
+    "sugars": "0.67",
+    "starch": "0.59",
+    "polyols": "0.382",
+    "fibre": "3.3",
+    "protein": "4.28",
+    "sodium": "0.082",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X512163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

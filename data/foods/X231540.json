@@ -1,0 +1,44 @@
+{
+  "code": "X231540",
+  "name": {
+    "de": "Blumenkohlsalat (roh) mit Saure-Sahne-Dressing",
+    "en": "Cauliflower salad (raw) with sour cream dressing"
+  },
+  "per100g": {
+    "fat": "1.4",
+    "saturates": "0.6",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "5.4",
+    "sugars": "2.7",
+    "starch": "0.16",
+    "polyols": "2.57",
+    "fibre": "2.5",
+    "protein": "2.48",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.37"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X231540",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

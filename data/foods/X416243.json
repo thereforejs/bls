@@ -1,0 +1,44 @@
+{
+  "code": "X416243",
+  "name": {
+    "de": "Gemüsebrühe",
+    "en": "Vegetable stock"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.1",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.002",
+    "carbohydrate": "0.54",
+    "sugars": "0.54",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "0",
+    "protein": "0.32",
+    "sodium": "0.268",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X416243",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

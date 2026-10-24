@@ -1,0 +1,44 @@
+{
+  "code": "Y710362",
+  "name": {
+    "de": "Spiegelei gebraten mit Schinkenspeck",
+    "en": "Fried egg with bacon"
+  },
+  "per100g": {
+    "fat": "14.91",
+    "saturates": "2.58",
+    "monounsaturates": "7.15",
+    "polyunsaturates": "3.11",
+    "carbohydrate": "0.46",
+    "sugars": "0.44",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.19",
+    "sodium": "0.9",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y710362",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

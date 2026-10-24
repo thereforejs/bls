@@ -1,0 +1,44 @@
+{
+  "code": "X568043",
+  "name": {
+    "de": "Teltower Rübchen gedünstet, mit Sahne",
+    "en": "Turnips \"Teltower Rübchen\" stewed, with cream"
+  },
+  "per100g": {
+    "fat": "5",
+    "saturates": "1.5",
+    "monounsaturates": "2.02",
+    "polyunsaturates": "0.79",
+    "carbohydrate": "5.81",
+    "sugars": "4.74",
+    "starch": "0.95",
+    "polyols": "0.12",
+    "fibre": "2",
+    "protein": "0.95",
+    "sodium": "0.158",
+    "alcohol": "0",
+    "organicAcids": "0.248"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X568043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

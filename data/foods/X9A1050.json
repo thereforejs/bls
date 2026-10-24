@@ -1,0 +1,44 @@
+{
+  "code": "X9A1050",
+  "name": {
+    "de": "Hirsebratlinge gebraten",
+    "en": "Millet patties fried"
+  },
+  "per100g": {
+    "fat": "12",
+    "saturates": "2.2",
+    "monounsaturates": "5",
+    "polyunsaturates": "2.95",
+    "carbohydrate": "13.4",
+    "sugars": "0.72",
+    "starch": "12.7",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "6.6",
+    "sodium": "0.228",
+    "alcohol": "0",
+    "organicAcids": "0.042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A1050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

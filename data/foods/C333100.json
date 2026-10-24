@@ -1,0 +1,44 @@
+{
+  "code": "C333100",
+  "name": {
+    "de": "Hirse Flocken",
+    "en": "Millet wholegrain flakes"
+  },
+  "per100g": {
+    "fat": "3.13",
+    "saturates": "0.59",
+    "monounsaturates": "0.67",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "67.6",
+    "sugars": "0.55507",
+    "starch": "67.04",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "11.79",
+    "sodium": "0.0004",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C333100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

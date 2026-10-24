@@ -1,0 +1,44 @@
+{
+  "code": "X326453",
+  "name": {
+    "de": "Senfsauce von heller/weißer Grundsauce",
+    "en": "Mustard sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "3.3",
+    "monounsaturates": "1.42",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "4",
+    "sugars": "1.52",
+    "starch": "2.48",
+    "polyols": "0",
+    "fibre": "0.4",
+    "protein": "1.08",
+    "sodium": "0.354",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X326453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

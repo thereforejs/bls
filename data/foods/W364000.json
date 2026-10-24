@@ -1,0 +1,44 @@
+{
+  "code": "W364000",
+  "name": {
+    "de": "Fränkischer Fleischpresssack",
+    "en": "Franconian pork brawn"
+  },
+  "per100g": {
+    "fat": "18.17",
+    "saturates": "6.48",
+    "monounsaturates": "7.03",
+    "polyunsaturates": "1.8",
+    "carbohydrate": "0.18",
+    "sugars": "0.06",
+    "starch": "0.12",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "18.09",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W364000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

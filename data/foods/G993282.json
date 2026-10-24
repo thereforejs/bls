@@ -1,0 +1,44 @@
+{
+  "code": "G993282",
+  "name": {
+    "de": "Gemüsemischung mexikanische Art, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Mixed vegetables Mexican style, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.089",
+    "monounsaturates": "0.052",
+    "polyunsaturates": "0.169",
+    "carbohydrate": "11",
+    "sugars": "5",
+    "starch": "5.5",
+    "polyols": "0.13",
+    "fibre": "6.6",
+    "protein": "4.9",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G993282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

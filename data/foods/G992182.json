@@ -1,0 +1,44 @@
+{
+  "code": "G992182",
+  "name": {
+    "de": "Gemüsemischung Erbsen-Karotten, gebraten ohne Fett (Pfanne)",
+    "en": "Mixed vegetables peas and carrots, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.657",
+    "saturates": "0.143",
+    "monounsaturates": "0.104",
+    "polyunsaturates": "0.277",
+    "carbohydrate": "14.012",
+    "sugars": "5.727",
+    "starch": "8.285",
+    "polyols": "0",
+    "fibre": "6",
+    "protein": "5.1",
+    "sodium": "0.018",
+    "alcohol": "0",
+    "organicAcids": "0.527"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G992182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

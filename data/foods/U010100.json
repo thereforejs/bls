@@ -1,0 +1,44 @@
+{
+  "code": "U010100",
+  "name": {
+    "de": "Rind Hackfleisch, roh",
+    "en": "Beef mince, raw"
+  },
+  "per100g": {
+    "fat": "16.39",
+    "saturates": "7.395",
+    "monounsaturates": "7.657",
+    "polyunsaturates": "0.396",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.102",
+    "sodium": "0.058",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U010100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

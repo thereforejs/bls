@@ -1,0 +1,44 @@
+{
+  "code": "G510182",
+  "name": {
+    "de": "Aubergine gebraten ohne Fett (Pfanne)",
+    "en": "Aubergine fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.305",
+    "saturates": "0.066",
+    "monounsaturates": "0.031",
+    "polyunsaturates": "0.147",
+    "carbohydrate": "5.12",
+    "sugars": "4.56",
+    "starch": "0.373",
+    "polyols": "0.19",
+    "fibre": "2.4",
+    "protein": "0.966",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G510182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

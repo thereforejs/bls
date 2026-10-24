@@ -1,0 +1,44 @@
+{
+  "code": "X678112",
+  "name": {
+    "de": "Lippischer Pickert gebraten (aus Hefeteig mit roh geriebenen Kartoffeln und saurer Sahne)",
+    "en": "\"Lippischer Pickert\" fried (pancakes made from yeast dough with raw potatoes and sour cream)"
+  },
+  "per100g": {
+    "fat": "15",
+    "saturates": "1.5",
+    "monounsaturates": "7.4",
+    "polyunsaturates": "3.5",
+    "carbohydrate": "32",
+    "sugars": "1.5",
+    "starch": "30",
+    "polyols": "0",
+    "fibre": "2.43",
+    "protein": "5.95",
+    "sodium": "0.14",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X678112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

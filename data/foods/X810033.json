@@ -1,0 +1,44 @@
+{
+  "code": "X810033",
+  "name": {
+    "de": "Milchreis gesüßt, mit Milch 3,5 % Fett",
+    "en": "Rice pudding sweetened, with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "3.22",
+    "saturates": "1.983",
+    "monounsaturates": "0.737",
+    "polyunsaturates": "0.112",
+    "carbohydrate": "22.4",
+    "sugars": "5.35",
+    "starch": "17",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "4.89",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0.052"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X810033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

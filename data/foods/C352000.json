@@ -1,0 +1,44 @@
+{
+  "code": "C352000",
+  "name": {
+    "de": "Reis poliert, roh",
+    "en": "White rice raw"
+  },
+  "per100g": {
+    "fat": "0.62",
+    "saturates": "0.13",
+    "monounsaturates": "0.225",
+    "polyunsaturates": "0.232",
+    "carbohydrate": "77.1",
+    "sugars": "0.28",
+    "starch": "76.8",
+    "polyols": "0",
+    "fibre": "2.5",
+    "protein": "7.931",
+    "sodium": "0.01577",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C352000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

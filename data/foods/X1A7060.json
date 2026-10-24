@@ -1,0 +1,44 @@
+{
+  "code": "X1A7060",
+  "name": {
+    "de": "Fleischsalat (Schwein) mit Mayonnaise",
+    "en": "Meat salad (pork) with mayonnaise"
+  },
+  "per100g": {
+    "fat": "15.7",
+    "saturates": "2.66",
+    "monounsaturates": "8.02",
+    "polyunsaturates": "3.25",
+    "carbohydrate": "3.2",
+    "sugars": "2.98",
+    "starch": "0.089",
+    "polyols": "0.1",
+    "fibre": "0.7",
+    "protein": "12.4",
+    "sodium": "0.546",
+    "alcohol": "0.01",
+    "organicAcids": "0.83"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A7060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

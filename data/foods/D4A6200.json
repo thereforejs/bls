@@ -1,0 +1,44 @@
+{
+  "code": "D4A6200",
+  "name": {
+    "de": "Mohnstollen (Hefemürbteig)",
+    "en": "Poppy seed stollen (shortcrust pastry with yeast)"
+  },
+  "per100g": {
+    "fat": "22.5",
+    "saturates": "11",
+    "monounsaturates": "4.76",
+    "polyunsaturates": "4.4",
+    "carbohydrate": "37",
+    "sugars": "18.7",
+    "starch": "18",
+    "polyols": "0.036",
+    "fibre": "4.2",
+    "protein": "8.1",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A6200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

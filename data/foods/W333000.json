@@ -1,0 +1,44 @@
+{
+  "code": "W333000",
+  "name": {
+    "de": "Hannoversche Weißwurst",
+    "en": "Hanoverian white sausage"
+  },
+  "per100g": {
+    "fat": "20.27",
+    "saturates": "7.71",
+    "monounsaturates": "6.65",
+    "polyunsaturates": "2.41",
+    "carbohydrate": "0.46",
+    "sugars": "0.35",
+    "starch": "0.11",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "17.82",
+    "sodium": "0.738",
+    "alcohol": "0",
+    "organicAcids": "0.008"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W333000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

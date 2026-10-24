@@ -1,0 +1,44 @@
+{
+  "code": "X532043",
+  "name": {
+    "de": "Broccoli gedünstet, mit gerösteten Mandelblättchen",
+    "en": "Broccoli stewed, with roasted almond flakes"
+  },
+  "per100g": {
+    "fat": "8.294",
+    "saturates": "0.71",
+    "monounsaturates": "4.64",
+    "polyunsaturates": "2.21",
+    "carbohydrate": "2.5",
+    "sugars": "1.58",
+    "starch": "0.55",
+    "polyols": "0.4",
+    "fibre": "3.8",
+    "protein": "4.9",
+    "sodium": "0.109",
+    "alcohol": "0",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X532043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V464200",
+  "name": {
+    "de": "Ente Fleisch, mit Haut, tiefgefroren",
+    "en": "Duck meat, with skin, deep-frozen"
+  },
+  "per100g": {
+    "fat": "17.2",
+    "saturates": "5.712",
+    "monounsaturates": "8.165",
+    "polyunsaturates": "2.221",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.1",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V464200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

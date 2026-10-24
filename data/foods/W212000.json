@@ -1,0 +1,47 @@
+{
+  "code": "W212000",
+  "name": {
+    "de": "Geflügel-Wiener Würstchen",
+    "en": "Poultry Vienna sausage"
+  },
+  "per100g": {
+    "fat": "18.98",
+    "saturates": "5.094",
+    "monounsaturates": "7.244",
+    "polyunsaturates": "4.174",
+    "carbohydrate": "1.01",
+    "sugars": "1.01",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.62",
+    "sodium": "0.885",
+    "alcohol": null,
+    "organicAcids": "0.711"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W212000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -21,6 +21,22 @@ const COLUMNS: [string, string][] = [
   ["ENERCJ", "Energie (Kilojoule) [kJ/100g]"],
 ];
 
+const NUTRIENT_KEYS = [
+  "fat",
+  "saturates",
+  "monounsaturates",
+  "polyunsaturates",
+  "carbohydrate",
+  "sugars",
+  "starch",
+  "polyols",
+  "fibre",
+  "protein",
+  "sodium",
+  "alcohol",
+  "organicAcids",
+];
+
 type Row = { code?: string; de?: string; en?: string; values?: Record<string, string | undefined> };
 
 const sheet = (rows: Row[], columns = COLUMNS) => [
@@ -72,6 +88,7 @@ describe("a row becomes a food in nutrition's shape", () => {
         organicAcids: "1",
       },
       marks: {},
+      sources: [{ source: "bls-4.0", id: "M5B1600", nutrients: NUTRIENT_KEYS }],
     });
   });
 

@@ -1,0 +1,44 @@
+{
+  "code": "S820000",
+  "name": {
+    "de": "Energieriegel gefüllt mit Nusscreme",
+    "en": "Energy bar with hazelnut cream"
+  },
+  "per100g": {
+    "fat": "21.7",
+    "saturates": "4.8",
+    "monounsaturates": "10.7",
+    "polyunsaturates": "5.4",
+    "carbohydrate": "47",
+    "sugars": "15.6",
+    "starch": "27.3",
+    "polyols": "0.035",
+    "fibre": "7.4",
+    "protein": "10.6",
+    "sodium": "0.319",
+    "alcohol": "0",
+    "organicAcids": "0.108"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S820000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

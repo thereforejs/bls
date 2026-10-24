@@ -1,0 +1,44 @@
+{
+  "code": "U984100",
+  "name": {
+    "de": "Markklößchen Konserve",
+    "en": "Marrow dumplings canned"
+  },
+  "per100g": {
+    "fat": "28.22",
+    "saturates": "11.815",
+    "monounsaturates": "12.657",
+    "polyunsaturates": "1.303",
+    "carbohydrate": "21.21",
+    "sugars": "1.82",
+    "starch": "19.39",
+    "polyols": "0.004",
+    "fibre": "1.86",
+    "protein": "10.03",
+    "sodium": "0.652",
+    "alcohol": "0",
+    "organicAcids": "0.096"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U984100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

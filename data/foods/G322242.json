@@ -1,0 +1,44 @@
+{
+  "code": "G322242",
+  "name": {
+    "de": "Grünkohl tiefgefroren, gedämpft",
+    "en": "Curly kale deep-frozen, steamed"
+  },
+  "per100g": {
+    "fat": "0.648",
+    "saturates": "0.1",
+    "monounsaturates": "0.0264",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "3.21",
+    "sugars": "2.557",
+    "starch": "0.474",
+    "polyols": "0.18",
+    "fibre": "8.039",
+    "protein": "4.028",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.196"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G322242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

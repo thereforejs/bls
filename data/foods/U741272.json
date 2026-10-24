@@ -1,0 +1,44 @@
+{
+  "code": "U741272",
+  "name": {
+    "de": "Schaf Schnitzel (Keule, mager) tiefgefroren, gegrillt",
+    "en": "Sheep schnitzel (leg, lean) deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "5.58",
+    "saturates": "2.66",
+    "monounsaturates": "1.86",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "31",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U741272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

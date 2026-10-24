@@ -1,0 +1,44 @@
+{
+  "code": "G322142",
+  "name": {
+    "de": "Grünkohl gedämpft",
+    "en": "Curly kale steamed"
+  },
+  "per100g": {
+    "fat": "0.553",
+    "saturates": "0.086",
+    "monounsaturates": "0.0225",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "2.75",
+    "sugars": "2.1812",
+    "starch": "0.405",
+    "polyols": "0.16",
+    "fibre": "6.858",
+    "protein": "3.437",
+    "sodium": "0.018",
+    "alcohol": "0",
+    "organicAcids": "0.167"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G322142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

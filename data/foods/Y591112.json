@@ -1,0 +1,44 @@
+{
+  "code": "Y591112",
+  "name": {
+    "de": "Hähnchenbrustfilet paniert, gebraten",
+    "en": "Chicken breast fillet breaded, fried"
+  },
+  "per100g": {
+    "fat": "8.1",
+    "saturates": "1",
+    "monounsaturates": "4.02",
+    "polyunsaturates": "2.01",
+    "carbohydrate": "6.62",
+    "sugars": "0.64",
+    "starch": "5.98",
+    "polyols": "0.001",
+    "fibre": "0.6",
+    "protein": "20.92",
+    "sodium": "0.168",
+    "alcohol": "0.002",
+    "organicAcids": "0.51"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y591112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

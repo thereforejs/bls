@@ -1,0 +1,44 @@
+{
+  "code": "D1A4200",
+  "name": {
+    "de": "Stachelbeerkuchen (Rührmasse) mit Baiser",
+    "en": "Gooseberry cake (cake batter) with meringue"
+  },
+  "per100g": {
+    "fat": "12.25",
+    "saturates": "7.16",
+    "monounsaturates": "2.86",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "35.6",
+    "sugars": "22.433",
+    "starch": "11.5",
+    "polyols": "1.633",
+    "fibre": "2.69",
+    "protein": "4.1",
+    "sodium": "0.074",
+    "alcohol": "0",
+    "organicAcids": "0.912"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D1A4200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

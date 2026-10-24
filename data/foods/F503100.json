@@ -1,0 +1,44 @@
+{
+  "code": "F503100",
+  "name": {
+    "de": "Banane roh",
+    "en": "Banana raw"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.0729",
+    "monounsaturates": "0.023",
+    "polyunsaturates": "0.0906",
+    "carbohydrate": "15.89",
+    "sugars": "13.89",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "1.319",
+    "sodium": "0.00052",
+    "alcohol": "0.15",
+    "organicAcids": "0.569"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F503100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

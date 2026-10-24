@@ -1,0 +1,44 @@
+{
+  "code": "W981300",
+  "name": {
+    "de": "Fleischkäse im Bierteigmantel frittiert",
+    "en": "Fleischkaese sausage in pastry crust, deep-fried"
+  },
+  "per100g": {
+    "fat": "33.42",
+    "saturates": "9.28",
+    "monounsaturates": "15.25",
+    "polyunsaturates": "4.99",
+    "carbohydrate": "6.37",
+    "sugars": "0.57",
+    "starch": "5.8",
+    "polyols": "0",
+    "fibre": "0.42",
+    "protein": "13.9",
+    "sodium": "0.847",
+    "alcohol": "0.113",
+    "organicAcids": "0.479"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W981300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y693342",
+  "name": {
+    "de": "Seezunge gebraten in Butter",
+    "en": "Sole fried in butter"
+  },
+  "per100g": {
+    "fat": "2.7",
+    "saturates": "0.873",
+    "monounsaturates": "0.537",
+    "polyunsaturates": "0.635",
+    "carbohydrate": "0.132",
+    "sugars": "0.129",
+    "starch": "0.003",
+    "polyols": "0",
+    "fibre": "0.039",
+    "protein": "19.399",
+    "sodium": "0.252",
+    "alcohol": "0",
+    "organicAcids": "0.42"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y693342",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

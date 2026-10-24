@@ -1,0 +1,44 @@
+{
+  "code": "H210710",
+  "name": {
+    "de": "Mandel süß, geröstet mit Fett, gesalzen",
+    "en": "Sweet almond roasted with fat, salted"
+  },
+  "per100g": {
+    "fat": "48.643",
+    "saturates": "5",
+    "monounsaturates": "29.8",
+    "polyunsaturates": "10.9",
+    "carbohydrate": "3.75",
+    "sugars": "3.522",
+    "starch": "0.23",
+    "polyols": "0",
+    "fibre": "9.7",
+    "protein": "21.216",
+    "sodium": "0.3328",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H210710",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

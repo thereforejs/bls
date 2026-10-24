@@ -1,0 +1,44 @@
+{
+  "code": "U452242",
+  "name": {
+    "de": "Kalb Brust, tiefgefroren, geschmort ohne Fett",
+    "en": "Veal breast, deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "15.147",
+    "saturates": "6.34",
+    "monounsaturates": "5.687",
+    "polyunsaturates": "0.987",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.061",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U452242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

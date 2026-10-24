@@ -1,0 +1,44 @@
+{
+  "code": "X270112",
+  "name": {
+    "de": "Fruchtsalat ungesüßt",
+    "en": "Fruit salad unsweetened"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.075",
+    "monounsaturates": "0.045",
+    "polyunsaturates": "0.157",
+    "carbohydrate": "10.9",
+    "sugars": "9.67",
+    "starch": "0.51",
+    "polyols": "0.7",
+    "fibre": "2.2",
+    "protein": "0.77",
+    "sodium": "0.001",
+    "alcohol": "0.04",
+    "organicAcids": "0.79"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X270112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

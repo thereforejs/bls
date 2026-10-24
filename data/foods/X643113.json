@@ -1,0 +1,44 @@
+{
+  "code": "X643113",
+  "name": {
+    "de": "Eierkartoffeln mit Tomaten, überbacken",
+    "en": "Potatoes with eggs and tomatoes, gratinated"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "2.1",
+    "monounsaturates": "2",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "7.5",
+    "sugars": "2.4",
+    "starch": "5.06",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "3.2",
+    "sodium": "0.08",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X643113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

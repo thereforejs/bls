@@ -1,0 +1,44 @@
+{
+  "code": "F203400",
+  "name": {
+    "de": "Pfirsich getrocknet",
+    "en": "Peach dried"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.054",
+    "monounsaturates": "0.185",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "54.11",
+    "sugars": "47.845",
+    "starch": "0.62",
+    "polyols": "5.648",
+    "fibre": "12.79",
+    "protein": "4.9",
+    "sodium": "0.0021",
+    "alcohol": "0",
+    "organicAcids": "7.85"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F203400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

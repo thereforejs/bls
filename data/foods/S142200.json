@@ -1,0 +1,44 @@
+{
+  "code": "S142200",
+  "name": {
+    "de": "Apfelkraut",
+    "en": "Apple butter, sweetened"
+  },
+  "per100g": {
+    "fat": "1",
+    "saturates": "0.365",
+    "monounsaturates": "0.051",
+    "polyunsaturates": "0.458",
+    "carbohydrate": "52.1",
+    "sugars": "49.4",
+    "starch": "1.068",
+    "polyols": "1.6",
+    "fibre": "5.2",
+    "protein": "0.9",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "0.86"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S142200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

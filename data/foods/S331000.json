@@ -1,0 +1,44 @@
+{
+  "code": "S331000",
+  "name": {
+    "de": "Toffee/Sahnetoffee",
+    "en": "Toffee/cream toffee"
+  },
+  "per100g": {
+    "fat": "15.9",
+    "saturates": "8.58",
+    "monounsaturates": "0.13",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "75.1",
+    "sugars": "51.3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.56",
+    "protein": "2",
+    "sodium": "0.312",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S331000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

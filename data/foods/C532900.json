@@ -1,0 +1,44 @@
+{
+  "code": "C532900",
+  "name": {
+    "de": "Reiswaffeln schokoliert",
+    "en": "Puffed rice waffles chocolate coated"
+  },
+  "per100g": {
+    "fat": "21.37",
+    "saturates": "12.36",
+    "monounsaturates": "6.6",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "61",
+    "sugars": "29.6",
+    "starch": "31.42",
+    "polyols": "0",
+    "fibre": "5.01",
+    "protein": "7.13",
+    "sodium": "0.073",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C532900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

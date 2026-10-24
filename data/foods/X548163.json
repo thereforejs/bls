@@ -1,0 +1,44 @@
+{
+  "code": "X548163",
+  "name": {
+    "de": "Zwiebeln gebraten",
+    "en": "Onions fried"
+  },
+  "per100g": {
+    "fat": "1.808",
+    "saturates": "0.14",
+    "monounsaturates": "0.84",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "9.42",
+    "sugars": "9.42",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "1.72",
+    "sodium": "0.195",
+    "alcohol": "0",
+    "organicAcids": "0.398"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X548163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V224100",
+  "name": {
+    "de": "Reh Rücken, mariniert, roh",
+    "en": "Roe deer saddle, marinated, raw"
+  },
+  "per100g": {
+    "fat": "3.29",
+    "saturates": "1.25",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.634",
+    "carbohydrate": "0.34",
+    "sugars": "0.34",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "20.7",
+    "sodium": "0.427",
+    "alcohol": "0",
+    "organicAcids": "0.049"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V224100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

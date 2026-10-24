@@ -1,0 +1,44 @@
+{
+  "code": "Y064033",
+  "name": {
+    "de": "Hackfleischpastete (mit Mürbeteig) gebacken",
+    "en": "Minced meat pate (with shortcrust pastry) baked"
+  },
+  "per100g": {
+    "fat": "26.8",
+    "saturates": "13.36",
+    "monounsaturates": "8.42",
+    "polyunsaturates": "1.42",
+    "carbohydrate": "25.2",
+    "sugars": "1.6",
+    "starch": "23.6",
+    "polyols": "0",
+    "fibre": "2.3",
+    "protein": "16.4",
+    "sodium": "0.319",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y064033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G720252",
+  "name": {
+    "de": "Wachsbohne tiefgefroren, gedünstet",
+    "en": "Wax bean deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "4",
+    "sugars": "2.54",
+    "starch": "1.1",
+    "polyols": "0.32",
+    "fibre": "2.234",
+    "protein": "2.4",
+    "sodium": "0.00211",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G720252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

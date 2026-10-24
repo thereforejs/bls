@@ -1,0 +1,44 @@
+{
+  "code": "X449613",
+  "name": {
+    "de": "Kartoffelsuppe mit Gemüsebrühe, gebunden",
+    "en": "Potato soup with vegetable stock, thickened"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.1",
+    "monounsaturates": "0.95",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "10",
+    "sugars": "1",
+    "starch": "9",
+    "polyols": "0.002",
+    "fibre": "0.7",
+    "protein": "1.11",
+    "sodium": "0.182",
+    "alcohol": "0",
+    "organicAcids": "0.013"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X449613",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

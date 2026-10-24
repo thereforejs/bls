@@ -1,0 +1,44 @@
+{
+  "code": "D9B1500",
+  "name": {
+    "de": "Schoko-Müslikekse/Schoko-Müsliplätzchen (Vollkornmürbeteig)",
+    "en": "Wholemeal chocolate muesli biscuits (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "30.3",
+    "saturates": "17.8",
+    "monounsaturates": "7.3",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "49.6",
+    "sugars": "21.3",
+    "starch": "27.3",
+    "polyols": "0",
+    "fibre": "6.5",
+    "protein": "7.2",
+    "sodium": "0.174",
+    "alcohol": "0",
+    "organicAcids": "0.026"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9B1500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

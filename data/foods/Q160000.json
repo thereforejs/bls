@@ -1,0 +1,44 @@
+{
+  "code": "Q160000",
+  "name": {
+    "de": "Leinöl",
+    "en": "Linseed oil"
+  },
+  "per100g": {
+    "fat": "100",
+    "saturates": "9.5",
+    "monounsaturates": "19.1",
+    "polyunsaturates": "67.1",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.00165",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q160000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

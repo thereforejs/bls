@@ -1,0 +1,44 @@
+{
+  "code": "E911000",
+  "name": {
+    "de": "Teigwaren eifrei, Ravioli (Gemüsefüllung) in Tomatensoße, Konserve",
+    "en": "Pasta egg-free, Ravioli (vegetable filling) in tomato sauce, canned"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.1",
+    "monounsaturates": "0.2",
+    "polyunsaturates": "0.5",
+    "carbohydrate": "17",
+    "sugars": "5.9",
+    "starch": "11",
+    "polyols": "0.02",
+    "fibre": "2.3",
+    "protein": "2.8",
+    "sodium": "0.405",
+    "alcohol": "0.001",
+    "organicAcids": "0.39"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E911000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

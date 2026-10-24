@@ -1,0 +1,44 @@
+{
+  "code": "Y660422",
+  "name": {
+    "de": "Rotbarsch paniert, gebraten",
+    "en": "Redfish breaded, fried"
+  },
+  "per100g": {
+    "fat": "11.1",
+    "saturates": "1.5",
+    "monounsaturates": "5.46",
+    "polyunsaturates": "2.79",
+    "carbohydrate": "6.61",
+    "sugars": "0.72",
+    "starch": "5.89",
+    "polyols": "0.001",
+    "fibre": "0.59",
+    "protein": "15.5",
+    "sodium": "0.25",
+    "alcohol": "0.001",
+    "organicAcids": "0.72"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y660422",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

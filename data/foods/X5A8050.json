@@ -1,0 +1,44 @@
+{
+  "code": "X5A8050",
+  "name": {
+    "de": "Tofu vegan paniert, gebraten",
+    "en": "Tofu vegan breaded, fried"
+  },
+  "per100g": {
+    "fat": "11.93",
+    "saturates": "1.39",
+    "monounsaturates": "4.86",
+    "polyunsaturates": "4.82",
+    "carbohydrate": "14.24",
+    "sugars": "0.98",
+    "starch": "13.26",
+    "polyols": "0.002",
+    "fibre": "2.59",
+    "protein": "15.74",
+    "sodium": "0.193",
+    "alcohol": "0",
+    "organicAcids": "0.054"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5A8050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

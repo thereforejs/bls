@@ -1,0 +1,44 @@
+{
+  "code": "S243800",
+  "name": {
+    "de": "Speiseeis (Karamell, Nuss, Vanille) gemischt",
+    "en": "Ice cream mixed (nut, vanilla, caramel)"
+  },
+  "per100g": {
+    "fat": "10.58",
+    "saturates": "6.65",
+    "monounsaturates": "2.55",
+    "polyunsaturates": "0.38",
+    "carbohydrate": "23.85",
+    "sugars": "20.68",
+    "starch": "3.17",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "3.3",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.255"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S243800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

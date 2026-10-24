@@ -1,0 +1,44 @@
+{
+  "code": "E632200",
+  "name": {
+    "de": "Dinkelvollkornteigwaren eifrei, roh",
+    "en": "Wholemeal spelt pasta egg-free, raw"
+  },
+  "per100g": {
+    "fat": "2.38",
+    "saturates": "0.245",
+    "monounsaturates": "0.412",
+    "polyunsaturates": "1.006",
+    "carbohydrate": "62.19",
+    "sugars": "1.081",
+    "starch": "61.11",
+    "polyols": "0",
+    "fibre": "10.5",
+    "protein": "13.88",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E632200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

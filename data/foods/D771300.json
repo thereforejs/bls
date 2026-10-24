@@ -1,0 +1,44 @@
+{
+  "code": "D771300",
+  "name": {
+    "de": "Pasteten (Blätterteig) mit Himbeersahne",
+    "en": "Raspberry cream in vol-au-vent (puff pastry)"
+  },
+  "per100g": {
+    "fat": "22.82",
+    "saturates": "9.88",
+    "monounsaturates": "8.89",
+    "polyunsaturates": "2.76",
+    "carbohydrate": "22.3",
+    "sugars": "6.9",
+    "starch": "15.39",
+    "polyols": "0.001",
+    "fibre": "2.8",
+    "protein": "3",
+    "sodium": "0.091",
+    "alcohol": "0",
+    "organicAcids": "0.809"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D771300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

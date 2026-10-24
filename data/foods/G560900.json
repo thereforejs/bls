@@ -1,0 +1,44 @@
+{
+  "code": "G560900",
+  "name": {
+    "de": "Tomate Konserve",
+    "en": "Tomato canned"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.021",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.042",
+    "carbohydrate": "2.536",
+    "sugars": "2.498",
+    "starch": "0.038",
+    "polyols": "0",
+    "fibre": "0.93",
+    "protein": "1.15",
+    "sodium": "0.086",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G560900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

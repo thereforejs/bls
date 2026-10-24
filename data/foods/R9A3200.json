@@ -1,0 +1,44 @@
+{
+  "code": "R9A3200",
+  "name": {
+    "de": "Nussfüllung für Gebäck/Torten",
+    "en": "Nut filling for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "35.7",
+    "saturates": "6.59",
+    "monounsaturates": "23.66",
+    "polyunsaturates": "4.5",
+    "carbohydrate": "30.3",
+    "sugars": "19.94",
+    "starch": "10.4",
+    "polyols": "0.002",
+    "fibre": "4",
+    "protein": "9.24",
+    "sodium": "0.138",
+    "alcohol": "0",
+    "organicAcids": "0.042"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A3200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

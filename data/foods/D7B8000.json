@@ -1,0 +1,44 @@
+{
+  "code": "D7B8000",
+  "name": {
+    "de": "Spritzgebäck (Rührmasse)",
+    "en": "Spritz biscuits (cake batter)"
+  },
+  "per100g": {
+    "fat": "28.8",
+    "saturates": "17.18",
+    "monounsaturates": "6.64",
+    "polyunsaturates": "1.21",
+    "carbohydrate": "50.5",
+    "sugars": "17.2",
+    "starch": "33.3",
+    "polyols": "0",
+    "fibre": "2.47",
+    "protein": "6.7",
+    "sodium": "0.063",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B8000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G420182",
+  "name": {
+    "de": "Stielmus/Rübstiel, gebraten ohne Fett (Pfanne)",
+    "en": "Turnip tops/greens, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.1",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "1.21",
+    "sugars": "1.21",
+    "starch": null,
+    "polyols": null,
+    "fibre": "4.8",
+    "protein": "2.2",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G420182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

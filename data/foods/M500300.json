@@ -1,0 +1,44 @@
+{
+  "code": "M500300",
+  "name": {
+    "de": "Schnittkäse halbfest mind. 20 % Fett i. Tr.",
+    "en": "Semi-soft cheese min. 20 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "11.4",
+    "saturates": "6.4",
+    "monounsaturates": "2.7",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "0.0004",
+    "sugars": "0.0004",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "33.82",
+    "sodium": "0.81",
+    "alcohol": "0",
+    "organicAcids": "1.451"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M500300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

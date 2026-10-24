@@ -1,0 +1,44 @@
+{
+  "code": "Y725212",
+  "name": {
+    "de": "Rührei gebraten mit Kochschinken",
+    "en": "Scrambled eggs fried with boiled ham"
+  },
+  "per100g": {
+    "fat": "15.64",
+    "saturates": "2.91",
+    "monounsaturates": "7.3",
+    "polyunsaturates": "3.23",
+    "carbohydrate": "0.45",
+    "sugars": "0.44",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "14.9",
+    "sodium": "0.386",
+    "alcohol": "0",
+    "organicAcids": "0.188"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y725212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

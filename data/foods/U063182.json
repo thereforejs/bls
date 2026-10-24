@@ -1,0 +1,44 @@
+{
+  "code": "U063182",
+  "name": {
+    "de": "Rind/Schwein, Hacksteak, gebraten ohne Fett (Pfanne)",
+    "en": "Beef/pork, minced steak, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "16.64",
+    "saturates": "6.335",
+    "monounsaturates": "6.909",
+    "polyunsaturates": "1.267",
+    "carbohydrate": "1.13",
+    "sugars": "1.13",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "17.22",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.047"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U063182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

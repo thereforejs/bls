@@ -1,0 +1,44 @@
+{
+  "code": "G311152",
+  "name": {
+    "de": "Blumenkohl gedünstet",
+    "en": "Cauliflower stewed"
+  },
+  "per100g": {
+    "fat": "0.298",
+    "saturates": "0.045",
+    "monounsaturates": "0.0071",
+    "polyunsaturates": "0.147",
+    "carbohydrate": "5.66",
+    "sugars": "2.29",
+    "starch": "0.194",
+    "polyols": "3.18",
+    "fibre": "3.1",
+    "protein": "2.579",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0.291"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G311152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

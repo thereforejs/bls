@@ -1,0 +1,44 @@
+{
+  "code": "S151100",
+  "name": {
+    "de": "Ahornsirup",
+    "en": "Maple syrup"
+  },
+  "per100g": {
+    "fat": "0.06",
+    "saturates": "0.007",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "59.9",
+    "sugars": "59.9",
+    "starch": "0",
+    "polyols": null,
+    "fibre": null,
+    "protein": "0.04",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S151100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

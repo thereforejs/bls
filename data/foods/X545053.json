@@ -1,0 +1,44 @@
+{
+  "code": "X545053",
+  "name": {
+    "de": "Spargel gekocht, mit Grundsauce hell/weiß",
+    "en": "Asparagus boiled, with white basic sauce"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.9",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.09",
+    "carbohydrate": "3.82",
+    "sugars": "2.77",
+    "starch": "0.99",
+    "polyols": "0.06",
+    "fibre": "1",
+    "protein": "1.56",
+    "sodium": "0.16",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X545053",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

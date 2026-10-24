@@ -1,0 +1,44 @@
+{
+  "code": "X469313",
+  "name": {
+    "de": "Spanisch Fricco (Kartoffel-Eintopf mit Schweinefleisch, Naturjoghurt und saurer Sahne)",
+    "en": "\"Spanish Fricco\" (potato stew with pork, yogurt and sour cream)"
+  },
+  "per100g": {
+    "fat": "11.3",
+    "saturates": "5",
+    "monounsaturates": "3.9",
+    "polyunsaturates": "0.84",
+    "carbohydrate": "10",
+    "sugars": "2.3",
+    "starch": "8",
+    "polyols": "0",
+    "fibre": "0.8",
+    "protein": "7.13",
+    "sodium": "0.09",
+    "alcohol": "0",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

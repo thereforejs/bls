@@ -1,0 +1,44 @@
+{
+  "code": "H770100",
+  "name": {
+    "de": "Mungbohne reif",
+    "en": "Mung bean mature"
+  },
+  "per100g": {
+    "fat": "1.15",
+    "saturates": "0.32",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "38.7",
+    "sugars": "1.5",
+    "starch": "37.2",
+    "polyols": null,
+    "fibre": "15.6",
+    "protein": "23.9",
+    "sodium": "0.014",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H770100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

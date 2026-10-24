@@ -1,0 +1,44 @@
+{
+  "code": "D7A6300",
+  "name": {
+    "de": "Berliner/Pfannkuchen/Krapfen (Hefeteig) frittiert, gefüllt mit Nuss-Nougat-Creme",
+    "en": "\"Berliner\" doughnut (yeast dough) deep-fried, filled with nut nougat cream"
+  },
+  "per100g": {
+    "fat": "20.1",
+    "saturates": "8.8",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "43.7",
+    "sugars": "14.91",
+    "starch": "28.8",
+    "polyols": "0.001",
+    "fibre": "3",
+    "protein": "7.6",
+    "sodium": "0.164",
+    "alcohol": "0",
+    "organicAcids": "0.089"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A6300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D752100",
+  "name": {
+    "de": "Rosinen-Mandel-Schnecken (Hefeteig)",
+    "en": "Danish swirl (yeast dough) with raisins and almonds"
+  },
+  "per100g": {
+    "fat": "15",
+    "saturates": "8.1",
+    "monounsaturates": "4.06",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "49",
+    "sugars": "19.1",
+    "starch": "30",
+    "polyols": "0.112",
+    "fibre": "3.6",
+    "protein": "7.7",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.52"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D752100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

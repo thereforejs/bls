@@ -1,0 +1,44 @@
+{
+  "code": "F020600",
+  "name": {
+    "de": "Roter Mehrfruchtsaft",
+    "en": "Red multi-fruit juice"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.035",
+    "monounsaturates": "0.038",
+    "polyunsaturates": "0.2",
+    "carbohydrate": "9.9",
+    "sugars": "9.2",
+    "starch": "0.003",
+    "polyols": "0.65",
+    "fibre": "0.3",
+    "protein": "0.7",
+    "sodium": "0.003",
+    "alcohol": "0.03",
+    "organicAcids": "1.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F020600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

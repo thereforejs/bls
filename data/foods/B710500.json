@@ -1,0 +1,44 @@
+{
+  "code": "B710500",
+  "name": {
+    "de": "Dinkelbrot",
+    "en": "Spelt bread"
+  },
+  "per100g": {
+    "fat": "2.39",
+    "saturates": "0.55",
+    "monounsaturates": "0.69",
+    "polyunsaturates": "0.73",
+    "carbohydrate": "38",
+    "sugars": "0.684",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "6.76",
+    "protein": "8.4",
+    "sodium": "0.474",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B710500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G620132",
+  "name": {
+    "de": "Karotte/Möhre, gekocht",
+    "en": "Carrot boiled"
+  },
+  "per100g": {
+    "fat": "0.5",
+    "saturates": "0.093",
+    "monounsaturates": "0.1037",
+    "polyunsaturates": "0.0749",
+    "carbohydrate": "5.415",
+    "sugars": "5.314",
+    "starch": "0.1012",
+    "polyols": "0",
+    "fibre": "2.47",
+    "protein": "0.5",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0.238"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4140",
+  "name": {
+    "de": "Vanilleflammeri/Vanillepudding, mit Ei",
+    "en": "Vanilla pudding with egg"
+  },
+  "per100g": {
+    "fat": "4.54",
+    "saturates": "2.5",
+    "monounsaturates": "1.18",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "16.64",
+    "sugars": "9.92",
+    "starch": "6.717",
+    "polyols": "0",
+    "fibre": "0.062",
+    "protein": "4.8",
+    "sodium": "0.069",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4140",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

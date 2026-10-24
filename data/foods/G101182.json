@@ -1,0 +1,44 @@
+{
+  "code": "G101182",
+  "name": {
+    "de": "Chicoree gebraten ohne Fett (Pfanne)",
+    "en": "Witloof chicory fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.34",
+    "saturates": "0.058",
+    "monounsaturates": "0.0085",
+    "polyunsaturates": "0.193",
+    "carbohydrate": "2.4",
+    "sugars": "1.72",
+    "starch": "0.053",
+    "polyols": "0.2",
+    "fibre": "2.5",
+    "protein": "4.509",
+    "sodium": "0.087",
+    "alcohol": "0",
+    "organicAcids": "0.477"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G101182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y321323",
+  "name": {
+    "de": "Schweinekotelett gedünstet, mit Grundsauce dunkel/braun",
+    "en": "Pork chop stewed, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "14.8",
+    "saturates": "3.4",
+    "monounsaturates": "6.7",
+    "polyunsaturates": "2.42",
+    "carbohydrate": "2.4",
+    "sugars": "0.4",
+    "starch": "1.99",
+    "polyols": "0.01",
+    "fibre": "0.5",
+    "protein": "18.43",
+    "sodium": "0.208",
+    "alcohol": "0",
+    "organicAcids": "0.029"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y321323",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

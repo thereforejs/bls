@@ -1,0 +1,44 @@
+{
+  "code": "W243000",
+  "name": {
+    "de": "Kalbskäse mit Schweinefleisch",
+    "en": "Kalbskaese sausage with pork"
+  },
+  "per100g": {
+    "fat": "26.4",
+    "saturates": "10.4",
+    "monounsaturates": "10.3",
+    "polyunsaturates": "3.5",
+    "carbohydrate": "0.11",
+    "sugars": "0",
+    "starch": "0.11",
+    "polyols": "0",
+    "fibre": "0.06",
+    "protein": "11.8",
+    "sodium": "0.832",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W243000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

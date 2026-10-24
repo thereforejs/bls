@@ -1,0 +1,44 @@
+{
+  "code": "Y890512",
+  "name": {
+    "de": "Kaiserschmarren (mit Milch 1,5 % Fett) gebraten",
+    "en": "\"Kaiserschmarren\" fried (thick pancake with milk 1.5 % fat, cut into pieces)"
+  },
+  "per100g": {
+    "fat": "12.6",
+    "saturates": "2",
+    "monounsaturates": "5.53",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "23.3",
+    "sugars": "7.3",
+    "starch": "15.93",
+    "polyols": "0.032",
+    "fibre": "1.4",
+    "protein": "8.1",
+    "sodium": "0.074",
+    "alcohol": "0.3",
+    "organicAcids": "0.167"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y890512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

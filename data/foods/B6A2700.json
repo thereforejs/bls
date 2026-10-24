@@ -1,0 +1,44 @@
+{
+  "code": "B6A2700",
+  "name": {
+    "de": "Roggenvollkornknäckebrot mit Kümmel",
+    "en": "Wholemeal rye crispbread with caraway seeds"
+  },
+  "per100g": {
+    "fat": "1.4",
+    "saturates": "0.153",
+    "monounsaturates": "0.199",
+    "polyunsaturates": "0.642",
+    "carbohydrate": "59.37",
+    "sugars": "1.906",
+    "starch": "57.46",
+    "polyols": "0",
+    "fibre": "19.92",
+    "protein": "9.45",
+    "sodium": "0.5309",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B6A2700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "T422600",
+  "name": {
+    "de": "Forelle geräuchert",
+    "en": "Trout smoked"
+  },
+  "per100g": {
+    "fat": "5.52",
+    "saturates": "0.9",
+    "monounsaturates": "1.06",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0.03",
+    "protein": "21.2",
+    "sodium": "0.839",
+    "alcohol": null,
+    "organicAcids": "0.735"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T422600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

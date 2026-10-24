@@ -1,0 +1,44 @@
+{
+  "code": "B426700",
+  "name": {
+    "de": "Roggenvollkornbrötchen mit Kürbiskernen",
+    "en": "Wholemeal rye roll with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "5.22",
+    "saturates": "1.22",
+    "monounsaturates": "1.64",
+    "polyunsaturates": "1.96",
+    "carbohydrate": "40",
+    "sugars": "1.196",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "13.2",
+    "protein": "8.92",
+    "sodium": "0.528",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B426700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

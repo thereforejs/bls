@@ -1,0 +1,44 @@
+{
+  "code": "Y373223",
+  "name": {
+    "de": "Schweinelebergeschnetzeltes mit Apfel, Zwiebeln und Grundsauce dunkel/braun",
+    "en": "Pork liver ragout with apple, onions and brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "0.9",
+    "monounsaturates": "1.8",
+    "polyunsaturates": "1",
+    "carbohydrate": "6.6",
+    "sugars": "2.81",
+    "starch": "3.71",
+    "polyols": "0.1",
+    "fibre": "0.9",
+    "protein": "9.37",
+    "sodium": "0.189",
+    "alcohol": "0.001",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y373223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

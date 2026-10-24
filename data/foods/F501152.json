@@ -1,0 +1,44 @@
+{
+  "code": "F501152",
+  "name": {
+    "de": "Ananas gedünstet",
+    "en": "Pineapple stewed"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.0214",
+    "monounsaturates": "0.0206",
+    "polyunsaturates": "0.0216",
+    "carbohydrate": "9.7",
+    "sugars": "9.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "0.5",
+    "sodium": "0.004",
+    "alcohol": "0.006",
+    "organicAcids": "0.746"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F501152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

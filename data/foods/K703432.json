@@ -1,0 +1,44 @@
+{
+  "code": "K703432",
+  "name": {
+    "de": "Morchel getrocknet, gekocht",
+    "en": "Morel dried, boiled"
+  },
+  "per100g": {
+    "fat": "1.302",
+    "saturates": "0.222",
+    "monounsaturates": "0.028",
+    "polyunsaturates": "0.651",
+    "carbohydrate": "2.4",
+    "sugars": "2.4",
+    "starch": null,
+    "polyols": null,
+    "fibre": "29.798",
+    "protein": "10.126",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K703432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

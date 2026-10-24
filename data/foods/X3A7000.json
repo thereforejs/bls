@@ -1,0 +1,44 @@
+{
+  "code": "X3A7000",
+  "name": {
+    "de": "Mandelpesto",
+    "en": "Almond pesto"
+  },
+  "per100g": {
+    "fat": "38.56",
+    "saturates": "4.67",
+    "monounsaturates": "22.12",
+    "polyunsaturates": "9",
+    "carbohydrate": "4",
+    "sugars": "1.5",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "3.9",
+    "protein": "11.33",
+    "sodium": "0.222",
+    "alcohol": "0",
+    "organicAcids": "0.079"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

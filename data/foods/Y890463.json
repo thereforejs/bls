@@ -1,0 +1,44 @@
+{
+  "code": "Y890463",
+  "name": {
+    "de": "Salzburger Nockerl gebacken",
+    "en": "\"Salzburger Nockerl\" baked (sweet egg dish)"
+  },
+  "per100g": {
+    "fat": "12.58",
+    "saturates": "6.34",
+    "monounsaturates": "3.6",
+    "polyunsaturates": "1.07",
+    "carbohydrate": "19.9",
+    "sugars": "16",
+    "starch": "3.92",
+    "polyols": "0",
+    "fibre": "0.29",
+    "protein": "8.4",
+    "sodium": "0.105",
+    "alcohol": "0.1",
+    "organicAcids": "0.012"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y890463",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

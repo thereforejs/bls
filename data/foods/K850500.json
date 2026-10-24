@@ -1,0 +1,44 @@
+{
+  "code": "K850500",
+  "name": {
+    "de": "Pilzcremesuppe Instantpulver",
+    "en": "Cream of mushroom soup instant powder"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "1.4",
+    "monounsaturates": "1.4",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "60",
+    "sugars": "12",
+    "starch": "47",
+    "polyols": "1.15",
+    "fibre": "5.5",
+    "protein": "11.9",
+    "sodium": "4.774",
+    "alcohol": "0",
+    "organicAcids": "0.33"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K850500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

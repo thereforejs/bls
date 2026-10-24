@@ -1,0 +1,44 @@
+{
+  "code": "Y9A2040",
+  "name": {
+    "de": "Tartufo, Vanilleeis im Schokoladenmantel (mit Alkohol)",
+    "en": "Tartufo, vanilla ice cream in chocolate coating (with alcohol)"
+  },
+  "per100g": {
+    "fat": "24.1",
+    "saturates": "15.36",
+    "monounsaturates": "6.1",
+    "polyunsaturates": "0.77",
+    "carbohydrate": "30",
+    "sugars": "29",
+    "starch": "1.5",
+    "polyols": "0",
+    "fibre": "4.33",
+    "protein": "5",
+    "sodium": "0.027",
+    "alcohol": "1.39",
+    "organicAcids": "0.068"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y9A2040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D7B8200",
+  "name": {
+    "de": "Spritzgebäck (Rührmasse) mit Nougatfüllung",
+    "en": "Spritz biscuits (cake batter) with nougat filling"
+  },
+  "per100g": {
+    "fat": "26.9",
+    "saturates": "15.3",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "54.1",
+    "sugars": "25.4",
+    "starch": "28.7",
+    "polyols": "0",
+    "fibre": "2.33",
+    "protein": "6.3",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0.15"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B8200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

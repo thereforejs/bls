@@ -1,0 +1,44 @@
+{
+  "code": "T204172",
+  "name": {
+    "de": "Dorsch/Kabeljau, gegrillt",
+    "en": "Cod grilled"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.25",
+    "monounsaturates": "0.27",
+    "polyunsaturates": "0.519",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.9",
+    "sodium": "0.099",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T204172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

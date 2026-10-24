@@ -1,0 +1,44 @@
+{
+  "code": "Y945132",
+  "name": {
+    "de": "Rostbratwurst mit Kartoffelsalat und Senf",
+    "en": "Rostbratwurst with potato salad and mustard"
+  },
+  "per100g": {
+    "fat": "12.3",
+    "saturates": "2.5",
+    "monounsaturates": "5.9",
+    "polyunsaturates": "2.52",
+    "carbohydrate": "6.38",
+    "sugars": "0.75",
+    "starch": "5.63",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "7.6",
+    "sodium": "0.388",
+    "alcohol": "0.003",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y945132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y3A2000",
+  "name": {
+    "de": "Schweinesteak gebraten, mit Karotten und Erbsen gedünstet",
+    "en": "Pork steak fried, with carrots and peas stewed"
+  },
+  "per100g": {
+    "fat": "5.7",
+    "saturates": "1.3",
+    "monounsaturates": "2.4",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "3.43",
+    "sugars": "1.688",
+    "starch": "1.74",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "15.3",
+    "sodium": "0.139",
+    "alcohol": "0",
+    "organicAcids": "0.143"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y3A2000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

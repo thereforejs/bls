@@ -1,0 +1,44 @@
+{
+  "code": "G567702",
+  "name": {
+    "de": "Tomate getrocknet, in Öl, Konserve, abgetropft",
+    "en": "Tomato dried, in oil, canned, drained"
+  },
+  "per100g": {
+    "fat": "16.316",
+    "saturates": "1.23",
+    "monounsaturates": "9.23",
+    "polyunsaturates": "4.49",
+    "carbohydrate": "23.33",
+    "sugars": "23.33",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "9.4",
+    "protein": "6.487",
+    "sodium": "1.322",
+    "alcohol": "0",
+    "organicAcids": "2.782"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G567702",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

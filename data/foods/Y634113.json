@@ -1,0 +1,44 @@
+{
+  "code": "Y634113",
+  "name": {
+    "de": "Seezungenfilet gedünstet, in Tomatensauce (aus Tomatenmark)",
+    "en": "Sole fillet stewed, in tomato sauce (of tomato paste)"
+  },
+  "per100g": {
+    "fat": "5",
+    "saturates": "0.9",
+    "monounsaturates": "2.4",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "0.9",
+    "sugars": "0.9",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "13.1",
+    "sodium": "0.25",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y634113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

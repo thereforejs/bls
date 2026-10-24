@@ -1,0 +1,44 @@
+{
+  "code": "G451082",
+  "name": {
+    "de": "Spargel gebraten ohne Fett (Pfanne)",
+    "en": "Asparagus fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.294",
+    "saturates": "0.0526",
+    "monounsaturates": "0.01096",
+    "polyunsaturates": "0.141",
+    "carbohydrate": "7.51",
+    "sugars": "7.17",
+    "starch": "0.172",
+    "polyols": "0.17",
+    "fibre": "2.6",
+    "protein": "3.698",
+    "sodium": "0.00404",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G451082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

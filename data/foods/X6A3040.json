@@ -1,0 +1,44 @@
+{
+  "code": "X6A3040",
+  "name": {
+    "de": "Schinkenkartoffeln mit saurer Sahne und Käse überbacken",
+    "en": "Potatoes with ham, sour cream and cheese gratinated"
+  },
+  "per100g": {
+    "fat": "13.1",
+    "saturates": "4.2",
+    "monounsaturates": "5.4",
+    "polyunsaturates": "1.95",
+    "carbohydrate": "11.8",
+    "sugars": "2.1",
+    "starch": "9.664",
+    "polyols": "0",
+    "fibre": "0.9",
+    "protein": "8.5",
+    "sodium": "0.4",
+    "alcohol": "0",
+    "organicAcids": "0.105"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A3040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X651543",
+  "name": {
+    "de": "Bratkartoffeln gesüßt",
+    "en": "Fried potatoes sweetened"
+  },
+  "per100g": {
+    "fat": "11.927",
+    "saturates": "0.82",
+    "monounsaturates": "6.19",
+    "polyunsaturates": "2.94",
+    "carbohydrate": "18.84",
+    "sugars": "1.263",
+    "starch": "17.577",
+    "polyols": "0",
+    "fibre": "2.429",
+    "protein": "2.366",
+    "sodium": "0.178",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651543",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

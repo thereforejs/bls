@@ -1,0 +1,44 @@
+{
+  "code": "G750100",
+  "name": {
+    "de": "Sojabohne unreif (Edamame) roh",
+    "en": "Soya bean immature (edamame) raw"
+  },
+  "per100g": {
+    "fat": "6.8",
+    "saturates": "0.79",
+    "monounsaturates": "1.28",
+    "polyunsaturates": "3.2",
+    "carbohydrate": "6.2",
+    "sugars": "1.3",
+    "starch": "4.9",
+    "polyols": null,
+    "fibre": "4.2",
+    "protein": "13",
+    "sodium": "0.015",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G750100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

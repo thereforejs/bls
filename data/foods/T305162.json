@@ -1,0 +1,44 @@
+{
+  "code": "T305162",
+  "name": {
+    "de": "Goldbutt/Scholle, gebraten ohne Fett (Ofen)",
+    "en": "Plaice fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "1",
+    "saturates": "0.18",
+    "monounsaturates": "0.17",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.7",
+    "sodium": "0.0754",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T305162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

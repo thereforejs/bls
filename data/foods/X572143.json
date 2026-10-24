@@ -1,0 +1,44 @@
+{
+  "code": "X572143",
+  "name": {
+    "de": "Linsengemüse gekocht, mit Suppengrün und Speck",
+    "en": "Lentils boiled, with mirepoix and bacon"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.46",
+    "monounsaturates": "0.48",
+    "polyunsaturates": "0.26",
+    "carbohydrate": "9",
+    "sugars": "0.9",
+    "starch": "8",
+    "polyols": "0.01",
+    "fibre": "3.7",
+    "protein": "5.35",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X572143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

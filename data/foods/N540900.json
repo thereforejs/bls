@@ -1,0 +1,44 @@
+{
+  "code": "N540900",
+  "name": {
+    "de": "Zichorienkaffeepulver",
+    "en": "Chicory coffee powder"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "0.176",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.916",
+    "carbohydrate": "51.25",
+    "sugars": "7.62",
+    "starch": "43.63",
+    "polyols": "0",
+    "fibre": "28.7",
+    "protein": "6.8",
+    "sodium": "0.156",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N540900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

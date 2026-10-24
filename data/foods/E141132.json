@@ -1,0 +1,44 @@
+{
+  "code": "E141132",
+  "name": {
+    "de": "Gänseei gekocht",
+    "en": "Goose egg boiled"
+  },
+  "per100g": {
+    "fat": "13.3",
+    "saturates": "3.6",
+    "monounsaturates": "5",
+    "polyunsaturates": "2.1",
+    "carbohydrate": "0.34",
+    "sugars": "0.34",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.9",
+    "sodium": "0.138",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E141132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

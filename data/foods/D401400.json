@@ -1,0 +1,44 @@
+{
+  "code": "D401400",
+  "name": {
+    "de": "Honigkuchen",
+    "en": "Gingerbread cake"
+  },
+  "per100g": {
+    "fat": "6.5",
+    "saturates": "0.83",
+    "monounsaturates": "4.51",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "68.4",
+    "sugars": "38",
+    "starch": "30.2",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "6.77",
+    "sodium": "0.174",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D401400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

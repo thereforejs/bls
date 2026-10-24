@@ -1,0 +1,44 @@
+{
+  "code": "G760432",
+  "name": {
+    "de": "Erbse reif, gekocht",
+    "en": "Pea green mature, boiled"
+  },
+  "per100g": {
+    "fat": "0.558",
+    "saturates": "0.101",
+    "monounsaturates": "0.043",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "14.9",
+    "sugars": "1.2",
+    "starch": "13.7",
+    "polyols": null,
+    "fibre": "8.539",
+    "protein": "8.745",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G760432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

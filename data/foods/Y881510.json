@@ -1,0 +1,44 @@
+{
+  "code": "Y881510",
+  "name": {
+    "de": "Quarkspeise mit Erdbeeren",
+    "en": "Quark dish with strawberries"
+  },
+  "per100g": {
+    "fat": "4.88",
+    "saturates": "2.605",
+    "monounsaturates": "1.245",
+    "polyunsaturates": "0.184",
+    "carbohydrate": "10.26",
+    "sugars": "10.24",
+    "starch": "0",
+    "polyols": "0.017",
+    "fibre": "0.5",
+    "protein": "5.75",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.657"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y881510",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

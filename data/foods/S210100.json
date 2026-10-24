@@ -1,0 +1,44 @@
+{
+  "code": "S210100",
+  "name": {
+    "de": "Speiseeis (Frucht, Vanille) gemischt, in Waffeltüte",
+    "en": "Ice cream mixed (fruit, vanilla) in waffle cone"
+  },
+  "per100g": {
+    "fat": "6.4",
+    "saturates": "4.08",
+    "monounsaturates": "1.47",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "28.3",
+    "sugars": "22.7",
+    "starch": "4.96",
+    "polyols": "0.008",
+    "fibre": "0.7",
+    "protein": "1.98",
+    "sodium": "0.023",
+    "alcohol": "0",
+    "organicAcids": "0.316"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S210100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

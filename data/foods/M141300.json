@@ -1,0 +1,47 @@
+{
+  "code": "M141300",
+  "name": {
+    "de": "Joghurt mild, mind. 3,5 % Fett",
+    "en": "Yogurt mild, min. 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "3.46",
+    "saturates": "2.27",
+    "monounsaturates": "0.868",
+    "polyunsaturates": "0.108",
+    "carbohydrate": "4.13",
+    "sugars": "4.13",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.98",
+    "sodium": "0.04",
+    "alcohol": null,
+    "organicAcids": "1.071"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M141300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

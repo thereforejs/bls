@@ -1,0 +1,44 @@
+{
+  "code": "X344360",
+  "name": {
+    "de": "Tatarensauce",
+    "en": "Tatar sauce"
+  },
+  "per100g": {
+    "fat": "25.4",
+    "saturates": "3.7",
+    "monounsaturates": "13.3",
+    "polyunsaturates": "5.95",
+    "carbohydrate": "2.3",
+    "sugars": "2.3",
+    "starch": "0.02",
+    "polyols": "0.004",
+    "fibre": "0.4",
+    "protein": "4.9",
+    "sodium": "0.42",
+    "alcohol": "0.01",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X344360",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S536000",
+  "name": {
+    "de": "Vollmilchschokolade mit Haselnüssen",
+    "en": "Whole milk chocolate with hazelnuts"
+  },
+  "per100g": {
+    "fat": "40.43",
+    "saturates": "18.27",
+    "monounsaturates": "17.85",
+    "polyunsaturates": "2.09",
+    "carbohydrate": "43.4",
+    "sugars": "42.83",
+    "starch": "0.6",
+    "polyols": "0",
+    "fibre": "3.5",
+    "protein": "8.12",
+    "sodium": "0.0608",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S536000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

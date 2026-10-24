@@ -1,0 +1,44 @@
+{
+  "code": "Y670632",
+  "name": {
+    "de": "Aal mit Speck gebacken",
+    "en": "Eel with bacon baked"
+  },
+  "per100g": {
+    "fat": "31.9",
+    "saturates": "7.54",
+    "monounsaturates": "11.51",
+    "polyunsaturates": "5.15",
+    "carbohydrate": "0.18",
+    "sugars": "0.17",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "17.9",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y670632",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

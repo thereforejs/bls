@@ -1,0 +1,44 @@
+{
+  "code": "T313182",
+  "name": {
+    "de": "Rotzunge gebraten ohne Fett (Pfanne)",
+    "en": "Witch fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.12",
+    "saturates": "0.161",
+    "monounsaturates": "0.223",
+    "polyunsaturates": "0.323",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.406",
+    "sodium": "0.129",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T313182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

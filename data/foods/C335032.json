@@ -1,0 +1,46 @@
+{
+  "code": "C335032",
+  "name": {
+    "de": "Amaranth gekocht",
+    "en": "Amaranth boiled"
+  },
+  "per100g": {
+    "fat": "1.79",
+    "saturates": "0.43",
+    "monounsaturates": "0.39",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "19.88",
+    "sugars": "0.41375",
+    "starch": "19.47",
+    "polyols": "0",
+    "fibre": "2.79",
+    "protein": "4.48",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {
+    "sodium": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C335032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "K110182",
+  "name": {
+    "de": "Kartoffel geschält, gebraten ohne Fett (Pfanne)",
+    "en": "Potatoe peeled, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.139",
+    "saturates": "0.0492",
+    "monounsaturates": "0.0212",
+    "polyunsaturates": "0.0187",
+    "carbohydrate": "24.861",
+    "sugars": "1.25",
+    "starch": "23.611",
+    "polyols": null,
+    "fibre": "1.972",
+    "protein": "2.694",
+    "sodium": "0.0047",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K110182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

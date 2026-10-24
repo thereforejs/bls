@@ -1,4 +1,3 @@
-import { readFileSync } from "node:fs";
 import { strFromU8, unzipSync } from "fflate";
 
 const SHEET = "xl/worksheets/sheet1.xml";
@@ -9,12 +8,12 @@ const STRINGS = "xl/sharedStrings.xml";
  * written (`9.3000000000000007`). Rows and cells sit at their position; a gap stays `undefined`.
  * Only what the BLS file uses: shared strings and plain values, no formulas, no inline strings.
  */
-export function readSheet(path: string): (string | undefined)[][] {
-  const files = unzipSync(readFileSync(path), {
+export function readSheet(xlsx: Uint8Array): (string | undefined)[][] {
+  const files = unzipSync(xlsx, {
     filter: (file) => file.name === SHEET || file.name === STRINGS,
   });
   const sheet = files[SHEET];
-  if (!sheet) throw new Error(`${path} has no ${SHEET}`);
+  if (!sheet) throw new Error(`The workbook has no ${SHEET}`);
   const strings = files[STRINGS] ? sharedStrings(strFromU8(files[STRINGS])) : [];
 
   const rows: (string | undefined)[][] = [];
@@ -29,7 +28,7 @@ export function readSheet(path: string): (string | undefined)[][] {
       const column = reference(/\sr="([A-Z]+)\d+"/.exec(cellAttributes), cell);
       if (content === "") continue;
       const value = /^<v>(.*)<\/v>$/s.exec(content)?.[1];
-      if (value === undefined) throw new Error(`Unsupported cell in ${path}: ${cell}`);
+      if (value === undefined) throw new Error(`Unsupported cell: ${cell}`);
       row[columnIndex(column)] = /\st="s"/.test(cellAttributes)
         ? sharedString(strings, value, cell)
         : unescapeXml(value);

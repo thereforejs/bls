@@ -1,0 +1,44 @@
+{
+  "code": "T107902",
+  "name": {
+    "de": "Makrele im eigenen Saft, Konserve, abgetropft",
+    "en": "Mackerel canned, drained"
+  },
+  "per100g": {
+    "fat": "6.54",
+    "saturates": "1.333",
+    "monounsaturates": "2.572",
+    "polyunsaturates": "1.733",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.8",
+    "sodium": "0.21",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T107902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

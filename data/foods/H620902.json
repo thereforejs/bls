@@ -1,0 +1,44 @@
+{
+  "code": "H620902",
+  "name": {
+    "de": "Sojabohnensprossen/Sojabohnenkeimlinge, Konserve, abgetropft",
+    "en": "Soya bean sprouts canned, drained"
+  },
+  "per100g": {
+    "fat": "0.692",
+    "saturates": "0.08",
+    "monounsaturates": "0.001",
+    "polyunsaturates": "0",
+    "carbohydrate": "2.4",
+    "sugars": "2.4",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.751",
+    "protein": "4.299",
+    "sodium": "0.191",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H620902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

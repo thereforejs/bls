@@ -1,0 +1,44 @@
+{
+  "code": "E112500",
+  "name": {
+    "de": "Hühnerei Eigelb, Pulver",
+    "en": "Chicken egg yolk, powder"
+  },
+  "per100g": {
+    "fat": "59.3",
+    "saturates": "17.168",
+    "monounsaturates": "24.799",
+    "polyunsaturates": "8.301",
+    "carbohydrate": "0.23",
+    "sugars": "0.23",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "34.2",
+    "sodium": "0.091",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E112500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H880200",
+  "name": {
+    "de": "Erdnussbutter/Erdnusscreme",
+    "en": "Peanut butter"
+  },
+  "per100g": {
+    "fat": "47.78",
+    "saturates": "15.65",
+    "monounsaturates": "22.94",
+    "polyunsaturates": "6.8",
+    "carbohydrate": "16.09",
+    "sugars": "11.72",
+    "starch": "4.37",
+    "polyols": "0",
+    "fibre": "7.44",
+    "protein": "24.08",
+    "sodium": "0.3165",
+    "alcohol": "0",
+    "organicAcids": "0.244"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H880200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

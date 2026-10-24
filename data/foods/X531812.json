@@ -1,0 +1,44 @@
+{
+  "code": "X531812",
+  "name": {
+    "de": "Blumenkohl im Backteig (mit Bier) frittiert",
+    "en": "Cauliflower in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "14.3",
+    "saturates": "1.45",
+    "monounsaturates": "7.6",
+    "polyunsaturates": "3.76",
+    "carbohydrate": "21.36",
+    "sugars": "1.76",
+    "starch": "17.4",
+    "polyols": "2.2",
+    "fibre": "3.4",
+    "protein": "6.5",
+    "sodium": "0.11",
+    "alcohol": "0.243",
+    "organicAcids": "0.184"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X531812",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G312282",
+  "name": {
+    "de": "Broccoli tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Broccoli deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.326",
+    "saturates": "0.2642",
+    "monounsaturates": "0.0833",
+    "polyunsaturates": "0.575",
+    "carbohydrate": "4.8",
+    "sugars": "2.9",
+    "starch": "1.15",
+    "polyols": "0.8",
+    "fibre": "6.6",
+    "protein": "4.4",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.74"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G312282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

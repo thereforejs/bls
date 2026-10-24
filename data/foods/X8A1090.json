@@ -1,0 +1,44 @@
+{
+  "code": "X8A1090",
+  "name": {
+    "de": "Sushi vegan, gefüllt mit Gemüse",
+    "en": "Sushi vegan, filled with vegetables"
+  },
+  "per100g": {
+    "fat": "1.88",
+    "saturates": "0.4",
+    "monounsaturates": "1.07",
+    "polyunsaturates": "0.28",
+    "carbohydrate": "16.8",
+    "sugars": "0.83",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "2.3",
+    "sodium": "0.053",
+    "alcohol": "0.001",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X8A1090",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

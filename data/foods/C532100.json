@@ -1,0 +1,44 @@
+{
+  "code": "C532100",
+  "name": {
+    "de": "Vollmilchschokolade mit Puffreis und Crispies",
+    "en": "Whole milk chocolate with puffed rice and crispies"
+  },
+  "per100g": {
+    "fat": "29.56",
+    "saturates": "17.61",
+    "monounsaturates": "8.8",
+    "polyunsaturates": "1.07",
+    "carbohydrate": "56.3",
+    "sugars": "43.24",
+    "starch": "13.05",
+    "polyols": "0.008",
+    "fibre": "2.5",
+    "protein": "6.55",
+    "sodium": "0.0667",
+    "alcohol": "0",
+    "organicAcids": "0.017"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C532100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

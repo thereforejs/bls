@@ -1,0 +1,44 @@
+{
+  "code": "X518233",
+  "name": {
+    "de": "Gemüsemischung gebraten",
+    "en": "Vegetable mix fried"
+  },
+  "per100g": {
+    "fat": "1.9",
+    "saturates": "0.1",
+    "monounsaturates": "0.8",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "7",
+    "sugars": "5.3",
+    "starch": "1",
+    "polyols": "0.75",
+    "fibre": "2.9",
+    "protein": "2.2",
+    "sodium": "0.161",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X518233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y569533",
+  "name": {
+    "de": "Hähnchenschenkel mariniert, gebraten, mit Curryjoghurtsauce",
+    "en": "Chicken thigh marinated, fried, with curry-yogurt sauce"
+  },
+  "per100g": {
+    "fat": "19.88",
+    "saturates": "4.24",
+    "monounsaturates": "7.7",
+    "polyunsaturates": "3.66",
+    "carbohydrate": "3.3",
+    "sugars": "1.48",
+    "starch": "1.8",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "16.97",
+    "sodium": "0.194",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y569533",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

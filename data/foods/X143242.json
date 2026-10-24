@@ -1,0 +1,44 @@
+{
+  "code": "X143242",
+  "name": {
+    "de": "Fenchelsalat (gegart) mit Essigmarinade",
+    "en": "Fennel salad (cooked) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "9.61",
+    "saturates": "0.71",
+    "monounsaturates": "5.47",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "2.95",
+    "sugars": "2.61",
+    "starch": "0.01",
+    "polyols": "0.33",
+    "fibre": "2.5",
+    "protein": "1.11",
+    "sodium": "0.098",
+    "alcohol": "0.006",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X143242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

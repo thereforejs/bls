@@ -1,0 +1,44 @@
+{
+  "code": "U485162",
+  "name": {
+    "de": "Kalb Kugel/Nuss, gebraten ohne Fett (Ofen)",
+    "en": "Veal thick flank, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "0.778",
+    "saturates": "0.326",
+    "monounsaturates": "0.293",
+    "polyunsaturates": "0.052",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.854",
+    "sodium": "0.093",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U485162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

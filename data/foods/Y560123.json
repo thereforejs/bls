@@ -1,0 +1,44 @@
+{
+  "code": "Y560123",
+  "name": {
+    "de": "Paprikahuhn gedünstet, mit Sauce",
+    "en": "Paprika chicken stewed, with sauce"
+  },
+  "per100g": {
+    "fat": "13",
+    "saturates": "3.2",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "2.37",
+    "carbohydrate": "1.4",
+    "sugars": "1.4",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "14.9",
+    "sodium": "0.26",
+    "alcohol": "0",
+    "organicAcids": "0.39"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y560123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

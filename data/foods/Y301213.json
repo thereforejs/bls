@@ -1,0 +1,44 @@
+{
+  "code": "Y301213",
+  "name": {
+    "de": "Kasseler Rippenspeer gekocht, mit Sauerkraut",
+    "en": "Pork loin spare ribs cured, boiled, with sauerkraut"
+  },
+  "per100g": {
+    "fat": "2.42",
+    "saturates": "0.62",
+    "monounsaturates": "1.01",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "1.45",
+    "sugars": "1.33",
+    "starch": "0.06",
+    "polyols": "0.062",
+    "fibre": "2.1",
+    "protein": "5.59",
+    "sodium": "0.4",
+    "alcohol": "0.05",
+    "organicAcids": "1.085"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y301213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

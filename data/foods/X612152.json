@@ -1,0 +1,44 @@
+{
+  "code": "X612152",
+  "name": {
+    "de": "Petersilienkartoffeln",
+    "en": "Parsley potatoes"
+  },
+  "per100g": {
+    "fat": "0.104",
+    "saturates": "0.034",
+    "monounsaturates": "0.0144",
+    "polyunsaturates": "0.016",
+    "carbohydrate": "15.623",
+    "sugars": "0.653",
+    "starch": "14.97",
+    "polyols": null,
+    "fibre": "2.082",
+    "protein": "2.03",
+    "sodium": "0.0044",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X612152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

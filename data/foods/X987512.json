@@ -1,0 +1,44 @@
+{
+  "code": "X987512",
+  "name": {
+    "de": "Weizen gekocht (mit Fett und Salz)",
+    "en": "Wheat boiled (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "4.416",
+    "saturates": "0.41",
+    "monounsaturates": "2.1",
+    "polyunsaturates": "1.36",
+    "carbohydrate": "30.575",
+    "sugars": "0.544",
+    "starch": "30.031",
+    "polyols": "0",
+    "fibre": "6.847",
+    "protein": "6.6158",
+    "sodium": "0.154",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X987512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

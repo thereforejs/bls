@@ -1,0 +1,44 @@
+{
+  "code": "D312700",
+  "name": {
+    "de": "Möhren-Nusstorte/Rüblitorte (Biskuit)",
+    "en": "Carrot nut cake (sponge cake)"
+  },
+  "per100g": {
+    "fat": "21.37",
+    "saturates": "2.36",
+    "monounsaturates": "15.71",
+    "polyunsaturates": "2.32",
+    "carbohydrate": "27.2",
+    "sugars": "23.4",
+    "starch": "3.8",
+    "polyols": "0.001",
+    "fibre": "3.3",
+    "protein": "8.4",
+    "sodium": "0.294",
+    "alcohol": "0",
+    "organicAcids": "0.138"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D312700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

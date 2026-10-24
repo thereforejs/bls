@@ -1,0 +1,47 @@
+{
+  "code": "M150000",
+  "name": {
+    "de": "Buttermilch",
+    "en": "Buttermilk"
+  },
+  "per100g": {
+    "fat": "0.56",
+    "saturates": "0.39",
+    "monounsaturates": "0.12",
+    "polyunsaturates": "0.028",
+    "carbohydrate": "4.73",
+    "sugars": "4.73",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.23",
+    "sodium": "0.0376",
+    "alcohol": null,
+    "organicAcids": "0.665"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M150000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

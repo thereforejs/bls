@@ -1,0 +1,44 @@
+{
+  "code": "S241500",
+  "name": {
+    "de": "Speiseeis Vanille, überzogen mit Schokolade",
+    "en": "Vanilla ice cream, covered with chocolate"
+  },
+  "per100g": {
+    "fat": "16.3",
+    "saturates": "10.67",
+    "monounsaturates": "4.06",
+    "polyunsaturates": "0.47",
+    "carbohydrate": "31.75",
+    "sugars": "28.21",
+    "starch": "3.54",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "3.67",
+    "sodium": "0.0513",
+    "alcohol": "0",
+    "organicAcids": "0.396"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S241500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

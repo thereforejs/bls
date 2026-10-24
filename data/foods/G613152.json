@@ -1,0 +1,44 @@
+{
+  "code": "G613152",
+  "name": {
+    "de": "Rote Rübe/Rote Bete, gedünstet",
+    "en": "Beetroot stewed"
+  },
+  "per100g": {
+    "fat": "0.098",
+    "saturates": "0.02",
+    "monounsaturates": "0.0097",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "7.08",
+    "sugars": "7.08",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.5",
+    "protein": "2.023",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.118"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G613152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

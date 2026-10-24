@@ -1,0 +1,44 @@
+{
+  "code": "C346032",
+  "name": {
+    "de": "Mais Grieß, gekocht",
+    "en": "Maize semolina, boiled"
+  },
+  "per100g": {
+    "fat": "1.052",
+    "saturates": "0.134",
+    "monounsaturates": "0.329",
+    "polyunsaturates": "0.535",
+    "carbohydrate": "23.448",
+    "sugars": "0.519",
+    "starch": "22.929",
+    "polyols": "0",
+    "fibre": "3.515",
+    "protein": "3.232",
+    "sodium": "0",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C346032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

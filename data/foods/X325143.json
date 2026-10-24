@@ -1,0 +1,44 @@
+{
+  "code": "X325143",
+  "name": {
+    "de": "Meerrettichsauce von Bechamelsauce mit Milch 3,5 % Fett",
+    "en": "Horseradish sauce from Bechamel sauce with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "7.08",
+    "saturates": "4.47",
+    "monounsaturates": "1.54",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "7.86",
+    "sugars": "4.8",
+    "starch": "3.06",
+    "polyols": "0",
+    "fibre": "0.74",
+    "protein": "4.45",
+    "sodium": "0.075",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X325143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

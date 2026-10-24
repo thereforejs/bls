@@ -1,0 +1,44 @@
+{
+  "code": "P151120",
+  "name": {
+    "de": "Hefeweizen/Weizenbier, 0,0 % vol",
+    "en": "Wheat beer 0.0 % vol"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "5.9",
+    "sugars": "3.6",
+    "starch": "2.2886",
+    "polyols": "0.002",
+    "fibre": "0",
+    "protein": "0.478",
+    "sodium": "0.0013",
+    "alcohol": "0",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P151120",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

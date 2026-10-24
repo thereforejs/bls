@@ -1,0 +1,44 @@
+{
+  "code": "Y637132",
+  "name": {
+    "de": "Heilbutt paniert, gebraten",
+    "en": "Halibut breaded, fried"
+  },
+  "per100g": {
+    "fat": "12",
+    "saturates": "1.81",
+    "monounsaturates": "8.38",
+    "polyunsaturates": "2.54",
+    "carbohydrate": "6.08",
+    "sugars": "0.65",
+    "starch": "5.43",
+    "polyols": "0",
+    "fibre": "0.54",
+    "protein": "17.9",
+    "sodium": "0.219",
+    "alcohol": "0.001",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y637132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T501252",
+  "name": {
+    "de": "Karpfen tiefgefroren, gedünstet",
+    "en": "Carp deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "4.88",
+    "saturates": "1.274",
+    "monounsaturates": "1.943",
+    "polyunsaturates": "0.9",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "15.882",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T501252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

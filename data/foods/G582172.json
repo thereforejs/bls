@@ -1,0 +1,44 @@
+{
+  "code": "G582172",
+  "name": {
+    "de": "Zucchini gegrillt",
+    "en": "Courgette grilled"
+  },
+  "per100g": {
+    "fat": "0.638",
+    "saturates": "0.151",
+    "monounsaturates": "0.057",
+    "polyunsaturates": "0.309",
+    "carbohydrate": "6",
+    "sugars": "4.5",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "2.4",
+    "protein": "2.8",
+    "sodium": "0.0024",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G582172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

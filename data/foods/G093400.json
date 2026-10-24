@@ -1,0 +1,44 @@
+{
+  "code": "G093400",
+  "name": {
+    "de": "Suppengrün/Suppenkraut, getrocknet",
+    "en": "Mirepoix dried"
+  },
+  "per100g": {
+    "fat": "2.656",
+    "saturates": "0.544",
+    "monounsaturates": "0.451",
+    "polyunsaturates": "0.797",
+    "carbohydrate": "45",
+    "sugars": "39.5",
+    "starch": "5",
+    "polyols": "0.28",
+    "fibre": "21.7",
+    "protein": "12.473",
+    "sodium": "0.208",
+    "alcohol": "0",
+    "organicAcids": "2.59"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G093400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y710162",
+  "name": {
+    "de": "Spiegelei gebraten in Butter",
+    "en": "Fried egg in butter"
+  },
+  "per100g": {
+    "fat": "16.615",
+    "saturates": "7.27",
+    "monounsaturates": "5.083",
+    "polyunsaturates": "1.593",
+    "carbohydrate": "0.398",
+    "sugars": "0.398",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.191",
+    "sodium": "0.377",
+    "alcohol": "0",
+    "organicAcids": "0.0079"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y710162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

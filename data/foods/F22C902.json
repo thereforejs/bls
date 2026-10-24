@@ -1,0 +1,44 @@
+{
+  "code": "F22C902",
+  "name": {
+    "de": "Mirabelle ungesüßt, Konserve, abgetropft",
+    "en": "Mirabelle plum unsweetened, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.17",
+    "saturates": "0.023",
+    "monounsaturates": "0.051",
+    "polyunsaturates": "0.077",
+    "carbohydrate": "7.266",
+    "sugars": "6.136",
+    "starch": "0",
+    "polyols": "1.13",
+    "fibre": "1.1",
+    "protein": "0.594",
+    "sodium": "0.0011",
+    "alcohol": "0",
+    "organicAcids": "0.421"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F22C902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W191000",
+  "name": {
+    "de": "Landjäger",
+    "en": "Landjäger sausage raw, small, firm"
+  },
+  "per100g": {
+    "fat": "30.52",
+    "saturates": "11.82",
+    "monounsaturates": "11.77",
+    "polyunsaturates": "2.92",
+    "carbohydrate": "0.033",
+    "sugars": "0.014",
+    "starch": "0.019",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.33",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W191000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

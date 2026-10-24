@@ -1,0 +1,44 @@
+{
+  "code": "T710400",
+  "name": {
+    "de": "Edelkrebs/Flusskrebs, gesalzen",
+    "en": "Crayfish salted"
+  },
+  "per100g": {
+    "fat": "0.56",
+    "saturates": "0.0802",
+    "monounsaturates": "0.0972",
+    "polyunsaturates": "0.1444",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.935",
+    "sodium": "0.752",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T710400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

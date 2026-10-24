@@ -1,0 +1,46 @@
+{
+  "code": "K280100",
+  "name": {
+    "de": "Kartoffelchips/Stapelchips, diverse Sorten",
+    "en": "Potato crisps/potato chips (various types)"
+  },
+  "per100g": {
+    "fat": "34.3",
+    "saturates": "2.865",
+    "monounsaturates": "26.79",
+    "polyunsaturates": "3.275",
+    "carbohydrate": "45.88",
+    "sugars": "1.53",
+    "starch": "44.35",
+    "polyols": "0",
+    "fibre": "4.8",
+    "protein": "5.5",
+    "sodium": "0.636",
+    "alcohol": null,
+    "organicAcids": "0.697"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K280100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

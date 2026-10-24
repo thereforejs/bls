@@ -1,0 +1,44 @@
+{
+  "code": "F323600",
+  "name": {
+    "de": "Johannisbeersaft schwarz",
+    "en": "Black currant juice"
+  },
+  "per100g": {
+    "fat": "0.176",
+    "saturates": "0.021",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.088",
+    "carbohydrate": "10.01",
+    "sugars": "10.01",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "0.4",
+    "protein": "1.238",
+    "sodium": "0.00096",
+    "alcohol": "0",
+    "organicAcids": "2.626"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F323600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

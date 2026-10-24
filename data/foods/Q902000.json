@@ -1,0 +1,44 @@
+{
+  "code": "Q902000",
+  "name": {
+    "de": "Schmalz/Schmelz, Basis Pflanzenfett, vegan",
+    "en": "Plant-based lard substitute, vegetable fat based, vegan"
+  },
+  "per100g": {
+    "fat": "87.127",
+    "saturates": "38.8",
+    "monounsaturates": "31.5",
+    "polyunsaturates": "12.8",
+    "carbohydrate": "6.35",
+    "sugars": "6.31",
+    "starch": "0",
+    "polyols": "0.044",
+    "fibre": "1.4",
+    "protein": "1.01",
+    "sodium": "0.62",
+    "alcohol": "0",
+    "organicAcids": "0.275"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q902000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

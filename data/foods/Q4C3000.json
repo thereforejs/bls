@@ -1,0 +1,46 @@
+{
+  "code": "Q4C3000",
+  "name": {
+    "de": "Pflanzliches Streichfett mit < 39 % Fett, angereichert mit Vitaminen",
+    "en": "Vegetable fat spread with < 39 % fat, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "30.18",
+    "saturates": "6.57",
+    "monounsaturates": "14.04",
+    "polyunsaturates": "8.08",
+    "carbohydrate": "2.68",
+    "sugars": "0.305",
+    "starch": "2.37",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "0.75",
+    "sodium": "0.1599",
+    "alcohol": "0",
+    "organicAcids": "0.117"
+  },
+  "marks": {
+    "fibre": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q4C3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

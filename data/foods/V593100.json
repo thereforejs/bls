@@ -1,0 +1,44 @@
+{
+  "code": "V593100",
+  "name": {
+    "de": "Schwein Zunge, roh",
+    "en": "Pork tongue, raw"
+  },
+  "per100g": {
+    "fat": "13.44",
+    "saturates": "4.394",
+    "monounsaturates": "4.622",
+    "polyunsaturates": "1.457",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.27",
+    "sodium": "0.093",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V593100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

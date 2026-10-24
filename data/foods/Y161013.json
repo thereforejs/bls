@@ -1,0 +1,44 @@
+{
+  "code": "Y161013",
+  "name": {
+    "de": "Rinderbraten mit Sauce",
+    "en": "Beef roast with sauce"
+  },
+  "per100g": {
+    "fat": "7.2",
+    "saturates": "2.1",
+    "monounsaturates": "3.56",
+    "polyunsaturates": "1.09",
+    "carbohydrate": "1.6",
+    "sugars": "1.6",
+    "starch": "0.02",
+    "polyols": "0.01",
+    "fibre": "1.1",
+    "protein": "16",
+    "sodium": "0.233",
+    "alcohol": "0",
+    "organicAcids": "0.122"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y161013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

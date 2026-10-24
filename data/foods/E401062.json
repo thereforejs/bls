@@ -1,0 +1,44 @@
+{
+  "code": "E401062",
+  "name": {
+    "de": "Teigwaren eifrei, gekocht, gebacken",
+    "en": "Pasta egg-free, boiled, baked"
+  },
+  "per100g": {
+    "fat": "0.798",
+    "saturates": "0.114",
+    "monounsaturates": null,
+    "polyunsaturates": "0.308",
+    "carbohydrate": "32.591",
+    "sugars": "0.953",
+    "starch": "31.638",
+    "polyols": null,
+    "fibre": "1.698",
+    "protein": "6.1",
+    "sodium": "0.0008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E401062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D7B3100",
+  "name": {
+    "de": "Butterkekse/Butterplätzchen, kakaohaltig (Mürbeteig) mit Nougatfüllung",
+    "en": "Shortbread biscuits, containing cocoa, with nougat filling"
+  },
+  "per100g": {
+    "fat": "23.5",
+    "saturates": "12.1",
+    "monounsaturates": "8.2",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "64.4",
+    "sugars": "46.2",
+    "starch": "18.2",
+    "polyols": "0",
+    "fibre": "2.98",
+    "protein": "5.41",
+    "sodium": "0.045",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7B3100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

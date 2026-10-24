@@ -1,0 +1,44 @@
+{
+  "code": "H230132",
+  "name": {
+    "de": "Edelkastanie/Marone, gekocht",
+    "en": "Sweet chestnut boiled"
+  },
+  "per100g": {
+    "fat": "1.843",
+    "saturates": "0.276",
+    "monounsaturates": "0.982",
+    "polyunsaturates": "0.486",
+    "carbohydrate": "38.316",
+    "sugars": "12.927",
+    "starch": "25.389",
+    "polyols": null,
+    "fibre": "8.203",
+    "protein": "2.779",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H230132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D1A1100",
+  "name": {
+    "de": "Apfelkuchen mit Puddingcreme (Hefeteig)",
+    "en": "Apple cake with pudding (yeast dough)"
+  },
+  "per100g": {
+    "fat": "5.2",
+    "saturates": "3",
+    "monounsaturates": "1.2",
+    "polyunsaturates": "0.24",
+    "carbohydrate": "26.8",
+    "sugars": "12.7",
+    "starch": "13.8",
+    "polyols": "0.31",
+    "fibre": "1.9",
+    "protein": "4.6",
+    "sodium": "0.03",
+    "alcohol": "0.002",
+    "organicAcids": "0.57"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D1A1100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

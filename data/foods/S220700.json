@@ -1,0 +1,44 @@
+{
+  "code": "S220700",
+  "name": {
+    "de": "Speiseeis (Karamell, Nuss) gemischt",
+    "en": "Ice cream mixed (caramel, nut)"
+  },
+  "per100g": {
+    "fat": "10.79",
+    "saturates": "6.29",
+    "monounsaturates": "2.89",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "24.45",
+    "sugars": "21.95",
+    "starch": "2.5",
+    "polyols": "0",
+    "fibre": "0.89",
+    "protein": "3.8",
+    "sodium": "0.036",
+    "alcohol": "0",
+    "organicAcids": "0.103"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S220700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "F504400",
+  "name": {
+    "de": "Dattel getrocknet",
+    "en": "Date dried"
+  },
+  "per100g": {
+    "fat": "0.36",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "79.3",
+    "sugars": "78.92",
+    "starch": null,
+    "polyols": "0.375",
+    "fibre": "11.16",
+    "protein": "2.64",
+    "sodium": "0.0047",
+    "alcohol": null,
+    "organicAcids": "1.26"
+  },
+  "marks": {
+    "starch": "TR",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F504400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

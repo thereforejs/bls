@@ -1,0 +1,44 @@
+{
+  "code": "Y7A2012",
+  "name": {
+    "de": "Schafmilch-Camembert paniert, frittiert",
+    "en": "Sheep's milk camembert cheese breaded, deep-fried"
+  },
+  "per100g": {
+    "fat": "24.16",
+    "saturates": "12.98",
+    "monounsaturates": "6.73",
+    "polyunsaturates": "2.41",
+    "carbohydrate": "5.48",
+    "sugars": "0.91",
+    "starch": "4.57",
+    "polyols": "0.001",
+    "fibre": "0.39",
+    "protein": "17.15",
+    "sodium": "0.529",
+    "alcohol": "0",
+    "organicAcids": "0.266"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y7A2012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

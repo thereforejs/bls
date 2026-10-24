@@ -1,0 +1,44 @@
+{
+  "code": "Y845843",
+  "name": {
+    "de": "Vanilleäpfel",
+    "en": "Apple compote with vanilla cream"
+  },
+  "per100g": {
+    "fat": "5.4",
+    "saturates": "2.17",
+    "monounsaturates": "1.93",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "15.3",
+    "sugars": "12.4",
+    "starch": "2.66",
+    "polyols": "0.2",
+    "fibre": "1.2",
+    "protein": "3.8",
+    "sodium": "0.033",
+    "alcohol": "0.002",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y845843",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

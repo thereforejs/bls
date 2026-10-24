@@ -1,0 +1,44 @@
+{
+  "code": "K762400",
+  "name": {
+    "de": "Hefe Flocken/Nährhefe",
+    "en": "Yeast flakes/nutritional yeast"
+  },
+  "per100g": {
+    "fat": "4.5",
+    "saturates": "0",
+    "monounsaturates": "1.82",
+    "polyunsaturates": "0",
+    "carbohydrate": "6.2",
+    "sugars": "2.5",
+    "starch": "3.7",
+    "polyols": null,
+    "fibre": "22.5",
+    "protein": "48.7",
+    "sodium": "0.141",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K762400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

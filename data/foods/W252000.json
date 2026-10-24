@@ -1,0 +1,44 @@
+{
+  "code": "W252000",
+  "name": {
+    "de": "Göttinger Bierwurst/Göttinger Blasenwurst",
+    "en": "Göttinger Bierwurst"
+  },
+  "per100g": {
+    "fat": "21.68",
+    "saturates": "8.4",
+    "monounsaturates": "9.58",
+    "polyunsaturates": "2.37",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "10.17",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W252000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G480142",
+  "name": {
+    "de": "Speisezwiebel geschmort ohne Fett",
+    "en": "Onion braised without fat"
+  },
+  "per100g": {
+    "fat": "0.186",
+    "saturates": "0.0309",
+    "monounsaturates": "0.0186",
+    "polyunsaturates": "0.0642",
+    "carbohydrate": "7.52",
+    "sugars": "7.52",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.8",
+    "protein": "1.431",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.318"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

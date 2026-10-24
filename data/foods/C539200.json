@@ -1,0 +1,44 @@
+{
+  "code": "C539200",
+  "name": {
+    "de": "Cerealien aus Vollkornweizenschrot, gesüßt, ungefüllt, Natur/Frucht/Schokolade, angereichert mit Vitaminen und Mineralstoffen",
+    "en": "Wholemeal wheat cereals sweetened, unfilled, basic/fruit/chocolate, fortified with vitamins and minerals"
+  },
+  "per100g": {
+    "fat": "1.8",
+    "saturates": "0.22",
+    "monounsaturates": "0.28",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "71.29",
+    "sugars": "15.2",
+    "starch": "56.02",
+    "polyols": "0.066",
+    "fibre": "9.64",
+    "protein": "10.36",
+    "sodium": "0.0018",
+    "alcohol": "0",
+    "organicAcids": "0.248"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C539200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

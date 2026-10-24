@@ -1,0 +1,44 @@
+{
+  "code": "Y635132",
+  "name": {
+    "de": "Flunder paniert, gebraten",
+    "en": "Flounder breaded, fried"
+  },
+  "per100g": {
+    "fat": "9.4",
+    "saturates": "1.28",
+    "monounsaturates": "4.68",
+    "polyunsaturates": "2.37",
+    "carbohydrate": "6.09",
+    "sugars": "0.65",
+    "starch": "5.44",
+    "polyols": "0",
+    "fibre": "0.54",
+    "protein": "15.2",
+    "sodium": "0.294",
+    "alcohol": "0.001",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y635132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

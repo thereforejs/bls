@@ -1,0 +1,44 @@
+{
+  "code": "S580700",
+  "name": {
+    "de": "Schokolade weiß, mit Haselnüssen",
+    "en": "Chocolate white, with hazelnuts"
+  },
+  "per100g": {
+    "fat": "41.54",
+    "saturates": "15.78",
+    "monounsaturates": "20.58",
+    "polyunsaturates": "2.45",
+    "carbohydrate": "43.1",
+    "sugars": "43.043",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "2.4",
+    "protein": "8.8",
+    "sodium": "0.0747",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S580700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

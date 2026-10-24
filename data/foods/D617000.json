@@ -1,0 +1,44 @@
+{
+  "code": "D617000",
+  "name": {
+    "de": "Waffeln (Rührmasse) glutenfrei ",
+    "en": "Waffles (cake batter) gluten-free"
+  },
+  "per100g": {
+    "fat": "20.24",
+    "saturates": "11.917",
+    "monounsaturates": "4.782",
+    "polyunsaturates": "0.902",
+    "carbohydrate": "45.9",
+    "sugars": "18.91",
+    "starch": "27",
+    "polyols": "0",
+    "fibre": "1.223",
+    "protein": "5.91",
+    "sodium": "0.112",
+    "alcohol": "0",
+    "organicAcids": "0.036"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D617000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

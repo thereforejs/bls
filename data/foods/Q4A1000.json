@@ -1,0 +1,47 @@
+{
+  "code": "Q4A1000",
+  "name": {
+    "de": "Pflanzenmargarine Dreiviertelfett, angereichert mit Vitaminen",
+    "en": "Margarine three-quarter fat, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "60.13",
+    "saturates": "14.29",
+    "monounsaturates": "29.45",
+    "polyunsaturates": "13.44",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": null,
+    "polyols": "0",
+    "fibre": null,
+    "protein": "0.06",
+    "sodium": "0.0255",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {
+    "starch": "TR",
+    "fibre": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q4A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

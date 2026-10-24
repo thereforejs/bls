@@ -1,0 +1,44 @@
+{
+  "code": "Y610920",
+  "name": {
+    "de": "Heringsstipp (mit Bismarck-Hering)",
+    "en": "Pickled herring fillet in sauce \"Heringsstip\""
+  },
+  "per100g": {
+    "fat": "13.1",
+    "saturates": "4.7",
+    "monounsaturates": "5",
+    "polyunsaturates": "1.78",
+    "carbohydrate": "3.9",
+    "sugars": "3.9",
+    "starch": "0.047",
+    "polyols": "0.002",
+    "fibre": "0.4",
+    "protein": "7.94",
+    "sodium": "0.57",
+    "alcohol": "0.01",
+    "organicAcids": "1.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y610920",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

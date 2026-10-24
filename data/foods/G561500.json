@@ -1,0 +1,44 @@
+{
+  "code": "G561500",
+  "name": {
+    "de": "Tomate Pulver",
+    "en": "Tomato powder"
+  },
+  "per100g": {
+    "fat": "1.603",
+    "saturates": "0.314",
+    "monounsaturates": "0.1546",
+    "polyunsaturates": "0.6431",
+    "carbohydrate": "47.28",
+    "sugars": "47.28",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "18.9",
+    "protein": "13.84",
+    "sodium": "0.058",
+    "alcohol": "0",
+    "organicAcids": "5.638"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G561500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

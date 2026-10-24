@@ -1,0 +1,46 @@
+{
+  "code": "C546000",
+  "name": {
+    "de": "Tortillachips (Nachos)",
+    "en": "Tortilla chips (Nachos)"
+  },
+  "per100g": {
+    "fat": "21.2",
+    "saturates": "9.729",
+    "monounsaturates": "9.429",
+    "polyunsaturates": "2.611",
+    "carbohydrate": "61.9",
+    "sugars": "0.6",
+    "starch": "61.3",
+    "polyols": "0",
+    "fibre": "4.4",
+    "protein": "5.96",
+    "sodium": "0.33",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C546000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

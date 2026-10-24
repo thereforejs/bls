@@ -1,0 +1,44 @@
+{
+  "code": "E606200",
+  "name": {
+    "de": "Semmelknödel getrocknet",
+    "en": "White bread dumplings dried"
+  },
+  "per100g": {
+    "fat": "10.66",
+    "saturates": "4.76",
+    "monounsaturates": "3.1",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "54.32",
+    "sugars": "6.05",
+    "starch": "48.27",
+    "polyols": "0",
+    "fibre": "3.6",
+    "protein": "17.35",
+    "sodium": "1.08",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E606200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

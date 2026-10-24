@@ -1,0 +1,44 @@
+{
+  "code": "B781500",
+  "name": {
+    "de": "Weizenvollkornbaguette",
+    "en": "Wholemeal wheat baguette"
+  },
+  "per100g": {
+    "fat": "1.67",
+    "saturates": "0.351",
+    "monounsaturates": "0.363",
+    "polyunsaturates": "0.614",
+    "carbohydrate": "41",
+    "sugars": "1.5",
+    "starch": "39",
+    "polyols": "0",
+    "fibre": "8.21",
+    "protein": "8.4",
+    "sodium": "0.486",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B781500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

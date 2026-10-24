@@ -1,0 +1,44 @@
+{
+  "code": "W384200",
+  "name": {
+    "de": "Graupenblutwurst",
+    "en": "Blood sausage with pearl barley"
+  },
+  "per100g": {
+    "fat": "12.86",
+    "saturates": "4.51",
+    "monounsaturates": "5.08",
+    "polyunsaturates": "1.68",
+    "carbohydrate": "14.7",
+    "sugars": "0.5",
+    "starch": "14.2",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "7.21",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W384200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y252223",
+  "name": {
+    "de": "Kalbsrollbraten mit Weißwein-Sahnesauce von dunkler/brauner Grundsauce",
+    "en": "Veal rolled roast with white wine-cream sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "6.6",
+    "saturates": "1.5",
+    "monounsaturates": "3.2",
+    "polyunsaturates": "1.24",
+    "carbohydrate": "2.4",
+    "sugars": "1",
+    "starch": "1.44",
+    "polyols": "0.01",
+    "fibre": "0.9",
+    "protein": "14.38",
+    "sodium": "0.236",
+    "alcohol": "0.11",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y252223",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

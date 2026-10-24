@@ -1,0 +1,44 @@
+{
+  "code": "D610300",
+  "name": {
+    "de": "Schokoladenbaiser",
+    "en": "Chocolate meringue"
+  },
+  "per100g": {
+    "fat": "10.81",
+    "saturates": "6.54",
+    "monounsaturates": "3.48",
+    "polyunsaturates": "0.357",
+    "carbohydrate": "66.3",
+    "sugars": "64.442",
+    "starch": "1.9",
+    "polyols": "0",
+    "fibre": "5.61",
+    "protein": "8.1",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D610300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

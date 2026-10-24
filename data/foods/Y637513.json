@@ -1,0 +1,44 @@
+{
+  "code": "Y637513",
+  "name": {
+    "de": "Heilbutt gebraten amerikanische Art",
+    "en": "Halibut fried American style"
+  },
+  "per100g": {
+    "fat": "9.6",
+    "saturates": "2.9",
+    "monounsaturates": "5.96",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "2.92",
+    "sugars": "1.8",
+    "starch": "1.09",
+    "polyols": "0.025",
+    "fibre": "0.91",
+    "protein": "16.91",
+    "sodium": "0.579",
+    "alcohol": "0.02",
+    "organicAcids": "0.37"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y637513",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

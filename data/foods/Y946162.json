@@ -1,0 +1,44 @@
+{
+  "code": "Y946162",
+  "name": {
+    "de": "Schaschlik mit Pommes frites und Tomatenketchup",
+    "en": "Shashlik with potato chips and tomato ketchup"
+  },
+  "per100g": {
+    "fat": "8.47",
+    "saturates": "1.71",
+    "monounsaturates": "4.13",
+    "polyunsaturates": "1.61",
+    "carbohydrate": "11.49",
+    "sugars": "4.02",
+    "starch": "7.42",
+    "polyols": "0.05",
+    "fibre": "1.5",
+    "protein": "12.29",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y946162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

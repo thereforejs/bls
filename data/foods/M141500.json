@@ -1,0 +1,44 @@
+{
+  "code": "M141500",
+  "name": {
+    "de": "Sahnejoghurt mind. 10 % Fett",
+    "en": "Yogurt min. 10 % fat"
+  },
+  "per100g": {
+    "fat": "10",
+    "saturates": "6.571",
+    "monounsaturates": "2.509",
+    "polyunsaturates": "0.313",
+    "carbohydrate": "4.5",
+    "sugars": "4.5",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.3",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M141500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

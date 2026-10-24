@@ -1,0 +1,44 @@
+{
+  "code": "G346152",
+  "name": {
+    "de": "Weinsauerkraut gedünstet",
+    "en": "Wine sauerkraut stewed"
+  },
+  "per100g": {
+    "fat": "0.301",
+    "saturates": "0.07",
+    "monounsaturates": "0.118",
+    "polyunsaturates": "0.062",
+    "carbohydrate": "0.99",
+    "sugars": "0.77",
+    "starch": "0.1",
+    "polyols": "0.12",
+    "fibre": "2.076",
+    "protein": "1.093",
+    "sodium": "0.462",
+    "alcohol": "0.08",
+    "organicAcids": "2.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G346152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G510702",
+  "name": {
+    "de": "Aubergine gegrillt, in Öl, Konserve, abgetropft",
+    "en": "Aubergine grilled, in oil, canned, drained"
+  },
+  "per100g": {
+    "fat": "21.982",
+    "saturates": "1.59",
+    "monounsaturates": "12.57",
+    "polyunsaturates": "6.01",
+    "carbohydrate": "5.73",
+    "sugars": "5.09",
+    "starch": "0.417",
+    "polyols": "0.22",
+    "fibre": "2.6",
+    "protein": "1.004",
+    "sodium": "0.509",
+    "alcohol": "0",
+    "organicAcids": "0.58"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G510702",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

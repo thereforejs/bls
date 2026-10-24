@@ -1,0 +1,44 @@
+{
+  "code": "G992152",
+  "name": {
+    "de": "Gemüsemischung Erbsen-Karotten, gedünstet",
+    "en": "Mixed vegetables peas and carrots, stewed"
+  },
+  "per100g": {
+    "fat": "0.427",
+    "saturates": "0.094",
+    "monounsaturates": "0.068",
+    "polyunsaturates": "0.18",
+    "carbohydrate": "9.115",
+    "sugars": "3.726",
+    "starch": "5.389",
+    "polyols": "0",
+    "fibre": "3.9",
+    "protein": "3.3",
+    "sodium": "0.012",
+    "alcohol": "0",
+    "organicAcids": "0.343"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G992152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

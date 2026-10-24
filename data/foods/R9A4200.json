@@ -1,0 +1,44 @@
+{
+  "code": "R9A4200",
+  "name": {
+    "de": "Vanillebuttercreme gestreckt, für Gebäck/Torten",
+    "en": "Vanilla butter cream, egg-free, light, for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "26.11",
+    "saturates": "16.709",
+    "monounsaturates": "5.634",
+    "polyunsaturates": "0.559",
+    "carbohydrate": "14.97",
+    "sugars": "11.54",
+    "starch": "3.432",
+    "polyols": "0",
+    "fibre": "0.032",
+    "protein": "2.4",
+    "sodium": "0.041",
+    "alcohol": "0",
+    "organicAcids": "0.059"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A4200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

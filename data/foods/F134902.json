@@ -1,0 +1,44 @@
+{
+  "code": "F134902",
+  "name": {
+    "de": "Birne in Fruchtsaft, Konserve, abgetropft",
+    "en": "Pear in juice, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.354",
+    "saturates": "0.048",
+    "monounsaturates": "0.08",
+    "polyunsaturates": "0.151",
+    "carbohydrate": "11.3",
+    "sugars": "9.2",
+    "starch": "0",
+    "polyols": "2.11",
+    "fibre": "2.8",
+    "protein": "0.436",
+    "sodium": "0.003",
+    "alcohol": "0.033",
+    "organicAcids": "0.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F134902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

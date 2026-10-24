@@ -1,0 +1,44 @@
+{
+  "code": "W154500",
+  "name": {
+    "de": "Salami Kroatische Art",
+    "en": "Salami Croatian-type"
+  },
+  "per100g": {
+    "fat": "18.65",
+    "saturates": "6.94",
+    "monounsaturates": "7.15",
+    "polyunsaturates": "2",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "25.12",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W154500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

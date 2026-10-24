@@ -1,0 +1,44 @@
+{
+  "code": "Y631232",
+  "name": {
+    "de": "Schollenfilet mit Petersilie paniert, gebraten",
+    "en": "Plaice fillet with parsley breaded, fried"
+  },
+  "per100g": {
+    "fat": "8.1",
+    "saturates": "0.95",
+    "monounsaturates": "4.12",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "6.07",
+    "sugars": "0.65",
+    "starch": "5.42",
+    "polyols": "0",
+    "fibre": "0.56",
+    "protein": "15.6",
+    "sodium": "0.218",
+    "alcohol": "0.001",
+    "organicAcids": "0.65"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y631232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y302213",
+  "name": {
+    "de": "Kasseler im Blätterteig gebacken",
+    "en": "Pork loin chop cured, baked in puff pastry"
+  },
+  "per100g": {
+    "fat": "12.25",
+    "saturates": "4.81",
+    "monounsaturates": "5.34",
+    "polyunsaturates": "1.76",
+    "carbohydrate": "8.95",
+    "sugars": "0.057",
+    "starch": "8.89",
+    "polyols": "0",
+    "fibre": "0.66",
+    "protein": "18.8",
+    "sodium": "0.891",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y302213",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

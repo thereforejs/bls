@@ -1,0 +1,44 @@
+{
+  "code": "M2A0100",
+  "name": {
+    "de": "Milchmischgetränk < 1 % Fett, aromatisiert, mit Zucker und Süßungsmitteln",
+    "en": "Milk drink < 1 % fat, flavoured, with sugar and artificial sweeteners"
+  },
+  "per100g": {
+    "fat": "0.068",
+    "saturates": "0.043",
+    "monounsaturates": "0.015",
+    "polyunsaturates": "0.001",
+    "carbohydrate": "7.047",
+    "sugars": "6.832",
+    "starch": "0.215",
+    "polyols": "0",
+    "fibre": "0.002",
+    "protein": "3.335",
+    "sodium": "0.052",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2A0100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

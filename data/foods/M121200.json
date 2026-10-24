@@ -1,0 +1,44 @@
+{
+  "code": "M121200",
+  "name": {
+    "de": "Dickmilch/Sauermilch, fettarm, mind. 1,5 % bis max. 1,8 % Fett",
+    "en": "Soured milk (thick) low-fat, min. 1.5 % to max. 1.8 % fat"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.79",
+    "monounsaturates": "0.45",
+    "polyunsaturates": "0.06",
+    "carbohydrate": "5.2",
+    "sugars": "5.2",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.4",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "1.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M121200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

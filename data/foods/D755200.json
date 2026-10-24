@@ -1,0 +1,44 @@
+{
+  "code": "D755200",
+  "name": {
+    "de": "Mandelkränzchen (Rührmasse)",
+    "en": "Almond ring cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "20.28",
+    "saturates": "7.71",
+    "monounsaturates": "7.87",
+    "polyunsaturates": "2.5",
+    "carbohydrate": "44.2",
+    "sugars": "15.484",
+    "starch": "28.7",
+    "polyols": "0",
+    "fibre": "3.7",
+    "protein": "10.6",
+    "sodium": "0.102",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D755200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

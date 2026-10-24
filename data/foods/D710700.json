@@ -1,0 +1,44 @@
+{
+  "code": "D710700",
+  "name": {
+    "de": "Schokoladen-Biskuitplätzchen mit Nougatfüllung",
+    "en": "Chocolate sponge biscuits with nougat filling"
+  },
+  "per100g": {
+    "fat": "10.9",
+    "saturates": "4.5",
+    "monounsaturates": "4.3",
+    "polyunsaturates": "1",
+    "carbohydrate": "68.4",
+    "sugars": "44",
+    "starch": "24.4",
+    "polyols": "0",
+    "fibre": "4.9",
+    "protein": "11.6",
+    "sodium": "0.109",
+    "alcohol": "0",
+    "organicAcids": "0.001"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D710700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

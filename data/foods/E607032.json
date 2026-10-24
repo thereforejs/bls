@@ -1,0 +1,44 @@
+{
+  "code": "E607032",
+  "name": {
+    "de": "Grießklößchen gekocht",
+    "en": "Semolina dumplings boiled"
+  },
+  "per100g": {
+    "fat": "4.98",
+    "saturates": "2.56",
+    "monounsaturates": "1.3",
+    "polyunsaturates": "0.37",
+    "carbohydrate": "12.63",
+    "sugars": "2.59",
+    "starch": "10.04",
+    "polyols": "0",
+    "fibre": "0.75",
+    "protein": "6.26",
+    "sodium": "0.076",
+    "alcohol": "0",
+    "organicAcids": "0.038"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E607032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

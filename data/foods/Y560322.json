@@ -1,0 +1,44 @@
+{
+  "code": "Y560322",
+  "name": {
+    "de": "Brathähnchen gebraten im Ofen",
+    "en": "Chicken fried in oven (roast chicken)"
+  },
+  "per100g": {
+    "fat": "15.44",
+    "saturates": "2.81",
+    "monounsaturates": "2.99",
+    "polyunsaturates": "2.03",
+    "carbohydrate": "0.017",
+    "sugars": "0.011",
+    "starch": "0.006",
+    "polyols": "0",
+    "fibre": "0.059",
+    "protein": "22.69",
+    "sodium": "0.2018",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y560322",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

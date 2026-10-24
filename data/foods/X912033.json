@@ -1,0 +1,44 @@
+{
+  "code": "X912033",
+  "name": {
+    "de": "Pizza Margherita (mit Tomatensauce, Mozzarella)",
+    "en": "Pizza margherita (with tomato sauce, mozzarella)"
+  },
+  "per100g": {
+    "fat": "13.55",
+    "saturates": "4.18",
+    "monounsaturates": "5.8",
+    "polyunsaturates": "2.46",
+    "carbohydrate": "20",
+    "sugars": "1.6",
+    "starch": "18",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "7.77",
+    "sodium": "0.274",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X912033",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

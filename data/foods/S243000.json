@@ -1,0 +1,44 @@
+{
+  "code": "S243000",
+  "name": {
+    "de": "Speiseeis (Schoko, Vanille) gemischt",
+    "en": "Ice cream mixed (chocolate, vanilla)"
+  },
+  "per100g": {
+    "fat": "10.32",
+    "saturates": "5.893",
+    "monounsaturates": "2.053",
+    "polyunsaturates": "1.677",
+    "carbohydrate": "25.94",
+    "sugars": "21.62",
+    "starch": "4.32",
+    "polyols": "0.002",
+    "fibre": "1.38",
+    "protein": "3",
+    "sodium": "0.0391",
+    "alcohol": "0",
+    "organicAcids": "0.532"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S243000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X1A8040",
+  "name": {
+    "de": "Heringssalat mit Roter Bete, Apfel, Gewürzgurke und Mayonnaise, gestreckt mit saurer Sahne",
+    "en": "Herring salad with beetroot, apple, gherkin and mayonnaise, diluted with sour cream"
+  },
+  "per100g": {
+    "fat": "12.1",
+    "saturates": "1.9",
+    "monounsaturates": "6.3",
+    "polyunsaturates": "2.92",
+    "carbohydrate": "4.7",
+    "sugars": "4.6",
+    "starch": "0",
+    "polyols": "0.1",
+    "fibre": "0.9",
+    "protein": "6.1",
+    "sodium": "1.38",
+    "alcohol": "0.01",
+    "organicAcids": "0.95"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A8040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

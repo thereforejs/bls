@@ -1,0 +1,44 @@
+{
+  "code": "D6A8000",
+  "name": {
+    "de": "Biskuitboden glutenfrei",
+    "en": "Sponge cake base gluten-free"
+  },
+  "per100g": {
+    "fat": "4.982",
+    "saturates": "1.346",
+    "monounsaturates": "1.895",
+    "polyunsaturates": "0.79",
+    "carbohydrate": "45.772",
+    "sugars": "24.245",
+    "starch": "21.527",
+    "polyols": "0",
+    "fibre": "0.251",
+    "protein": "7.372",
+    "sodium": "0.087",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D6A8000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

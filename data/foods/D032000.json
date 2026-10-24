@@ -1,0 +1,44 @@
+{
+  "code": "D032000",
+  "name": {
+    "de": "Nährzwieback",
+    "en": "Fortified rusk"
+  },
+  "per100g": {
+    "fat": "9.52",
+    "saturates": "5.34",
+    "monounsaturates": "2.11",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "69",
+    "sugars": "11.55",
+    "starch": "57",
+    "polyols": "0",
+    "fibre": "4.14",
+    "protein": "12.82",
+    "sodium": "0.496",
+    "alcohol": "0",
+    "organicAcids": "0.029"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D032000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

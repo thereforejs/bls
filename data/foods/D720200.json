@@ -1,0 +1,44 @@
+{
+  "code": "D720200",
+  "name": {
+    "de": "Sahne-Windbeutel (Brandmasse)",
+    "en": "Cream puff (choux pastry)"
+  },
+  "per100g": {
+    "fat": "21.31",
+    "saturates": "11.2",
+    "monounsaturates": "5.59",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "18.39",
+    "sugars": "4.986",
+    "starch": "13.4",
+    "polyols": "0",
+    "fibre": "0.96",
+    "protein": "6.44",
+    "sodium": "0.07",
+    "alcohol": "0",
+    "organicAcids": "0.069"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D720200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T311100",
+  "name": {
+    "de": "Flunder roh",
+    "en": "Flounder raw"
+  },
+  "per100g": {
+    "fat": "2.39",
+    "saturates": "0.553",
+    "monounsaturates": "0.839",
+    "polyunsaturates": "0.558",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.5",
+    "sodium": "0.16",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T311100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

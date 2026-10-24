@@ -1,0 +1,44 @@
+{
+  "code": "F545132",
+  "name": {
+    "de": "Kochbanane gekocht",
+    "en": "Plantain boiled"
+  },
+  "per100g": {
+    "fat": "0.08",
+    "saturates": "0.124",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.016",
+    "carbohydrate": "25.4",
+    "sugars": "6.6",
+    "starch": "18.8",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "1.21",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.306"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F545132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X384143",
+  "name": {
+    "de": "Barbecuesauce/Grillsauce",
+    "en": "Barbecue sauce"
+  },
+  "per100g": {
+    "fat": "7.27",
+    "saturates": "0.53",
+    "monounsaturates": "4.12",
+    "polyunsaturates": "1.99",
+    "carbohydrate": "9.24",
+    "sugars": "9.11",
+    "starch": "0.13",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "1.15",
+    "sodium": "0.245",
+    "alcohol": "0",
+    "organicAcids": "0.72"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X384143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

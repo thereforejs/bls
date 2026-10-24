@@ -1,0 +1,44 @@
+{
+  "code": "X929012",
+  "name": {
+    "de": "Vollkornpfannkuchen/Vollkorneierkuchen, ungesüßt, mit Milch 3,5 % Fett, gebraten",
+    "en": "Wholemeal pancakes unsweetened, with milk 3.5 % fat, fried"
+  },
+  "per100g": {
+    "fat": "13.4",
+    "saturates": "2.49",
+    "monounsaturates": "5.66",
+    "polyunsaturates": "2.64",
+    "carbohydrate": "17.04",
+    "sugars": "2.74",
+    "starch": "14.3",
+    "polyols": "0",
+    "fibre": "2.87",
+    "protein": "8.98",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0.036"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X929012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

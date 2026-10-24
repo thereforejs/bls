@@ -1,0 +1,44 @@
+{
+  "code": "S420000",
+  "name": {
+    "de": "Marzipan",
+    "en": "Marzipan"
+  },
+  "per100g": {
+    "fat": "12.4",
+    "saturates": "1.08",
+    "monounsaturates": "7.97",
+    "polyunsaturates": "2.8",
+    "carbohydrate": "68.6",
+    "sugars": "68.539",
+    "starch": "0.06",
+    "polyols": "0",
+    "fibre": "2.494",
+    "protein": "4",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S420000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

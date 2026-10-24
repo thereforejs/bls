@@ -1,0 +1,44 @@
+{
+  "code": "Y818162",
+  "name": {
+    "de": "Pfannkuchen/Eierkuchen mit Milch 3,5 % Fett, gebraten, gefüllt mit Konfitüre",
+    "en": "Pancakes with milk 3.5 % fat, fried, filled with jam"
+  },
+  "per100g": {
+    "fat": "10.8",
+    "saturates": "1.9",
+    "monounsaturates": "4.66",
+    "polyunsaturates": "2.18",
+    "carbohydrate": "33.1",
+    "sugars": "8.7",
+    "starch": "24.4",
+    "polyols": "0.004",
+    "fibre": "1.9",
+    "protein": "7.4",
+    "sodium": "0.117",
+    "alcohol": "0",
+    "organicAcids": "0.121"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y818162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

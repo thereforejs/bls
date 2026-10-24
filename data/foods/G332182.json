@@ -1,0 +1,44 @@
+{
+  "code": "G332182",
+  "name": {
+    "de": "Rosenkohl gebraten ohne Fett (Pfanne)",
+    "en": "Brussels sprouts fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.68",
+    "saturates": "0.1022",
+    "monounsaturates": "0.0158",
+    "polyunsaturates": "0.389",
+    "carbohydrate": "4.52",
+    "sugars": "3.16",
+    "starch": "0.98",
+    "polyols": "0.38",
+    "fibre": "8.8",
+    "protein": "8.9",
+    "sodium": "0.018",
+    "alcohol": "0",
+    "organicAcids": "1.278"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G332182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

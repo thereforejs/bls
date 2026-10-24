@@ -1,0 +1,44 @@
+{
+  "code": "M404700",
+  "name": {
+    "de": "Wilstermarschkäse mind. 50 % Fett i. Tr.",
+    "en": "Wilstermarsch cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "30.3",
+    "saturates": "18.6",
+    "monounsaturates": "7.1",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.623",
+    "sodium": "0.647",
+    "alcohol": "0",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M404700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

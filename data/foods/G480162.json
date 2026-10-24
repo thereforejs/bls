@@ -1,0 +1,44 @@
+{
+  "code": "G480162",
+  "name": {
+    "de": "Speisezwiebel gebacken",
+    "en": "Onion baked"
+  },
+  "per100g": {
+    "fat": "0.176",
+    "saturates": "0.0294",
+    "monounsaturates": "0.0178",
+    "polyunsaturates": "0.0611",
+    "carbohydrate": "7.08",
+    "sugars": "7.08",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "1.36",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.299"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

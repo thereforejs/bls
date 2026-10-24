@@ -1,0 +1,44 @@
+{
+  "code": "Y845362",
+  "name": {
+    "de": "Apfelküchlein gebraten, mit Vanillesauce",
+    "en": "Apple doughnuts fried, with vanilla sauce"
+  },
+  "per100g": {
+    "fat": "8.36",
+    "saturates": "1.6",
+    "monounsaturates": "4.01",
+    "polyunsaturates": "1.89",
+    "carbohydrate": "20.2",
+    "sugars": "10.23",
+    "starch": "9.78",
+    "polyols": "0.2",
+    "fibre": "1.64",
+    "protein": "3.6",
+    "sodium": "0.027",
+    "alcohol": "0.003",
+    "organicAcids": "0.22"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y845362",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

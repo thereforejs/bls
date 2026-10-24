@@ -1,0 +1,44 @@
+{
+  "code": "M402400",
+  "name": {
+    "de": "Gouda mind. 30 % Fett i. Tr.",
+    "en": "Gouda cheese min. 30 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "16",
+    "saturates": "8.4",
+    "monounsaturates": "4.8",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.587",
+    "sodium": "0.93",
+    "alcohol": "0",
+    "organicAcids": "1.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M402400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

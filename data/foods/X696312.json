@@ -1,0 +1,44 @@
+{
+  "code": "X696312",
+  "name": {
+    "de": "Weißes Bohnenpüree",
+    "en": "Haricot bean puree"
+  },
+  "per100g": {
+    "fat": "5",
+    "saturates": "0.4",
+    "monounsaturates": "2.56",
+    "polyunsaturates": "1.22",
+    "carbohydrate": "16",
+    "sugars": "1.2",
+    "starch": "13",
+    "polyols": "0",
+    "fibre": "8.3",
+    "protein": "7.962",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X696312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

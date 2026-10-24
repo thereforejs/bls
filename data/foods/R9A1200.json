@@ -1,0 +1,44 @@
+{
+  "code": "R9A1200",
+  "name": {
+    "de": "Käsesahnecreme für Gebäck/Torten",
+    "en": "Cheese cream (egg-free) for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "14.3",
+    "saturates": "7.67",
+    "monounsaturates": "3.701",
+    "polyunsaturates": "0.371",
+    "carbohydrate": "12.129",
+    "sugars": "12.129",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.003",
+    "protein": "7.1",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0.65"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R9A1200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G750432",
+  "name": {
+    "de": "Sojabohne reif, gekocht",
+    "en": "Soya bean mature, boiled"
+  },
+  "per100g": {
+    "fat": "7.517",
+    "saturates": "0.967",
+    "monounsaturates": "1.532",
+    "polyunsaturates": "4.416",
+    "carbohydrate": "2.5",
+    "sugars": "2.3",
+    "starch": "0.242",
+    "polyols": null,
+    "fibre": "9.037",
+    "protein": "15.406",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G750432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

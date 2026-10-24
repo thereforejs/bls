@@ -1,0 +1,44 @@
+{
+  "code": "Y943062",
+  "name": {
+    "de": "Currywurst mit Curryketchup und Brötchen",
+    "en": "Curried bratwurst with curry ketchup and roll"
+  },
+  "per100g": {
+    "fat": "11.36",
+    "saturates": "3.72",
+    "monounsaturates": "3.91",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "19.95",
+    "sugars": "6.74",
+    "starch": "13.21",
+    "polyols": "0",
+    "fibre": "1.45",
+    "protein": "9.11",
+    "sodium": "0.797",
+    "alcohol": "0",
+    "organicAcids": "0.339"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y943062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

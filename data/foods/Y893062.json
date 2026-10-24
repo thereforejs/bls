@@ -1,0 +1,44 @@
+{
+  "code": "Y893062",
+  "name": {
+    "de": "Honigpfannkuchen gebraten",
+    "en": "Honey pancakes fried"
+  },
+  "per100g": {
+    "fat": "12.87",
+    "saturates": "3.01",
+    "monounsaturates": "5.27",
+    "polyunsaturates": "2.4",
+    "carbohydrate": "43",
+    "sugars": "9.55",
+    "starch": "33",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "6.81",
+    "sodium": "0.026",
+    "alcohol": "0",
+    "organicAcids": "0.014"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y893062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

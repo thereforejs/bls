@@ -1,0 +1,44 @@
+{
+  "code": "Y631413",
+  "name": {
+    "de": "Scholle gedünstet, mit Weißweinsauce von heller/weißer Grundsauce",
+    "en": "Plaice stewed, with white wine sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "3.5",
+    "saturates": "1.1",
+    "monounsaturates": "1.27",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "1.55",
+    "sugars": "0.55",
+    "starch": "1",
+    "polyols": "0.001",
+    "fibre": "0.1",
+    "protein": "10.4",
+    "sodium": "0.215",
+    "alcohol": "0.27",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y631413",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

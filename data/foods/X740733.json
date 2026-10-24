@@ -1,0 +1,44 @@
+{
+  "code": "X740733",
+  "name": {
+    "de": "Eierteigwaren mit Carbonara Sauce",
+    "en": "Egg pasta with Carbonara"
+  },
+  "per100g": {
+    "fat": "6.01",
+    "saturates": "2.44",
+    "monounsaturates": "2.22",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "18.6",
+    "sugars": "0.6",
+    "starch": "18.022",
+    "polyols": "0",
+    "fibre": "1.034",
+    "protein": "9",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.046"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X740733",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

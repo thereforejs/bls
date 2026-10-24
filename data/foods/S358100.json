@@ -1,0 +1,44 @@
+{
+  "code": "S358100",
+  "name": {
+    "de": "Schokoladenfondant",
+    "en": "Chocolate fondant"
+  },
+  "per100g": {
+    "fat": "10.6",
+    "saturates": "4.96",
+    "monounsaturates": "2.88",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "69",
+    "sugars": "56",
+    "starch": "13.016",
+    "polyols": "0",
+    "fibre": "1.99",
+    "protein": "1.8",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S358100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

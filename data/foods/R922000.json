@@ -1,0 +1,44 @@
+{
+  "code": "R922000",
+  "name": {
+    "de": "Joghurtsahne für Gebäck/Torten",
+    "en": "Yogurt cream for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "9.08",
+    "monounsaturates": "4.383",
+    "polyunsaturates": "0.443",
+    "carbohydrate": "16.24",
+    "sugars": "16.24",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.008",
+    "protein": "3.3",
+    "sodium": "0.032",
+    "alcohol": "0",
+    "organicAcids": "0.75"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R922000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

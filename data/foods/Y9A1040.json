@@ -1,0 +1,44 @@
+{
+  "code": "Y9A1040",
+  "name": {
+    "de": "Döner vegetarisch, Fladenbrot gefüllt mit Rohkost, Schafskäse und Sauce",
+    "en": "Doner vegetarian, flatbread filled with salad, sheep's milk cheese and sauce"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "2.6",
+    "monounsaturates": "3.2",
+    "polyunsaturates": "1.3",
+    "carbohydrate": "13",
+    "sugars": "1.9",
+    "starch": "11",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "4.3",
+    "sodium": "0.256",
+    "alcohol": "0.005",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y9A1040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T830102",
+  "name": {
+    "de": "Brathering Konserve, abgetropft",
+    "en": "Fried herring canned, drained"
+  },
+  "per100g": {
+    "fat": "14",
+    "saturates": "1.63",
+    "monounsaturates": "3.553",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "5.91",
+    "sugars": "3.349",
+    "starch": "2.56",
+    "polyols": "0",
+    "fibre": "0.31",
+    "protein": "16.8",
+    "sodium": "0.585",
+    "alcohol": "0",
+    "organicAcids": "1.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T830102",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

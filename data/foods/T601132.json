@@ -1,0 +1,44 @@
+{
+  "code": "T601132",
+  "name": {
+    "de": "Barsch/Flussbarsch, pochiert",
+    "en": "European perch poached"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.096",
+    "monounsaturates": "0.08",
+    "polyunsaturates": "0.17",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.83",
+    "sodium": "0.05",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T601132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

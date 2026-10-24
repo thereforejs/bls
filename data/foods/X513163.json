@@ -1,0 +1,44 @@
+{
+  "code": "X513163",
+  "name": {
+    "de": "Steinpilze gedünstet, in Grundsauce hell/weiß mit Sahne",
+    "en": "Porcini mushrooms stewed, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "4.9",
+    "saturates": "2.5",
+    "monounsaturates": "1.15",
+    "polyunsaturates": "0.31",
+    "carbohydrate": "4.27",
+    "sugars": "1.01",
+    "starch": "0.6",
+    "polyols": "2.66",
+    "fibre": "5.96",
+    "protein": "5.73",
+    "sodium": "0.087",
+    "alcohol": "0",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X513163",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

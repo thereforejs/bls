@@ -1,0 +1,44 @@
+{
+  "code": "B8A1000",
+  "name": {
+    "de": "Baguette glutenfrei",
+    "en": "Baguette gluten-free"
+  },
+  "per100g": {
+    "fat": "3.1",
+    "saturates": "1.4",
+    "monounsaturates": "1.127",
+    "polyunsaturates": "0.372",
+    "carbohydrate": "45",
+    "sugars": "1.7",
+    "starch": "43",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "3.2",
+    "sodium": "0.401",
+    "alcohol": "0",
+    "organicAcids": "0.216"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B8A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

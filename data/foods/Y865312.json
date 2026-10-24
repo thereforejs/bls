@@ -1,0 +1,44 @@
+{
+  "code": "Y865312",
+  "name": {
+    "de": "Johannisbeerkompott mit Süßstoff",
+    "en": "Red currant compote with artificial sweetener"
+  },
+  "per100g": {
+    "fat": "0.155",
+    "saturates": "0.03",
+    "monounsaturates": "0.022",
+    "polyunsaturates": "0.057",
+    "carbohydrate": "3.34",
+    "sugars": "3.34",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "2.7",
+    "protein": "1.118",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "1.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y865312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

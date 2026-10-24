@@ -1,0 +1,44 @@
+{
+  "code": "D431300",
+  "name": {
+    "de": "Makronenkuchen (Rührmasse)",
+    "en": "Macaroon cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "26.23",
+    "saturates": "11.14",
+    "monounsaturates": "9.59",
+    "polyunsaturates": "2.7",
+    "carbohydrate": "44.6",
+    "sugars": "27.232",
+    "starch": "17.4",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "8.8",
+    "sodium": "0.066",
+    "alcohol": "0",
+    "organicAcids": "0.016"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

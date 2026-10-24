@@ -1,0 +1,44 @@
+{
+  "code": "T305262",
+  "name": {
+    "de": "Goldbutt/Scholle, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Plaice deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "1.65",
+    "saturates": "0.275",
+    "monounsaturates": "0.3036",
+    "polyunsaturates": "0.3501",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.344",
+    "sodium": "0.195",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T305262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y272112",
+  "name": {
+    "de": "Kalbshirn gebraten mit Ei",
+    "en": "Veal brain fried with egg"
+  },
+  "per100g": {
+    "fat": "9.81",
+    "saturates": "1.99",
+    "monounsaturates": "1.84",
+    "polyunsaturates": "1.16",
+    "carbohydrate": "0.4",
+    "sugars": "0.38",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "11.83",
+    "sodium": "0.377",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y272112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

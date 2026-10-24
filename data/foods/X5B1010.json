@@ -1,0 +1,44 @@
+{
+  "code": "X5B1010",
+  "name": {
+    "de": "Gemüse-Kartoffel-Fleisch-Brei, mit Karotte und Hühnerfleisch (ohne Salz, geeignet für Beikost)",
+    "en": "Vegetable-potato-poultry purree, with carrots and chicken (without salt, suitable as baby food)"
+  },
+  "per100g": {
+    "fat": "6.986",
+    "saturates": "1.16",
+    "monounsaturates": "3.31",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "7.576",
+    "sugars": "3.819",
+    "starch": "3.661",
+    "polyols": "0.096",
+    "fibre": "1.6",
+    "protein": "3.142",
+    "sodium": "0.02",
+    "alcohol": "0.003",
+    "organicAcids": "0.255"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X5B1010",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

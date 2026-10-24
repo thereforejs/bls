@@ -1,0 +1,44 @@
+{
+  "code": "D740500",
+  "name": {
+    "de": "Nusshörnchen (Hefeteig)",
+    "en": "Nut crescent roll (yeast dough)"
+  },
+  "per100g": {
+    "fat": "22.4",
+    "saturates": "9.3",
+    "monounsaturates": "9.61",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "47",
+    "sugars": "20.1",
+    "starch": "27",
+    "polyols": "0.033",
+    "fibre": "3.2",
+    "protein": "8.4",
+    "sodium": "0.044",
+    "alcohol": "0",
+    "organicAcids": "0.168"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D740500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

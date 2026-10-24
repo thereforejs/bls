@@ -1,0 +1,44 @@
+{
+  "code": "W874300",
+  "name": {
+    "de": "Wiener Würstchen Konserve",
+    "en": "Vienna sausage canned"
+  },
+  "per100g": {
+    "fat": "19.5",
+    "saturates": "6.871",
+    "monounsaturates": "7.978",
+    "polyunsaturates": "2.112",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.5",
+    "sodium": "0.711",
+    "alcohol": "0",
+    "organicAcids": "0.724"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W874300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

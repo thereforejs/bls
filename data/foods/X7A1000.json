@@ -1,0 +1,44 @@
+{
+  "code": "X7A1000",
+  "name": {
+    "de": "Eier-Frischteigwaren mit Basilikum (mit Salz gekocht)",
+    "en": "Fresh egg pasta with basil (boiled with salt)"
+  },
+  "per100g": {
+    "fat": "3.25",
+    "saturates": "0.62",
+    "monounsaturates": "1.36",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "25.21",
+    "sugars": "0.18",
+    "starch": "25.03",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "6.49",
+    "sodium": "0.173",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X7A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

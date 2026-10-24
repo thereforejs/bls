@@ -1,0 +1,44 @@
+{
+  "code": "Y860212",
+  "name": {
+    "de": "Zitronenwackelpudding",
+    "en": "Lemon jelly"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.052",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.121",
+    "carbohydrate": "14.994",
+    "sugars": "14.609",
+    "starch": "0",
+    "polyols": "0.385",
+    "fibre": "0.182",
+    "protein": "2.1",
+    "sodium": "0.008",
+    "alcohol": "0.014",
+    "organicAcids": "3.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

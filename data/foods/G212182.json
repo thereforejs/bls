@@ -1,0 +1,44 @@
+{
+  "code": "G212182",
+  "name": {
+    "de": "Gemüseamaranth gebraten ohne Fett (Pfanne)",
+    "en": "Chinese spinach fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.49",
+    "saturates": "0.128",
+    "monounsaturates": "1.39",
+    "polyunsaturates": "0.219",
+    "carbohydrate": "1.39",
+    "sugars": "1.12",
+    "starch": "0.272",
+    "polyols": "0",
+    "fibre": "2.7",
+    "protein": "3.67",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.093"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G212182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

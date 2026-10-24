@@ -1,0 +1,44 @@
+{
+  "code": "M401700",
+  "name": {
+    "de": "Edamer mind. 50 % Fett i. Tr.",
+    "en": "Edam cheese min. 50 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "29.6",
+    "saturates": "18.175",
+    "monounsaturates": "6.974",
+    "polyunsaturates": "0.586",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25",
+    "sodium": "0.6",
+    "alcohol": "0",
+    "organicAcids": "0.935"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M401700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X870443",
+  "name": {
+    "de": "Reisauflauf gesüßt",
+    "en": "Rice casserole sweetened"
+  },
+  "per100g": {
+    "fat": "5.27",
+    "saturates": "3.353",
+    "monounsaturates": "1.193",
+    "polyunsaturates": "0.183",
+    "carbohydrate": "24.3",
+    "sugars": "5.84",
+    "starch": "18.5",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "5.34",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.057"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X870443",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

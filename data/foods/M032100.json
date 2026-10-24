@@ -1,0 +1,47 @@
+{
+  "code": "M032100",
+  "name": {
+    "de": "Mozzarella mind. 45 % Fett i. Tr.",
+    "en": "Mozzarella min. 45 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "20.99",
+    "saturates": "14.259",
+    "monounsaturates": "4.737",
+    "polyunsaturates": "0.663",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": null,
+    "protein": "17.12",
+    "sodium": "0.187",
+    "alcohol": null,
+    "organicAcids": "0.39"
+  },
+  "marks": {
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M032100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

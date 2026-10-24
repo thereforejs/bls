@@ -1,0 +1,44 @@
+{
+  "code": "X466443",
+  "name": {
+    "de": "Grünkohl-Eintopf mit Kartoffeln und Schweinebauch",
+    "en": "Curly kale stew with potatoes and pork belly"
+  },
+  "per100g": {
+    "fat": "6.4",
+    "saturates": "1.8",
+    "monounsaturates": "2.65",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "6.7",
+    "sugars": "1.91",
+    "starch": "4.7",
+    "polyols": "0.07",
+    "fibre": "2.9",
+    "protein": "4.97",
+    "sodium": "0.136",
+    "alcohol": "0",
+    "organicAcids": "0.085"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X466443",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

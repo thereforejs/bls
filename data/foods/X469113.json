@@ -1,0 +1,44 @@
+{
+  "code": "X469113",
+  "name": {
+    "de": "Serbische Bohnensuppe mit Speck",
+    "en": "Serbian bean soup with bacon"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "1.06",
+    "monounsaturates": "1.77",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "8",
+    "sugars": "1.9",
+    "starch": "5",
+    "polyols": "0.04",
+    "fibre": "3.4",
+    "protein": "4.84",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X469113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

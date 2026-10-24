@@ -1,0 +1,44 @@
+{
+  "code": "D793100",
+  "name": {
+    "de": "Müslikekse (Vollkornmürbeteig)",
+    "en": "Wholemeal muesli biscuits (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "13.2",
+    "saturates": "6",
+    "monounsaturates": "3.584",
+    "polyunsaturates": "2.2",
+    "carbohydrate": "59.2",
+    "sugars": "35.7",
+    "starch": "23.3",
+    "polyols": "0.211",
+    "fibre": "6.5",
+    "protein": "8.5",
+    "sodium": "0.074",
+    "alcohol": "0",
+    "organicAcids": "0.937"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D793100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

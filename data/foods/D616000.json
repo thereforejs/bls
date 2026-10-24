@@ -1,0 +1,44 @@
+{
+  "code": "D616000",
+  "name": {
+    "de": "Haselnussplätzchen glutenfrei",
+    "en": "Hazelnut biscuits gluten-free"
+  },
+  "per100g": {
+    "fat": "36.105",
+    "saturates": "16.88",
+    "monounsaturates": "13.62",
+    "polyunsaturates": "2.01",
+    "carbohydrate": "50.7",
+    "sugars": "17.097",
+    "starch": "33.6",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "5.2",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.0249"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D616000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

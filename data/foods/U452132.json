@@ -1,0 +1,44 @@
+{
+  "code": "U452132",
+  "name": {
+    "de": "Kalb Brust, gekocht",
+    "en": "Veal breast, boiled"
+  },
+  "per100g": {
+    "fat": "15.214",
+    "saturates": "6.368",
+    "monounsaturates": "5.712",
+    "polyunsaturates": "0.991",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.657",
+    "sodium": "0.098",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U452132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "G890702",
+  "name": {
+    "de": "Salzgurke/Salzdillgurke, milchsauer fermentiert, abgetropft",
+    "en": "Gherkin lactic acid fermented, drained"
+  },
+  "per100g": {
+    "fat": null,
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "1.38",
+    "sugars": "1.36",
+    "starch": null,
+    "polyols": "0.022",
+    "fibre": "0.7",
+    "protein": "0.52",
+    "sodium": "0.8995",
+    "alcohol": null,
+    "organicAcids": "0.789"
+  },
+  "marks": {
+    "fat": "<LOD",
+    "starch": "<LOD",
+    "alcohol": "<LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G890702",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

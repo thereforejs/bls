@@ -1,0 +1,44 @@
+{
+  "code": "G542162",
+  "name": {
+    "de": "Gemüsepaprika gelb, gebacken",
+    "en": "Sweet pepper yellow, baked"
+  },
+  "per100g": {
+    "fat": "0.235",
+    "saturates": "0.0602",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.1003",
+    "carbohydrate": "5.203",
+    "sugars": "5.203",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "2.588",
+    "protein": "0.941",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.38"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G542162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

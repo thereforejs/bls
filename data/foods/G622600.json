@@ -1,0 +1,44 @@
+{
+  "code": "G622600",
+  "name": {
+    "de": "Gemüsesaft aus Karotte/Möhre, mit Honig",
+    "en": "Carrot juice, sweetened with honey"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.072",
+    "monounsaturates": "0.08",
+    "polyunsaturates": "0.059",
+    "carbohydrate": "6.403",
+    "sugars": "6.292",
+    "starch": "0.0778",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "0.621",
+    "sodium": "0.035",
+    "alcohol": "0.006",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G622600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D1A4000",
+  "name": {
+    "de": "Apfelkuchen vegan (Rührmasse)",
+    "en": "Apple cake vegan (cake batter)"
+  },
+  "per100g": {
+    "fat": "7.51",
+    "saturates": "0.55",
+    "monounsaturates": "4.15",
+    "polyunsaturates": "2.1",
+    "carbohydrate": "29.1",
+    "sugars": "14.7",
+    "starch": "14",
+    "polyols": "0.44",
+    "fibre": "2.33",
+    "protein": "2.2",
+    "sodium": "0.097",
+    "alcohol": "0.003",
+    "organicAcids": "0.265"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D1A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

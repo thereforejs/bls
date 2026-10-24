@@ -1,0 +1,44 @@
+{
+  "code": "M820500",
+  "name": {
+    "de": "Frischkäsezubereitung Natur, mind. 40 % Fett i. Tr.",
+    "en": "Cream cheese preparation min. 40 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "11",
+    "saturates": "7.2",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "3.39",
+    "sugars": "3.39",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.4",
+    "sodium": "0.214",
+    "alcohol": "0",
+    "organicAcids": "0.854"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M820500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

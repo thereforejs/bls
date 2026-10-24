@@ -1,0 +1,44 @@
+{
+  "code": "V514182",
+  "name": {
+    "de": "Schaf Herz, gebraten ohne Fett (Pfanne)",
+    "en": "Sheep heart, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "6.99",
+    "saturates": "2.67",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "24.1",
+    "sodium": "0.116",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V514182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

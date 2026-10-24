@@ -1,0 +1,44 @@
+{
+  "code": "U685100",
+  "name": {
+    "de": "Schwein Hüfte/Schinkenspeck, roh",
+    "en": "Pork rump, raw"
+  },
+  "per100g": {
+    "fat": "4.23",
+    "saturates": "1.396",
+    "monounsaturates": "1.69",
+    "polyunsaturates": "0.364",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.28",
+    "sodium": "0.0475",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U685100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X211040",
+  "name": {
+    "de": "Chicoreesalat mit Zitronenmarinade",
+    "en": "Chicory salad with lemon marinade"
+  },
+  "per100g": {
+    "fat": "8.6",
+    "saturates": "0.64",
+    "monounsaturates": "4.86",
+    "polyunsaturates": "2.39",
+    "carbohydrate": "1.4",
+    "sugars": "1.06",
+    "starch": "0.03",
+    "polyols": "0.1",
+    "fibre": "1.1",
+    "protein": "1.92",
+    "sodium": "0.092",
+    "alcohol": "0",
+    "organicAcids": "0.52"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X211040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

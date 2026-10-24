@@ -1,0 +1,44 @@
+{
+  "code": "D422000",
+  "name": {
+    "de": "Rührmasse/Rührteig, roh",
+    "en": "Cake batter raw"
+  },
+  "per100g": {
+    "fat": "16.76",
+    "saturates": "9.92",
+    "monounsaturates": "3.85",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "44",
+    "sugars": "18.7",
+    "starch": "25.3",
+    "polyols": "0",
+    "fibre": "1.86",
+    "protein": "6.73",
+    "sodium": "0.181",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D422000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

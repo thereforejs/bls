@@ -1,0 +1,44 @@
+{
+  "code": "W295200",
+  "name": {
+    "de": "Frühlingspastete",
+    "en": "Spring pate"
+  },
+  "per100g": {
+    "fat": "10.12",
+    "saturates": "3.67",
+    "monounsaturates": "3.64",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "0.6",
+    "sugars": "0.3",
+    "starch": "0.07",
+    "polyols": "0.22",
+    "fibre": "0.3",
+    "protein": "10.91",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W295200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

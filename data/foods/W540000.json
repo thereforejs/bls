@@ -1,0 +1,44 @@
+{
+  "code": "W540000",
+  "name": {
+    "de": "Hamburger Rauchfleisch (Rind Oberschale) Rohpökelware, geräuchert",
+    "en": "Beef meat (topside/top round) raw cured, smoked"
+  },
+  "per100g": {
+    "fat": "4.231",
+    "saturates": "1.923",
+    "monounsaturates": "1.987",
+    "polyunsaturates": "0.089",
+    "carbohydrate": "0.492",
+    "sugars": "0.492",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.495",
+    "sodium": "1.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W540000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

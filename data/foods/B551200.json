@@ -1,0 +1,44 @@
+{
+  "code": "B551200",
+  "name": {
+    "de": "Weizenmischbrötchen mit Mohn",
+    "en": "Wheat-rye roll (> 50 % and < 90 % wheat) with poppy seeds"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "0.91",
+    "monounsaturates": "1.02",
+    "polyunsaturates": "1.09",
+    "carbohydrate": "53",
+    "sugars": "1.7",
+    "starch": "51",
+    "polyols": "0",
+    "fibre": "6.25",
+    "protein": "9",
+    "sodium": "0.573",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B551200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

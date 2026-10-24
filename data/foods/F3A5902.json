@@ -1,0 +1,44 @@
+{
+  "code": "F3A5902",
+  "name": {
+    "de": "Stachelbeere mit Süßungsmitteln, Konserve, abgetropft",
+    "en": "Gooseberry with artificial sweeteners, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.118",
+    "saturates": "0.0107",
+    "monounsaturates": "0.01141",
+    "polyunsaturates": "0.0629",
+    "carbohydrate": "3.937",
+    "sugars": "2.892",
+    "starch": "0",
+    "polyols": "1.045",
+    "fibre": "1.987",
+    "protein": "0.658",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F3A5902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

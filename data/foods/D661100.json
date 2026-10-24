@@ -1,0 +1,44 @@
+{
+  "code": "D661100",
+  "name": {
+    "de": "Marzipan-Monde",
+    "en": "Marzipan moons"
+  },
+  "per100g": {
+    "fat": "26.7",
+    "saturates": "2.3",
+    "monounsaturates": "16.96",
+    "polyunsaturates": "5.9",
+    "carbohydrate": "40.5",
+    "sugars": "38.6",
+    "starch": "1.86",
+    "polyols": "0",
+    "fibre": "5.8",
+    "protein": "11.7",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D661100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

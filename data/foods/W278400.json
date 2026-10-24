@@ -1,0 +1,44 @@
+{
+  "code": "W278400",
+  "name": {
+    "de": "Schwedische Leberpastete mit Sardellen",
+    "en": "Swedish liver pate with anchovies"
+  },
+  "per100g": {
+    "fat": "23.2",
+    "saturates": "9",
+    "monounsaturates": "9.75",
+    "polyunsaturates": "3.02",
+    "carbohydrate": "1.3",
+    "sugars": "1.3",
+    "starch": "0.02",
+    "polyols": "0.011",
+    "fibre": "0.1",
+    "protein": "12.74",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.218"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W278400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

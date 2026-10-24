@@ -1,0 +1,44 @@
+{
+  "code": "M2Q4220",
+  "name": {
+    "de": "Milchmischgetränk 1,5 % Fett, mit Kakao/Schokolade, gesüßt, angereichert mit Vitaminen",
+    "en": "Milk drink 1.5 % fat, with cocoa/chocolate, sweetened, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "1.6",
+    "saturates": "1",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.01",
+    "carbohydrate": "8.4",
+    "sugars": "8.34",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.386",
+    "protein": "3.61",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.076"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2Q4220",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

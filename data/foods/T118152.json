@@ -1,0 +1,44 @@
+{
+  "code": "T118152",
+  "name": {
+    "de": "Schildmakrele/Stöcker, gedünstet",
+    "en": "Atlantic horse mackerel stewed"
+  },
+  "per100g": {
+    "fat": "4.46",
+    "saturates": "1.45",
+    "monounsaturates": "2.577",
+    "polyunsaturates": "1.332",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.516",
+    "sodium": "0.068",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T118152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

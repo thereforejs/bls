@@ -1,0 +1,44 @@
+{
+  "code": "U522800",
+  "name": {
+    "de": "Schwein Stielkotelett, Kochpökelware",
+    "en": "Pork chop (loin) cooked cured"
+  },
+  "per100g": {
+    "fat": "6.84",
+    "saturates": "2.305",
+    "monounsaturates": "2.447",
+    "polyunsaturates": "0.5705",
+    "carbohydrate": "0.438",
+    "sugars": "0.438",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.01",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U522800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

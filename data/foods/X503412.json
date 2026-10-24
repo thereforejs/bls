@@ -1,0 +1,44 @@
+{
+  "code": "X503412",
+  "name": {
+    "de": "Quiche (Mürbeteig) mit Broccoli und Blumenkohl",
+    "en": "Quiche (shortcrust pastry) with broccoli and cauliflower"
+  },
+  "per100g": {
+    "fat": "10.4",
+    "saturates": "5.1",
+    "monounsaturates": "2.9",
+    "polyunsaturates": "0.83",
+    "carbohydrate": "12.5",
+    "sugars": "2.4",
+    "starch": "9.5",
+    "polyols": "0.6",
+    "fibre": "2",
+    "protein": "5.6",
+    "sodium": "0.24",
+    "alcohol": "0",
+    "organicAcids": "0.19"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X503412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S361000",
+  "name": {
+    "de": "Fruchtgummi (Gummibonbon)",
+    "en": "Gum drops with fruit essence"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "70.7",
+    "sugars": "56.7",
+    "starch": "11.6",
+    "polyols": "0.019",
+    "fibre": "1.01",
+    "protein": "4.8",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0.271"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S361000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

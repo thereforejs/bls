@@ -1,0 +1,44 @@
+{
+  "code": "P281000",
+  "name": {
+    "de": "Glühwein",
+    "en": "Mulled wine"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.008",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.017",
+    "carbohydrate": "8.21",
+    "sugars": "8.18",
+    "starch": "0",
+    "polyols": "0.026",
+    "fibre": "0.071",
+    "protein": "0.242",
+    "sodium": "0.002",
+    "alcohol": "8.5",
+    "organicAcids": "0.82"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P281000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

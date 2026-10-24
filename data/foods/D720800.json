@@ -1,0 +1,44 @@
+{
+  "code": "D720800",
+  "name": {
+    "de": "Käsewindbeutel salzig (Brandmasse) ungefüllt",
+    "en": "Cheese puffs salted (choux pastry) unfilled"
+  },
+  "per100g": {
+    "fat": "14.16",
+    "saturates": "7.93",
+    "monounsaturates": "3.73",
+    "polyunsaturates": "0.88",
+    "carbohydrate": "16.5",
+    "sugars": "0.229",
+    "starch": "16.3",
+    "polyols": "0",
+    "fibre": "1.01",
+    "protein": "12.3",
+    "sodium": "0.169",
+    "alcohol": "0",
+    "organicAcids": "0.108"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D720800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

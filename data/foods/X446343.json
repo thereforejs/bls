@@ -1,0 +1,44 @@
+{
+  "code": "X446343",
+  "name": {
+    "de": "Lauchsuppe gebunden",
+    "en": "Leek soup thickened"
+  },
+  "per100g": {
+    "fat": "3.2",
+    "saturates": "0.8",
+    "monounsaturates": "1.46",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "3",
+    "sugars": "1.7",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "0.98",
+    "sodium": "0.205",
+    "alcohol": "0",
+    "organicAcids": "0.073"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X446343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

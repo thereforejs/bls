@@ -1,0 +1,44 @@
+{
+  "code": "D790100",
+  "name": {
+    "de": "Kekse/Plätzchen, salzig (Vollkornmürbeteig)",
+    "en": "Wholemeal biscuits, salted"
+  },
+  "per100g": {
+    "fat": "27.44",
+    "saturates": "10.663",
+    "monounsaturates": "11.645",
+    "polyunsaturates": "4.547",
+    "carbohydrate": "48.4",
+    "sugars": "0.664",
+    "starch": "47.7",
+    "polyols": "0",
+    "fibre": "9.2",
+    "protein": "9.42",
+    "sodium": "0.582",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D790100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

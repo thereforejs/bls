@@ -1,0 +1,44 @@
+{
+  "code": "Y8A4070",
+  "name": {
+    "de": "Joghurt 1,5 % Fett mit Erdbeeren",
+    "en": "Yogurt 1.5 % fat with strawberries"
+  },
+  "per100g": {
+    "fat": "1.211",
+    "saturates": "0.632",
+    "monounsaturates": "0.277",
+    "polyunsaturates": "0.112",
+    "carbohydrate": "6.002",
+    "sugars": "5.799",
+    "starch": "0.184",
+    "polyols": "0.019",
+    "fibre": "0.6",
+    "protein": "3.668",
+    "sodium": "0.039",
+    "alcohol": "0",
+    "organicAcids": "1.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A4070",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

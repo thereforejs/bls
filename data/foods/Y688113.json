@@ -1,0 +1,44 @@
+{
+  "code": "Y688113",
+  "name": {
+    "de": "Scampi gegart, in scharfer Tomatensauce (aus Tomaten Konserve)",
+    "en": "Scampi cooked, in spicy tomato sauce (of canned tomatoes)"
+  },
+  "per100g": {
+    "fat": "4",
+    "saturates": "0.39",
+    "monounsaturates": "1.94",
+    "polyunsaturates": "1.17",
+    "carbohydrate": "2.7",
+    "sugars": "2.7",
+    "starch": "0.002",
+    "polyols": "0.04",
+    "fibre": "1",
+    "protein": "9.35",
+    "sodium": "0.217",
+    "alcohol": "0",
+    "organicAcids": "0.46"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y688113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B723200",
+  "name": {
+    "de": "Laugengebäck mit Kürbiskernen",
+    "en": "Lye pastry (pretzels) with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "3.56",
+    "saturates": "1.08",
+    "monounsaturates": "1.22",
+    "polyunsaturates": "0.97",
+    "carbohydrate": "50",
+    "sugars": "1.4",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "3.55",
+    "protein": "9.1",
+    "sodium": "0.515",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B723200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

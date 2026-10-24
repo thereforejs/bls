@@ -1,0 +1,44 @@
+{
+  "code": "Y855643",
+  "name": {
+    "de": "Rhabarbergrütze",
+    "en": "Rhubarb jelly"
+  },
+  "per100g": {
+    "fat": "0.102",
+    "saturates": "0.021",
+    "monounsaturates": "0.007",
+    "polyunsaturates": "0.05",
+    "carbohydrate": "20.809",
+    "sugars": "15.484",
+    "starch": "5.325",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "0.474",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "1.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y855643",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

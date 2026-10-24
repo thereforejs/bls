@@ -1,0 +1,44 @@
+{
+  "code": "B521000",
+  "name": {
+    "de": "Roggenbrötchen",
+    "en": "Rye roll"
+  },
+  "per100g": {
+    "fat": "2.87",
+    "saturates": "0.85",
+    "monounsaturates": "0.94",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "49",
+    "sugars": "0.8205",
+    "starch": "48",
+    "polyols": "0",
+    "fibre": "8.81",
+    "protein": "8.27",
+    "sodium": "0.567",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B521000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

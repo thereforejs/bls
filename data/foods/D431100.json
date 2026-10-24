@@ -1,0 +1,44 @@
+{
+  "code": "D431100",
+  "name": {
+    "de": "Marmorkuchen (Rührmasse)",
+    "en": "Marble cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "19.79",
+    "saturates": "10.86",
+    "monounsaturates": "5.29",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "46.6",
+    "sugars": "19.84",
+    "starch": "26.8",
+    "polyols": "0",
+    "fibre": "2.9",
+    "protein": "8.39",
+    "sodium": "0.197",
+    "alcohol": "0",
+    "organicAcids": "0.021"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D431100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

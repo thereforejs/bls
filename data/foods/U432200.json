@@ -1,0 +1,44 @@
+{
+  "code": "U432200",
+  "name": {
+    "de": "Kalb Hals/Nacken/Kamm, tiefgefroren",
+    "en": "Veal scrag deep-frozen"
+  },
+  "per100g": {
+    "fat": "2.66",
+    "saturates": "1.112",
+    "monounsaturates": "0.998",
+    "polyunsaturates": "0.173",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.2",
+    "sodium": "0.104",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U432200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

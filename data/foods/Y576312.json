@@ -1,0 +1,44 @@
+{
+  "code": "Y576312",
+  "name": {
+    "de": "Entenbrust gebraten im Ofen (mit Fett und Salz)",
+    "en": "Duck breast fried in oven (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "28.09",
+    "saturates": "3.73",
+    "monounsaturates": "5.33",
+    "polyunsaturates": "1.45",
+    "carbohydrate": "0.03",
+    "sugars": "0",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "28.68",
+    "sodium": "0.242",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y576312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

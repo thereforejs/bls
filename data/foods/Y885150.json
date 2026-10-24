@@ -1,0 +1,44 @@
+{
+  "code": "Y885150",
+  "name": {
+    "de": "Erdbeerjoghurt mit Sahne",
+    "en": "Strawberry yogurt with cream"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "2.72",
+    "monounsaturates": "1.221",
+    "polyunsaturates": "0.208",
+    "carbohydrate": "9.65",
+    "sugars": "9.63",
+    "starch": "0",
+    "polyols": "0.02",
+    "fibre": "0.7",
+    "protein": "2.56",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0.912"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y885150",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

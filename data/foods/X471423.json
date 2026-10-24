@@ -1,0 +1,44 @@
+{
+  "code": "X471423",
+  "name": {
+    "de": "Schokoladen-Milchsuppe gebunden mit Grieß",
+    "en": "Chocolate-milk soup thickened with semolina"
+  },
+  "per100g": {
+    "fat": "3.4",
+    "saturates": "2.14",
+    "monounsaturates": "0.77",
+    "polyunsaturates": "0.08",
+    "carbohydrate": "10",
+    "sugars": "7.42",
+    "starch": "2.6",
+    "polyols": "0",
+    "fibre": "0.13",
+    "protein": "3.9",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0.055"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X471423",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W415032",
+  "name": {
+    "de": "Schwein Frühstücksspeck, Rohpökelware, geräuchert, gekocht",
+    "en": "Pork breakfast bacon, raw cured, smoked, boiled"
+  },
+  "per100g": {
+    "fat": "23.34",
+    "saturates": "8.359",
+    "monounsaturates": "9.042",
+    "polyunsaturates": "2.229",
+    "carbohydrate": "0.546",
+    "sugars": "0.546",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.6",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W415032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

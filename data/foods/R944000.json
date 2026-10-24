@@ -1,0 +1,44 @@
+{
+  "code": "R944000",
+  "name": {
+    "de": "Trüffelfüllcreme für Gebäck/Torten",
+    "en": "Truffle cream filling for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "32.59",
+    "saturates": "19.06",
+    "monounsaturates": "9.06",
+    "polyunsaturates": "0.924",
+    "carbohydrate": "27.7",
+    "sugars": "26.3",
+    "starch": "1.443",
+    "polyols": "0",
+    "fibre": "3.94",
+    "protein": "4.04",
+    "sodium": "0.018",
+    "alcohol": "0",
+    "organicAcids": "0.06"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R944000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

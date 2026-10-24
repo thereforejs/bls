@@ -1,0 +1,44 @@
+{
+  "code": "W171300",
+  "name": {
+    "de": "Touristenwurst (Rohwurst)",
+    "en": "Touristenwurst sausage raw"
+  },
+  "per100g": {
+    "fat": "41.61",
+    "saturates": "16.3",
+    "monounsaturates": "18.51",
+    "polyunsaturates": "4.14",
+    "carbohydrate": "0.18",
+    "sugars": "0",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "19.93",
+    "sodium": "1.5",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W171300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "S145000",
+  "name": {
+    "de": "Nuss-Nougat-Creme",
+    "en": "Nut nougat cream (spread)"
+  },
+  "per100g": {
+    "fat": "30.55",
+    "saturates": "9.171",
+    "monounsaturates": "15.92",
+    "polyunsaturates": "3.935",
+    "carbohydrate": "54.75",
+    "sugars": "53.07",
+    "starch": "1.67",
+    "polyols": "0.007",
+    "fibre": "3.52",
+    "protein": "6.9",
+    "sodium": "0.0286",
+    "alcohol": null,
+    "organicAcids": "0.359"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S145000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

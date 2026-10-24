@@ -1,0 +1,44 @@
+{
+  "code": "X1A2050",
+  "name": {
+    "de": "Kartoffelsalat mit Speck und Marinade (Gemüsebrühe)",
+    "en": "Potato salad with bacon and marinade (vegetable stock)"
+  },
+  "per100g": {
+    "fat": "3.6",
+    "saturates": "0.8",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "11.85",
+    "sugars": "1.18",
+    "starch": "10.67",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "2.76",
+    "sodium": "0.2",
+    "alcohol": "0.003",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A2050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

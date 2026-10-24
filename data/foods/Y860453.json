@@ -1,0 +1,44 @@
+{
+  "code": "Y860453",
+  "name": {
+    "de": "Karamellflammeri/Karamellpudding, mit Vanillesauce",
+    "en": "Caramel pudding with vanilla sauce"
+  },
+  "per100g": {
+    "fat": "4.57",
+    "saturates": "2.38",
+    "monounsaturates": "1.24",
+    "polyunsaturates": "0.29",
+    "carbohydrate": "21.05",
+    "sugars": "15.48",
+    "starch": "5.57",
+    "polyols": "0",
+    "fibre": "0.051",
+    "protein": "3.9",
+    "sodium": "0.045",
+    "alcohol": "0",
+    "organicAcids": "0.053"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y860453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

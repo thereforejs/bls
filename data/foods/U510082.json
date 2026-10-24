@@ -1,0 +1,44 @@
+{
+  "code": "U510082",
+  "name": {
+    "de": "Schwein Filetmedaillon, mariniert, gebraten ohne Fett (Pfanne)",
+    "en": "Pork fillet medallion, marinated, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "6.2",
+    "saturates": "0.7",
+    "monounsaturates": "3.2",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "0.14",
+    "sugars": "0.13",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "26.6",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.092"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U510082",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

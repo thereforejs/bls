@@ -1,0 +1,46 @@
+{
+  "code": "F201400",
+  "name": {
+    "de": "Aprikose getrocknet",
+    "en": "Apricot dried"
+  },
+  "per100g": {
+    "fat": "0.23",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "44",
+    "sugars": "38.46",
+    "starch": "0.62",
+    "polyols": "4.922",
+    "fibre": "6.04",
+    "protein": "2.66",
+    "sodium": "0.0021",
+    "alcohol": null,
+    "organicAcids": "7.85"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F201400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

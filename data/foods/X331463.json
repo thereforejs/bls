@@ -1,0 +1,44 @@
+{
+  "code": "X331463",
+  "name": {
+    "de": "Teufelssauce von dunkler/brauner Grundsauce",
+    "en": "Devil's sauce from brown basic sauce"
+  },
+  "per100g": {
+    "fat": "4.2",
+    "saturates": "0.3",
+    "monounsaturates": "2.4",
+    "polyunsaturates": "1.12",
+    "carbohydrate": "4.79",
+    "sugars": "0.47",
+    "starch": "4.32",
+    "polyols": "0.002",
+    "fibre": "0.4",
+    "protein": "0.97",
+    "sodium": "0.272",
+    "alcohol": "0.53",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X331463",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

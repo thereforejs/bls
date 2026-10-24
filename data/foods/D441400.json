@@ -1,0 +1,44 @@
+{
+  "code": "D441400",
+  "name": {
+    "de": "Wiener Sandtorte",
+    "en": "Viennese sand torte"
+  },
+  "per100g": {
+    "fat": "22.85",
+    "saturates": "13.75",
+    "monounsaturates": "5.27",
+    "polyunsaturates": "0.85",
+    "carbohydrate": "44.9",
+    "sugars": "25.2",
+    "starch": "19.7",
+    "polyols": "0",
+    "fibre": "0.78",
+    "protein": "4.94",
+    "sodium": "0.083",
+    "alcohol": "0",
+    "organicAcids": "0.0213"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D441400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

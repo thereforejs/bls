@@ -1,0 +1,44 @@
+{
+  "code": "D0A3000",
+  "name": {
+    "de": "Nussbiskuitboden",
+    "en": "Nut sponge cake base"
+  },
+  "per100g": {
+    "fat": "11.5",
+    "saturates": "1.99",
+    "monounsaturates": "6.78",
+    "polyunsaturates": "1.53",
+    "carbohydrate": "41.5",
+    "sugars": "28.305",
+    "starch": "13.2",
+    "polyols": "0",
+    "fibre": "1.7",
+    "protein": "11.42",
+    "sodium": "0.095",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D0A3000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

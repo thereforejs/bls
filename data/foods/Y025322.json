@@ -1,0 +1,44 @@
+{
+  "code": "Y025322",
+  "name": {
+    "de": "Studentenschnitzel (Fleischkäse gebraten mit Spiegelei)",
+    "en": "Students' schnitzel (fleischkaese fried, with fried egg)"
+  },
+  "per100g": {
+    "fat": "25.26",
+    "saturates": "7.05",
+    "monounsaturates": "9.29",
+    "polyunsaturates": "2.69",
+    "carbohydrate": "0.55",
+    "sugars": "0.55",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.12",
+    "sodium": "0.681",
+    "alcohol": "0",
+    "organicAcids": "0.422"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y025322",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

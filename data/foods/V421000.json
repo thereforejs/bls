@@ -1,0 +1,44 @@
+{
+  "code": "V421000",
+  "name": {
+    "de": "Hähnchen Brustfilet, mariniert, roh",
+    "en": "Chicken breast fillet, marinated, raw"
+  },
+  "per100g": {
+    "fat": "4.34",
+    "saturates": "0.56",
+    "monounsaturates": "2.03",
+    "polyunsaturates": "1.06",
+    "carbohydrate": "1.66",
+    "sugars": "1.61",
+    "starch": "0.03",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "20.99",
+    "sodium": "0.391",
+    "alcohol": "0.001",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V421000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

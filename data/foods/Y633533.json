@@ -1,0 +1,44 @@
+{
+  "code": "Y633533",
+  "name": {
+    "de": "Seezungenfilet gratiniert",
+    "en": "Sole fillet gratinated"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "1.79",
+    "monounsaturates": "3.12",
+    "polyunsaturates": "1.71",
+    "carbohydrate": "2.6",
+    "sugars": "0.4",
+    "starch": "1.58",
+    "polyols": "0.57",
+    "fibre": "0.8",
+    "protein": "15.4",
+    "sodium": "0.231",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y633533",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D610100",
+  "name": {
+    "de": "Russisch-Brot (Eiklarmasse)",
+    "en": "Russian bread letter-shaped biscuits (meringue)"
+  },
+  "per100g": {
+    "fat": "0.92",
+    "saturates": "0.35",
+    "monounsaturates": "0.2",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "82.4",
+    "sugars": "49.052",
+    "starch": "33.3",
+    "polyols": "0",
+    "fibre": "3.08",
+    "protein": "9.7",
+    "sodium": "0.119",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D610100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

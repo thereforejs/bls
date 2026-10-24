@@ -1,0 +1,44 @@
+{
+  "code": "T720200",
+  "name": {
+    "de": "Languste tiefgefroren",
+    "en": "Spiny lobster/rock lobster/crawfish, deep-frozen"
+  },
+  "per100g": {
+    "fat": "1.1",
+    "saturates": "0.13",
+    "monounsaturates": "0.13",
+    "polyunsaturates": "0.55",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.2",
+    "sodium": "0.182",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T720200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

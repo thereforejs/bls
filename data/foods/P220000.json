@@ -1,0 +1,46 @@
+{
+  "code": "P220000",
+  "name": {
+    "de": "Weißwein halbtrocken",
+    "en": "White wine medium dry"
+  },
+  "per100g": {
+    "fat": null,
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "1.288",
+    "sugars": "1.288",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "0.15",
+    "sodium": "0.002",
+    "alcohol": "9.4513",
+    "organicAcids": "0.65"
+  },
+  "marks": {
+    "fat": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P220000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D9A4700",
+  "name": {
+    "de": "Quark-Vollkornplunder",
+    "en": "Wholemeal Danish pastry with quark"
+  },
+  "per100g": {
+    "fat": "19.19",
+    "saturates": "9.979",
+    "monounsaturates": "6.572",
+    "polyunsaturates": "2.164",
+    "carbohydrate": "36",
+    "sugars": "10.5",
+    "starch": "25",
+    "polyols": "0",
+    "fibre": "4.52",
+    "protein": "9.46",
+    "sodium": "0.292",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A4700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

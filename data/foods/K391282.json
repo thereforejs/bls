@@ -1,0 +1,44 @@
+{
+  "code": "K391282",
+  "name": {
+    "de": "Kartoffelrösti tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Potato rösti (fried grated potatoes) deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "10.815",
+    "saturates": "0.83",
+    "monounsaturates": "6.17",
+    "polyunsaturates": "2.93",
+    "carbohydrate": "40.2",
+    "sugars": "2.7",
+    "starch": "37.464",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "3.261",
+    "sodium": "0.523",
+    "alcohol": "0",
+    "organicAcids": "0.018"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K391282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

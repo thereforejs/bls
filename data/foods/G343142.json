@@ -1,0 +1,44 @@
+{
+  "code": "G343142",
+  "name": {
+    "de": "Wirsing geschmort ohne Fett",
+    "en": "Savoy cabbage braised without fat"
+  },
+  "per100g": {
+    "fat": "0.566",
+    "saturates": "0.101",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "7.3",
+    "sugars": "6.2",
+    "starch": "0.875",
+    "polyols": "0.23",
+    "fibre": "5",
+    "protein": "4.913",
+    "sodium": "0.016",
+    "alcohol": "0",
+    "organicAcids": "0.477"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G343142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

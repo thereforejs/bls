@@ -1,0 +1,44 @@
+{
+  "code": "T930792",
+  "name": {
+    "de": "Alaska-Seelachs im Backteig, tiefgefroren, frittiert",
+    "en": "Alaska pollock in frying batter, deep-frozen, deep-fried"
+  },
+  "per100g": {
+    "fat": "18.33",
+    "saturates": "1.47",
+    "monounsaturates": "10.11",
+    "polyunsaturates": "5",
+    "carbohydrate": "20.51",
+    "sugars": "0.66",
+    "starch": "19.85",
+    "polyols": "0.001",
+    "fibre": "1.47",
+    "protein": "10.3",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0.033"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T930792",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

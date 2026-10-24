@@ -1,0 +1,44 @@
+{
+  "code": "Y840743",
+  "name": {
+    "de": "Stachelbeerkompott",
+    "en": "Gooseberry compote"
+  },
+  "per100g": {
+    "fat": "0.108",
+    "saturates": "0.0099",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.0576",
+    "carbohydrate": "21.467",
+    "sugars": "19.589",
+    "starch": "0",
+    "polyols": "1.878",
+    "fibre": "2.123",
+    "protein": "0.63",
+    "sodium": "0.003",
+    "alcohol": "0",
+    "organicAcids": "1.036"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y840743",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

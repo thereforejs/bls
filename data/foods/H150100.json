@@ -1,0 +1,44 @@
+{
+  "code": "H150100",
+  "name": {
+    "de": "Kokos Fruchtfleisch, roh",
+    "en": "Coconut meat, raw"
+  },
+  "per100g": {
+    "fat": "36.5",
+    "saturates": "31.84",
+    "monounsaturates": "2.23",
+    "polyunsaturates": "0.68",
+    "carbohydrate": "3.5",
+    "sugars": "3.5",
+    "starch": null,
+    "polyols": null,
+    "fibre": "8.32984",
+    "protein": "4.623",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H150100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

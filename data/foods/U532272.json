@@ -1,0 +1,44 @@
+{
+  "code": "U532272",
+  "name": {
+    "de": "Schwein Kammsteak, tiefgefroren, gegrillt",
+    "en": "Pork steak (neck) deep-frozen, grilled"
+  },
+  "per100g": {
+    "fat": "13.89",
+    "saturates": "5.16",
+    "monounsaturates": "5.5",
+    "polyunsaturates": "1.28",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.26",
+    "sodium": "0.0669",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U532272",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

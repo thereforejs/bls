@@ -1,0 +1,44 @@
+{
+  "code": "X697212",
+  "name": {
+    "de": "Broccolipüree mit Milch 1,5 % Fett",
+    "en": "Broccoli puree with milk 1.5 % fat"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.7",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "3.2",
+    "sugars": "2.7",
+    "starch": "0.33",
+    "polyols": "0.2",
+    "fibre": "1.7",
+    "protein": "3.79",
+    "sodium": "0.12",
+    "alcohol": "0",
+    "organicAcids": "0.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X697212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

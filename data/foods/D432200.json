@@ -1,0 +1,44 @@
+{
+  "code": "D432200",
+  "name": {
+    "de": "Eiserkuchen (Rührmasse)",
+    "en": "Hollow wafer sticks (cake batter)"
+  },
+  "per100g": {
+    "fat": "11.74",
+    "saturates": "7.09",
+    "monounsaturates": "2.65",
+    "polyunsaturates": "0.46",
+    "carbohydrate": "40.56",
+    "sugars": "24.78",
+    "starch": "15.78",
+    "polyols": "0",
+    "fibre": "1.17",
+    "protein": "5.33",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.036"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D432200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

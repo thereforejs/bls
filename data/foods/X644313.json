@@ -1,0 +1,44 @@
+{
+  "code": "X644313",
+  "name": {
+    "de": "Kartoffelgratin mit Spinat",
+    "en": "Potato gratin with spinach"
+  },
+  "per100g": {
+    "fat": "7.76",
+    "saturates": "4.28",
+    "monounsaturates": "1.95",
+    "polyunsaturates": "0.36",
+    "carbohydrate": "10",
+    "sugars": "1.4",
+    "starch": "9",
+    "polyols": "0",
+    "fibre": "1.2",
+    "protein": "5.91",
+    "sodium": "0.141",
+    "alcohol": "0",
+    "organicAcids": "0.124"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X644313",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

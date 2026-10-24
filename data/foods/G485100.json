@@ -1,0 +1,46 @@
+{
+  "code": "G485100",
+  "name": {
+    "de": "Schalotte roh",
+    "en": "Shallot raw"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.016",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.2",
+    "sugars": "3.2",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "5.4243",
+    "protein": "2",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.254"
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G485100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

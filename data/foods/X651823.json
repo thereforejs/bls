@@ -1,0 +1,44 @@
+{
+  "code": "X651823",
+  "name": {
+    "de": "Tiroler Geröstel gebraten",
+    "en": "Fried grated potatoes \"Tyrolese\""
+  },
+  "per100g": {
+    "fat": "14.56",
+    "saturates": "1.84",
+    "monounsaturates": "7.13",
+    "polyunsaturates": "3.09",
+    "carbohydrate": "9.73",
+    "sugars": "1.27",
+    "starch": "8.46",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "10.73",
+    "sodium": "0.11",
+    "alcohol": "0",
+    "organicAcids": "0.032"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651823",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

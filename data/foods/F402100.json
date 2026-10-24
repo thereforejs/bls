@@ -1,0 +1,44 @@
+{
+  "code": "F402100",
+  "name": {
+    "de": "Hagebutte roh",
+    "en": "Rose hip raw"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "16.2",
+    "sugars": "16.2",
+    "starch": null,
+    "polyols": null,
+    "fibre": "6.1",
+    "protein": "3.6",
+    "sodium": "0.024",
+    "alcohol": null,
+    "organicAcids": "4.75"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F402100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

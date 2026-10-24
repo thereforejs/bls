@@ -1,0 +1,44 @@
+{
+  "code": "X9A1020",
+  "name": {
+    "de": "Getreidebratlinge gebraten",
+    "en": "Cereal patties fried"
+  },
+  "per100g": {
+    "fat": "11.7",
+    "saturates": "1.2",
+    "monounsaturates": "4.97",
+    "polyunsaturates": "3.73",
+    "carbohydrate": "19",
+    "sugars": "1",
+    "starch": "18",
+    "polyols": "0",
+    "fibre": "3.9",
+    "protein": "7.1",
+    "sodium": "0.176",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A1020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

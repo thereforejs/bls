@@ -1,0 +1,44 @@
+{
+  "code": "U642700",
+  "name": {
+    "de": "Schwein Bauch (wie gewachsen) Rohpökelware, geräuchert",
+    "en": "Pork belly (untrimmed) raw cured, smoked"
+  },
+  "per100g": {
+    "fat": "33.3",
+    "saturates": "12.601",
+    "monounsaturates": "15.898",
+    "polyunsaturates": "3.694",
+    "carbohydrate": "0.492",
+    "sugars": "0.492",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18",
+    "sodium": "1.4",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U642700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

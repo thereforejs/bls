@@ -1,0 +1,44 @@
+{
+  "code": "S581800",
+  "name": {
+    "de": "Milchschokoladen-Riegel gefüllt mit Karamell-Waffel und Cerealien",
+    "en": "Milk chocolate bar with caramel-waffle and puffed cereals"
+  },
+  "per100g": {
+    "fat": "20.4",
+    "saturates": "11.9",
+    "monounsaturates": "6",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "59.7",
+    "sugars": "43.1",
+    "starch": "8.2",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "5.1",
+    "sodium": "0.17",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S581800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

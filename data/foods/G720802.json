@@ -1,0 +1,44 @@
+{
+  "code": "G720802",
+  "name": {
+    "de": "Wachsbohne gesäuert, abgetropft",
+    "en": "Wax bean pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "6.5",
+    "sugars": "5.71",
+    "starch": "0.6",
+    "polyols": "0.18",
+    "fibre": "1.662",
+    "protein": "1.6",
+    "sodium": "0.476",
+    "alcohol": "0.018",
+    "organicAcids": "1.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G720802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

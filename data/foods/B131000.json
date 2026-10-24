@@ -1,0 +1,44 @@
+{
+  "code": "B131000",
+  "name": {
+    "de": "Hafervollkornbrot",
+    "en": "Wholemeal oat bread"
+  },
+  "per100g": {
+    "fat": "1.53",
+    "saturates": "0.27",
+    "monounsaturates": "0.45",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "34",
+    "sugars": "0.93",
+    "starch": "33",
+    "polyols": "0",
+    "fibre": "10.4",
+    "protein": "5.83",
+    "sodium": "0.457",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B131000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

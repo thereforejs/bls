@@ -1,0 +1,44 @@
+{
+  "code": "G410702",
+  "name": {
+    "de": "Artischocke in Öl, Konserve, abgetropft",
+    "en": "Artichokes in oil, canned, drained"
+  },
+  "per100g": {
+    "fat": "22.823",
+    "saturates": "1.62",
+    "monounsaturates": "13.09",
+    "polyunsaturates": "6.2",
+    "carbohydrate": "3.02",
+    "sugars": "2.82",
+    "starch": "0.205",
+    "polyols": "0",
+    "fibre": "12.517",
+    "protein": "2.559",
+    "sodium": "0.54",
+    "alcohol": "0",
+    "organicAcids": "0.5"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G410702",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

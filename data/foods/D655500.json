@@ -1,0 +1,44 @@
+{
+  "code": "D655500",
+  "name": {
+    "de": "Pfefferkuchen",
+    "en": "Spiced gingerbread"
+  },
+  "per100g": {
+    "fat": "10.6",
+    "saturates": "1.07",
+    "monounsaturates": "7.78",
+    "polyunsaturates": "1.29",
+    "carbohydrate": "68.3",
+    "sugars": "37.292",
+    "starch": "30.7",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "8.26",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D655500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C317000",
+  "name": {
+    "de": "Grünkern Grütze",
+    "en": "Green spelt groats"
+  },
+  "per100g": {
+    "fat": "2.68",
+    "saturates": "0.38",
+    "monounsaturates": "0.64",
+    "polyunsaturates": "1.25",
+    "carbohydrate": "59.18",
+    "sugars": "2.48354",
+    "starch": "56.7",
+    "polyols": "0",
+    "fibre": "12.16",
+    "protein": "11.07",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C317000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

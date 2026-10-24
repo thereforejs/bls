@@ -1,0 +1,44 @@
+{
+  "code": "K260200",
+  "name": {
+    "de": "Kartoffelpuffer tiefgefroren",
+    "en": "Potato pancakes deep-frozen"
+  },
+  "per100g": {
+    "fat": "1.65",
+    "saturates": "0.22",
+    "monounsaturates": "0.81",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "28.49",
+    "sugars": "1.28",
+    "starch": "27.21",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "4",
+    "sodium": "0.379",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K260200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

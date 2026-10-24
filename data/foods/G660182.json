@@ -1,0 +1,44 @@
+{
+  "code": "G660182",
+  "name": {
+    "de": "Knollensellerie gebraten ohne Fett (Pfanne)",
+    "en": "Celeriac fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.611",
+    "saturates": "0.124",
+    "monounsaturates": "0.024",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "5.13",
+    "sugars": "3.908",
+    "starch": "0.815",
+    "polyols": "0.41",
+    "fibre": "7.8",
+    "protein": "2.87",
+    "sodium": "0.143",
+    "alcohol": "0",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G660182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

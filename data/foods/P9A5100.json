@@ -1,0 +1,44 @@
+{
+  "code": "P9A5100",
+  "name": {
+    "de": "Cocktail, Bloody Mary",
+    "en": "Cocktail, Bloody Mary"
+  },
+  "per100g": {
+    "fat": "0.02",
+    "saturates": "0.006",
+    "monounsaturates": "0.003",
+    "polyunsaturates": "0.012",
+    "carbohydrate": "0.98",
+    "sugars": "0.92",
+    "starch": "0.06",
+    "polyols": "0",
+    "fibre": "0.26",
+    "protein": "0.25",
+    "sodium": "0.141",
+    "alcohol": "5.2",
+    "organicAcids": "0.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "P9A5100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D9A1000",
+  "name": {
+    "de": "Vollkornblätterteig eifrei, roh",
+    "en": "Wholemeal puff pastry egg-free, raw"
+  },
+  "per100g": {
+    "fat": "31.28",
+    "saturates": "12.45",
+    "monounsaturates": "13.539",
+    "polyunsaturates": "4.823",
+    "carbohydrate": "23.72",
+    "sugars": "0.28552",
+    "starch": "23.43",
+    "polyols": "0",
+    "fibre": "4.71",
+    "protein": "4.9",
+    "sodium": "0.153",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D9A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

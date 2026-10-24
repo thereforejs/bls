@@ -1,0 +1,44 @@
+{
+  "code": "H151000",
+  "name": {
+    "de": "Kokoswasser (Fruchtwasser)",
+    "en": "Coconut water (liquid from coconuts)"
+  },
+  "per100g": {
+    "fat": "0.4",
+    "saturates": "0.35",
+    "monounsaturates": "0.024",
+    "polyunsaturates": "0.007",
+    "carbohydrate": "1.28",
+    "sugars": "1.28",
+    "starch": null,
+    "polyols": null,
+    "fibre": null,
+    "protein": "0.25",
+    "sodium": "0.047",
+    "alcohol": "0.053",
+    "organicAcids": null
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H151000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

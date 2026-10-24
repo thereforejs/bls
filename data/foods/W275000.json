@@ -1,0 +1,44 @@
+{
+  "code": "W275000",
+  "name": {
+    "de": "Mortadella süddeutsch",
+    "en": "Mortadella South German"
+  },
+  "per100g": {
+    "fat": "13.3",
+    "saturates": "4.71",
+    "monounsaturates": "4.93",
+    "polyunsaturates": "1.56",
+    "carbohydrate": "0.15",
+    "sugars": "0.07",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.09",
+    "protein": "12.86",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W275000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

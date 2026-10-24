@@ -1,0 +1,44 @@
+{
+  "code": "S535000",
+  "name": {
+    "de": "Milchschokolade gefüllt mit Nugat/Nougat/Noisette",
+    "en": "Milk chocolate filled with nougat"
+  },
+  "per100g": {
+    "fat": "30.9",
+    "saturates": "13.2",
+    "monounsaturates": "14.2",
+    "polyunsaturates": "1.9",
+    "carbohydrate": "53.5",
+    "sugars": "52.4",
+    "starch": "1.1",
+    "polyols": "0",
+    "fibre": "3.16",
+    "protein": "7.2",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S535000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

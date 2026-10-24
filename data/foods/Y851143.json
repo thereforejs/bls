@@ -1,0 +1,44 @@
+{
+  "code": "Y851143",
+  "name": {
+    "de": "Fruchtsulze (mit Weißwein)",
+    "en": "Fruit aspic (with white wine)"
+  },
+  "per100g": {
+    "fat": "2.3",
+    "saturates": "1.19",
+    "monounsaturates": "0.589",
+    "polyunsaturates": "0.11",
+    "carbohydrate": "5.88",
+    "sugars": "5.88",
+    "starch": "0",
+    "polyols": "0.002",
+    "fibre": "0.3",
+    "protein": "2.5",
+    "sodium": "0.007",
+    "alcohol": "0.39",
+    "organicAcids": "2.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y851143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

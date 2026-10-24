@@ -1,0 +1,44 @@
+{
+  "code": "X411813",
+  "name": {
+    "de": "Fleischbrühe mit Leberklößchen",
+    "en": "Meat stock with small liver dumplings"
+  },
+  "per100g": {
+    "fat": "1",
+    "saturates": "0.5",
+    "monounsaturates": "0.3",
+    "polyunsaturates": "0.108",
+    "carbohydrate": "2.5",
+    "sugars": "0.34",
+    "starch": "2.16",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "2.43",
+    "sodium": "0.256",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X411813",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X328143",
+  "name": {
+    "de": "Schinkensauce von heller/weißer Grundsauce",
+    "en": "Ham sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "4.4",
+    "saturates": "2.6",
+    "monounsaturates": "1.04",
+    "polyunsaturates": "0.14",
+    "carbohydrate": "3.13",
+    "sugars": "0.62",
+    "starch": "2.51",
+    "polyols": "0",
+    "fibre": "0.19",
+    "protein": "4.11",
+    "sodium": "0.403",
+    "alcohol": "0",
+    "organicAcids": "0.199"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X328143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

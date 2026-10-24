@@ -1,0 +1,44 @@
+{
+  "code": "X636212",
+  "name": {
+    "de": "Kartoffel-Rosenkohlpüree mit Milch 3,5 % Fett",
+    "en": "Puree of potatoes and brussels sprouts with milk 3.5 % fat"
+  },
+  "per100g": {
+    "fat": "2.55",
+    "saturates": "1.586",
+    "monounsaturates": "0.541",
+    "polyunsaturates": "0.087",
+    "carbohydrate": "10.76",
+    "sugars": "1.7",
+    "starch": "9.03",
+    "polyols": "0.03",
+    "fibre": "1.5",
+    "protein": "2.65",
+    "sodium": "0.1",
+    "alcohol": "0",
+    "organicAcids": "0.114"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X636212",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

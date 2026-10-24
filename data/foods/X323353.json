@@ -1,0 +1,44 @@
+{
+  "code": "X323353",
+  "name": {
+    "de": "Gemüsesauce von Bechamelsauce",
+    "en": "Vegetable sauce from Bechamel sauce"
+  },
+  "per100g": {
+    "fat": "2.9",
+    "saturates": "1.8",
+    "monounsaturates": "0.62",
+    "polyunsaturates": "0.13",
+    "carbohydrate": "4.8",
+    "sugars": "3.4",
+    "starch": "1.34",
+    "polyols": "0.03",
+    "fibre": "1.7",
+    "protein": "1.95",
+    "sodium": "0.137",
+    "alcohol": "0",
+    "organicAcids": "0.17"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X323353",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

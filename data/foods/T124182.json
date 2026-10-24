@@ -1,0 +1,44 @@
+{
+  "code": "T124182",
+  "name": {
+    "de": "Gelbflossen-Thun gebraten ohne Fett (Pfanne)",
+    "en": "Yellowfin tuna fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.55",
+    "saturates": "0.192",
+    "monounsaturates": "0.11",
+    "polyunsaturates": "0.131",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29",
+    "sodium": "0.051",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T124182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

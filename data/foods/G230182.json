@@ -1,0 +1,44 @@
+{
+  "code": "G230182",
+  "name": {
+    "de": "Mangold gebraten ohne Fett (Pfanne)",
+    "en": "Chard/leaf beet, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.418",
+    "saturates": "0.041",
+    "monounsaturates": "0.02",
+    "polyunsaturates": "0.226",
+    "carbohydrate": "1.301",
+    "sugars": "1.029",
+    "starch": "0.272",
+    "polyols": "0",
+    "fibre": "2.7",
+    "protein": "2.761",
+    "sodium": "0.3237",
+    "alcohol": "0",
+    "organicAcids": "0.093"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G230182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X523312",
+  "name": {
+    "de": "Mangoldtarte (Mürbeteig)",
+    "en": "Chard tart (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "20.27",
+    "saturates": "11.38",
+    "monounsaturates": "5.26",
+    "polyunsaturates": "1.14",
+    "carbohydrate": "13.8",
+    "sugars": "1.4",
+    "starch": "12.4",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "6.95",
+    "sodium": "0.29",
+    "alcohol": "0",
+    "organicAcids": "0.234"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X523312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

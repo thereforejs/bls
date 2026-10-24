@@ -1,0 +1,44 @@
+{
+  "code": "X6A4000",
+  "name": {
+    "de": "Kartoffeltaschen mit Kräuter-Frischkäse-Füllung, gebraten",
+    "en": "Potato pockets filled with herb-cream cheese, fried"
+  },
+  "per100g": {
+    "fat": "20.22",
+    "saturates": "5.11",
+    "monounsaturates": "8.41",
+    "polyunsaturates": "3.44",
+    "carbohydrate": "21.19",
+    "sugars": "1.71",
+    "starch": "19.48",
+    "polyols": "0",
+    "fibre": "2.33",
+    "protein": "5.31",
+    "sodium": "0.166",
+    "alcohol": "0",
+    "organicAcids": "0.196"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X6A4000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

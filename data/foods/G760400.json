@@ -1,0 +1,44 @@
+{
+  "code": "G760400",
+  "name": {
+    "de": "Erbse reif",
+    "en": "Pea green mature"
+  },
+  "per100g": {
+    "fat": "1.44",
+    "saturates": "0.26",
+    "monounsaturates": "0.11",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "40.5",
+    "sugars": "3.3",
+    "starch": "37.2",
+    "polyols": null,
+    "fibre": "22.03",
+    "protein": "23.023",
+    "sodium": "0.024",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G760400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

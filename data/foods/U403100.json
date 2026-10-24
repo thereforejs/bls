@@ -1,0 +1,44 @@
+{
+  "code": "U403100",
+  "name": {
+    "de": "Kalb Fleisch, geringer Sehnenanteil, sichtbarer Fettanteil max. 5 % (KA II) roh",
+    "en": "Veal meat, low tendon content, visible fat content max. 5 % (KA II) raw"
+  },
+  "per100g": {
+    "fat": "8.029",
+    "saturates": "3.586",
+    "monounsaturates": "3.598",
+    "polyunsaturates": "0.386",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.951",
+    "sodium": "0.087",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U403100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y857063",
+  "name": {
+    "de": "Fruchtgelee mit Fruchtstückchen und Schlagsahne",
+    "en": "Fruit jelly with fruit pieces and whipped cream"
+  },
+  "per100g": {
+    "fat": "4.7",
+    "saturates": "2.425",
+    "monounsaturates": "1.208",
+    "polyunsaturates": "0.224",
+    "carbohydrate": "14.6",
+    "sugars": "14.5",
+    "starch": "0",
+    "polyols": "0.07",
+    "fibre": "0.8",
+    "protein": "2.2",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y857063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

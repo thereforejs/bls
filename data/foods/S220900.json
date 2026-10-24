@@ -1,0 +1,44 @@
+{
+  "code": "S220900",
+  "name": {
+    "de": "Speiseeis (Kaffee, Vanille) gemischt",
+    "en": "Ice cream mixed (coffee, vanilla)"
+  },
+  "per100g": {
+    "fat": "9.7",
+    "saturates": "5.9",
+    "monounsaturates": "2.26",
+    "polyunsaturates": "0.39",
+    "carbohydrate": "20.1",
+    "sugars": "17.62",
+    "starch": "2.5",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "3.4",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.306"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S220900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

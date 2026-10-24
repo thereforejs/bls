@@ -1,0 +1,44 @@
+{
+  "code": "C219132",
+  "name": {
+    "de": "Hartweizen Vollkorngrieß, gekocht",
+    "en": "Durum wheat wholemeal semolina, boiled"
+  },
+  "per100g": {
+    "fat": "1.05",
+    "saturates": "0.16",
+    "monounsaturates": "0.15",
+    "polyunsaturates": "0.43",
+    "carbohydrate": "27.45",
+    "sugars": "0.4824",
+    "starch": "26.97",
+    "polyols": "0",
+    "fibre": "5.3",
+    "protein": "6.49",
+    "sodium": "0.0003",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C219132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

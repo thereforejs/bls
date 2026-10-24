@@ -1,0 +1,44 @@
+{
+  "code": "D651300",
+  "name": {
+    "de": "Printen",
+    "en": "\"Printen\" brown gingerbread biscuits"
+  },
+  "per100g": {
+    "fat": "6.6",
+    "saturates": "4.01",
+    "monounsaturates": "1.37",
+    "polyunsaturates": "0.33",
+    "carbohydrate": "74.4",
+    "sugars": "41.9",
+    "starch": "32.4",
+    "polyols": "0",
+    "fibre": "2.6",
+    "protein": "5.2",
+    "sodium": "0.193",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D651300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

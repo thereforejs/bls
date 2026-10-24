@@ -1,0 +1,44 @@
+{
+  "code": "F405600",
+  "name": {
+    "de": "Sanddornsaft",
+    "en": "Sea buckthorn berry juice"
+  },
+  "per100g": {
+    "fat": "2.33",
+    "saturates": "0.3",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.272",
+    "carbohydrate": "1.9",
+    "sugars": "1.8",
+    "starch": "0.1",
+    "polyols": null,
+    "fibre": "0.4",
+    "protein": "0.94",
+    "sodium": "0.006",
+    "alcohol": null,
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F405600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S622000",
+  "name": {
+    "de": "Pralinen gefüllt mit Marzipan",
+    "en": "Pralines filled with marzipan"
+  },
+  "per100g": {
+    "fat": "28.6",
+    "saturates": "10.79",
+    "monounsaturates": "13.09",
+    "polyunsaturates": "3.4",
+    "carbohydrate": "43.38",
+    "sugars": "41.956",
+    "starch": "1.42",
+    "polyols": "0",
+    "fibre": "7.13",
+    "protein": "7.31",
+    "sodium": "0.007",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S622000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B291000",
+  "name": {
+    "de": "Mehrkornbrot mit Ölsamen",
+    "en": "Multigrain bread"
+  },
+  "per100g": {
+    "fat": "3.62",
+    "saturates": "0.48",
+    "monounsaturates": "0.96",
+    "polyunsaturates": "1.82",
+    "carbohydrate": "42",
+    "sugars": "0.779",
+    "starch": "41",
+    "polyols": "0",
+    "fibre": "7.67",
+    "protein": "7.94",
+    "sodium": "0.455",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B291000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

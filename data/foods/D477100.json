@@ -1,0 +1,44 @@
+{
+  "code": "D477100",
+  "name": {
+    "de": "Schinkenhörnchen (Quark-Öl-Teig)",
+    "en": "Ham rolls (quark oil dough)"
+  },
+  "per100g": {
+    "fat": "10.07",
+    "saturates": "1.45",
+    "monounsaturates": "5.1",
+    "polyunsaturates": "2.53",
+    "carbohydrate": "28.4",
+    "sugars": "1.47",
+    "starch": "26.9",
+    "polyols": "0",
+    "fibre": "2.14",
+    "protein": "14.38",
+    "sodium": "0.537",
+    "alcohol": "0",
+    "organicAcids": "0.55"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D477100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

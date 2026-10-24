@@ -1,0 +1,44 @@
+{
+  "code": "X981662",
+  "name": {
+    "de": "Böhmische Knödel",
+    "en": "Bohemian dumplings"
+  },
+  "per100g": {
+    "fat": "9.03",
+    "saturates": "1.52",
+    "monounsaturates": "4.38",
+    "polyunsaturates": "2.15",
+    "carbohydrate": "27.65",
+    "sugars": "1.94",
+    "starch": "25.71",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "8.19",
+    "sodium": "0.498",
+    "alcohol": "0",
+    "organicAcids": "0.018"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X981662",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

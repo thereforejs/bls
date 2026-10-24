@@ -1,0 +1,44 @@
+{
+  "code": "W114000",
+  "name": {
+    "de": "Grobe Mettwurst",
+    "en": "Coarse Mettwurst sausage spreadable"
+  },
+  "per100g": {
+    "fat": "24.3",
+    "saturates": "8.78",
+    "monounsaturates": "8.76",
+    "polyunsaturates": "2.66",
+    "carbohydrate": "0.14",
+    "sugars": "0",
+    "starch": "0.14",
+    "polyols": "0",
+    "fibre": "0.08",
+    "protein": "19.3",
+    "sodium": "1",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W114000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

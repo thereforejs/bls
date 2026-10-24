@@ -1,0 +1,44 @@
+{
+  "code": "C141032",
+  "name": {
+    "de": "Gerste ganzes Korn, gekocht",
+    "en": "Barley whole grain, boiled"
+  },
+  "per100g": {
+    "fat": "1.062",
+    "saturates": "0.268",
+    "monounsaturates": "0.126",
+    "polyunsaturates": "0.637",
+    "carbohydrate": "33.4",
+    "sugars": "0.912",
+    "starch": "32.5",
+    "polyols": "0",
+    "fibre": "4.6",
+    "protein": "6.001",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C141032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

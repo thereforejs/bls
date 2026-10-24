@@ -1,0 +1,44 @@
+{
+  "code": "G720100",
+  "name": {
+    "de": "Wachsbohne roh",
+    "en": "Wax bean raw"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.4",
+    "sugars": "2.26",
+    "starch": "0.9",
+    "polyols": "0.28",
+    "fibre": "1.89",
+    "protein": "2.1",
+    "sodium": "0.00198",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G720100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

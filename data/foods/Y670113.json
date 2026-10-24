@@ -1,0 +1,44 @@
+{
+  "code": "Y670113",
+  "name": {
+    "de": "Aal grün (Aal pochiert, in Kräutersauce)",
+    "en": "Eel poached, in herb sauce"
+  },
+  "per100g": {
+    "fat": "18",
+    "saturates": "5.8",
+    "monounsaturates": "6.66",
+    "polyunsaturates": "2.83",
+    "carbohydrate": "1.97",
+    "sugars": "0.73",
+    "starch": "1.24",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "9.3",
+    "sodium": "0.168",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y670113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M173900",
+  "name": {
+    "de": "Schlagsahne mind. 36 % Fett",
+    "en": "Whipping cream min. 36 % fat"
+  },
+  "per100g": {
+    "fat": "38",
+    "saturates": "24.267",
+    "monounsaturates": "8.589",
+    "polyunsaturates": "1.037",
+    "carbohydrate": "3",
+    "sugars": "3",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "2.2",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.146"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M173900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

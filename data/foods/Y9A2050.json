@@ -1,0 +1,44 @@
+{
+  "code": "Y9A2050",
+  "name": {
+    "de": "Vanillecremeeis mit Schlagsahne und frischen Erdbeeren",
+    "en": "Vanilla ice cream (with egg) with whipped cream and fresh strawberries"
+  },
+  "per100g": {
+    "fat": "11.43",
+    "saturates": "5.88",
+    "monounsaturates": "3.04",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "8.97",
+    "sugars": "8.79",
+    "starch": "0.154",
+    "polyols": "0.026",
+    "fibre": "0.9",
+    "protein": "2.3",
+    "sodium": "0.022",
+    "alcohol": "0",
+    "organicAcids": "0.496"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y9A2050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

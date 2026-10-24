@@ -1,0 +1,44 @@
+{
+  "code": "G710042",
+  "name": {
+    "de": "Bohne grün, tiefgefroren, geschmort ohne Fett",
+    "en": "Bean green, deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.089",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.144",
+    "carbohydrate": "4.2",
+    "sugars": "2.71",
+    "starch": "1.1",
+    "polyols": "0.34",
+    "fibre": "2.386",
+    "protein": "2.1",
+    "sodium": "0.00223",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G710042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

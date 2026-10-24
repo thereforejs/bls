@@ -1,0 +1,44 @@
+{
+  "code": "X551363",
+  "name": {
+    "de": "Auberginenscheiben gebraten, mit Tomatensauce (aus Tomaten Konserve) und Käse überbacken",
+    "en": "Aubergine slices fried, with tomato sauce (of canned tomatoes) and cheese gratinated"
+  },
+  "per100g": {
+    "fat": "12.2",
+    "saturates": "3",
+    "monounsaturates": "5.5",
+    "polyunsaturates": "2.3",
+    "carbohydrate": "5.5",
+    "sugars": "3.7",
+    "starch": "1.7",
+    "polyols": "0.07",
+    "fibre": "1.6",
+    "protein": "4.4",
+    "sodium": "0.31",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X551363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

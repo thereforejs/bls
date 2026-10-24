@@ -1,0 +1,44 @@
+{
+  "code": "D310600",
+  "name": {
+    "de": "Biskuitrolle/Biskuitroulade, mit Joghurtsahne",
+    "en": "Sponge cake roll, filled with yogurt-cream"
+  },
+  "per100g": {
+    "fat": "12.5",
+    "saturates": "6.17",
+    "monounsaturates": "3.51",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "28.38",
+    "sugars": "20.77",
+    "starch": "7.61",
+    "polyols": "0",
+    "fibre": "0.57",
+    "protein": "6.2",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.46"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D310600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

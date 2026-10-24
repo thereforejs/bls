@@ -1,0 +1,44 @@
+{
+  "code": "Y836312",
+  "name": {
+    "de": "Mangokompott",
+    "en": "Mango compote"
+  },
+  "per100g": {
+    "fat": "0.338",
+    "saturates": "0.077",
+    "monounsaturates": "0.136",
+    "polyunsaturates": "0.057",
+    "carbohydrate": "20",
+    "sugars": "19.3",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "0.7",
+    "sodium": "0.008",
+    "alcohol": "0.004",
+    "organicAcids": "0.518"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y836312",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

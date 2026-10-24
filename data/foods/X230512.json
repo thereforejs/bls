@@ -1,0 +1,44 @@
+{
+  "code": "X230512",
+  "name": {
+    "de": "Sauerkrautsalat (roh) mit Apfel, Paprika, gebratenem Speck und Essigmarinade",
+    "en": "Sauerkraut salad (raw) with apple, sweet pepper, fried bacon and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "3.83",
+    "saturates": "0.56",
+    "monounsaturates": "1.94",
+    "polyunsaturates": "0.91",
+    "carbohydrate": "4.5",
+    "sugars": "4.12",
+    "starch": "0.16",
+    "polyols": "0.2",
+    "fibre": "3",
+    "protein": "1.5",
+    "sodium": "0.3",
+    "alcohol": "0.18",
+    "organicAcids": "1.46"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X230512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

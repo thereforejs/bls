@@ -1,0 +1,44 @@
+{
+  "code": "D076000",
+  "name": {
+    "de": "Ausbackteig (mit Bier) ungesüßt, roh",
+    "en": "Frying batter (with beer) unsweetened, raw"
+  },
+  "per100g": {
+    "fat": "8.45",
+    "saturates": "1.06",
+    "monounsaturates": "4.31",
+    "polyunsaturates": "2.11",
+    "carbohydrate": "25.09",
+    "sugars": "0.262",
+    "starch": "24.83",
+    "polyols": "0.001",
+    "fibre": "1.78",
+    "protein": "5.9",
+    "sodium": "0.044",
+    "alcohol": "1.514",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D076000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

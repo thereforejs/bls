@@ -1,0 +1,44 @@
+{
+  "code": "G891102",
+  "name": {
+    "de": "Honiggurke gesäuert, abgetropft",
+    "en": "Sweet cucumber pickled, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.201",
+    "saturates": "0.068",
+    "monounsaturates": "0.005",
+    "polyunsaturates": "0.089",
+    "carbohydrate": "14.52",
+    "sugars": "14.49",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "1.083",
+    "sodium": "0.494",
+    "alcohol": "0.018",
+    "organicAcids": "1.24"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G891102",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

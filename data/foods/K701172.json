@@ -1,0 +1,44 @@
+{
+  "code": "K701172",
+  "name": {
+    "de": "Champignon gegrillt",
+    "en": "Button mushroom grilled"
+  },
+  "per100g": {
+    "fat": "0.422",
+    "saturates": "0.0742",
+    "monounsaturates": "0.00933",
+    "polyunsaturates": "0.2108",
+    "carbohydrate": "4.5",
+    "sugars": "0.3",
+    "starch": null,
+    "polyols": "4.22",
+    "fibre": "2.9",
+    "protein": "5.57",
+    "sodium": "0.06358",
+    "alcohol": "0",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K701172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

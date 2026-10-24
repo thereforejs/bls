@@ -1,0 +1,44 @@
+{
+  "code": "C522700",
+  "name": {
+    "de": "Getreideflakes gesüßt, mit Schokolade, angereichert mit Vitaminen und Mineralstoffen",
+    "en": "Cereal flakes sweetened, with chocolate, fortified with vitamins and minerals"
+  },
+  "per100g": {
+    "fat": "5.8",
+    "saturates": "2.92",
+    "monounsaturates": "1.73",
+    "polyunsaturates": "0.64",
+    "carbohydrate": "69.3",
+    "sugars": "21.8",
+    "starch": "47.3",
+    "polyols": "0",
+    "fibre": "7",
+    "protein": "8.1",
+    "sodium": "0.352",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C522700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

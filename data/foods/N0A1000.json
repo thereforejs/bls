@@ -1,0 +1,44 @@
+{
+  "code": "N0A1000",
+  "name": {
+    "de": "Nearwater/Aqua Plus Getränk, mit Fruchtsaft, aromatisiert, gesüßt",
+    "en": "Nearwater/Aqua Plus beverage, with fruit juice, flavoured, sweetened"
+  },
+  "per100g": {
+    "fat": "0.007",
+    "saturates": "0.001",
+    "monounsaturates": "0.0016",
+    "polyunsaturates": "0.003",
+    "carbohydrate": "4.4",
+    "sugars": "4.3",
+    "starch": "0",
+    "polyols": "0.08",
+    "fibre": "0",
+    "protein": "0.008",
+    "sodium": "0.0028",
+    "alcohol": "0.002",
+    "organicAcids": "0.01"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N0A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

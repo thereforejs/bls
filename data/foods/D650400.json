@@ -1,0 +1,44 @@
+{
+  "code": "D650400",
+  "name": {
+    "de": "Elisenlebkuchen",
+    "en": "Elisen gingerbread (with at least 25 % almonds and hazelnuts)"
+  },
+  "per100g": {
+    "fat": "23.2",
+    "saturates": "2.33",
+    "monounsaturates": "14.25",
+    "polyunsaturates": "5.1",
+    "carbohydrate": "40.8",
+    "sugars": "39",
+    "starch": "1.85",
+    "polyols": "0",
+    "fibre": "5.2",
+    "protein": "12.89",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D650400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

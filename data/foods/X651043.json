@@ -1,0 +1,44 @@
+{
+  "code": "X651043",
+  "name": {
+    "de": "Bratkartoffeln aus Pellkartoffeln, mit Zwiebeln",
+    "en": "Fried potatoes (of boiled potatoes) with onions"
+  },
+  "per100g": {
+    "fat": "11.471",
+    "saturates": "0.79",
+    "monounsaturates": "5.95",
+    "polyunsaturates": "2.82",
+    "carbohydrate": "18.32",
+    "sugars": "1.09",
+    "starch": "17.231",
+    "polyols": "0",
+    "fibre": "3.3",
+    "protein": "2.835",
+    "sodium": "0.152",
+    "alcohol": "0",
+    "organicAcids": "0.015"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

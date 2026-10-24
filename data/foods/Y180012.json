@@ -1,0 +1,44 @@
+{
+  "code": "Y180012",
+  "name": {
+    "de": "Rindfleisch gekocht, mit Rotweinsauce",
+    "en": "Beef boiled, with red wine sauce"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "1.9",
+    "monounsaturates": "2.8",
+    "polyunsaturates": "0.76",
+    "carbohydrate": "2.41",
+    "sugars": "0.3",
+    "starch": "2.11",
+    "polyols": "0.001",
+    "fibre": "0.2",
+    "protein": "14.74",
+    "sodium": "0.151",
+    "alcohol": "0.19",
+    "organicAcids": "0.039"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y180012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

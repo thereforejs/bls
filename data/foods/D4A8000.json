@@ -1,0 +1,44 @@
+{
+  "code": "D4A8000",
+  "name": {
+    "de": "Ananas-Kranz gefüllt (Rührmasse)",
+    "en": "Filled pineapple ring cake (cake batter)"
+  },
+  "per100g": {
+    "fat": "20",
+    "saturates": "13.48",
+    "monounsaturates": "3.8",
+    "polyunsaturates": "0.57",
+    "carbohydrate": "25.8",
+    "sugars": "19.2",
+    "starch": "6.2",
+    "polyols": "0.16",
+    "fibre": "2",
+    "protein": "4.9",
+    "sodium": "0.101",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D4A8000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

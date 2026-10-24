@@ -1,0 +1,44 @@
+{
+  "code": "X3A7050",
+  "name": {
+    "de": "Mayonnaise, gestreckt mit Joghurt",
+    "en": "Mayonnaise, diluted with yogurt"
+  },
+  "per100g": {
+    "fat": "60.9",
+    "saturates": "5.42",
+    "monounsaturates": "34.21",
+    "polyunsaturates": "16.06",
+    "carbohydrate": "1.26",
+    "sugars": "1.26",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "2.5",
+    "sodium": "0.486",
+    "alcohol": "0.007",
+    "organicAcids": "0.85"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A7050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

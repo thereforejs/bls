@@ -1,0 +1,44 @@
+{
+  "code": "Y8A8000",
+  "name": {
+    "de": "Backteig gesüßt, mit Milch 3,5 % Fett, roh",
+    "en": "Frying batter sweetened, with milk 3.5 % fat, raw"
+  },
+  "per100g": {
+    "fat": "9.53",
+    "saturates": "1.9",
+    "monounsaturates": "4.46",
+    "polyunsaturates": "2.06",
+    "carbohydrate": "28.36",
+    "sugars": "4.2",
+    "starch": "24.16",
+    "polyols": "0",
+    "fibre": "1.79",
+    "protein": "7.1",
+    "sodium": "0.055",
+    "alcohol": "0",
+    "organicAcids": "0.024"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A8000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D410300",
+  "name": {
+    "de": "Baumstamm/Bismarckeiche (Wasserbiskuit) mit Mokkabuttercreme",
+    "en": "\"Bismarck-Eiche\" chocolate log cake (water sponge cake) with mocha butter cream"
+  },
+  "per100g": {
+    "fat": "15.6",
+    "saturates": "8.4",
+    "monounsaturates": "4.3",
+    "polyunsaturates": "0.83",
+    "carbohydrate": "36.6",
+    "sugars": "22.79",
+    "starch": "13.8",
+    "polyols": "0.001",
+    "fibre": "1.4",
+    "protein": "6.2",
+    "sodium": "0.088",
+    "alcohol": "0",
+    "organicAcids": "0.027"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D410300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

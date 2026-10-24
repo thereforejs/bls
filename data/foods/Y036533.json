@@ -1,0 +1,44 @@
+{
+  "code": "Y036533",
+  "name": {
+    "de": "Frikadellen gebraten, mit gedünsteten Tomaten",
+    "en": "Meatballs fried, with stewed tomatoes"
+  },
+  "per100g": {
+    "fat": "11.38",
+    "saturates": "3.06",
+    "monounsaturates": "3.96",
+    "polyunsaturates": "0.99",
+    "carbohydrate": "4.41",
+    "sugars": "2.15",
+    "starch": "2.26",
+    "polyols": "0",
+    "fibre": "1",
+    "protein": "10.43",
+    "sodium": "0.184",
+    "alcohol": "0",
+    "organicAcids": "0.227"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y036533",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

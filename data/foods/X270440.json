@@ -1,0 +1,44 @@
+{
+  "code": "X270440",
+  "name": {
+    "de": "Fruchtsalat mit Chicoree und Saure-Sahne-Dressing",
+    "en": "Fruit salad with chicory and sour cream dressing"
+  },
+  "per100g": {
+    "fat": "1.4",
+    "saturates": "0.6",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.17",
+    "carbohydrate": "6.2",
+    "sugars": "5.6",
+    "starch": "0.25",
+    "polyols": "0.3",
+    "fibre": "1.6",
+    "protein": "1.7",
+    "sodium": "0.08",
+    "alcohol": "0.02",
+    "organicAcids": "0.6"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X270440",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

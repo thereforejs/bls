@@ -1,0 +1,44 @@
+{
+  "code": "G486100",
+  "name": {
+    "de": "Frühlingszwiebel/Lauchzwiebel (ohne Laub) roh",
+    "en": "Spring onion, bulb only, raw"
+  },
+  "per100g": {
+    "fat": "0.15",
+    "saturates": "0.025",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "5.99",
+    "sugars": "5.99",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "0.9",
+    "sodium": "0.013",
+    "alcohol": "0",
+    "organicAcids": "0.254"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G486100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

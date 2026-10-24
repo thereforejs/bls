@@ -1,0 +1,44 @@
+{
+  "code": "X562013",
+  "name": {
+    "de": "Karotten/Möhren, gekocht, gebraten",
+    "en": "Carrots boiled, fried"
+  },
+  "per100g": {
+    "fat": "5.811",
+    "saturates": "0.51",
+    "monounsaturates": "3.16",
+    "polyunsaturates": "1.53",
+    "carbohydrate": "9.401",
+    "sugars": "9.256",
+    "starch": "0.1453",
+    "polyols": "0",
+    "fibre": "4.3",
+    "protein": "1.193",
+    "sodium": "0.18",
+    "alcohol": "0",
+    "organicAcids": "0.341"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X562013",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

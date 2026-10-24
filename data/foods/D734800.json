@@ -1,0 +1,44 @@
+{
+  "code": "D734800",
+  "name": {
+    "de": "Haselnusskugeln (Mürbeteig)",
+    "en": "Hazelnut balls (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "37.75",
+    "saturates": "13.16",
+    "monounsaturates": "19.37",
+    "polyunsaturates": "2.52",
+    "carbohydrate": "41.8",
+    "sugars": "18.496",
+    "starch": "23.3",
+    "polyols": "0",
+    "fibre": "4",
+    "protein": "9.6",
+    "sodium": "0.03",
+    "alcohol": "0",
+    "organicAcids": "0.0184"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D734800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

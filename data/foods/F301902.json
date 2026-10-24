@@ -1,0 +1,44 @@
+{
+  "code": "F301902",
+  "name": {
+    "de": "Erdbeere gezuckert, Konserve, abgetropft",
+    "en": "Strawberry sugared, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.231",
+    "saturates": "0.0157",
+    "monounsaturates": "0.0314",
+    "polyunsaturates": "0.118",
+    "carbohydrate": "13.732",
+    "sugars": "13.716",
+    "starch": "0",
+    "polyols": "0.016",
+    "fibre": "0.9",
+    "protein": "0.774",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.271"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F301902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

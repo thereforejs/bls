@@ -1,0 +1,44 @@
+{
+  "code": "X131460",
+  "name": {
+    "de": "Blumenkohlsalat (gegart) mit Essigmarinade",
+    "en": "Cauliflower salad (cooked) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "12.08",
+    "saturates": "0.86",
+    "monounsaturates": "6.56",
+    "polyunsaturates": "3.2",
+    "carbohydrate": "3.84",
+    "sugars": "1.83",
+    "starch": "0.01",
+    "polyols": "2",
+    "fibre": "1.8",
+    "protein": "1.42",
+    "sodium": "0.092",
+    "alcohol": "0.007",
+    "organicAcids": "0.69"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X131460",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

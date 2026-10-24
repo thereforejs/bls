@@ -1,0 +1,44 @@
+{
+  "code": "Y782012",
+  "name": {
+    "de": "Käsesoufflee",
+    "en": "Cheese souffle"
+  },
+  "per100g": {
+    "fat": "28.3",
+    "saturates": "16.2",
+    "monounsaturates": "7.3",
+    "polyunsaturates": "1.48",
+    "carbohydrate": "5.6",
+    "sugars": "1",
+    "starch": "4.59",
+    "polyols": "0",
+    "fibre": "0.36",
+    "protein": "14.9",
+    "sodium": "0.31",
+    "alcohol": "0",
+    "organicAcids": "0.211"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y782012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

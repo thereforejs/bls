@@ -1,0 +1,44 @@
+{
+  "code": "Y872460",
+  "name": {
+    "de": "Erdbeeren mit Schlagsahne",
+    "en": "Strawberries with whipped cream"
+  },
+  "per100g": {
+    "fat": "9.539",
+    "saturates": "4.951",
+    "monounsaturates": "2.462",
+    "polyunsaturates": "0.401",
+    "carbohydrate": "5.145",
+    "sugars": "5.102",
+    "starch": "0",
+    "polyols": "0.043",
+    "fibre": "1.4",
+    "protein": "1.256",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0.76"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y872460",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

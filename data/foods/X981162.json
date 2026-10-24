@@ -1,0 +1,44 @@
+{
+  "code": "X981162",
+  "name": {
+    "de": "Serviettenknödel",
+    "en": "White bread dumpling roll poached"
+  },
+  "per100g": {
+    "fat": "5.05",
+    "saturates": "1.42",
+    "monounsaturates": "1.98",
+    "polyunsaturates": "0.99",
+    "carbohydrate": "22.26",
+    "sugars": "2.47",
+    "starch": "19.79",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "8.23",
+    "sodium": "0.445",
+    "alcohol": "0",
+    "organicAcids": "0.019"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X981162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

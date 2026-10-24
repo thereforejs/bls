@@ -1,0 +1,44 @@
+{
+  "code": "G670132",
+  "name": {
+    "de": "Wurzelpetersilie gekocht",
+    "en": "Parsley root boiled"
+  },
+  "per100g": {
+    "fat": "0.445",
+    "saturates": "0.071",
+    "monounsaturates": "0.0302",
+    "polyunsaturates": "0.2387",
+    "carbohydrate": "13.1",
+    "sugars": "5.732",
+    "starch": "6.3",
+    "polyols": "0.777",
+    "fibre": "2.085",
+    "protein": "2.728",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0.25"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G670132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

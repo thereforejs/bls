@@ -1,0 +1,44 @@
+{
+  "code": "X3A3020",
+  "name": {
+    "de": "Zucchini-Auberginensauce von heller/weißer Grundsauce",
+    "en": "Courgette-aubergine sauce from white basic sauce"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "1.6",
+    "monounsaturates": "3.55",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "3",
+    "sugars": "1.4",
+    "starch": "2",
+    "polyols": "0.03",
+    "fibre": "0.7",
+    "protein": "0.8",
+    "sodium": "0.265",
+    "alcohol": "0",
+    "organicAcids": "0.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X3A3020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

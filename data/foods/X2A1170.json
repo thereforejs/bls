@@ -1,0 +1,44 @@
+{
+  "code": "X2A1170",
+  "name": {
+    "de": "Tomatensalat mit Zitronenmarinade",
+    "en": "Tomato salad with lemon marinade"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "0.55",
+    "monounsaturates": "4.28",
+    "polyunsaturates": "2.07",
+    "carbohydrate": "2.98",
+    "sugars": "2.97",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "1.1",
+    "protein": "0.85",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.59"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X2A1170",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

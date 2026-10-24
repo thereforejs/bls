@@ -1,0 +1,44 @@
+{
+  "code": "R924000",
+  "name": {
+    "de": "Mokkasahne für Gebäck/Torten",
+    "en": "Mocha cream for pastry/tortes"
+  },
+  "per100g": {
+    "fat": "25.6",
+    "saturates": "13.6",
+    "monounsaturates": "6.7",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "12.7",
+    "sugars": "12.6",
+    "starch": "0.1",
+    "polyols": "0",
+    "fibre": "0.269",
+    "protein": "3.5",
+    "sodium": "0.034",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R924000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

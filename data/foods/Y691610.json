@@ -1,0 +1,44 @@
+{
+  "code": "Y691610",
+  "name": {
+    "de": "Schwertfischsalat mit Senfmarinade",
+    "en": "Swordfish-salad with mustard marinade"
+  },
+  "per100g": {
+    "fat": "7.9",
+    "saturates": "1",
+    "monounsaturates": "3.8",
+    "polyunsaturates": "2.19",
+    "carbohydrate": "1.2",
+    "sugars": "1.2",
+    "starch": "0.001",
+    "polyols": "0.002",
+    "fibre": "0.4",
+    "protein": "10.66",
+    "sodium": "0.24",
+    "alcohol": "0",
+    "organicAcids": "0.81"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y691610",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

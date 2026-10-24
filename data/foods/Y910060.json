@@ -1,0 +1,44 @@
+{
+  "code": "Y910060",
+  "name": {
+    "de": "Pommes frites mit Mayonnaise",
+    "en": "Potato chips with mayonnaise"
+  },
+  "per100g": {
+    "fat": "21.6",
+    "saturates": "1.71",
+    "monounsaturates": "12.15",
+    "polyunsaturates": "5.74",
+    "carbohydrate": "26.14",
+    "sugars": "1.38",
+    "starch": "24.759",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "3.1",
+    "sodium": "0.403",
+    "alcohol": "0.001",
+    "organicAcids": "0.13"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y910060",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T604252",
+  "name": {
+    "de": "Katfisch/Steinbeißer, tiefgefroren, gedünstet",
+    "en": "Catfish/wolffish, deep-frozen, stewed"
+  },
+  "per100g": {
+    "fat": "2.03",
+    "saturates": "0.484",
+    "monounsaturates": "0.736",
+    "polyunsaturates": "0.74",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "14.107",
+    "sodium": "0.106",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T604252",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

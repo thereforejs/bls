@@ -1,0 +1,44 @@
+{
+  "code": "X092510",
+  "name": {
+    "de": "Müsli ungesüßt, mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Muesli unsweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "4.3",
+    "saturates": "1.73",
+    "monounsaturates": "1.13",
+    "polyunsaturates": "1.15",
+    "carbohydrate": "12.7",
+    "sugars": "5.08",
+    "starch": "7.5",
+    "polyols": "0.1",
+    "fibre": "2.4",
+    "protein": "5.03",
+    "sodium": "0.027",
+    "alcohol": "0.01",
+    "organicAcids": "0.87"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X092510",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

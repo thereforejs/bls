@@ -1,0 +1,44 @@
+{
+  "code": "Y872340",
+  "name": {
+    "de": "Zitronencreme (mit Gelatine) mit Weißwein",
+    "en": "Lemon cream (with gelatine) with white wine"
+  },
+  "per100g": {
+    "fat": "13.6",
+    "saturates": "6.6",
+    "monounsaturates": "3.85",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "12.52",
+    "sugars": "12.52",
+    "starch": "0",
+    "polyols": "0.001",
+    "fibre": "0.026",
+    "protein": "3.2",
+    "sodium": "0.02",
+    "alcohol": "1.08",
+    "organicAcids": "1.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y872340",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

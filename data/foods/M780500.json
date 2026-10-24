@@ -1,0 +1,44 @@
+{
+  "code": "M780500",
+  "name": {
+    "de": "Kochkäse mind. 40 % Fett i. Tr.",
+    "en": "German cooked cheese min. 40 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "10.5",
+    "saturates": "6.86",
+    "monounsaturates": "2.01",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "1.7",
+    "sugars": "1.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.8",
+    "sodium": "0.546",
+    "alcohol": "0",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M780500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

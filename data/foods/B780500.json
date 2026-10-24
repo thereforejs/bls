@@ -1,0 +1,44 @@
+{
+  "code": "B780500",
+  "name": {
+    "de": "Pumpernickel",
+    "en": "Pumpernickel"
+  },
+  "per100g": {
+    "fat": "1.455",
+    "saturates": "0.14",
+    "monounsaturates": "0.22",
+    "polyunsaturates": "0.37",
+    "carbohydrate": "31.1",
+    "sugars": "1.5",
+    "starch": "29.26",
+    "polyols": "0",
+    "fibre": "9.352",
+    "protein": "4.845",
+    "sodium": "0.428",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B780500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

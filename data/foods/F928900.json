@@ -1,0 +1,44 @@
+{
+  "code": "F928900",
+  "name": {
+    "de": "Apfelkompott/Apfelmus, mit Süßungsmitteln, Konserve",
+    "en": "Apple sauce/apple compote, with artificial sweeteners, canned"
+  },
+  "per100g": {
+    "fat": "0.12",
+    "saturates": "0.018",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "6.7",
+    "sugars": "5.7",
+    "starch": "0.453",
+    "polyols": "0.58",
+    "fibre": "1.67",
+    "protein": "0.3",
+    "sodium": "0.005",
+    "alcohol": "0.005",
+    "organicAcids": "0.2"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F928900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

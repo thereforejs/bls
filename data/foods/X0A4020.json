@@ -1,0 +1,44 @@
+{
+  "code": "X0A4020",
+  "name": {
+    "de": "Haferflocken ungesüßt mit Joghurt 3,5 % Fett und Fruchtmischung",
+    "en": "Oat flakes unsweetened, with yogurt 3.5 % fat and mixed fruit"
+  },
+  "per100g": {
+    "fat": "3.3",
+    "saturates": "1.65",
+    "monounsaturates": "0.928",
+    "polyunsaturates": "0.549",
+    "carbohydrate": "13.9",
+    "sugars": "5.03",
+    "starch": "8.8",
+    "polyols": "0.1",
+    "fibre": "2.2",
+    "protein": "4.78",
+    "sodium": "0.025",
+    "alcohol": "0.01",
+    "organicAcids": "0.87"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X0A4020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

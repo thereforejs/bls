@@ -1,0 +1,44 @@
+{
+  "code": "Y562133",
+  "name": {
+    "de": "Hähnchenbrustfilet gebraten, mit Schmorgurken",
+    "en": "Chicken breast fillet fried, with braised cucumbers"
+  },
+  "per100g": {
+    "fat": "8.21",
+    "saturates": "2.13",
+    "monounsaturates": "3.26",
+    "polyunsaturates": "1.33",
+    "carbohydrate": "1.69",
+    "sugars": "1.68",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "14.61",
+    "sodium": "0.145",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y562133",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

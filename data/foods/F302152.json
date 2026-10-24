@@ -1,0 +1,44 @@
+{
+  "code": "F302152",
+  "name": {
+    "de": "Himbeere gedünstet",
+    "en": "Raspberry stewed"
+  },
+  "per100g": {
+    "fat": "0.316",
+    "saturates": "0.0106",
+    "monounsaturates": "0.032",
+    "polyunsaturates": "0.205",
+    "carbohydrate": "5.4",
+    "sugars": "5.4",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "4.9",
+    "protein": "1.1",
+    "sodium": "0.0005",
+    "alcohol": "0",
+    "organicAcids": "2.232"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F302152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "G613802",
+  "name": {
+    "de": "Rote Rübe/Rote Bete, gesäuert, abgetropft",
+    "en": "Beetroot pickled, drained"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.02",
+    "monounsaturates": "0.0095",
+    "polyunsaturates": "0.03",
+    "carbohydrate": "13",
+    "sugars": "12.4",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "2.7",
+    "protein": "1.6",
+    "sodium": "0.51",
+    "alcohol": "0.018",
+    "organicAcids": "1.14"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G613802",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

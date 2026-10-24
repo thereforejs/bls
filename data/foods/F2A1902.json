@@ -1,0 +1,44 @@
+{
+  "code": "F2A1902",
+  "name": {
+    "de": "Aprikose in Fruchtsaft, Konserve, abgetropft",
+    "en": "Apricot in juice, canned, drained"
+  },
+  "per100g": {
+    "fat": "0.148",
+    "saturates": "0.0137",
+    "monounsaturates": "0.064",
+    "polyunsaturates": "0.04",
+    "carbohydrate": "6.7",
+    "sugars": "6",
+    "starch": "0",
+    "polyols": "0.72",
+    "fibre": "1.3",
+    "protein": "0.8",
+    "sodium": "0.002",
+    "alcohol": "0.024",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F2A1902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

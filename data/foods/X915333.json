@@ -1,0 +1,44 @@
+{
+  "code": "X915333",
+  "name": {
+    "de": "Pizza marinara (mit Tomatensauce, Mozzarella, Meeresfrüchten)",
+    "en": "Pizza marinara (with tomato sauce, mozzarella, shellfish)"
+  },
+  "per100g": {
+    "fat": "12.4",
+    "saturates": "3.4",
+    "monounsaturates": "5.8",
+    "polyunsaturates": "2.1",
+    "carbohydrate": "15",
+    "sugars": "1.2",
+    "starch": "14",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "9.01",
+    "sodium": "0.313",
+    "alcohol": "0",
+    "organicAcids": "0.23"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X915333",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

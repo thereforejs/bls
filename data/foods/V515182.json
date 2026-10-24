@@ -1,0 +1,44 @@
+{
+  "code": "V515182",
+  "name": {
+    "de": "Lamm Herz, gebraten ohne Fett (Pfanne)",
+    "en": "Lamb heart, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "8.4",
+    "saturates": "3.5",
+    "monounsaturates": "1.64",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "25.7",
+    "sodium": "0.153",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V515182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

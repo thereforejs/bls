@@ -1,0 +1,44 @@
+{
+  "code": "Y945032",
+  "name": {
+    "de": "Rostbratwurst mit Senf",
+    "en": "Rostbratwurst with mustard"
+  },
+  "per100g": {
+    "fat": "13.86",
+    "saturates": "5.02",
+    "monounsaturates": "5.06",
+    "polyunsaturates": "1.68",
+    "carbohydrate": "0.24",
+    "sugars": "0.15",
+    "starch": "0.09",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "17.41",
+    "sodium": "0.7728",
+    "alcohol": "0",
+    "organicAcids": "0.095"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y945032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

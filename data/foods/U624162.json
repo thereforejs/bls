@@ -1,0 +1,44 @@
+{
+  "code": "U624162",
+  "name": {
+    "de": "Schwein Kotelett (Rücken/caudal) gebraten ohne Fett (Ofen)",
+    "en": "Pork loin (caudal part) fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "2.51",
+    "saturates": "0.813",
+    "monounsaturates": "1.014",
+    "polyunsaturates": "0.214",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.84",
+    "sodium": "0.0479",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U624162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

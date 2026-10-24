@@ -1,0 +1,44 @@
+{
+  "code": "K440182",
+  "name": {
+    "de": "Yamswurzel gebraten ohne Fett (Pfanne)",
+    "en": "Yam fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.148",
+    "saturates": "0.052",
+    "monounsaturates": "0.0691",
+    "polyunsaturates": "0.0014",
+    "carbohydrate": "29.2",
+    "sugars": "0.8",
+    "starch": "28.4",
+    "polyols": null,
+    "fibre": "6.318",
+    "protein": "2.273",
+    "sodium": "0.011",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K440182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "B526700",
+  "name": {
+    "de": "Roggenbrötchen mit Kürbiskernen",
+    "en": "Rye roll with pumpkin seeds"
+  },
+  "per100g": {
+    "fat": "5.21",
+    "saturates": "1.21",
+    "monounsaturates": "1.59",
+    "polyunsaturates": "1.96",
+    "carbohydrate": "45",
+    "sugars": "0.833",
+    "starch": "44",
+    "polyols": "0",
+    "fibre": "8.62",
+    "protein": "9.58",
+    "sodium": "0.526",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B526700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

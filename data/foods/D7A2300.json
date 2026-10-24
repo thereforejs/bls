@@ -1,0 +1,44 @@
+{
+  "code": "D7A2300",
+  "name": {
+    "de": "Schokoladenbrezeln (Mürbeteig)",
+    "en": "Chocolate pretzels (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "26.44",
+    "saturates": "16.16",
+    "monounsaturates": "6.68",
+    "polyunsaturates": "0.93",
+    "carbohydrate": "50.6",
+    "sugars": "23.5",
+    "starch": "27.1",
+    "polyols": "0",
+    "fibre": "5.22",
+    "protein": "7.88",
+    "sodium": "0.159",
+    "alcohol": "0",
+    "organicAcids": "0.02"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A2300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

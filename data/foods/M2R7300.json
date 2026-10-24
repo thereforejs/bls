@@ -1,0 +1,44 @@
+{
+  "code": "M2R7300",
+  "name": {
+    "de": "Joghurt mind. 3,5 % Fett, mit Knuspermüslizubereitung, gesüßt",
+    "en": "Yogurt min. 3.5 % fat, with crunchy-muesli mix, sweetened"
+  },
+  "per100g": {
+    "fat": "4.83",
+    "saturates": "2.84",
+    "monounsaturates": "1.37",
+    "polyunsaturates": "0.35",
+    "carbohydrate": "11.1",
+    "sugars": "7.2",
+    "starch": "3.9",
+    "polyols": "0.003",
+    "fibre": "0.8",
+    "protein": "4.3",
+    "sodium": "0.054",
+    "alcohol": "0",
+    "organicAcids": "0.943"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M2R7300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

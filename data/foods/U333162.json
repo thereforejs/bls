@@ -1,0 +1,44 @@
+{
+  "code": "U333162",
+  "name": {
+    "de": "Kalb Filetsteak, gebraten ohne Fett (Ofen)",
+    "en": "Veal tenderloin steak, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "4.706",
+    "saturates": "1.796",
+    "monounsaturates": "1.864",
+    "polyunsaturates": "0.673",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.929",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U333162",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

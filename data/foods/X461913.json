@@ -1,0 +1,44 @@
+{
+  "code": "X461913",
+  "name": {
+    "de": "Linsen-Eintopf mit Suppengemüse und Kartoffeln",
+    "en": "Lentil stew with vegetables and potatoes"
+  },
+  "per100g": {
+    "fat": "2",
+    "saturates": "0.3",
+    "monounsaturates": "0.82",
+    "polyunsaturates": "0.61",
+    "carbohydrate": "16.2",
+    "sugars": "1.7",
+    "starch": "14.5",
+    "polyols": "0.03",
+    "fibre": "5.6",
+    "protein": "6.84",
+    "sodium": "0.216",
+    "alcohol": "0.001",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X461913",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

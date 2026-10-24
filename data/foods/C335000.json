@@ -1,0 +1,44 @@
+{
+  "code": "C335000",
+  "name": {
+    "de": "Amaranth roh",
+    "en": "Amaranth raw"
+  },
+  "per100g": {
+    "fat": "5.93",
+    "saturates": "1.42",
+    "monounsaturates": "1.3",
+    "polyunsaturates": "2.63",
+    "carbohydrate": "62.38",
+    "sugars": "1.29791",
+    "starch": "61.08",
+    "polyols": "0",
+    "fibre": "8.76",
+    "protein": "14.04",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C335000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

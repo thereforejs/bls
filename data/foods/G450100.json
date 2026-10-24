@@ -1,0 +1,44 @@
+{
+  "code": "G450100",
+  "name": {
+    "de": "Spargel roh",
+    "en": "Asparagus raw"
+  },
+  "per100g": {
+    "fat": "0.156",
+    "saturates": "0.0279",
+    "monounsaturates": "0.00581",
+    "polyunsaturates": "0.0747",
+    "carbohydrate": "3.98",
+    "sugars": "3.8",
+    "starch": "0.091",
+    "polyols": "0.09",
+    "fibre": "1.4",
+    "protein": "1.96",
+    "sodium": "0.00214",
+    "alcohol": "0",
+    "organicAcids": "0.16"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G450100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

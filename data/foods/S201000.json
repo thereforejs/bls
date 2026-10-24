@@ -1,0 +1,44 @@
+{
+  "code": "S201000",
+  "name": {
+    "de": "Frucht-Sorbet",
+    "en": "Fruit sherbet/sorbet"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.036",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.083",
+    "carbohydrate": "27.809",
+    "sugars": "27.809",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.044",
+    "protein": "0.7",
+    "sodium": "0.012",
+    "alcohol": "0.001",
+    "organicAcids": "2.04"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S201000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y993340",
+  "name": {
+    "de": "Mokkasahneeis",
+    "en": "Mocha cream ice cream"
+  },
+  "per100g": {
+    "fat": "24.9",
+    "saturates": "12.64",
+    "monounsaturates": "6.81",
+    "polyunsaturates": "0.97",
+    "carbohydrate": "12.96",
+    "sugars": "12.96",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "3.7",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.109"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y993340",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

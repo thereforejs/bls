@@ -1,0 +1,44 @@
+{
+  "code": "Y173623",
+  "name": {
+    "de": "Rinderlebergeschnetzeltes, mit Grundsauce dunkel/braun",
+    "en": "Beef liver ragout, with brown basic sauce"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "1",
+    "monounsaturates": "3.5",
+    "polyunsaturates": "1.74",
+    "carbohydrate": "6.01",
+    "sugars": "0.41",
+    "starch": "5.6",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "11.77",
+    "sodium": "0.231",
+    "alcohol": "0",
+    "organicAcids": "0.017"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y173623",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

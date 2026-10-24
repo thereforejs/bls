@@ -1,0 +1,44 @@
+{
+  "code": "C421000",
+  "name": {
+    "de": "Buchweizen Vollkornmehl",
+    "en": "Buckwheat wholemeal flour"
+  },
+  "per100g": {
+    "fat": "2.71",
+    "saturates": "0.405",
+    "monounsaturates": "0.952",
+    "polyunsaturates": "0.918",
+    "carbohydrate": "68.201",
+    "sugars": "1.05096",
+    "starch": "67.15",
+    "polyols": "0",
+    "fibre": "5.53",
+    "protein": "11.703",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C421000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

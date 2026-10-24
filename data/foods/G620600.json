@@ -1,0 +1,44 @@
+{
+  "code": "G620600",
+  "name": {
+    "de": "Gemüsesaft aus Karotte/Möhre",
+    "en": "Carrot juice"
+  },
+  "per100g": {
+    "fat": "0.32",
+    "saturates": "0.0744",
+    "monounsaturates": "0.0829",
+    "polyunsaturates": "0.0599",
+    "carbohydrate": "3.717",
+    "sugars": "3.636",
+    "starch": "0.081",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "0.63",
+    "sodium": "0.0364",
+    "alcohol": "0.006",
+    "organicAcids": "0.428"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

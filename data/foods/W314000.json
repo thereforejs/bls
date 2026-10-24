@@ -1,0 +1,48 @@
+{
+  "code": "W314000",
+  "name": {
+    "de": "Kalbsleberwurst",
+    "en": "Veal liver sausage"
+  },
+  "per100g": {
+    "fat": "32",
+    "saturates": "12.583",
+    "monounsaturates": "13.834",
+    "polyunsaturates": "4.193",
+    "carbohydrate": "1.933",
+    "sugars": "1.915",
+    "starch": null,
+    "polyols": "0.018",
+    "fibre": null,
+    "protein": "13.55",
+    "sodium": "0.784",
+    "alcohol": null,
+    "organicAcids": "0.322"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "fibre": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W314000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

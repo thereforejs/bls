@@ -1,0 +1,46 @@
+{
+  "code": "D038000",
+  "name": {
+    "de": "Zwieback eifrei",
+    "en": "Rusk egg-free"
+  },
+  "per100g": {
+    "fat": "7.86",
+    "saturates": "1.86",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "0.905",
+    "carbohydrate": "72.21",
+    "sugars": "13.29",
+    "starch": "58.9",
+    "polyols": "0.021",
+    "fibre": "4.62",
+    "protein": "11.05",
+    "sodium": "0.269",
+    "alcohol": null,
+    "organicAcids": "0.197"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D038000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

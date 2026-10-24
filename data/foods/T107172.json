@@ -1,0 +1,44 @@
+{
+  "code": "T107172",
+  "name": {
+    "de": "Makrele gegrillt",
+    "en": "Mackerel grilled"
+  },
+  "per100g": {
+    "fat": "10.36",
+    "saturates": "2.115",
+    "monounsaturates": "4.082",
+    "polyunsaturates": "2.751",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "23.7",
+    "sodium": "0.199",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T107172",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

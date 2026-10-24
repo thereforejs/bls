@@ -1,0 +1,44 @@
+{
+  "code": "C359042",
+  "name": {
+    "de": "Reis parboiled, poliert, geschmort ohne Fett",
+    "en": "Rice parboiled, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.27",
+    "saturates": "0.076",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "22.1",
+    "sugars": "0.1",
+    "starch": "22",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "2.405",
+    "sodium": "0",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C359042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y650732",
+  "name": {
+    "de": "Karpfen mariniert, gegrillt",
+    "en": "Carp marinated, grilled"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "1.4",
+    "monounsaturates": "2.28",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "4.75",
+    "sugars": "4.66",
+    "starch": "0.04",
+    "polyols": "0.004",
+    "fibre": "0.1",
+    "protein": "18.73",
+    "sodium": "0.376",
+    "alcohol": "0.06",
+    "organicAcids": "0.54"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y650732",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "W112200",
+  "name": {
+    "de": "Streichmettwurst/Streichmettwurst mit Zwiebeln",
+    "en": "Mettwurst sausage/Mettwurst sausage with onions, spreadable"
+  },
+  "per100g": {
+    "fat": "19.8",
+    "saturates": "7.262",
+    "monounsaturates": "8.134",
+    "polyunsaturates": "1.83",
+    "carbohydrate": "0.22",
+    "sugars": "0.22",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.1",
+    "sodium": "1.03",
+    "alcohol": null,
+    "organicAcids": "1.172"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W112200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

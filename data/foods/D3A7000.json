@@ -1,0 +1,44 @@
+{
+  "code": "D3A7000",
+  "name": {
+    "de": "Eierlikörtorte (Schoko-Mandelbiskuit)",
+    "en": "Egg liqueur torte (chocolate-almond sponge cake)"
+  },
+  "per100g": {
+    "fat": "22.62",
+    "saturates": "8.2",
+    "monounsaturates": "8.94",
+    "polyunsaturates": "2.4",
+    "carbohydrate": "23.7",
+    "sugars": "23",
+    "starch": "0.7",
+    "polyols": "0",
+    "fibre": "2",
+    "protein": "7.97",
+    "sodium": "0.071",
+    "alcohol": "2.02",
+    "organicAcids": "0.055"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D3A7000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

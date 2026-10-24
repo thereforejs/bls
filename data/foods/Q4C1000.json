@@ -1,0 +1,47 @@
+{
+  "code": "Q4C1000",
+  "name": {
+    "de": "Pflanzliches Streichfett mit > 62 - < 80 % Fett, angereichert mit Vitaminen",
+    "en": "Vegetable fat spread with > 62 % and < 80 % fat, fortified with vitamins"
+  },
+  "per100g": {
+    "fat": "69.57",
+    "saturates": "18.52",
+    "monounsaturates": "25.48",
+    "polyunsaturates": "22.1",
+    "carbohydrate": "0.346631",
+    "sugars": "0.346631",
+    "starch": null,
+    "polyols": "0",
+    "fibre": null,
+    "protein": "0.12",
+    "sodium": "0.1253",
+    "alcohol": "0",
+    "organicAcids": "0.058"
+  },
+  "marks": {
+    "starch": "TR",
+    "fibre": "TR"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q4C1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y640432",
+  "name": {
+    "de": "Lachs gedämpft mit Joghurt-Dip mit Rosmarin",
+    "en": "Salmon steamed with yogurt-rosemary dip"
+  },
+  "per100g": {
+    "fat": "8.1",
+    "saturates": "2.7",
+    "monounsaturates": "2.4",
+    "polyunsaturates": "1.79",
+    "carbohydrate": "1.7",
+    "sugars": "1.7",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.009",
+    "protein": "10.62",
+    "sodium": "0.13",
+    "alcohol": "0",
+    "organicAcids": "0.8"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y640432",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

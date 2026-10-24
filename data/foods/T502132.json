@@ -1,0 +1,44 @@
+{
+  "code": "T502132",
+  "name": {
+    "de": "Blei/Brachsen/Brasse, pochiert",
+    "en": "Common bream poached"
+  },
+  "per100g": {
+    "fat": "2.94",
+    "saturates": "0.762",
+    "monounsaturates": "1.088",
+    "polyunsaturates": "0.72",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.833",
+    "sodium": "0.032",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T502132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S243400",
+  "name": {
+    "de": "Speiseeis (Karamell, Schoko, Vanille) gemischt",
+    "en": "Ice cream mixed (chocolate, vanilla, caramel)"
+  },
+  "per100g": {
+    "fat": "9.81",
+    "saturates": "5.33",
+    "monounsaturates": "2.21",
+    "polyunsaturates": "1.31",
+    "carbohydrate": "24.69",
+    "sugars": "21.65",
+    "starch": "3.04",
+    "polyols": "0.001",
+    "fibre": "0.92",
+    "protein": "3.4",
+    "sodium": "0.038",
+    "alcohol": "0",
+    "organicAcids": "0.372"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S243400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y642112",
+  "name": {
+    "de": "Forelle blau (im Essigsud pochiert)",
+    "en": "Trout poached in stock with vinegar"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "1.128",
+    "monounsaturates": "2.501",
+    "polyunsaturates": "2.751",
+    "carbohydrate": "0.21",
+    "sugars": "0.207",
+    "starch": "0.003",
+    "polyols": "0",
+    "fibre": "0.114",
+    "protein": "15.73",
+    "sodium": "0.077",
+    "alcohol": "0.003",
+    "organicAcids": "1.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y642112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

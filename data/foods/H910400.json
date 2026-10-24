@@ -1,0 +1,44 @@
+{
+  "code": "H910400",
+  "name": {
+    "de": "Veganes Schnitzel",
+    "en": "Vegan schnitzel"
+  },
+  "per100g": {
+    "fat": "18.55",
+    "saturates": "2.556",
+    "monounsaturates": "5.797",
+    "polyunsaturates": "8.837",
+    "carbohydrate": "13.57",
+    "sugars": "1.22",
+    "starch": "12.35",
+    "polyols": "0",
+    "fibre": "5.8",
+    "protein": "15.6",
+    "sodium": "0.713",
+    "alcohol": "0",
+    "organicAcids": "0.574"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H910400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "S621000",
+  "name": {
+    "de": "Pralinen mit alkoholhaltiger Füllung",
+    "en": "Pralines with alcoholic filling"
+  },
+  "per100g": {
+    "fat": "21.32",
+    "saturates": "12.8",
+    "monounsaturates": "6.79",
+    "polyunsaturates": "0.7",
+    "carbohydrate": "54.7",
+    "sugars": "47.4",
+    "starch": "1.458",
+    "polyols": "0",
+    "fibre": "5.01",
+    "protein": "3.57",
+    "sodium": "0.006",
+    "alcohol": "3.67",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S621000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

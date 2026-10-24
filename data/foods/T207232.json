@@ -1,0 +1,44 @@
+{
+  "code": "T207232",
+  "name": {
+    "de": "Köhler/Seelachs, tiefgefroren, pochiert",
+    "en": "Saithe/pollack, deep-frozen, poached"
+  },
+  "per100g": {
+    "fat": "1.239",
+    "saturates": "0.201",
+    "monounsaturates": "0.229",
+    "polyunsaturates": "0.302",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.75",
+    "sodium": "0.084",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T207232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

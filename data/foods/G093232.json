@@ -1,0 +1,44 @@
+{
+  "code": "G093232",
+  "name": {
+    "de": "Suppengrün/Suppenkraut, tiefgefroren, gekocht",
+    "en": "Mirepoix deep-frozen, boiled"
+  },
+  "per100g": {
+    "fat": "0.314",
+    "saturates": "0.058",
+    "monounsaturates": "0.031",
+    "polyunsaturates": "0.128",
+    "carbohydrate": "3.2",
+    "sugars": "3.1",
+    "starch": "0",
+    "polyols": "0.06",
+    "fibre": "3.3",
+    "protein": "2.019",
+    "sodium": "0.042",
+    "alcohol": "0",
+    "organicAcids": "0.141"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G093232",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

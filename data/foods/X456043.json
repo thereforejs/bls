@@ -1,0 +1,44 @@
+{
+  "code": "X456043",
+  "name": {
+    "de": "Wildsuppe mit Rehfleisch, Speck und Rotwein",
+    "en": "Soup with roe deer meat, bacon and red wine"
+  },
+  "per100g": {
+    "fat": "3.8",
+    "saturates": "0.71",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.8",
+    "carbohydrate": "1.94",
+    "sugars": "0.1",
+    "starch": "1.84",
+    "polyols": "0.001",
+    "fibre": "0.14",
+    "protein": "7.92",
+    "sodium": "0.256",
+    "alcohol": "0.17",
+    "organicAcids": "0.026"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X456043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

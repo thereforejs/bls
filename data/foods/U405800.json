@@ -1,0 +1,44 @@
+{
+  "code": "U405800",
+  "name": {
+    "de": "Kalb Fettgewebe, intermuskulär roh",
+    "en": "Veal fatty tissue, intermuscular, raw"
+  },
+  "per100g": {
+    "fat": "70.9",
+    "saturates": "32.21",
+    "monounsaturates": "33.28",
+    "polyunsaturates": "1.489",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "8.2",
+    "sodium": "0.029",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U405800",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

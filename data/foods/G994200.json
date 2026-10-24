@@ -1,0 +1,44 @@
+{
+  "code": "G994200",
+  "name": {
+    "de": "Gemüsemischung asiatische Art, tiefgefroren",
+    "en": "Mixed vegetables Asian style, deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.039",
+    "monounsaturates": "0.023",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "3.4",
+    "sugars": "3.4",
+    "starch": "0",
+    "polyols": "0.01",
+    "fibre": "2",
+    "protein": "2",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G994200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

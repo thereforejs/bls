@@ -1,0 +1,44 @@
+{
+  "code": "Y872160",
+  "name": {
+    "de": "Erdbeercreme (mit Gelatine)",
+    "en": "Strawberry cream (with gelatine)"
+  },
+  "per100g": {
+    "fat": "11.451",
+    "saturates": "6.003",
+    "monounsaturates": "2.97",
+    "polyunsaturates": "0.405",
+    "carbohydrate": "9.605",
+    "sugars": "9.574",
+    "starch": "0",
+    "polyols": "0.031",
+    "fibre": "1",
+    "protein": "2.2",
+    "sodium": "0.015",
+    "alcohol": "0",
+    "organicAcids": "0.575"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y872160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

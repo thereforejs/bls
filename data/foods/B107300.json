@@ -1,0 +1,44 @@
+{
+  "code": "B107300",
+  "name": {
+    "de": "Vollkornbrot mit Buttermilch",
+    "en": "Wholemeal bread with buttermilk"
+  },
+  "per100g": {
+    "fat": "1.06",
+    "saturates": "0.16",
+    "monounsaturates": "0.14",
+    "polyunsaturates": "0.467",
+    "carbohydrate": "38",
+    "sugars": "1.27",
+    "starch": "37",
+    "polyols": "0",
+    "fibre": "10.04",
+    "protein": "7.47",
+    "sodium": "0.483",
+    "alcohol": "0",
+    "organicAcids": "0.064"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "B107300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

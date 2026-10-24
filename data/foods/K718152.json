@@ -1,0 +1,44 @@
+{
+  "code": "K718152",
+  "name": {
+    "de": "Steinpilz gedünstet",
+    "en": "Porcini mushroom stewed"
+  },
+  "per100g": {
+    "fat": "0.563",
+    "saturates": "0.1",
+    "monounsaturates": "0.011",
+    "polyunsaturates": "0.282",
+    "carbohydrate": "4.6",
+    "sugars": "0.746",
+    "starch": null,
+    "polyols": "3.85",
+    "fibre": "8.479",
+    "protein": "7.606",
+    "sodium": "0.008",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K718152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

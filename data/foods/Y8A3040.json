@@ -1,0 +1,44 @@
+{
+  "code": "Y8A3040",
+  "name": {
+    "de": "Heiße Himbeersauce",
+    "en": "Hot raspberry sauce"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.01",
+    "monounsaturates": "0.027",
+    "polyunsaturates": "0.178",
+    "carbohydrate": "9.6",
+    "sugars": "9",
+    "starch": "0.568",
+    "polyols": "0.002",
+    "fibre": "4.3",
+    "protein": "0.9",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "1.97"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A3040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

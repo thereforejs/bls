@@ -1,0 +1,44 @@
+{
+  "code": "D655200",
+  "name": {
+    "de": "Ostpreußischer Honigkuchen",
+    "en": "East-Prussian gingerbread cake"
+  },
+  "per100g": {
+    "fat": "10.88",
+    "saturates": "6.41",
+    "monounsaturates": "2.45",
+    "polyunsaturates": "0.55",
+    "carbohydrate": "69.14",
+    "sugars": "35.752",
+    "starch": "33.13",
+    "polyols": "0",
+    "fibre": "2.46",
+    "protein": "6.44",
+    "sodium": "0.037",
+    "alcohol": "0",
+    "organicAcids": "0.0099"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D655200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

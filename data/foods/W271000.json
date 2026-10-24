@@ -1,0 +1,44 @@
+{
+  "code": "W271000",
+  "name": {
+    "de": "Bierschinken",
+    "en": "Beer ham"
+  },
+  "per100g": {
+    "fat": "10.45",
+    "saturates": "3.5",
+    "monounsaturates": "4.44",
+    "polyunsaturates": "1",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "16.625",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W271000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

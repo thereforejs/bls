@@ -1,0 +1,44 @@
+{
+  "code": "X1A1020",
+  "name": {
+    "de": "Bohnensalat bunt (gegart) mit Schafskäse und warmer Essigmarinade",
+    "en": "Mixed bean salad (cooked) with sheep's milk cheese and warm vinegar marinade"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "2",
+    "monounsaturates": "1.74",
+    "polyunsaturates": "0.75",
+    "carbohydrate": "5.8",
+    "sugars": "3.4",
+    "starch": "2.3",
+    "polyols": "0.14",
+    "fibre": "2",
+    "protein": "3.56",
+    "sodium": "0.221",
+    "alcohol": "0.004",
+    "organicAcids": "0.78"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A1020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

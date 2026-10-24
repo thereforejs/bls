@@ -1,0 +1,44 @@
+{
+  "code": "G620242",
+  "name": {
+    "de": "Karotte/Möhre, tiefgefroren, geschmort ohne Fett",
+    "en": "Carrot deep-frozen, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.458",
+    "saturates": "0.1064",
+    "monounsaturates": "0.1188",
+    "polyunsaturates": "0.0857",
+    "carbohydrate": "7.111",
+    "sugars": "7",
+    "starch": "0.1112",
+    "polyols": "0",
+    "fibre": "3.4",
+    "protein": "0.816",
+    "sodium": "0.0234",
+    "alcohol": "0",
+    "organicAcids": "0.496"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G620242",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

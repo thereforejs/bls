@@ -1,0 +1,44 @@
+{
+  "code": "T601152",
+  "name": {
+    "de": "Barsch/Flussbarsch, gedünstet",
+    "en": "European perch stewed"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.093",
+    "monounsaturates": "0.077",
+    "polyunsaturates": "0.163",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "16.24",
+    "sodium": "0.047",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T601152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "code": "W443000",
+  "name": {
+    "de": "Lachsschinken, Rohpökelware, geräuchert",
+    "en": "Pork loin lean rolled, raw cured, smoked"
+  },
+  "per100g": {
+    "fat": "2.08",
+    "saturates": "0.71",
+    "monounsaturates": "0.959",
+    "polyunsaturates": "0.141",
+    "carbohydrate": "0.76",
+    "sugars": "0.74",
+    "starch": null,
+    "polyols": "0.022",
+    "fibre": "0",
+    "protein": "24.43",
+    "sodium": "1.535",
+    "alcohol": null,
+    "organicAcids": "1.273"
+  },
+  "marks": {
+    "starch": "<LOD",
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W443000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

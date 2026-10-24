@@ -1,0 +1,44 @@
+{
+  "code": "Y8A5040",
+  "name": {
+    "de": "Sahneflammeri/Sahnepudding (als Dessert) mit Karamellsauce",
+    "en": "Cream pudding (as dessert) with caramel sauce"
+  },
+  "per100g": {
+    "fat": "12.45",
+    "saturates": "6.45",
+    "monounsaturates": "3.34",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "19.79",
+    "sugars": "14",
+    "starch": "5.793",
+    "polyols": "0",
+    "fibre": "0.054",
+    "protein": "3.8",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0.079"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A5040",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

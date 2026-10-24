@@ -1,0 +1,46 @@
+{
+  "code": "S582200",
+  "name": {
+    "de": "Schokoladen-Schaumkuss",
+    "en": "Chocolate kiss (chocolate coated egg meringue on waffle base)"
+  },
+  "per100g": {
+    "fat": "8.66",
+    "saturates": "4.35",
+    "monounsaturates": "3.39",
+    "polyunsaturates": "0.919",
+    "carbohydrate": "68.47",
+    "sugars": "47.5",
+    "starch": "19.62",
+    "polyols": "1.352",
+    "fibre": "8.83",
+    "protein": "2.96",
+    "sodium": "0.0404",
+    "alcohol": null,
+    "organicAcids": "0.208"
+  },
+  "marks": {
+    "alcohol": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S582200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

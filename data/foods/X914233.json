@@ -1,0 +1,44 @@
+{
+  "code": "X914233",
+  "name": {
+    "de": "Pizza quattro stagioni (mit Tomatensauce, Artischocken, Champignons, Paprika, Kochschinken)",
+    "en": "Pizza quattro stagioni (mit tomato sauce, artichokes, button mushrooms, sweet pepper, boiled ham)"
+  },
+  "per100g": {
+    "fat": "6.11",
+    "saturates": "0.56",
+    "monounsaturates": "3.33",
+    "polyunsaturates": "1.63",
+    "carbohydrate": "15",
+    "sugars": "2.4",
+    "starch": "12",
+    "polyols": "0.36",
+    "fibre": "3.8",
+    "protein": "5.67",
+    "sodium": "0.283",
+    "alcohol": "0",
+    "organicAcids": "0.3"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X914233",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Q993000",
+  "name": {
+    "de": "Salatmayonnaise (Fertigprodukt)",
+    "en": "Salad mayonnaise (ready-made product)"
+  },
+  "per100g": {
+    "fat": "50.751",
+    "saturates": "4.2",
+    "monounsaturates": "26.7",
+    "polyunsaturates": "15.9",
+    "carbohydrate": "7.295",
+    "sugars": "4.891",
+    "starch": "2.404",
+    "polyols": "0",
+    "fibre": "0.028",
+    "protein": "0.4",
+    "sodium": "0.515",
+    "alcohol": "0.007",
+    "organicAcids": "0.66"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Q993000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

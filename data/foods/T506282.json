@@ -1,0 +1,44 @@
+{
+  "code": "T506282",
+  "name": {
+    "de": "Wels tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "European catfish deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "7.8",
+    "saturates": "1.922",
+    "monounsaturates": "1.684",
+    "polyunsaturates": "1.541",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "17.1",
+    "sodium": "0.019",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T506282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

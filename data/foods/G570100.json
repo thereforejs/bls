@@ -1,0 +1,44 @@
+{
+  "code": "G570100",
+  "name": {
+    "de": "Zuckermais roh",
+    "en": "Sweetcorn raw"
+  },
+  "per100g": {
+    "fat": "1.23",
+    "saturates": "0.165",
+    "monounsaturates": "0.314",
+    "polyunsaturates": "0.506",
+    "carbohydrate": "9.4",
+    "sugars": "3.4",
+    "starch": "5.6",
+    "polyols": "0.45",
+    "fibre": "2.8",
+    "protein": "3.28",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0.05"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G570100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "T106600",
+  "name": {
+    "de": "Sprotte geräuchert",
+    "en": "Sprat smoked"
+  },
+  "per100g": {
+    "fat": "18.4",
+    "saturates": "4.443",
+    "monounsaturates": "7.226",
+    "polyunsaturates": "4.529",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "19.4",
+    "sodium": "0.785",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T106600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

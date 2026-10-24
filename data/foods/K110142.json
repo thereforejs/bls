@@ -1,0 +1,44 @@
+{
+  "code": "K110142",
+  "name": {
+    "de": "Kartoffel geschält, geschmort ohne Fett",
+    "en": "Potatoe peeled, braised without fat"
+  },
+  "per100g": {
+    "fat": "0.081",
+    "saturates": "0.0289",
+    "monounsaturates": "0.0125",
+    "polyunsaturates": "0.011",
+    "carbohydrate": "17.162",
+    "sugars": "0.863",
+    "starch": "16.299",
+    "polyols": null,
+    "fibre": "1.464",
+    "protein": "1.8",
+    "sodium": "0.0023",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K110142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

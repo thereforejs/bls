@@ -1,0 +1,44 @@
+{
+  "code": "Y134012",
+  "name": {
+    "de": "Rinderrumpsteak gebraten, mit gebratenen Zwiebeln",
+    "en": "Beef rump steak fried, with fried onions"
+  },
+  "per100g": {
+    "fat": "6.03",
+    "saturates": "2",
+    "monounsaturates": "2.57",
+    "polyunsaturates": "0.55",
+    "carbohydrate": "2.14",
+    "sugars": "2.12",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.5",
+    "protein": "22.62",
+    "sodium": "0.26",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y134012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

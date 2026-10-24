@@ -1,0 +1,44 @@
+{
+  "code": "S582000",
+  "name": {
+    "de": "Knusperpraline mit Milchschokolade, Cornflakes und Mandelstückchen",
+    "en": "Crispy praline with milk chocolate, cornflakes and almond bits"
+  },
+  "per100g": {
+    "fat": "24.85",
+    "saturates": "13.73",
+    "monounsaturates": "8.08",
+    "polyunsaturates": "1.4",
+    "carbohydrate": "58.11",
+    "sugars": "38.5",
+    "starch": "19.61",
+    "polyols": "0.002",
+    "fibre": "3.8",
+    "protein": "7.31",
+    "sodium": "0.1373",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S582000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

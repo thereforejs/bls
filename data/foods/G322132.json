@@ -1,0 +1,44 @@
+{
+  "code": "G322132",
+  "name": {
+    "de": "Grünkohl gekocht",
+    "en": "Curly kale boiled"
+  },
+  "per100g": {
+    "fat": "1.3",
+    "saturates": "0.096",
+    "monounsaturates": "0.0253",
+    "polyunsaturates": "0.34",
+    "carbohydrate": "2",
+    "sugars": "1",
+    "starch": "1",
+    "polyols": "0.18",
+    "fibre": "3.5",
+    "protein": "2.7",
+    "sodium": "0.006",
+    "alcohol": "0",
+    "organicAcids": "0.116"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G322132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

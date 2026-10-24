@@ -1,0 +1,44 @@
+{
+  "code": "M837500",
+  "name": {
+    "de": "Speisequarkzubereitung mind. 40 % Fett i. Tr., mit Kräutern",
+    "en": "Quark preparation min. 40 % fat in dry matter, with herbs"
+  },
+  "per100g": {
+    "fat": "9.66",
+    "saturates": "5.142",
+    "monounsaturates": "2.51",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "3.52",
+    "sugars": "3.5",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "8.53",
+    "sodium": "0.321",
+    "alcohol": "0",
+    "organicAcids": "0.64"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M837500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

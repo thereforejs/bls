@@ -1,0 +1,44 @@
+{
+  "code": "W251300",
+  "name": {
+    "de": "Gerauchte Schinkenwurst",
+    "en": "Ham bologna smoked"
+  },
+  "per100g": {
+    "fat": "13.18",
+    "saturates": "5.24",
+    "monounsaturates": "5",
+    "polyunsaturates": "1.18",
+    "carbohydrate": "0.09",
+    "sugars": "0",
+    "starch": "0.09",
+    "polyols": "0",
+    "fibre": "0.04",
+    "protein": "15.54",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W251300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "H740132",
+  "name": {
+    "de": "Gartenbohne reif, gekocht",
+    "en": "Haricot bean mature, boiled"
+  },
+  "per100g": {
+    "fat": "0.6",
+    "saturates": "0.103",
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "17.812",
+    "sugars": "0.79",
+    "starch": "15.17806",
+    "polyols": null,
+    "fibre": "6.94",
+    "protein": "9.0845",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H740132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

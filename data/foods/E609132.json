@@ -1,0 +1,44 @@
+{
+  "code": "E609132",
+  "name": {
+    "de": "Eierteigwaren Tortelloni (Ricotta-Spinat-Füllung) getrocknet, gekocht",
+    "en": "Egg pasta Tortelloni (ricotta and spinach filling) dried, boiled"
+  },
+  "per100g": {
+    "fat": "1.776",
+    "saturates": "0.851",
+    "monounsaturates": "0.588",
+    "polyunsaturates": "0.278",
+    "carbohydrate": "17.862",
+    "sugars": "1.069",
+    "starch": "16.793",
+    "polyols": "0",
+    "fibre": "0.787",
+    "protein": "4.142",
+    "sodium": "0.106",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E609132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

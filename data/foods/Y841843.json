@@ -1,0 +1,44 @@
+{
+  "code": "Y841843",
+  "name": {
+    "de": "Pfirsichkompott",
+    "en": "Peach compote"
+  },
+  "per100g": {
+    "fat": "0.092",
+    "saturates": "0.008",
+    "monounsaturates": "0.028",
+    "polyunsaturates": "0.037",
+    "carbohydrate": "12.96",
+    "sugars": "12.1",
+    "starch": "0",
+    "polyols": "0.86",
+    "fibre": "1.4",
+    "protein": "0.6",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y841843",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

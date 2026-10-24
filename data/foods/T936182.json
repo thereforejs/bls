@@ -1,0 +1,44 @@
+{
+  "code": "T936182",
+  "name": {
+    "de": "Garnele paniert, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Common shrimp breaded, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "20.05",
+    "saturates": "2.7",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "11",
+    "carbohydrate": "27.56",
+    "sugars": "1.48",
+    "starch": "26.08",
+    "polyols": "0.004",
+    "fibre": "1.94",
+    "protein": "16.38",
+    "sodium": "0.57",
+    "alcohol": "0",
+    "organicAcids": "0.081"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T936182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

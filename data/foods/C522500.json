@@ -1,0 +1,44 @@
+{
+  "code": "C522500",
+  "name": {
+    "de": "Getreideflakes gesüßt, mit Nüssen, angereichert mit Vitaminen und Mineralstoffen",
+    "en": "Cereal flakes sweetened, with nuts, fortified with vitamins and minerals"
+  },
+  "per100g": {
+    "fat": "6.93",
+    "saturates": "1.21",
+    "monounsaturates": "3.41",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "60.9",
+    "sugars": "19.4",
+    "starch": "40.59",
+    "polyols": "0",
+    "fibre": "9.6",
+    "protein": "10.8",
+    "sodium": "0.311",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C522500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

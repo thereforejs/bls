@@ -1,0 +1,44 @@
+{
+  "code": "X465553",
+  "name": {
+    "de": "Grüne-Bohnen-Suppe mit Gemüsebrühe und Kartoffeln",
+    "en": "Green bean soup with vegetable stock and potatoes"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.1",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.07",
+    "carbohydrate": "5.5",
+    "sugars": "1.97",
+    "starch": "3.4",
+    "polyols": "0.13",
+    "fibre": "1.4",
+    "protein": "1.57",
+    "sodium": "0.153",
+    "alcohol": "0",
+    "organicAcids": "0.038"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X465553",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

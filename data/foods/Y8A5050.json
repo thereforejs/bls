@@ -1,0 +1,44 @@
+{
+  "code": "Y8A5050",
+  "name": {
+    "de": "Sahneflammeri/Sahnepudding (als Dessert) mit Kirschsauce",
+    "en": "Cream pudding (as dessert) with cherry sauce"
+  },
+  "per100g": {
+    "fat": "13.1",
+    "saturates": "6.79",
+    "monounsaturates": "3.51",
+    "polyunsaturates": "0.52",
+    "carbohydrate": "20.04",
+    "sugars": "13.69",
+    "starch": "6.208",
+    "polyols": "0.14",
+    "fibre": "0.2",
+    "protein": "3.2",
+    "sodium": "0.046",
+    "alcohol": "0",
+    "organicAcids": "0.4"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y8A5050",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

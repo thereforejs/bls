@@ -1,0 +1,44 @@
+{
+  "code": "K120100",
+  "name": {
+    "de": "Kartoffel ungeschält, roh",
+    "en": "Potatoe unpeeled, raw"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.034",
+    "monounsaturates": "0.016",
+    "polyunsaturates": "0.013",
+    "carbohydrate": "18.46",
+    "sugars": "1.46",
+    "starch": "17",
+    "polyols": "0",
+    "fibre": "1.42",
+    "protein": "2.05",
+    "sodium": "0.01",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K120100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

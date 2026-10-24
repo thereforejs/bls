@@ -1,0 +1,44 @@
+{
+  "code": "W880400",
+  "name": {
+    "de": "Hausmacher Leberwurst Konserve",
+    "en": "Homemade liver sausage canned"
+  },
+  "per100g": {
+    "fat": "26.1",
+    "saturates": "13.07",
+    "monounsaturates": "11.14",
+    "polyunsaturates": "3.78",
+    "carbohydrate": "0.49",
+    "sugars": "0.12",
+    "starch": "0.37",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "12.7",
+    "sodium": "0.789",
+    "alcohol": "0",
+    "organicAcids": "0.003"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W880400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

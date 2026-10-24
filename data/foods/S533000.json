@@ -1,0 +1,44 @@
+{
+  "code": "S533000",
+  "name": {
+    "de": "Blätterkrokant überzogen mit Vollmilchschokolade",
+    "en": "Flaky brittle covered with whole milk chocolate"
+  },
+  "per100g": {
+    "fat": "16.8",
+    "saturates": "7.6",
+    "monounsaturates": "7.3",
+    "polyunsaturates": "1",
+    "carbohydrate": "63.4",
+    "sugars": "62.9",
+    "starch": "0.5",
+    "polyols": "0",
+    "fibre": "1.52",
+    "protein": "3.49",
+    "sodium": "0.161",
+    "alcohol": "0",
+    "organicAcids": "0.004"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "S533000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

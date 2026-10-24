@@ -1,0 +1,44 @@
+{
+  "code": "Y7A2020",
+  "name": {
+    "de": "Lachs-Dillcreme (mit Frischkäse)",
+    "en": "Salmon-cream cheese with dill weed"
+  },
+  "per100g": {
+    "fat": "19.5",
+    "saturates": "10.67",
+    "monounsaturates": "5.5",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "2.46",
+    "sugars": "2.46",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "10.7",
+    "sodium": "0.636",
+    "alcohol": "0",
+    "organicAcids": "0.562"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y7A2020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

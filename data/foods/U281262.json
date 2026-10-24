@@ -1,0 +1,44 @@
+{
+  "code": "U281262",
+  "name": {
+    "de": "Rind Keule, tiefgefroren, gebraten ohne Fett (Ofen)",
+    "en": "Beef round, deep-frozen, fried without fat (oven)"
+  },
+  "per100g": {
+    "fat": "7.4",
+    "saturates": "2.31",
+    "monounsaturates": "3.36",
+    "polyunsaturates": "0.169",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.2",
+    "sodium": "0.0662",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U281262",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

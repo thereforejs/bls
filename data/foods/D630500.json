@@ -1,0 +1,44 @@
+{
+  "code": "D630500",
+  "name": {
+    "de": "Butterkekse/Butterplätzchen (Mürbeteig) schokoliert",
+    "en": "Shortbread biscuits, with chocolate icing"
+  },
+  "per100g": {
+    "fat": "28.1",
+    "saturates": "16.97",
+    "monounsaturates": "8.05",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "58.24",
+    "sugars": "42.37",
+    "starch": "15.86",
+    "polyols": "0.011",
+    "fibre": "2.48",
+    "protein": "6.78",
+    "sodium": "0.1683",
+    "alcohol": "0",
+    "organicAcids": "0.077"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D630500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "Y396512",
+  "name": {
+    "de": "Frikadellen aus Schweinefleisch gebraten",
+    "en": "Pork meatballs fried"
+  },
+  "per100g": {
+    "fat": "21.44",
+    "saturates": "5.26",
+    "monounsaturates": "7.04",
+    "polyunsaturates": "2.42",
+    "carbohydrate": "8.41",
+    "sugars": "1.16",
+    "starch": "7.25",
+    "polyols": "0",
+    "fibre": "0.7",
+    "protein": "17.24",
+    "sodium": "0.352",
+    "alcohol": "0",
+    "organicAcids": "0.028"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y396512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

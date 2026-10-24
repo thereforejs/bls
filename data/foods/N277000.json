@@ -1,0 +1,44 @@
+{
+  "code": "N277000",
+  "name": {
+    "de": "Mehrfruchtsaftschorle angereichert mit Vitaminen (Multivitaminsaftschorle)",
+    "en": "Multi-fruit juice spritzer fortified with vitamins (multivitamin juice spritzer)"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0.007",
+    "monounsaturates": "0.002",
+    "polyunsaturates": "0.005",
+    "carbohydrate": "5.3",
+    "sugars": "5",
+    "starch": "0",
+    "polyols": "0.29",
+    "fibre": "0.2",
+    "protein": "0.2",
+    "sodium": "0.0024",
+    "alcohol": "0.012",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N277000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

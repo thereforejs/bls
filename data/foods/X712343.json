@@ -1,0 +1,44 @@
+{
+  "code": "X712343",
+  "name": {
+    "de": "Eier-Frischteigwaren mit gebackenem Kürbis, in Grundsauce hell/weiß mit Sahne",
+    "en": "Fresh egg pasta with baked pumpkin, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "5.6",
+    "saturates": "2",
+    "monounsaturates": "2.06",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "14.57",
+    "sugars": "2.75",
+    "starch": "11.82",
+    "polyols": "0.004",
+    "fibre": "2.5",
+    "protein": "3.67",
+    "sodium": "0.198",
+    "alcohol": "0",
+    "organicAcids": "0.011"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X712343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

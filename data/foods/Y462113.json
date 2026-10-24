@@ -1,0 +1,44 @@
+{
+  "code": "Y462113",
+  "name": {
+    "de": "Lammrücken gebraten im Ofen, mit Rosmarin und Sauce",
+    "en": "Lamb loin fried in oven, with rosemary and sauce"
+  },
+  "per100g": {
+    "fat": "8.4",
+    "saturates": "1.7",
+    "monounsaturates": "3.4",
+    "polyunsaturates": "1.5",
+    "carbohydrate": "2",
+    "sugars": "0.27",
+    "starch": "2",
+    "polyols": "0",
+    "fibre": "0.43",
+    "protein": "23.7",
+    "sodium": "0.276",
+    "alcohol": "0.001",
+    "organicAcids": "0.55"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y462113",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

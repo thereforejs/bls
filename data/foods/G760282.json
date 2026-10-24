@@ -1,0 +1,44 @@
+{
+  "code": "G760282",
+  "name": {
+    "de": "Erbse grün, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Pea green, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "0.805",
+    "saturates": "0.166",
+    "monounsaturates": "0.062",
+    "polyunsaturates": "0.498",
+    "carbohydrate": "11.5",
+    "sugars": "6.2",
+    "starch": "5.329",
+    "polyols": null,
+    "fibre": "6.092",
+    "protein": "5.6",
+    "sodium": "0.005",
+    "alcohol": "0",
+    "organicAcids": "0.32"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G760282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

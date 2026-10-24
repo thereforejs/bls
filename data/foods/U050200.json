@@ -1,0 +1,44 @@
+{
+  "code": "U050200",
+  "name": {
+    "de": "Rind/Schwein, Hackfleisch gemischt, tiefgefroren",
+    "en": "Beef/pork, mince mixed, deep-frozen"
+  },
+  "per100g": {
+    "fat": "17.83",
+    "saturates": "7.392",
+    "monounsaturates": "7.842",
+    "polyunsaturates": "0.911",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.8",
+    "sodium": "0.057",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U050200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

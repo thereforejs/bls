@@ -1,0 +1,44 @@
+{
+  "code": "Y611012",
+  "name": {
+    "de": "Matjesfilet nach Hausfrauenart",
+    "en": "Matjes herring fillet homemade"
+  },
+  "per100g": {
+    "fat": "12.7",
+    "saturates": "4.7",
+    "monounsaturates": "4.7",
+    "polyunsaturates": "1.6",
+    "carbohydrate": "2.8",
+    "sugars": "2.8",
+    "starch": "0.045",
+    "polyols": "0.002",
+    "fibre": "0.3",
+    "protein": "7.82",
+    "sodium": "1.71",
+    "alcohol": "0",
+    "organicAcids": "0.99"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y611012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

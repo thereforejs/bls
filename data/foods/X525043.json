@@ -1,0 +1,44 @@
+{
+  "code": "X525043",
+  "name": {
+    "de": "Wurzelpetersilie gedünstet, in Grundsauce hell/weiß mit Sahne",
+    "en": "Parsley root stewed, in white basic sauce with cream"
+  },
+  "per100g": {
+    "fat": "5.9",
+    "saturates": "3.1",
+    "monounsaturates": "1.42",
+    "polyunsaturates": "0.29",
+    "carbohydrate": "8.6",
+    "sugars": "3.86",
+    "starch": "4.1",
+    "polyols": "0.44",
+    "fibre": "1.6",
+    "protein": "2.16",
+    "sodium": "0.115",
+    "alcohol": "0",
+    "organicAcids": "0.31"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X525043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

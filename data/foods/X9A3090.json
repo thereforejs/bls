@@ -1,0 +1,44 @@
+{
+  "code": "X9A3090",
+  "name": {
+    "de": "Pirogge mit Sauerkrautfüllung, gebacken",
+    "en": "Pirogue filled with sauerkraut, baked"
+  },
+  "per100g": {
+    "fat": "8.81",
+    "saturates": "4.16",
+    "monounsaturates": "2.59",
+    "polyunsaturates": "0.87",
+    "carbohydrate": "27",
+    "sugars": "2.65",
+    "starch": "24",
+    "polyols": "0.081",
+    "fibre": "4.5",
+    "protein": "6.2",
+    "sodium": "0.377",
+    "alcohol": "0.02",
+    "organicAcids": "1.427"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A3090",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

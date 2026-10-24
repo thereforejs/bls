@@ -1,0 +1,44 @@
+{
+  "code": "V351182",
+  "name": {
+    "de": "Wachtel Fleisch, ohne Haut, gebraten ohne Fett (Pfanne)",
+    "en": "Quail meat, without skin, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "4.03",
+    "saturates": "1.16",
+    "monounsaturates": null,
+    "polyunsaturates": "0.03",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "29.7",
+    "sodium": "0.06",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V351182",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

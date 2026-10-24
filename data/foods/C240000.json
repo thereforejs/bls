@@ -1,0 +1,44 @@
+{
+  "code": "C240000",
+  "name": {
+    "de": "Emmer Vollkornmehl",
+    "en": "Emmer wheat wholemeal flour"
+  },
+  "per100g": {
+    "fat": "2.34",
+    "saturates": "0.254",
+    "monounsaturates": "0.42",
+    "polyunsaturates": "0.968",
+    "carbohydrate": "63.27",
+    "sugars": "1.11436",
+    "starch": "62.16",
+    "polyols": "0",
+    "fibre": "7.94",
+    "protein": "13.09",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C240000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

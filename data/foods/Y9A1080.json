@@ -1,0 +1,44 @@
+{
+  "code": "Y9A1080",
+  "name": {
+    "de": "Türkische Pizza (Lahmacun) gefüllt mit Grillfleisch (Geflügel), Rohkost und Sauce",
+    "en": "Lahmacun filled with grilled poultry, salad and sauce"
+  },
+  "per100g": {
+    "fat": "8.5",
+    "saturates": "2.19",
+    "monounsaturates": "3.88",
+    "polyunsaturates": "1.2",
+    "carbohydrate": "17",
+    "sugars": "2.1",
+    "starch": "15",
+    "polyols": "0",
+    "fibre": "2.2",
+    "protein": "9.1",
+    "sodium": "0.231",
+    "alcohol": "0.001",
+    "organicAcids": "0.37"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y9A1080",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

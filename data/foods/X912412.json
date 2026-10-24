@@ -1,0 +1,44 @@
+{
+  "code": "X912412",
+  "name": {
+    "de": "Pizza Prosciutto (mit Tomatensauce, Kochschinken, Mozzarella)",
+    "en": "Pizza prosciutto (with tomato sauce, boiled ham, mozzarella)"
+  },
+  "per100g": {
+    "fat": "12.17",
+    "saturates": "3.81",
+    "monounsaturates": "5.24",
+    "polyunsaturates": "2.15",
+    "carbohydrate": "16",
+    "sugars": "1.5",
+    "starch": "15",
+    "polyols": "0",
+    "fibre": "1.6",
+    "protein": "11.36",
+    "sodium": "0.402",
+    "alcohol": "0",
+    "organicAcids": "0.48"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X912412",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

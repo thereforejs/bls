@@ -1,0 +1,44 @@
+{
+  "code": "K270062",
+  "name": {
+    "de": "Gnocchi gekocht, gebacken",
+    "en": "Gnocchi boiled, baked"
+  },
+  "per100g": {
+    "fat": "0.844",
+    "saturates": "0.07",
+    "monounsaturates": "0.05",
+    "polyunsaturates": "0.21",
+    "carbohydrate": "45.52",
+    "sugars": "0.583",
+    "starch": "44.94",
+    "polyols": "0",
+    "fibre": "3.016",
+    "protein": "5.688",
+    "sodium": "0.658",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K270062",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

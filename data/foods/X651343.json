@@ -1,0 +1,44 @@
+{
+  "code": "X651343",
+  "name": {
+    "de": "Bratkartoffeln mit Speck und Zwiebeln",
+    "en": "Fried potatoes with bacon and onions"
+  },
+  "per100g": {
+    "fat": "12.65",
+    "saturates": "1.48",
+    "monounsaturates": "6.28",
+    "polyunsaturates": "2.79",
+    "carbohydrate": "16.88",
+    "sugars": "1.05",
+    "starch": "15.827",
+    "polyols": "0",
+    "fibre": "3",
+    "protein": "4.13",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.014"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X651343",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

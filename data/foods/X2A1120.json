@@ -1,0 +1,44 @@
+{
+  "code": "X2A1120",
+  "name": {
+    "de": "Rote-Bete-Salat (roh) mit Essigmarinade",
+    "en": "Beetroot salad (raw) with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "9.99",
+    "saturates": "0.73",
+    "monounsaturates": "5.7",
+    "polyunsaturates": "2.73",
+    "carbohydrate": "5.6",
+    "sugars": "5.56",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "1.9",
+    "protein": "1.58",
+    "sodium": "0.115",
+    "alcohol": "0.006",
+    "organicAcids": "0.62"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X2A1120",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "code": "G480100",
+  "name": {
+    "de": "Speisezwiebel roh",
+    "en": "Onion raw"
+  },
+  "per100g": {
+    "fat": "0.15",
+    "saturates": "0.025",
+    "monounsaturates": "0.0151",
+    "polyunsaturates": "0.0519",
+    "carbohydrate": "6.01",
+    "sugars": "6.01",
+    "starch": null,
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "1.156",
+    "sodium": "0.009",
+    "alcohol": "0",
+    "organicAcids": "0.254"
+  },
+  "marks": {
+    "starch": "<LOD or <LOQ"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G480100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

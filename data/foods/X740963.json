@@ -1,0 +1,44 @@
+{
+  "code": "X740963",
+  "name": {
+    "de": "Teigwaren eifrei, mit Auberginen gedünstet mit Tomaten und Ricotta",
+    "en": "Pasta egg-free, with aubergines stewed with tomatoes and ricotta"
+  },
+  "per100g": {
+    "fat": "2.83",
+    "saturates": "0.6",
+    "monounsaturates": "1.19",
+    "polyunsaturates": "0.66",
+    "carbohydrate": "13",
+    "sugars": "2.3",
+    "starch": "11",
+    "polyols": "0.04",
+    "fibre": "1.5",
+    "protein": "3.1",
+    "sodium": "0.111",
+    "alcohol": "0.002",
+    "organicAcids": "0.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X740963",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "V532282",
+  "name": {
+    "de": "Kalb Leber, tiefgefroren, gebraten ohne Fett (Pfanne)",
+    "en": "Veal liver, deep-frozen, fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "1.513",
+    "saturates": "0.475",
+    "monounsaturates": "0.261",
+    "polyunsaturates": "0.207",
+    "carbohydrate": "5.395",
+    "sugars": "0",
+    "starch": "5.395",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18.625",
+    "sodium": "0.097",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V532282",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

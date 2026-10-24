@@ -1,0 +1,44 @@
+{
+  "code": "D7A1200",
+  "name": {
+    "de": "Biskuitplätzchen schokoliert",
+    "en": "Sponge cake biscuits with chocolate icing"
+  },
+  "per100g": {
+    "fat": "13.89",
+    "saturates": "7.07",
+    "monounsaturates": "4.44",
+    "polyunsaturates": "1.03",
+    "carbohydrate": "69.6",
+    "sugars": "44.1",
+    "starch": "25.45",
+    "polyols": "0",
+    "fibre": "3.62",
+    "protein": "10.65",
+    "sodium": "0.087",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D7A1200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

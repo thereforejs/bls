@@ -1,0 +1,44 @@
+{
+  "code": "V4A5142",
+  "name": {
+    "de": "Hähnchen Oberschenkel, mit Haut, geschmort ohne Fett",
+    "en": "Chicken thigh, with skin, braised without fat"
+  },
+  "per100g": {
+    "fat": "13.12",
+    "saturates": "2.904",
+    "monounsaturates": "4.419",
+    "polyunsaturates": "2.191",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "21.64",
+    "sodium": "0.0416",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V4A5142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

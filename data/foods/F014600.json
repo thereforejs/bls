@@ -1,0 +1,44 @@
+{
+  "code": "F014600",
+  "name": {
+    "de": "Mehrfruchtsaft angereichert mit Vitaminen (Multivitaminsaft)",
+    "en": "Multi-fruit juice fortified with vitamins (multivitamin juice)"
+  },
+  "per100g": {
+    "fat": "0.1",
+    "saturates": "0.014",
+    "monounsaturates": "0.004",
+    "polyunsaturates": "0.01",
+    "carbohydrate": "10.61",
+    "sugars": "10.03",
+    "starch": "0",
+    "polyols": "0.58",
+    "fibre": "0.3",
+    "protein": "0.4",
+    "sodium": "0.0021",
+    "alcohol": "0.024",
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F014600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "F602300",
+  "name": {
+    "de": "Limettensaft Konzentrat",
+    "en": "Lime concentrate"
+  },
+  "per100g": {
+    "fat": "1.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "9.315",
+    "sugars": "9.315",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0.79",
+    "protein": "2.757",
+    "sodium": "0.0116",
+    "alcohol": "0",
+    "organicAcids": "29.29"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F602300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

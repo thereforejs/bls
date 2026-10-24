@@ -1,0 +1,46 @@
+{
+  "code": "H843200",
+  "name": {
+    "de": "Dessert/Puddingalternative, pflanzlich",
+    "en": "Plant-based dessert/pudding alternative"
+  },
+  "per100g": {
+    "fat": "3.78",
+    "saturates": "2.38",
+    "monounsaturates": "0.722",
+    "polyunsaturates": "0.404",
+    "carbohydrate": "10.85",
+    "sugars": "10.82",
+    "starch": null,
+    "polyols": "0.027",
+    "fibre": "0.99",
+    "protein": "2.32",
+    "sodium": "0.026",
+    "alcohol": "0",
+    "organicAcids": "0.215"
+  },
+  "marks": {
+    "starch": "<LOD"
+  },
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H843200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

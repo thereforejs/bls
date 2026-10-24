@@ -1,0 +1,44 @@
+{
+  "code": "Y686132",
+  "name": {
+    "de": "Tintenfischringe im Backteig (mit Bier) frittiert",
+    "en": "Cuttlefish rings in frying batter (with beer) deep-fried"
+  },
+  "per100g": {
+    "fat": "10",
+    "saturates": "1.11",
+    "monounsaturates": "5.11",
+    "polyunsaturates": "2.68",
+    "carbohydrate": "10.3",
+    "sugars": "0.245",
+    "starch": "10.06",
+    "polyols": "0",
+    "fibre": "0.83",
+    "protein": "12.5",
+    "sodium": "0.294",
+    "alcohol": "0.143",
+    "organicAcids": "0.27"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y686132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

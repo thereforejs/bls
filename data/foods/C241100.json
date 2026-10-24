@@ -1,0 +1,44 @@
+{
+  "code": "C241100",
+  "name": {
+    "de": "Einkorn ganzes Korn, roh",
+    "en": "Einkorn wheat whole grain, raw"
+  },
+  "per100g": {
+    "fat": "2.86",
+    "saturates": "0.27",
+    "monounsaturates": "0.61",
+    "polyunsaturates": "1.11",
+    "carbohydrate": "58.9",
+    "sugars": "1.17664",
+    "starch": "57.72",
+    "polyols": "0",
+    "fibre": "10.07",
+    "protein": "13.93",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C241100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

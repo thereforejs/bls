@@ -1,0 +1,44 @@
+{
+  "code": "G760200",
+  "name": {
+    "de": "Erbse grün, tiefgefroren",
+    "en": "Pea green, deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.7",
+    "saturates": "0.145",
+    "monounsaturates": "0.054",
+    "polyunsaturates": "0.433",
+    "carbohydrate": "10",
+    "sugars": "5.4",
+    "starch": "4.636",
+    "polyols": null,
+    "fibre": "5.3",
+    "protein": "4.9",
+    "sodium": "0.004",
+    "alcohol": "0",
+    "organicAcids": "0.278"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G760200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

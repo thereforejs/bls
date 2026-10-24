@@ -1,0 +1,44 @@
+{
+  "code": "Y141423",
+  "name": {
+    "de": "Gulasch Esterhazy (mit Rindfleisch)",
+    "en": "Beef goulash \"Esterhazy\""
+  },
+  "per100g": {
+    "fat": "8.2",
+    "saturates": "2",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "1.45",
+    "carbohydrate": "2.5",
+    "sugars": "2.2",
+    "starch": "0.2",
+    "polyols": "0.05",
+    "fibre": "1",
+    "protein": "12.04",
+    "sodium": "0.08",
+    "alcohol": "0.001",
+    "organicAcids": "0.43"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y141423",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

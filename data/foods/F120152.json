@@ -1,0 +1,44 @@
+{
+  "code": "F120152",
+  "name": {
+    "de": "Apfel geschält, gedünstet",
+    "en": "Apple peeled, stewed"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.02",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "11.02",
+    "sugars": "9.619",
+    "starch": "0.619",
+    "polyols": "0.78",
+    "fibre": "1.7",
+    "protein": "0.2",
+    "sodium": "0.001",
+    "alcohol": "0.006",
+    "organicAcids": "0.469"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F120152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

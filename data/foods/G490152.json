@@ -1,0 +1,44 @@
+{
+  "code": "G490152",
+  "name": {
+    "de": "Knoblauch gedünstet",
+    "en": "Garlic stewed"
+  },
+  "per100g": {
+    "fat": "0.412",
+    "saturates": "0.062",
+    "monounsaturates": "0.012",
+    "polyunsaturates": "0.168",
+    "carbohydrate": "3",
+    "sugars": "2",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "27.742",
+    "protein": "5.931",
+    "sodium": "0.0077135",
+    "alcohol": "0",
+    "organicAcids": "0.218"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G490152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

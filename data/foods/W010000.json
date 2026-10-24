@@ -1,0 +1,44 @@
+{
+  "code": "W010000",
+  "name": {
+    "de": "Mürbeteig für Fleisch-/Wurstpasteten, roh",
+    "en": "Shortcrust pastry for meat/sausage pate, raw"
+  },
+  "per100g": {
+    "fat": "22.75",
+    "saturates": "14.21",
+    "monounsaturates": "4.88",
+    "polyunsaturates": "0.76",
+    "carbohydrate": "39.24",
+    "sugars": "0.33",
+    "starch": "38.91",
+    "polyols": "0",
+    "fibre": "2.89",
+    "protein": "6.4",
+    "sodium": "0.386",
+    "alcohol": "0",
+    "organicAcids": "0.0228"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W010000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

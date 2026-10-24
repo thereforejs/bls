@@ -1,0 +1,44 @@
+{
+  "code": "X9A1000",
+  "name": {
+    "de": "Couscous gebraten mit Gemüse",
+    "en": "Couscous fried with vegetables"
+  },
+  "per100g": {
+    "fat": "4.8",
+    "saturates": "0.4",
+    "monounsaturates": "2.53",
+    "polyunsaturates": "1.39",
+    "carbohydrate": "14.4",
+    "sugars": "2.7",
+    "starch": "11.65",
+    "polyols": "0.06",
+    "fibre": "2.3",
+    "protein": "3.03",
+    "sodium": "0.043",
+    "alcohol": "0",
+    "organicAcids": "0.1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X9A1000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "W288132",
+  "name": {
+    "de": "Geflügelmortadella gekocht",
+    "en": "Poultry mortadella boiled"
+  },
+  "per100g": {
+    "fat": "16.681",
+    "saturates": "6.392",
+    "monounsaturates": "5.679",
+    "polyunsaturates": "2.439",
+    "carbohydrate": "0.008",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0.008",
+    "fibre": "0.47",
+    "protein": "11.716",
+    "sodium": "0.759",
+    "alcohol": "0",
+    "organicAcids": "1.805"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W288132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

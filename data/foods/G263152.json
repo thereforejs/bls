@@ -1,0 +1,44 @@
+{
+  "code": "G263152",
+  "name": {
+    "de": "Sauerampfer gedünstet",
+    "en": "Sorrel stewed"
+  },
+  "per100g": {
+    "fat": "0.383",
+    "saturates": "0.038",
+    "monounsaturates": "0.019",
+    "polyunsaturates": "0.201",
+    "carbohydrate": "1.234",
+    "sugars": "0.769",
+    "starch": "0.465",
+    "polyols": null,
+    "fibre": "2.074",
+    "protein": "3.394",
+    "sodium": null,
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G263152",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

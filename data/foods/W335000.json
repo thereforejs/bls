@@ -1,0 +1,44 @@
+{
+  "code": "W335000",
+  "name": {
+    "de": "Blutbregenwurst",
+    "en": "Bregenwurst blood sausage"
+  },
+  "per100g": {
+    "fat": "7.78",
+    "saturates": "2.66",
+    "monounsaturates": "1.73",
+    "polyunsaturates": "0.82",
+    "carbohydrate": "0.28",
+    "sugars": "0.12",
+    "starch": "0.16",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "17.26",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W335000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

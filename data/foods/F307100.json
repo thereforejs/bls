@@ -1,0 +1,44 @@
+{
+  "code": "F307100",
+  "name": {
+    "de": "Boysenbeere roh",
+    "en": "Boysenberry raw"
+  },
+  "per100g": {
+    "fat": "0.3",
+    "saturates": "0.01",
+    "monounsaturates": "0.03",
+    "polyunsaturates": "0.195",
+    "carbohydrate": "7.01",
+    "sugars": "7.01",
+    "starch": "0",
+    "polyols": "0.003",
+    "fibre": "4.7",
+    "protein": "0.5",
+    "sodium": "0.0005",
+    "alcohol": "0",
+    "organicAcids": "2.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F307100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

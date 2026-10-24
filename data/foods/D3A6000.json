@@ -1,0 +1,44 @@
+{
+  "code": "D3A6000",
+  "name": {
+    "de": "Frischkäse-Torte (ohne Backen)",
+    "en": "Cheesecake (without baking)"
+  },
+  "per100g": {
+    "fat": "17.9",
+    "saturates": "11.2",
+    "monounsaturates": "4.32",
+    "polyunsaturates": "0.56",
+    "carbohydrate": "15.1",
+    "sugars": "11",
+    "starch": "4.1",
+    "polyols": "0",
+    "fibre": "0.21",
+    "protein": "5.5",
+    "sodium": "0.15",
+    "alcohol": "0",
+    "organicAcids": "0.67"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D3A6000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

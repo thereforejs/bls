@@ -1,0 +1,44 @@
+{
+  "code": "X532512",
+  "name": {
+    "de": "Broccoli gedünstet (mit Fett und Salz)",
+    "en": "Broccoli stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "5.64",
+    "saturates": "0.48",
+    "monounsaturates": "2.92",
+    "polyunsaturates": "1.64",
+    "carbohydrate": "2.4",
+    "sugars": "1.43",
+    "starch": "0.562",
+    "polyols": "0.4",
+    "fibre": "3.1",
+    "protein": "3.738",
+    "sodium": "0.187",
+    "alcohol": "0",
+    "organicAcids": "0.34"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X532512",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

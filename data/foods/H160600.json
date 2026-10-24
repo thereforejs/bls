@@ -1,0 +1,44 @@
+{
+  "code": "H160600",
+  "name": {
+    "de": "Pekannuss geröstet ohne Fett",
+    "en": "Pecan roasted without fat"
+  },
+  "per100g": {
+    "fat": "74.3",
+    "saturates": "5.7",
+    "monounsaturates": "47.9",
+    "polyunsaturates": "16.5",
+    "carbohydrate": "4.3",
+    "sugars": "4.1",
+    "starch": "0.24",
+    "polyols": "0",
+    "fibre": "9.4",
+    "protein": "11.2",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H160600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

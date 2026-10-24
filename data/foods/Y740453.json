@@ -1,0 +1,44 @@
+{
+  "code": "Y740453",
+  "name": {
+    "de": "Eier weich gekocht, mit Senfsauce",
+    "en": "Eggs soft boiled, with mustard sauce"
+  },
+  "per100g": {
+    "fat": "7.3",
+    "saturates": "2.9",
+    "monounsaturates": "2.35",
+    "polyunsaturates": "0.78",
+    "carbohydrate": "2.29",
+    "sugars": "0.97",
+    "starch": "1.32",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "6.73",
+    "sodium": "0.26",
+    "alcohol": "0",
+    "organicAcids": "0.18"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y740453",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

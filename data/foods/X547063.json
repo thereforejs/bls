@@ -1,0 +1,44 @@
+{
+  "code": "X547063",
+  "name": {
+    "de": "Lauch/Porree, gedünstet (mit Fett und Salz)",
+    "en": "Leek stewed (with fat and salt)"
+  },
+  "per100g": {
+    "fat": "6.04",
+    "saturates": "0.45",
+    "monounsaturates": "3.33",
+    "polyunsaturates": "1.68",
+    "carbohydrate": "5",
+    "sugars": "4",
+    "starch": "1",
+    "polyols": "0",
+    "fibre": "2.3",
+    "protein": "2.27",
+    "sodium": "0.2761",
+    "alcohol": "0",
+    "organicAcids": "0.235"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X547063",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C147032",
+  "name": {
+    "de": "Gerste Grütze, gekocht",
+    "en": "Barley groats, boiled"
+  },
+  "per100g": {
+    "fat": "0.417",
+    "saturates": "0.105",
+    "monounsaturates": "0.05",
+    "polyunsaturates": "0.25",
+    "carbohydrate": "17.225",
+    "sugars": "0.475",
+    "starch": "16.75",
+    "polyols": "0",
+    "fibre": "2.861",
+    "protein": "2.362",
+    "sodium": "0.001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C147032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

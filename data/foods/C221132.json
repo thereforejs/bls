@@ -1,0 +1,44 @@
+{
+  "code": "C221132",
+  "name": {
+    "de": "Roggen Vollkornschrot, gekocht",
+    "en": "Rye coarse meal, boiled"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0.03",
+    "monounsaturates": "0.06",
+    "polyunsaturates": "0.1",
+    "carbohydrate": "8.52",
+    "sugars": "0.216",
+    "starch": "8.3",
+    "polyols": "0",
+    "fibre": "2.97",
+    "protein": "1.31",
+    "sodium": "0.0001",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C221132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

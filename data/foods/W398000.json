@@ -1,0 +1,44 @@
+{
+  "code": "W398000",
+  "name": {
+    "de": "Kalbfleischpastete mit Schweinefleisch",
+    "en": "Veal pate with pork"
+  },
+  "per100g": {
+    "fat": "7.18",
+    "saturates": "2.68",
+    "monounsaturates": "2.71",
+    "polyunsaturates": "0.79",
+    "carbohydrate": "0.09",
+    "sugars": "0.01",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.07",
+    "protein": "15.28",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W398000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "C219000",
+  "name": {
+    "de": "Hartweizen Vollkornmehl",
+    "en": "Durum wheat wholemeal flour"
+  },
+  "per100g": {
+    "fat": "2.32",
+    "saturates": "0.352",
+    "monounsaturates": "0.357",
+    "polyunsaturates": "0.953",
+    "carbohydrate": "60.94",
+    "sugars": "1.07092",
+    "starch": "59.87",
+    "polyols": "0",
+    "fibre": "11.76",
+    "protein": "14.4",
+    "sodium": "0.0007",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C219000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

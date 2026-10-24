@@ -1,0 +1,44 @@
+{
+  "code": "H511900",
+  "name": {
+    "de": "Oliven grün, gefüllt mit Mandeln, gesäuert, abgetropft",
+    "en": "Olives green, filled with almonds, pickled, drained"
+  },
+  "per100g": {
+    "fat": "19.5",
+    "saturates": "2.65",
+    "monounsaturates": "12.88",
+    "polyunsaturates": "2.6",
+    "carbohydrate": "0.69",
+    "sugars": "0.654",
+    "starch": "0.04",
+    "polyols": "0",
+    "fibre": "3.7",
+    "protein": "5.012",
+    "sodium": "1.389",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "H511900",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "E107122",
+  "name": {
+    "de": "Hühnerei pochiert",
+    "en": "Chicken egg poached"
+  },
+  "per100g": {
+    "fat": "9.184",
+    "saturates": "2.487",
+    "monounsaturates": "3.494",
+    "polyunsaturates": "1.443",
+    "carbohydrate": "0.347",
+    "sugars": "0.347",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.444",
+    "sodium": "0.157",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "E107122",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

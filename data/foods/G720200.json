@@ -1,0 +1,44 @@
+{
+  "code": "G720200",
+  "name": {
+    "de": "Wachsbohne tiefgefroren",
+    "en": "Wax bean deep-frozen"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "3.7",
+    "sugars": "2.39",
+    "starch": "1",
+    "polyols": "0.3",
+    "fibre": "2.1",
+    "protein": "2.3",
+    "sodium": "0.00198",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G720200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D0A3100",
+  "name": {
+    "de": "Nuss-Wasserbiskuitboden",
+    "en": "Nut water sponge cake base"
+  },
+  "per100g": {
+    "fat": "11.12",
+    "saturates": "1.57",
+    "monounsaturates": "7.34",
+    "polyunsaturates": "1.38",
+    "carbohydrate": "50.7",
+    "sugars": "34.704",
+    "starch": "16",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "9.15",
+    "sodium": "0.119",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D0A3100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

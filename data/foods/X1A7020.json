@@ -1,0 +1,44 @@
+{
+  "code": "X1A7020",
+  "name": {
+    "de": "Wurstsalat mit Gewürzgurke und Essigmarinade",
+    "en": "Sausage salad with gherkin and vinegar marinade"
+  },
+  "per100g": {
+    "fat": "23.44",
+    "saturates": "7.14",
+    "monounsaturates": "11.21",
+    "polyunsaturates": "3.83",
+    "carbohydrate": "1.55",
+    "sugars": "1.53",
+    "starch": "0.01",
+    "polyols": "0.011",
+    "fibre": "0.2",
+    "protein": "7.58",
+    "sodium": "0.748",
+    "alcohol": "0.01",
+    "organicAcids": "1.11"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X1A7020",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

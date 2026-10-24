@@ -1,0 +1,44 @@
+{
+  "code": "G583132",
+  "name": {
+    "de": "Chayote gekocht",
+    "en": "Chayote boiled"
+  },
+  "per100g": {
+    "fat": "0.098",
+    "saturates": "0.025",
+    "monounsaturates": "0.009",
+    "polyunsaturates": "0.047",
+    "carbohydrate": "5.69",
+    "sugars": "5",
+    "starch": "0.685",
+    "polyols": "0.008",
+    "fibre": "3.467",
+    "protein": "0.76",
+    "sodium": "0.002",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G583132",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

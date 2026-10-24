@@ -1,0 +1,44 @@
+{
+  "code": "T710902",
+  "name": {
+    "de": "Edelkrebs/Flusskrebs, Konserve, abgetropft",
+    "en": "Crayfish canned, drained"
+  },
+  "per100g": {
+    "fat": "0.638",
+    "saturates": "0.0914",
+    "monounsaturates": "0.1109",
+    "polyunsaturates": "0.1644",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "18",
+    "sodium": "0.356",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "T710902",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

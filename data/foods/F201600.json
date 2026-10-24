@@ -1,0 +1,44 @@
+{
+  "code": "F201600",
+  "name": {
+    "de": "Aprikosensaft",
+    "en": "Apricot juice"
+  },
+  "per100g": {
+    "fat": "0.104",
+    "saturates": "0.0083",
+    "monounsaturates": "0.051",
+    "polyunsaturates": "0.023",
+    "carbohydrate": "10.8",
+    "sugars": "10.1",
+    "starch": "0",
+    "polyols": "0.72",
+    "fibre": "0.154",
+    "protein": "0.7",
+    "sodium": "0.002",
+    "alcohol": null,
+    "organicAcids": "1"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "F201600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

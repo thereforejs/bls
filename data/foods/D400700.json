@@ -1,0 +1,44 @@
+{
+  "code": "D400700",
+  "name": {
+    "de": "Englische Muffins/Toasties (Hefeteig) gebraten ohne Fett (Pfanne)",
+    "en": "English muffins/toasties (yeast dough) fried without fat (pan)"
+  },
+  "per100g": {
+    "fat": "8.47",
+    "saturates": "4.94",
+    "monounsaturates": "1.77",
+    "polyunsaturates": "0.6",
+    "carbohydrate": "61",
+    "sugars": "6.81",
+    "starch": "54",
+    "polyols": "0",
+    "fibre": "4.15",
+    "protein": "10.55",
+    "sodium": "0.486",
+    "alcohol": "0",
+    "organicAcids": "0.021"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D400700",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

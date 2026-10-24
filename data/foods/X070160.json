@@ -1,0 +1,44 @@
+{
+  "code": "X070160",
+  "name": {
+    "de": "Clubsandwich mit Hähnchenbrustfilet, Tomaten, Speck und Mayonnaise",
+    "en": "Club sandwich with chicken breast fillet, tomatoes, bacon and mayonnaise"
+  },
+  "per100g": {
+    "fat": "11.3",
+    "saturates": "2.65",
+    "monounsaturates": "5.21",
+    "polyunsaturates": "2.12",
+    "carbohydrate": "12.38",
+    "sugars": "1.96",
+    "starch": "10.42",
+    "polyols": "0",
+    "fibre": "1.5",
+    "protein": "11.2",
+    "sodium": "0.5",
+    "alcohol": "0.001",
+    "organicAcids": "0.21"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X070160",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D736100",
+  "name": {
+    "de": "Käseknusperchen salzig (Mürbeteig)",
+    "en": "Crispy cheese biscuits salted (shortcrust pastry)"
+  },
+  "per100g": {
+    "fat": "33.97",
+    "saturates": "20.54",
+    "monounsaturates": "7.85",
+    "polyunsaturates": "1.75",
+    "carbohydrate": "25.8",
+    "sugars": "0.507",
+    "starch": "25.3",
+    "polyols": "0",
+    "fibre": "4.19",
+    "protein": "10.4",
+    "sodium": "0.189",
+    "alcohol": "0",
+    "organicAcids": "0.187"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D736100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

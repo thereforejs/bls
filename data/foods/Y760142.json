@@ -1,0 +1,44 @@
+{
+  "code": "Y760142",
+  "name": {
+    "de": "Quarkklöße (mit Zucker und Zimt)",
+    "en": "Quark dumplings (with sugar and cinnamon)"
+  },
+  "per100g": {
+    "fat": "6.4",
+    "saturates": "3.68",
+    "monounsaturates": "1.59",
+    "polyunsaturates": "0.48",
+    "carbohydrate": "20.7",
+    "sugars": "7.68",
+    "starch": "13",
+    "polyols": "0",
+    "fibre": "0.99",
+    "protein": "9.6",
+    "sodium": "0.107",
+    "alcohol": "0",
+    "organicAcids": "0.381"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y760142",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

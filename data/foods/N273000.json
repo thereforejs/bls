@@ -1,0 +1,44 @@
+{
+  "code": "N273000",
+  "name": {
+    "de": "Ananassaftschorle",
+    "en": "Pineapple juice spritzer"
+  },
+  "per100g": {
+    "fat": "0.05",
+    "saturates": "0.009",
+    "monounsaturates": "0.01",
+    "polyunsaturates": "0.01",
+    "carbohydrate": "5.354",
+    "sugars": "4.854",
+    "starch": "0",
+    "polyols": "0.5",
+    "fibre": "0.155",
+    "protein": "0.2",
+    "sodium": "0.003",
+    "alcohol": "0.01",
+    "organicAcids": "0.338"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N273000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

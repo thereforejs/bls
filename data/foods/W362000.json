@@ -1,0 +1,44 @@
+{
+  "code": "W362000",
+  "name": {
+    "de": "Presswurst",
+    "en": "Presswurst brawn"
+  },
+  "per100g": {
+    "fat": "12.66",
+    "saturates": "5.1",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "1.05",
+    "carbohydrate": "0.48",
+    "sugars": "0.3",
+    "starch": "0.18",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "21.73",
+    "sodium": "0.7",
+    "alcohol": "0",
+    "organicAcids": "0.007"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W362000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

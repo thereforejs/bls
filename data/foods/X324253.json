@@ -1,0 +1,44 @@
+{
+  "code": "X324253",
+  "name": {
+    "de": "Kräutersauce von Bechamelsauce",
+    "en": "Herb sauce from Bechamel sauce"
+  },
+  "per100g": {
+    "fat": "6.2",
+    "saturates": "4",
+    "monounsaturates": "1.34",
+    "polyunsaturates": "0.15",
+    "carbohydrate": "5.42",
+    "sugars": "2.44",
+    "starch": "2.98",
+    "polyols": "0",
+    "fibre": "0.22",
+    "protein": "2.5",
+    "sodium": "0.199",
+    "alcohol": "0",
+    "organicAcids": "0.036"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X324253",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

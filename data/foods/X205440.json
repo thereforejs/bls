@@ -1,0 +1,44 @@
+{
+  "code": "X205440",
+  "name": {
+    "de": "Tomaten-Paprikasalat mit Essigmarinade",
+    "en": "Tomato-sweet pepper salad with vinegar marinade"
+  },
+  "per100g": {
+    "fat": "8.63",
+    "saturates": "0.64",
+    "monounsaturates": "4.91",
+    "polyunsaturates": "2.37",
+    "carbohydrate": "3.17",
+    "sugars": "3.16",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "1.3",
+    "protein": "0.76",
+    "sodium": "0.067",
+    "alcohol": "0.005",
+    "organicAcids": "0.72"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X205440",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

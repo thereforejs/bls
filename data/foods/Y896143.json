@@ -1,0 +1,44 @@
+{
+  "code": "Y896143",
+  "name": {
+    "de": "Pfitzauf/Kuchenmichel, gebacken",
+    "en": "Cake souffle"
+  },
+  "per100g": {
+    "fat": "9.47",
+    "saturates": "4.31",
+    "monounsaturates": "3",
+    "polyunsaturates": "1.08",
+    "carbohydrate": "30.07",
+    "sugars": "6.75",
+    "starch": "23.32",
+    "polyols": "0",
+    "fibre": "1.73",
+    "protein": "8.21",
+    "sodium": "0.062",
+    "alcohol": "0",
+    "organicAcids": "0.033"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y896143",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

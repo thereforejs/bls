@@ -1,0 +1,44 @@
+{
+  "code": "N005000",
+  "name": {
+    "de": "Sekt alkoholfrei",
+    "en": "Sparkling wine alcohol-free"
+  },
+  "per100g": {
+    "fat": "0",
+    "saturates": "0",
+    "monounsaturates": "0",
+    "polyunsaturates": "0",
+    "carbohydrate": "5.2",
+    "sugars": "5.2",
+    "starch": "0",
+    "polyols": "0.007",
+    "fibre": "0",
+    "protein": "0",
+    "sodium": "0.0019",
+    "alcohol": "0.05",
+    "organicAcids": "0.371"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "N005000",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

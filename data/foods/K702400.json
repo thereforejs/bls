@@ -1,0 +1,44 @@
+{
+  "code": "K702400",
+  "name": {
+    "de": "Trüffel getrocknet",
+    "en": "Black truffle (Perigord black truffle) dried"
+  },
+  "per100g": {
+    "fat": "1.694",
+    "saturates": "0.299",
+    "monounsaturates": "0.037",
+    "polyunsaturates": "0.847",
+    "carbohydrate": "2",
+    "sugars": "2",
+    "starch": null,
+    "polyols": null,
+    "fibre": "54.923",
+    "protein": "27.521",
+    "sodium": "0.256",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "K702400",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

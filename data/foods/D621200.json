@@ -1,0 +1,44 @@
+{
+  "code": "D621200",
+  "name": {
+    "de": "Waffelkekse",
+    "en": "Waffle biscuits"
+  },
+  "per100g": {
+    "fat": "13.02",
+    "saturates": "6.21",
+    "monounsaturates": "4.2",
+    "polyunsaturates": "1.1",
+    "carbohydrate": "37.9",
+    "sugars": "18.5",
+    "starch": "19.42",
+    "polyols": "0",
+    "fibre": "2.1",
+    "protein": "5.44",
+    "sodium": "0.028",
+    "alcohol": "0",
+    "organicAcids": "0.009"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D621200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

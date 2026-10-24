@@ -1,0 +1,44 @@
+{
+  "code": "Y171123",
+  "name": {
+    "de": "Rinderherz geschmort, mit Sauce",
+    "en": "Beef heart, braised, with sauce"
+  },
+  "per100g": {
+    "fat": "8.6",
+    "saturates": "2.6",
+    "monounsaturates": "2.5",
+    "polyunsaturates": "1.07",
+    "carbohydrate": "3.5",
+    "sugars": "0.6",
+    "starch": "2.93",
+    "polyols": "0",
+    "fibre": "0.3",
+    "protein": "11.6",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0.09"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y171123",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

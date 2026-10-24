@@ -1,0 +1,44 @@
+{
+  "code": "M171500",
+  "name": {
+    "de": "Kaffeesahne mind. 10 % Fett",
+    "en": "Coffee cream min. 10 % fat"
+  },
+  "per100g": {
+    "fat": "10.5",
+    "saturates": "6.397",
+    "monounsaturates": "2.883",
+    "polyunsaturates": "0.315",
+    "carbohydrate": "4.05",
+    "sugars": "4.05",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "3.037",
+    "sodium": "0.04",
+    "alcohol": "0",
+    "organicAcids": "0.398"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M171500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

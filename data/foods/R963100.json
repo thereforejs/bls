@@ -1,0 +1,44 @@
+{
+  "code": "R963100",
+  "name": {
+    "de": "Brotaufstrich Tomate-Mozzarella",
+    "en": "Tomato-mozzarella spread"
+  },
+  "per100g": {
+    "fat": "19.4",
+    "saturates": "3.5",
+    "monounsaturates": "9.8",
+    "polyunsaturates": "4.4",
+    "carbohydrate": "10.2",
+    "sugars": "8.3",
+    "starch": "1.93",
+    "polyols": "0.002",
+    "fibre": "2.2",
+    "protein": "4.8",
+    "sodium": "0.6",
+    "alcohol": "0.01",
+    "organicAcids": "0.96"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R963100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "M827300",
+  "name": {
+    "de": "Frischkäsezubereitung mind. 20 % Fett i. Tr., mit Gemüse/Kräutern",
+    "en": "Cream cheese preparation min. 20 % fat in dry matter, with vegetables/herbs"
+  },
+  "per100g": {
+    "fat": "7.5",
+    "saturates": "3.9",
+    "monounsaturates": "2.3",
+    "polyunsaturates": "0.3",
+    "carbohydrate": "3.6",
+    "sugars": "3.6",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "13.2",
+    "sodium": "0.39",
+    "alcohol": "0",
+    "organicAcids": "0.9"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M827300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

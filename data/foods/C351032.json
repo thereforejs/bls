@@ -1,0 +1,44 @@
+{
+  "code": "C351032",
+  "name": {
+    "de": "Reis unpoliert, gekocht",
+    "en": "Brown rice boiled"
+  },
+  "per100g": {
+    "fat": "0.917",
+    "saturates": "0.1613",
+    "monounsaturates": "0.354",
+    "polyunsaturates": "0.32",
+    "carbohydrate": "26.32",
+    "sugars": "0.26",
+    "starch": "26.062",
+    "polyols": "0",
+    "fibre": "1.4",
+    "protein": "3.006",
+    "sodium": "0.001179",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "C351032",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

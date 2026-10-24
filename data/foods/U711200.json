@@ -1,0 +1,44 @@
+{
+  "code": "U711200",
+  "name": {
+    "de": "Schaf Filetmedaillon, tiefgefroren",
+    "en": "Sheep fillet medaillon, deep-frozen"
+  },
+  "per100g": {
+    "fat": "2.97",
+    "saturates": "0.91",
+    "monounsaturates": "0.982",
+    "polyunsaturates": "0.295",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "22.79",
+    "sodium": "0.049",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U711200",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

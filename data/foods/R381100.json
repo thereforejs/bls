@@ -1,0 +1,44 @@
+{
+  "code": "R381100",
+  "name": {
+    "de": "Orangeat",
+    "en": "Candied orange peel"
+  },
+  "per100g": {
+    "fat": "0.2",
+    "saturates": null,
+    "monounsaturates": null,
+    "polyunsaturates": "0",
+    "carbohydrate": "62.9",
+    "sugars": "62.9",
+    "starch": "0",
+    "polyols": null,
+    "fibre": "3.3",
+    "protein": "0",
+    "sodium": "0.056",
+    "alcohol": "0",
+    "organicAcids": "0.12"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "R381100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

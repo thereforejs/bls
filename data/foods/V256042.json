@@ -1,0 +1,44 @@
+{
+  "code": "V256042",
+  "name": {
+    "de": "Wildschwein Fleisch, geschmort ohne Fett",
+    "en": "Wild boar meat, braised without fat"
+  },
+  "per100g": {
+    "fat": "10.783",
+    "saturates": "3.766",
+    "monounsaturates": "5.235",
+    "polyunsaturates": "0.829",
+    "carbohydrate": "0",
+    "sugars": "0",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "26.848",
+    "sodium": "0.082",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V256042",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

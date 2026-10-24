@@ -1,0 +1,44 @@
+{
+  "code": "M713300",
+  "name": {
+    "de": "Speisequark Halbfettstufe, 20 % Fett i. Tr.",
+    "en": "Quark 20 % fat in dry matter"
+  },
+  "per100g": {
+    "fat": "5.1",
+    "saturates": "2.762",
+    "monounsaturates": "1.305",
+    "polyunsaturates": "0.134",
+    "carbohydrate": "3.04",
+    "sugars": "3.04",
+    "starch": "0",
+    "polyols": "0",
+    "fibre": "0",
+    "protein": "12.245",
+    "sodium": "0.035",
+    "alcohol": "0",
+    "organicAcids": "0.919"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "M713300",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "D650100",
+  "name": {
+    "de": "Dominosteine",
+    "en": "Domino dices (petit fours)"
+  },
+  "per100g": {
+    "fat": "11.4",
+    "saturates": "4.66",
+    "monounsaturates": "4.9",
+    "polyunsaturates": "1.3",
+    "carbohydrate": "58.4",
+    "sugars": "53.3",
+    "starch": "5.02",
+    "polyols": "0.011",
+    "fibre": "3.6",
+    "protein": "4",
+    "sodium": "0.011",
+    "alcohol": "0.1",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "D650100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

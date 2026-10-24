@@ -1,0 +1,44 @@
+{
+  "code": "W872500",
+  "name": {
+    "de": "Jagdwurst/Schinkenwurst grob, Konserve",
+    "en": "Jagdwurst sausage/ham bologna coarsely minced, canned"
+  },
+  "per100g": {
+    "fat": "10.46",
+    "saturates": "3.78",
+    "monounsaturates": "3.78",
+    "polyunsaturates": "1.25",
+    "carbohydrate": "0.08",
+    "sugars": "0",
+    "starch": "0.08",
+    "polyols": "0",
+    "fibre": "0.05",
+    "protein": "14.46",
+    "sodium": "0.8",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W872500",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

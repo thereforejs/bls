@@ -1,0 +1,44 @@
+{
+  "code": "Y372012",
+  "name": {
+    "de": "Schweinehirn gebraten mit Ei",
+    "en": "Pork brain fried with egg"
+  },
+  "per100g": {
+    "fat": "10.85",
+    "saturates": "2.22",
+    "monounsaturates": "1.85",
+    "polyunsaturates": "1.23",
+    "carbohydrate": "0.4",
+    "sugars": "0.38",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "12.15",
+    "sodium": "0.38",
+    "alcohol": "0",
+    "organicAcids": "0.28"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y372012",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

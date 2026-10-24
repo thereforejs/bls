@@ -1,0 +1,44 @@
+{
+  "code": "Y516112",
+  "name": {
+    "de": "Hirschbraten ohne Sauce",
+    "en": "Venison roast without sauce"
+  },
+  "per100g": {
+    "fat": "6.05",
+    "saturates": "1.8",
+    "monounsaturates": "0.53",
+    "polyunsaturates": "0.81",
+    "carbohydrate": "0.05",
+    "sugars": "0.032",
+    "starch": "0.02",
+    "polyols": "0",
+    "fibre": "0.01",
+    "protein": "26.48",
+    "sodium": "0.3",
+    "alcohol": "0",
+    "organicAcids": "0"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y516112",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

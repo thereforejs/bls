@@ -1,0 +1,44 @@
+{
+  "code": "Y883340",
+  "name": {
+    "de": "Schwarzwaldbecher mit Quark (mit Alkohol)",
+    "en": "Quarkdish with sour cherries, chocolate and cherry brandy"
+  },
+  "per100g": {
+    "fat": "9.94",
+    "saturates": "5.49",
+    "monounsaturates": "2.67",
+    "polyunsaturates": "0.27",
+    "carbohydrate": "16.1",
+    "sugars": "15.7",
+    "starch": "0.2",
+    "polyols": "0.249",
+    "fibre": "0.97",
+    "protein": "5.29",
+    "sodium": "0.028",
+    "alcohol": "1.2",
+    "organicAcids": "0.497"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "Y883340",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

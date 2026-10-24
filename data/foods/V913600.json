@@ -1,0 +1,44 @@
+{
+  "code": "V913600",
+  "name": {
+    "de": "Hähnchenpastete gebacken",
+    "en": "Chicken pate baked"
+  },
+  "per100g": {
+    "fat": "11.4",
+    "saturates": "4.63",
+    "monounsaturates": "3.4",
+    "polyunsaturates": "1.51",
+    "carbohydrate": "7.7",
+    "sugars": "0.071",
+    "starch": "7.6",
+    "polyols": "0",
+    "fibre": "0.57",
+    "protein": "19.2",
+    "sodium": "0.2",
+    "alcohol": "0",
+    "organicAcids": "0.0045"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "V913600",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "code": "X427153",
+  "name": {
+    "de": "Fleischbrühe mit Leberspätzle/Leberreis",
+    "en": "Meat stock with liver spaetzle"
+  },
+  "per100g": {
+    "fat": "1.5",
+    "saturates": "0.6",
+    "monounsaturates": "0.4",
+    "polyunsaturates": "0.19",
+    "carbohydrate": "7.88",
+    "sugars": "0.11",
+    "starch": "7.77",
+    "polyols": "0",
+    "fibre": "0.6",
+    "protein": "4.13",
+    "sodium": "0.221",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X427153",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

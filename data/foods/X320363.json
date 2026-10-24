@@ -1,0 +1,44 @@
+{
+  "code": "X320363",
+  "name": {
+    "de": "Bechamelsauce mit Sahne",
+    "en": "Bechamel sauce with cream"
+  },
+  "per100g": {
+    "fat": "16.4",
+    "saturates": "9.2",
+    "monounsaturates": "4.09",
+    "polyunsaturates": "0.4",
+    "carbohydrate": "4.91",
+    "sugars": "2.9",
+    "starch": "2.01",
+    "polyols": "0",
+    "fibre": "0.15",
+    "protein": "2.57",
+    "sodium": "0.147",
+    "alcohol": "0",
+    "organicAcids": "0.08"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X320363",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

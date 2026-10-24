@@ -1,0 +1,44 @@
+{
+  "code": "X636043",
+  "name": {
+    "de": "Kartoffelpüree, zubereitet aus Instantpulver, Wasser, Milch 3,5 % Fett und Fett",
+    "en": "Potato puree, made from instant powder, water, milk 3.5 % fat and fat"
+  },
+  "per100g": {
+    "fat": "3.33",
+    "saturates": "1.76",
+    "monounsaturates": "0.98",
+    "polyunsaturates": "0.23",
+    "carbohydrate": "11.09",
+    "sugars": "1.41",
+    "starch": "9.676",
+    "polyols": "0",
+    "fibre": "0.828",
+    "protein": "2.26",
+    "sodium": "0.163",
+    "alcohol": "0",
+    "organicAcids": "0.023"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "X636043",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

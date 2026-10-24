@@ -1,0 +1,44 @@
+{
+  "code": "U632072",
+  "name": {
+    "de": "Schwein Kamm, mariniert, gegrillt",
+    "en": "Pork neck, marinated, grilled"
+  },
+  "per100g": {
+    "fat": "18.76",
+    "saturates": "5.07",
+    "monounsaturates": "8.58",
+    "polyunsaturates": "2.91",
+    "carbohydrate": "0.16",
+    "sugars": "0.15",
+    "starch": "0.01",
+    "polyols": "0",
+    "fibre": "0.2",
+    "protein": "22.87",
+    "sodium": "0.5",
+    "alcohol": "0",
+    "organicAcids": "0.094"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "U632072",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

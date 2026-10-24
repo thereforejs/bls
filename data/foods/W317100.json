@@ -1,0 +1,44 @@
+{
+  "code": "W317100",
+  "name": {
+    "de": "Leberpresssack einfach",
+    "en": "Liver brawn simple"
+  },
+  "per100g": {
+    "fat": "25.3",
+    "saturates": "11.27",
+    "monounsaturates": "7.78",
+    "polyunsaturates": "2.79",
+    "carbohydrate": "0.47",
+    "sugars": "0.11",
+    "starch": "0.36",
+    "polyols": "0",
+    "fibre": "0.1",
+    "protein": "15.3",
+    "sodium": "0.72",
+    "alcohol": "0",
+    "organicAcids": "0.002"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "W317100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}

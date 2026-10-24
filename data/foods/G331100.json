@@ -1,0 +1,44 @@
+{
+  "code": "G331100",
+  "name": {
+    "de": "Kohlrabi roh",
+    "en": "Kohlrabi raw"
+  },
+  "per100g": {
+    "fat": "0.16",
+    "saturates": "0.028",
+    "monounsaturates": "0.0138",
+    "polyunsaturates": "0.071",
+    "carbohydrate": "3.88",
+    "sugars": "3.704",
+    "starch": "0",
+    "polyols": "0.14",
+    "fibre": "1.5",
+    "protein": "1.94",
+    "sodium": "0.02",
+    "alcohol": "0",
+    "organicAcids": "0.314"
+  },
+  "marks": {},
+  "sources": [
+    {
+      "source": "bls-4.0",
+      "id": "G331100",
+      "nutrients": [
+        "fat",
+        "saturates",
+        "monounsaturates",
+        "polyunsaturates",
+        "carbohydrate",
+        "sugars",
+        "starch",
+        "polyols",
+        "fibre",
+        "protein",
+        "sodium",
+        "alcohol",
+        "organicAcids"
+      ]
+    }
+  ]
+}
