@@ -24,8 +24,8 @@ reviews:
   path_instructions:
     - path: "**"
       instructions: |
-        This package prepares the Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut) as data
-        for @thereforejs/nutrition. It calculates nothing. A silently changed value is the worst
+        This package is an open, maintained food composition database for @thereforejs/nutrition,
+        seeded from the BLS 4.0 (Max Rubner-Institut). It calculates nothing. A silently changed value is the worst
         possible bug; correctness beats style. SPEC.md is the source of truth for every rule; flag
         code that disagrees with it.
         - No em dashes or en dashes anywhere (code, comments, docs); a plain hyphen only.
@@ -33,8 +33,8 @@ reviews:
           the BLS 4.0 documentation is the comment.
     - path: "scripts/**/*.ts"
       instructions: |
-        - It prepares, it never repairs (SPEC 2). Flag any value that is changed, dropped, clamped or
-          filled without being listed in the build report.
+        - Every value has its source (SPEC 2). Flag any value that is changed, dropped, clamped or
+          filled without its source in the food's `sources`, and any estimated value.
         - A BLS `-` is `null`, never `0`; a real `0` stays `0` (BLS documentation 4.3). `<LOD`, `<LOQ`
           and `TR` are neither zero nor missing. Flag any path that turns one into the other.
         - Numbers are written as the shortest decimal that reads back to the source double. Flag

@@ -1,11 +1,13 @@
-# bls
+# foods
 
-The Bundeslebensmittelschlüssel 4.0 (BLS, the German food composition database) prepared as exact,
-tree-shakable nutrient data for [`@thereforejs/nutrition`](https://github.com/thereforejs/nutrition).
+An open, maintained food composition database as exact, tree-shakable data for
+[`@thereforejs/nutrition`](https://github.com/thereforejs/nutrition). It starts from the German
+Bundeslebensmittelschlüssel 4.0 (BLS) and grows from other openly licensed sources, every value with
+its source.
 
 > [!IMPORTANT]
-> This package is **not published by the Max Rubner-Institut**. It is an unofficial preparation of
-> the BLS 4.0 data. The original is available at https://www.blsdb.de.
+> This package is **not published by the Max Rubner-Institut**. It contains data derived from the
+> BLS 4.0; the original is available at https://www.blsdb.de.
 
 > [!WARNING]
 > Early development (0.x). Nothing is published yet and the API will change.
@@ -13,7 +15,7 @@ tree-shakable nutrient data for [`@thereforejs/nutrition`](https://github.com/th
 ## Usage
 
 ```ts
-import { C131000 } from "@thereforejs/bls"; // Hafer ganzes Korn, roh
+import { C131000 } from "@thereforejs/foods"; // Hafer ganzes Korn, roh
 
 C131000.per100g; // { fat: "7.09", saturates: "1.43", ..., sodium: "0.008", organicAcids: "0" }
 ```
@@ -22,10 +24,10 @@ Every food is a named export under its BLS code, so a bundle holds only the food
 application that picks foods at runtime imports the namespace:
 
 ```ts
-import * as bls from "@thereforejs/bls";
-import type { Food } from "@thereforejs/bls";
+import * as foods from "@thereforejs/foods";
+import type { Food } from "@thereforejs/foods";
 
-const byCode: Record<string, Food> = bls;
+const byCode: Record<string, Food> = foods;
 const food = byCode[code]; // undefined for an unknown code
 ```
 

@@ -1,26 +1,27 @@
 {
-  "name": "@thereforejs/bls",
+  "name": "@thereforejs/foods",
   "version": "0.0.0",
-  "description": "Unofficial preparation of the Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut) as exact, tree-shakable nutrient data for @thereforejs/nutrition",
+  "description": "An open, maintained food composition database as exact, tree-shakable data for @thereforejs/nutrition, starting from the German BLS 4.0",
   "keywords": [
     "bls",
     "bundeslebensmittelschluessel",
     "food-composition",
+    "food-database",
     "lmiv",
     "max-rubner-institut",
     "nutrient-database",
     "nutrition",
     "nutrition-declaration"
   ],
-  "homepage": "https://github.com/thereforejs/bls#readme",
+  "homepage": "https://github.com/thereforejs/foods#readme",
   "bugs": {
-    "url": "https://github.com/thereforejs/bls/issues"
+    "url": "https://github.com/thereforejs/foods/issues"
   },
   "license": "MIT AND CC-BY-4.0",
   "author": "Florian Heuberger",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thereforejs/bls.git"
+    "url": "git+https://github.com/thereforejs/foods.git"
   },
   "files": [
     "dist"
