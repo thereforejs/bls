@@ -79,6 +79,16 @@ describe("setting values from a source", () => {
     expect(food.marks.fat).toBe(mark);
   });
 
+  // Sources give sodium in mg, the data holds grams: a bare number would be read as 1000 times too much.
+  test.each([
+    ["40mg", "0.04"],
+    ["0.04 g", "0.04"],
+    ["Tr", null],
+    ["-", null],
+  ])("sodium %s is written as %s", (raw, value) => {
+    expect(setValues(plantain(), cofid, { sodium: raw }).per100g.sodium).toBe(value);
+  });
+
   test("a mark that was there goes when a value comes", () => {
     const marked = setValues(plantain(), cofid, { fat: "Tr" });
     expect(setValues(marked, cofid, { fat: "0.3" }).marks).toEqual({});
@@ -92,7 +102,7 @@ describe("setting values from a source", () => {
   });
 
   test("an entry that loses all its nutrients disappears", () => {
-    const all = Object.fromEntries(NUTRIENTS.map((key) => [key, "1"]));
+    const all = Object.fromEntries(NUTRIENTS.map((key) => [key, key === "sodium" ? "1g" : "1"]));
     expect(setValues(plantain(), cofid, all).sources).toEqual([
       { ...cofid, nutrients: [...NUTRIENTS] },
     ]);
@@ -105,6 +115,7 @@ describe("setting values from a source", () => {
     ["text that is no value", cofid, { fat: "ca. 3" }, /ca\. 3/],
     ["a negative value", cofid, { fat: "-1" }, /-1/],
     ["another unit", cofid, { fat: "3 kg" }, /3 kg/],
+    ["sodium without its unit", cofid, { sodium: "40" }, /sodium.*mg or g/],
     ["nothing to set", cofid, {}, /nothing/],
   ])("%s is refused", (_, ref, values, message) => {
     expect(() => setValues(plantain(), ref, values)).toThrow(message);
@@ -125,7 +136,9 @@ describe("a new food", () => {
   });
 
   test("filled from one source, it is sound", () => {
-    const all = Object.fromEntries(NUTRIENTS.map((key) => [key, "0.5"]));
+    const all = Object.fromEntries(
+      NUTRIENTS.map((key) => [key, key === "sodium" ? "0.5g" : "0.5"]),
+    );
     const food = setValues(newFood("H_000001", "Haferdrink", "Oat drink"), cofid, all);
     expect(checkFood(food)).toEqual([]);
   });

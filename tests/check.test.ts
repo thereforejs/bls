@@ -124,6 +124,18 @@ describe("sources", () => {
     });
   });
 
+  test("the same source but another entry is another source", () => {
+    const split = oats();
+    split.sources = [
+      { source: "bls-4.0", id: "C131000", nutrients: ALL.filter((key) => key !== "saturates") },
+      { source: "bls-4.0", id: "C131100", nutrients: ["saturates"] },
+    ];
+    expect(checkFood(split)).toContainEqual({
+      code: "source",
+      message: "saturates and fat come from different sources",
+    });
+  });
+
   test("a source that is not registered", () => {
     expect(issues((f) => (f.sources[0]!.source = "my-guess"))).toContain("source");
   });

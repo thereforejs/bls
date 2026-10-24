@@ -71,8 +71,9 @@ function read(key: string, raw: string): { value: string | null; mark?: Mark } {
   const mark = MARKS[text.toLowerCase()];
   if (mark) return { value: null, mark };
   if (text.startsWith("-")) throw new Error(`${key}: ${text} is negative`);
-  // Sources mostly give sodium in mg; the data holds grams, so a unit is read, never assumed.
-  const [, number = text, unit = "g"] = /^(.*?)\s*(mg|g)$/.exec(text) ?? [];
+  const [, number = text, unit] = /^(.*?)\s*(mg|g)$/.exec(text) ?? [];
+  // Sources mostly give sodium in mg and the data holds grams: its unit is read, never assumed.
+  if (key === "sodium" && !unit) throw new Error(`sodium: ${text} needs its unit, mg or g`);
   try {
     const value = shortestDecimal(/^\d+,\d+$/.test(number) ? number.replace(",", ".") : number);
     return { value: unit === "mg" ? gramsFromMilligrams(value) : value };

@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process";
-import { existsSync, readdirSync, writeFileSync } from "node:fs";
+import { readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { parseArgs } from "node:util";
 import { newFood } from "./edit.ts";
@@ -20,8 +20,8 @@ if (!values.group || !values.de || !values.en) {
 const ids = readdirSync(DATA).map((file) => file.replace(/\.json$/, ""));
 const id = nextId(ids, values.group);
 const path = join(DATA, `${id}.json`);
-if (existsSync(path)) throw new Error(`${path} exists`);
-writeFileSync(path, serialize(newFood(id, values.de, values.en)));
+// "wx" never overwrites: two contributors who pick the same id at once get an error, not a lost food.
+writeFileSync(path, serialize(newFood(id, values.de, values.en)), { flag: "wx" });
 execFileSync("vp", ["fmt", path], { stdio: "ignore" });
 
 console.log(`${id} created in data/foods/${id}.json`);

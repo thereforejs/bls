@@ -31,7 +31,9 @@ const byCode: Record<string, Food> = foods;
 const food = byCode[code]; // undefined for an unknown code
 ```
 
-Values are grams per 100 g as exact decimal text; `null` means no source has a value, never 0.
+Values are grams per 100 g as exact decimal text, never a number to round. A `null` is never 0:
+read `marks` first. Without a mark the source has no value; with one it found the nutrient below its
+limit of detection or quantification (`<LOD`, `<LOQ`) or only in traces (`TR`).
 
 A few foods carry values that contradict each other in the source, such as saturated fatty acids
 above the fat. They ship unchanged and are listed in [`data/open-issues.json`](./data/open-issues.json);
