@@ -18,21 +18,37 @@ export function readSheet(path: string): (string | undefined)[][] {
   const strings = files[STRINGS] ? sharedStrings(strFromU8(files[STRINGS])) : [];
 
   const rows: (string | undefined)[][] = [];
-  for (const [, number, cells = ""] of strFromU8(sheet).matchAll(
-    /<row r="(\d+)"[^>]*?(?:\/>|>(.*?)<\/row>)/gs,
+  for (const [element, attributes = "", cells = ""] of strFromU8(sheet).matchAll(
+    /<row\b([^>]*?)(?:\/>|>(.*?)<\/row>)/gs,
   )) {
+    const number = reference(/\sr="(\d+)"/.exec(attributes), element);
     const row: (string | undefined)[] = [];
-    for (const [, column = "", attributes = "", value] of cells.matchAll(
-      /<c r="([A-Z]+)\d+"([^>]*?)(?:\/>|>(?:<v>(.*?)<\/v>)?<\/c>)/gs,
+    for (const [cell, cellAttributes = "", content = ""] of cells.matchAll(
+      /<c\b([^>]*?)(?:\/>|>(.*?)<\/c>)/gs,
     )) {
-      if (value === undefined) continue;
-      row[columnIndex(column)] = attributes.includes('t="s"')
-        ? strings[Number(value)]
+      const column = reference(/\sr="([A-Z]+)\d+"/.exec(cellAttributes), cell);
+      if (content === "") continue;
+      const value = /^<v>(.*)<\/v>$/s.exec(content)?.[1];
+      if (value === undefined) throw new Error(`Unsupported cell in ${path}: ${cell}`);
+      row[columnIndex(column)] = /\st="s"/.test(cellAttributes)
+        ? sharedString(strings, value, cell)
         : unescapeXml(value);
     }
     rows[Number(number) - 1] = row;
   }
   return rows;
+}
+
+function reference(match: RegExpExecArray | null, element: string): string {
+  const value = match?.[1];
+  if (value === undefined) throw new Error(`No valid r attribute in ${element}`);
+  return value;
+}
+
+function sharedString(strings: string[], index: string, cell: string): string {
+  const text = strings[Number(index)];
+  if (text === undefined) throw new Error(`No shared string ${index} for ${cell}`);
+  return text;
 }
 
 function sharedStrings(xml: string): string[] {
@@ -43,7 +59,6 @@ function sharedStrings(xml: string): string[] {
   );
 }
 
-// A is 0, Z is 25, AA is 26.
 function columnIndex(letters: string): number {
   let index = 0;
   for (let i = 0; i < letters.length; i++) index = index * 26 + letters.charCodeAt(i) - 64;

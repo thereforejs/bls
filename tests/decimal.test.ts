@@ -34,6 +34,12 @@ describe("shortest decimal of a source cell", () => {
     },
   );
 
+  test("text below the double range is refused, not read as 0", () => {
+    expect(() => shortestDecimal("1E-400")).toThrow(/1E-400/);
+    expect(shortestDecimal("0E-400")).toBe("0");
+    expect(shortestDecimal("0.000")).toBe("0");
+  });
+
   test("more than 30 decimals is refused, not rounded", () => {
     expect(shortestDecimal("1E-30")).toBe(`0.${"0".repeat(29)}1`);
     expect(() => shortestDecimal("1E-31")).toThrow(/30/);

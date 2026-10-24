@@ -66,9 +66,31 @@ test("a row is placed by its number, not by its order", () => {
   expect(readSheet(path)).toEqual([undefined, ["2"]]);
 });
 
+test("attributes in any order", () => {
+  const path = workbook(
+    `<row spans="1:2" r="1"><c s="1" t="s" r="B1"><v>0</v></c><c s="2" r="C1"/></row>`,
+    ["<t>Fett</t>"],
+  );
+  expect(readSheet(path)).toEqual([[undefined, "Fett"]]);
+});
+
+test.each([
+  ["a row without its number", `<row><c r="A1"><v>1</v></c></row>`],
+  ["a cell without its reference", `<row r="1"><c><v>1</v></c></row>`],
+  ["a formula", `<row r="1"><c r="A1"><f>1+1</f><v>2</v></c></row>`],
+  ["an inline string", `<row r="1"><c r="A1" t="inlineStr"><is><t>x</t></is></c></row>`],
+  ["a shared string that does not exist", `<row r="1"><c r="A1" t="s"><v>1</v></c></row>`],
+])("%s is refused, never skipped", (_, sheet) => {
+  expect(() => readSheet(workbook(sheet, ["<t>only</t>"]))).toThrow();
+});
+
 test("a missing sheet is refused by name", () => {
   const dir = mkdtempSync(join(tmpdir(), "bls-xlsx-"));
   const path = join(dir, "empty.xlsx");
   writeFileSync(path, zipSync({ "xl/workbook.xml": strToU8("<workbook/>") }));
   expect(() => readSheet(path)).toThrow(/xl\/worksheets\/sheet1\.xml/);
+});
+
+test("a malformed cell reference is refused", () => {
+  expect(() => readSheet(workbook(`<row r="1"><c r="1A"><v>1</v></c></row>`, []))).toThrow(/1A/);
 });

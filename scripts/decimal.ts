@@ -9,8 +9,9 @@ const NUMBER = /^-?\d+(\.\d+)?(E[+-]?\d+)?$/i;
  */
 export function shortestDecimal(raw: string): string {
   const value = Number(raw);
-  // Number("") and Number(" ") are 0; text must never become a value.
-  if (!NUMBER.test(raw) || !Number.isFinite(value)) {
+  // Number("") and Number(" ") are 0, so is "1E-400": text must never become a value.
+  const underflow = value === 0 && /[1-9]/.test(raw.replace(/E.*$/i, ""));
+  if (!NUMBER.test(raw) || !Number.isFinite(value) || underflow) {
     throw new Error(`${JSON.stringify(raw)} is not a number`);
   }
   return toDecimalString(fromNumber(value));
