@@ -27,7 +27,8 @@ npm install @thereforejs/foods
 
 ## Use
 
-Import a food by its code. Your bundle holds only the foods you import.
+Import a food by its code: a BLS code like `C131000`, or our own like `H_000001` for foods the BLS
+does not have. Your bundle holds only the foods you import.
 
 ```ts
 import { C131000 } from "@thereforejs/foods";
@@ -68,9 +69,9 @@ You get:
 ```
 
 - **`per100g`**: grams per 100 g, sodium too. Exact decimal text, never a rounded number.
-- **`null`**: the source has no value. Never read it as 0.
-- **`marks`**: why a `null` is more than missing: `<LOD`, `<LOQ`, `<LOD or <LOQ` (below the limit of
-  detection or quantification) or `TR` (traces).
+- **`null`**: no number. Never read it as 0. Read `marks` first.
+- **`marks`**: the source's mark for a `null`: `<LOD`, `<LOQ`, `<LOD or <LOQ` (below the limit of
+  detection or quantification) or `TR` (traces). Without a mark the source has no value.
 - **`sources`**: which entry of which source each value comes from.
 
 ## With nutrition
