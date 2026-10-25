@@ -208,11 +208,14 @@ error, and the tests run the same check):
 
 Contradictions that are known and not yet resolved are listed in `data/open-issues.json`. A new one
 fails the check, and so does a listed one that is resolved but still listed, so the list only ever
-shrinks on purpose. Seeded 2026-10-24 with the BLS 4.0: 117 contradictions in 52 foods (saturates
+shrinks on purpose. Nothing ships listed: a contradiction is resolved from another open source or
+the food is left out until one has it (decided 2026-10-25). Seeded 2026-10-24 with the BLS 4.0: 117 contradictions in 52 foods (saturates
 above fat 42, mono-unsaturates 33, polyunsaturates 42; Kochbanane roh 0.116 saturates in 0.07 fat),
-none in carbohydrate, no value above 100 g.
+none in carbohydrate, no value above 100 g. 20 resolved from CoFID and USDA; the other 32 left out
+(5 cooked plantain derived from the raw one, Gemüseamaranth gebraten, 26 drinks, sweets and sauces
+whose recipe calculation gives fat 0 but fatty acids above it).
 
-`vp run generate` reports the number of marks (309) and of foods with open contradictions (52).
+`vp run generate` reports the number of marks (312) and of foods with open contradictions (0).
 
 ---
 
@@ -222,7 +225,7 @@ none in carbohydrate, no value above 100 g.
 2. Sodium mg to g; `-` to `null`; a real `0` stays `0`; a mark is `null` with the mark.
 3. Group split: every food lands in the group of its first letter, no group file holds a food of
    another group, codes like `M5B1600` included.
-4. The shipped data: all 7,140 foods, each exported under its own code, every value its shortest
+4. The shipped data: the 7,140 foods without the 32 left out, each exported under its own code, every value its shortest
    decimal.
 5. Every shipped food passes nutrition's input rules or is listed in the build report.
 6. Reproducibility: two builds give byte-identical files.

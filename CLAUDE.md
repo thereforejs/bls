@@ -32,9 +32,11 @@ in section 11 are not reopened without him.
 - Change data only with `vp run food:new` / `vp run food:set` (`CONTRIBUTING.md`), never by hand.
   Our ids are group + `_` + six digits (`H_000001`); never invent a BLS-like code.
 - `vp run import:bls` seeded `data/foods` from the BLS ZIP once. It is a tool for us and only writes
-  files that do not exist; it never overwrites maintained data.
+  files that do not exist; it never overwrites maintained data. It would bring back the 32 foods left
+  out for contradicting values (SPEC 8), so do not run it on the maintained data.
 - `data/open-issues.json` lists the known contradictions (a part above its whole). The check fails on a
-  new one and on a resolved one still listed (SPEC 8).
+  new one and on a resolved one still listed (SPEC 8). Nothing ships listed: resolve it or leave the
+  food out.
 - `vp run generate` renders the ignored `src/foods/` from `data/foods`; run it after a fresh clone and
   before `vp check`. Never edit `src/foods/` by hand.
 - Flo's private research notes are never referenced in the repo.

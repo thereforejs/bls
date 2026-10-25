@@ -14,8 +14,8 @@ const byCode: Record<string, Food> = bls;
 const foods = Object.entries(byCode);
 
 test("every food of the BLS 4.0 ships, each under its own code", () => {
-  // BLS 4.0 documentation 2.1: 7.140 foods.
-  expect(foods).toHaveLength(7140);
+  // BLS 4.0 documentation 2.1: 7.140 foods; 32 with contradicting fat values are left out (SPEC 8).
+  expect(foods).toHaveLength(7108);
   for (const [name, food] of foods) expect(food.code).toBe(name);
 });
 
@@ -38,9 +38,11 @@ test("values are their shortest plain decimal or null, a mark only on a null", (
   }
 });
 
-test("the maintained data has no issue beyond the listed open contradictions", () => {
+test("the maintained data has no issue and ships no contradiction", () => {
   const open = JSON.parse(
     readFileSync(join(import.meta.dirname, "../data/open-issues.json"), "utf8"),
   );
-  expect(review(readFoods(join(import.meta.dirname, "../data/foods")), open).errors).toEqual([]);
+  const { errors, summary } = review(readFoods(join(import.meta.dirname, "../data/foods")), open);
+  expect(errors).toEqual([]);
+  expect(summary.open).toBe(0);
 });

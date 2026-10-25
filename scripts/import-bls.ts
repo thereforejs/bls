@@ -5,7 +5,8 @@ import { toFoods } from "./foods.ts";
 import { writeMissing } from "./records.ts";
 import { readSheet } from "./xlsx.ts";
 
-// Seeds data/foods from the BLS 4.0 once. Maintained files are never overwritten.
+// Seeds data/foods from the BLS 4.0 once. Maintained files are never overwritten, but foods left out
+// for contradicting values (SPEC 8) come back: not for the maintained data.
 const ROOT = join(import.meta.dirname, "..");
 // The ZIP as downloaded from https://www.blsdb.de/download, kept in the ignored docs/.
 const SOURCE = join(ROOT, "docs/BLS_4_0_2025_DE.zip");
