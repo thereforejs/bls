@@ -67,7 +67,8 @@ which cannot be. CoFID 2021 has the same food, entry 13-323, with consistent val
    ```
 
    The tool writes `0.10` as `0.1`, turns `Tr` into `null` with the mark `TR`, reads `-` as no value,
-   `0,3` as `0.3` and `300mg` as `0.3` (sodium is mostly given in mg; the data holds grams). The
+   `0,3` as `0.3` and `300mg` as `0.3`. Sodium always needs its unit (`sodium=40mg` or
+   `sodium=0.04g`): sources mostly give it in mg, the data holds grams. The
    nutrients move to the new source; all others keep theirs.
 
 4. Run `vp run generate`. If the food was in `data/open-issues.json`, it now tells you to remove it
