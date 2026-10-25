@@ -5,7 +5,7 @@
 <h1 align="center">foods</h1>
 
 <p align="center">
-  Nutrient values of 7,140 foods per 100 g, as exact data you import by code.<br>
+  Nutrient values of over 7,100 foods per 100 g, as exact data you import by code.<br>
   Every value names its source. Made for <a href="https://github.com/thereforejs/nutrition"><code>@thereforejs/nutrition</code></a>,<br>
   which calculates the nutrition declaration.
 </p>
@@ -109,11 +109,12 @@ import { sources } from "@thereforejs/foods/sources";
 sources["bls-4.0"].citation;
 ```
 
-## Known contradictions
+## Left out
 
-A few foods carry values that cannot all be true, such as saturated fatty acids above the fat. They
-ship unchanged and are listed in [`data/open-issues.json`](./data/open-issues.json).
-`@thereforejs/nutrition` refuses them until a better source replaces the values.
+A food whose values cannot all be true, such as saturated fatty acids above the fat, does not ship.
+Where another open source has the same food with consistent values, they replace the BLS values.
+Where none has, the food is left out until one does: 32 foods of the BLS 4.0 so far (cooked plantain
+and drinks, sweets and sauces with fat 0 but fatty acids above it).
 
 ## Contribute
 
@@ -148,4 +149,4 @@ Step by step in [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Numbers in their shortest decimal spelling (`9.3` instead of `9.3000000000000007`).
 - Below a limit or traces (`<LOD`, `<LOQ`, `TR`) as `null`, with the mark next to it.
 - One named export per food, under its code.
-- Contradicting values of some foods replaced from the sources above.
+- Contradicting values of some foods replaced from the sources above, 32 foods left out.
