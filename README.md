@@ -34,14 +34,6 @@ does not have. Your bundle holds only the foods you import.
 import { C131000 } from "@thereforejs/foods";
 ```
 
-To find a code, search [`data/foods`](./data/foods) for the name. The BLS often writes names
-apart, "Weizen Mehl", not "Weizenmehl":
-
-```sh
-grep -r '"de": ".*Weizen Mehl' data/foods
-# data/foods/C214200.json:    "de": "Weizen Mehl, Type 550",
-```
-
 You get:
 
 ```ts
@@ -73,6 +65,19 @@ You get:
 - **`marks`**: the source's mark for a `null`: `<LOD`, `<LOQ`, `<LOD or <LOQ` (below the limit of
   detection or quantification) or `TR` (traces). Without a mark the source has no value.
 - **`sources`**: which entry of which source each value comes from.
+
+## Names
+
+All names of one language by code, without values, for a list to pick from or a search of your own.
+Load them when you need them:
+
+```ts
+const { names } = await import("@thereforejs/foods/names/de"); // or /names/en
+names.C214200; // "Weizen Mehl, Type 550"
+```
+
+Names are verbatim from their source. The BLS often writes them apart ("Weizen Mehl", not
+"Weizenmehl") and puts synonyms behind a slash ("Weizenbrot/Weißbrot").
 
 ## With nutrition
 
