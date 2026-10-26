@@ -17,7 +17,7 @@ Starts from the German Bundeslebensmittelschlüssel 4.0 (BLS) and grows from oth
 > https://www.blsdb.de.
 
 > [!WARNING]
-> Early development (0.x). Nothing is published yet and the API will change.
+> Early development (0.x). The API may still change.
 
 ## Install
 
