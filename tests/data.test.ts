@@ -6,6 +6,8 @@ import { shortestDecimal } from "../scripts/decimal.ts";
 import { readFoods } from "../scripts/records.ts";
 import type { Food } from "../src/food.ts";
 import * as bls from "../src/index.ts";
+import { names as de } from "../src/names/de.ts";
+import { names as en } from "../src/names/en.ts";
 
 // The output of `vp run generate`, as users install it.
 const FOODS = join(import.meta.dirname, "../src/foods");
@@ -17,6 +19,17 @@ test("every food of the BLS 4.0 ships, each under its own code", () => {
   // BLS 4.0 documentation 2.1: 7.140 foods; 32 with contradicting fat values are left out (SPEC 8).
   expect(foods).toHaveLength(7108);
   for (const [name, food] of foods) expect(food.code).toBe(name);
+});
+
+test("the names of each language name every food that ships, nothing else", () => {
+  for (const [names, language] of [
+    [de, "de"],
+    [en, "en"],
+  ] as const) {
+    expect(names).toEqual(
+      Object.fromEntries(foods.map(([code, food]) => [code, food.name[language]])),
+    );
+  }
 });
 
 test("no group file holds a food of another group", async () => {

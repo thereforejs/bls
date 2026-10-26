@@ -37,8 +37,8 @@ in section 11 are not reopened without him.
 - `data/open-issues.json` lists the known contradictions (a part above its whole). The check fails on a
   new one and on a resolved one still listed (SPEC 8). Nothing ships listed: resolve it or leave the
   food out.
-- `vp run generate` renders the ignored `src/foods/` from `data/foods`; run it after a fresh clone and
-  before `vp check`. Never edit `src/foods/` by hand.
+- `vp run generate` renders the ignored `src/foods/` and `src/names/` (the names per language)
+  from `data/foods`; run it after a fresh clone and before `vp check`. Never edit them by hand.
 - Flo's private research notes are never referenced in the repo.
 - EUR-Lex blocks scripts. For the regulation use the EU publications server
   (`curl -H "Accept: application/xhtml+xml" -H "Accept-Language: deu"

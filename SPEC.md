@@ -140,6 +140,13 @@ const food = foods[code];
   roh" next to `C131000`. No readable aliases: choosing names would be an interpretation.
 - The types `Food`, `Nutrient` and `Mark` are exported.
 
+### Names
+
+`@thereforejs/foods/names/de` and `/names/en` export `names`, every name of one language by code:
+no values, generated with the foods, one module per language. They serve a list to pick from and any
+search built on top. The package itself does not search: finding a food by what people type (other
+spellings, aliases, compounds) is the job of a layer above it.
+
 ---
 
 ## 6. Groups
@@ -178,6 +185,9 @@ X and Y dishes. A reading for orientation, not part of the API.
   a collection.
 - Verified 2026-10-24 on the built package with the Vite+ bundler: importing `C131000` and `M5B1600`
   gives a bundle of 1,080 bytes holding exactly these two foods.
+- The names are one module per language. Verified 2026-10-26: an application with one food and the
+  German names loaded on first use keeps the names in their own chunk of 70 KB (gzip); the English
+  ones are not in it.
 
 ---
 
@@ -186,9 +196,9 @@ X and Y dishes. A reading for orientation, not part of the API.
 `data/foods/<code>.json` is the source of truth: one file per food with its `sources`, checked in
 and maintained (decided 2026-10-24: the package is a maintained database with the BLS as its first
 source, not a copy of the BLS). `vp run import:bls` seeded it from `BLS_4_0_Daten_2025_DE.xlsx` once
-and only ever adds missing files. `vp run generate` renders the ignored `src/foods/*.ts` from it, in
-CI and before packing; the same data gives byte-identical files. Formatter and linter skip
-`src/foods/`; the tests check it. Sources are registered in `src/sources.ts`, shipped as
+and only ever adds missing files. `vp run generate` renders the ignored `src/foods/*.ts` and
+`src/names/*.ts` from it, in CI and before packing; the same data gives byte-identical files.
+Formatter and linter skip both; the tests check them. Sources are registered in `src/sources.ts`, shipped as
 `@thereforejs/foods/sources`.
 
 ### Checks
@@ -267,6 +277,8 @@ whose recipe calculation gives fat 0 but fatty acids above it).
   all of it, and the name must not suggest a publication of the MRI.
 - Foods without a BLS code get our own id, group letter + `_` + six digits; people find foods by name
   through a search (to come), software imports them by id (2026-10-24).
+- The package ships the names per language and no search: no aliases, no language rules. Finding a
+  food by name belongs to a layer above, such as an application or a finder library (2026-10-26).
 - A whole and its parts (fat and fatty acids, carbohydrate and sugars, starch, polyols) come from the
   same source entry (2026-10-24).
 - Contributions go through `vp run food:new` and `vp run food:set`, described in `CONTRIBUTING.md`; a

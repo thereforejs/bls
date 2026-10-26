@@ -2,7 +2,7 @@ import { mkdtempSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { describe, expect, test } from "vite-plus/test";
-import { groupByLetter, renderGroup, renderIndex } from "../scripts/render.ts";
+import { groupByLetter, renderGroup, renderIndex, renderNames } from "../scripts/render.ts";
 import type { Food } from "../src/food.ts";
 
 const HEADER =
@@ -96,4 +96,29 @@ test("the group index re-exports every group, nothing else", () => {
   expect(renderIndex(["B", "C"])).toBe(
     [HEADER, 'export * from "./b.ts";', 'export * from "./c.ts";', ""].join("\n"),
   );
+});
+
+describe("the names of one language", () => {
+  test("code and name only, sorted by code", () => {
+    const foods = [food("M100000", "Milch", "Milk"), food("C131000")];
+    expect(renderNames("en", foods)).toBe(
+      [
+        HEADER,
+        "",
+        `export const names: Record<string, string> = ${JSON.stringify({
+          C131000: "Oat whole grain, raw",
+          M100000: "Milk",
+        })};`,
+        "",
+      ].join("\n"),
+    );
+  });
+
+  test("the module reads back to exactly the names", async () => {
+    const foods = [food("C110000", 'Grieß "fein"', "Semolina\\fine")];
+    const path = join(mkdtempSync(join(tmpdir(), "bls-names-")), "de.ts");
+    writeFileSync(path, renderNames("de", foods));
+    const module: Record<string, unknown> = await import(path);
+    expect({ ...module }).toEqual({ names: { C110000: 'Grieß "fein"' } });
+  });
 });

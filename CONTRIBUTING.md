@@ -57,7 +57,8 @@ Do not edit these files by hand; the tools below write them correctly.
 Example: the BLS 4.0 gives Kochbanane roh (`F545100`) 0.116 g saturated fatty acids in 0.07 g fat,
 which cannot be. CoFID 2021 has the same food, entry 13-323, with consistent values.
 
-1. Find the food: `data/foods/F545100.json`. To find an id by name, search `data/foods` for the name.
+1. Find the food: `data/foods/F545100.json`. To find an id by name, search `data/foods` for the name
+   (`grep -rl "Kochbanane" data/foods`).
 2. Make sure the source is registered in `src/sources.ts` (see [Add a source](#add-a-source)).
 3. Set the values exactly as the source writes them:
 

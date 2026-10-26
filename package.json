@@ -30,6 +30,8 @@
   "sideEffects": false,
   "exports": {
     ".": "./dist/index.mjs",
+    "./names/de": "./dist/names/de.mjs",
+    "./names/en": "./dist/names/en.mjs",
     "./sources": "./dist/sources.mjs",
     "./package.json": "./package.json"
   },
