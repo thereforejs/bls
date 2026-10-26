@@ -14,6 +14,7 @@ const FOODS = join(import.meta.dirname, "../src/foods");
 // What the README shows for a lookup at runtime: the namespace is a table by code.
 const byCode: Record<string, Food> = bls;
 const foods = Object.entries(byCode);
+const maintained = readFoods(join(import.meta.dirname, "../data/foods"));
 
 test("every food of the BLS 4.0 ships, each under its own code", () => {
   // BLS 4.0 documentation 2.1: 7.140 foods; 32 with contradicting fat values are left out (SPEC 8).
@@ -21,13 +22,13 @@ test("every food of the BLS 4.0 ships, each under its own code", () => {
   for (const [name, food] of foods) expect(food.code).toBe(name);
 });
 
-test("the names of each language name every food that ships, nothing else", () => {
+test("the names of each language are the maintained names of every food, nothing else", () => {
   for (const [names, language] of [
     [de, "de"],
     [en, "en"],
   ] as const) {
     expect(names).toEqual(
-      Object.fromEntries(foods.map(([code, food]) => [code, food.name[language]])),
+      Object.fromEntries(maintained.map((food) => [food.code, food.name[language]])),
     );
   }
 });
@@ -55,7 +56,7 @@ test("the maintained data has no issue and ships no contradiction", () => {
   const open = JSON.parse(
     readFileSync(join(import.meta.dirname, "../data/open-issues.json"), "utf8"),
   );
-  const { errors, summary } = review(readFoods(join(import.meta.dirname, "../data/foods")), open);
+  const { errors, summary } = review(maintained, open);
   expect(errors).toEqual([]);
   expect(summary.open).toBe(0);
 });
