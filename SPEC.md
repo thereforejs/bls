@@ -5,8 +5,8 @@ An open, maintained food composition database as exact, tree-shakable data for
 Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut) and grows from other openly licensed
 sources and contributions, every value with its source.
 
-**This package is not published by the Max Rubner-Institut.** It contains data derived from the BLS 4.0
-under CC BY 4.0 (section 10).
+**This package is not published by the Max Rubner-Institut.** It contains an extract of the BLS 4.0
+with changes, under CC BY 4.0 (section 10).
 
 **Where this document and a secondary source disagree, this document wins; where it is unsure, it says
 so.** Open points are listed in section 12, never guessed.
@@ -251,11 +251,18 @@ whose recipe calculation gives fat 0 but fatty acids above it).
 - Data: CC BY 4.0. The Max Rubner-Institut is named as publisher, changes are marked. Citation:
   Max Rubner-Institut (2025): Bundeslebensmittelschlüssel (BLS), Version 4.0 - Deutsche
   Nährstoffdatenbank. Karlsruhe. DOI: 10.25826/Data20251217-134202-0.
-- Changes made: a subset of nutrients, sodium in g instead of mg, `-` as `null`, numbers in their
-  shortest decimal spelling, one export per food.
+- The Max Rubner-Institut confirmed in writing (October 2026) that shipping an extract of the BLS 4.0
+  as a software package under CC BY 4.0 needs no further permission, and that the imprint notice does
+  not limit the license of the data set. It asks for: the MRI named, the citation with DOI, the note
+  that this is no publication of the MRI, a link to the license, the data marked as an extract, every
+  change stated, and no further legal or technical restriction on the use the license allows. README
+  and `LICENSE-DATA` state all of it; MIT covers the code only.
+- Changes made are listed in the README ("Changes to the BLS 4.0"): a subset of nutrients, sodium in
+  g instead of mg, `-` as `null`, marks as `null` with the mark, numbers in their shortest decimal
+  spelling, one export per food, fat and fatty acids of 20 foods replaced and 32 foods left out
+  (section 8).
 - The documentation 9.3 says the BLS is provided "kostenfrei und ohne Lizenzbarrieren", for uses
-  including "App- und Softwareentwicklung" and "Nährwertkennzeichnung". How the package states both
-  licenses is open (question 7).
+  including "App- und Softwareentwicklung" and "Nährwertkennzeichnung".
 
 ---
 
@@ -288,10 +295,8 @@ whose recipe calculation gives fat 0 but fatty acids above it).
 
 ## 12. Open questions
 
-1. **License confirmation:** the imprint of blsdb.de still carries an old "private use only, no
-   storing on other servers" notice for web documents; the download page says CC BY 4.0 for the data.
-   A written confirmation from the Max Rubner-Institut (bls.karlsruhe@mri.bund.de) settles it before
-   publishing. Building is fine without it.
+1. ~~License confirmation~~: confirmed in writing by the Max Rubner-Institut, October 2026 (section
+   10).
 2. ~~Names per language~~: decided 2026-10-24, both names on every food (section 5).
 3. ~~`<LOD`, `<LOQ`, `TR`~~: decided 2026-10-24, `null` with the mark next to it (section 4).
 4. ~~A part above its whole~~: decided 2026-10-24, listed in `data/open-issues.json` and resolved from

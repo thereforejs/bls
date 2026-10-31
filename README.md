@@ -13,8 +13,9 @@
 Starts from the German Bundeslebensmittelschlüssel 4.0 (BLS) and grows from other open sources.
 
 > [!IMPORTANT]
-> Not published by the Max Rubner-Institut. Contains data derived from the BLS 4.0; the original is at
-> https://www.blsdb.de.
+> Not published by the Max Rubner-Institut. Contains an extract of the BLS 4.0, with the
+> [changes](#changes-to-the-bls-40) listed below; the original is at https://www.blsdb.de, licensed
+> under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 > [!WARNING]
 > Early development (0.x). The API may still change.
@@ -116,8 +117,11 @@ sources["bls-4.0"].citation;
 
 ## Left out
 
-A food whose values cannot all be true, such as saturated fatty acids above the fat, does not ship.
-Where another open source has the same food with consistent values, they replace the BLS values.
+A food whose fatty acids add up to more than its fat does not ship: a nutrition declaration cannot
+show such a pair. In the BLS such values can come from different samples and methods, for example a
+fat below the limit of quantification while its fatty acids are still measurable. Where another open
+source has the same food with values that fit together, its fat and fatty acids replace those of the
+BLS; all other values stay.
 Where none has, the food is left out until one does: 32 foods of the BLS 4.0 so far (cooked plantain
 and drinks, sweets and sauces with fat 0 but fatty acids above it).
 
@@ -136,7 +140,7 @@ Step by step in [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## License
 
 - Code: [MIT](./LICENSE)
-- Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Max Rubner-Institut (2025):
+- Data ([LICENSE-DATA](./LICENSE-DATA)): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Max Rubner-Institut (2025):
   Bundeslebensmittelschlüssel (BLS), Version 4.0 - Deutsche Nährstoffdatenbank. Karlsruhe. DOI:
   [10.25826/Data20251217-134202-0](https://doi.org/10.25826/Data20251217-134202-0)
 - Values from other sources name their source in the food's `sources`:
@@ -154,4 +158,6 @@ Step by step in [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Numbers in their shortest decimal spelling (`9.3` instead of `9.3000000000000007`).
 - Below a limit or traces (`<LOD`, `<LOQ`, `TR`) as `null`, with the mark next to it.
 - One named export per food, under its code.
-- Contradicting values of some foods replaced from the sources above, 32 foods left out.
+- Foods whose fatty acids add up to more than their fat: fat, saturates, monounsaturates and
+  polyunsaturates of 20 foods replaced from the sources above, 32 foods left out (see
+  [Left out](#left-out)).
