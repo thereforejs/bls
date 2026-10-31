@@ -24,7 +24,8 @@
     "url": "git+https://github.com/thereforejs/foods.git"
   },
   "files": [
-    "dist"
+    "dist",
+    "LICENSE-DATA"
   ],
   "type": "module",
   "sideEffects": false,
