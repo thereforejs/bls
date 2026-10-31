@@ -120,7 +120,8 @@ sources["bls-4.0"].citation;
 A food whose fatty acids add up to more than its fat does not ship: a nutrition declaration cannot
 show such a pair. In the BLS such values can come from different samples and methods, for example a
 fat below the limit of quantification while its fatty acids are still measurable. Where another open
-source has the same food with values that fit together, they replace the BLS values.
+source has the same food with values that fit together, its fat and fatty acids replace those of the
+BLS; all other values stay.
 Where none has, the food is left out until one does: 32 foods of the BLS 4.0 so far (cooked plantain
 and drinks, sweets and sauces with fat 0 but fatty acids above it).
 
@@ -157,5 +158,6 @@ Step by step in [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Numbers in their shortest decimal spelling (`9.3` instead of `9.3000000000000007`).
 - Below a limit or traces (`<LOD`, `<LOQ`, `TR`) as `null`, with the mark next to it.
 - One named export per food, under its code.
-- Foods whose fatty acids add up to more than their fat: the values of 20 foods replaced from the
-  sources above, 32 foods left out (see [Left out](#left-out)).
+- Foods whose fatty acids add up to more than their fat: fat, saturates, monounsaturates and
+  polyunsaturates of 20 foods replaced from the sources above, 32 foods left out (see
+  [Left out](#left-out)).

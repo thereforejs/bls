@@ -259,7 +259,8 @@ whose recipe calculation gives fat 0 but fatty acids above it).
   and `LICENSE-DATA` state all of it; MIT covers the code only.
 - Changes made are listed in the README ("Changes to the BLS 4.0"): a subset of nutrients, sodium in
   g instead of mg, `-` as `null`, marks as `null` with the mark, numbers in their shortest decimal
-  spelling, one export per food, fat values of 20 foods replaced and 32 foods left out (section 8).
+  spelling, one export per food, fat and fatty acids of 20 foods replaced and 32 foods left out
+  (section 8).
 - The documentation 9.3 says the BLS is provided "kostenfrei und ohne Lizenzbarrieren", for uses
   including "App- und Softwareentwicklung" and "Nährwertkennzeichnung".
 
