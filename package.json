@@ -1,6 +1,6 @@
 {
   "name": "@thereforejs/foods",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An open, maintained food composition database as exact, tree-shakable data for @thereforejs/nutrition, starting from the German BLS 4.0",
   "keywords": [
     "bls",
